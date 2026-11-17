@@ -1,0 +1,47 @@
+[
+  {
+    "id": 471,
+    "category": "running",
+    "question": "Can I run during my period?",
+    "alternate_questions": ["Running on my period", "Is it okay to jog while menstruating?", "Running with cramps"],
+    "keywords": ["running", "period", "exercise", "jogging", "cramps"],
+    "answer": "Yes, you can certainly run during your period! Many runners find that running actually helps relieve cramps due to the release of endorphins. Just listen to your body and adjust your intensity or distance if you feel more fatigued than usual.",
+    "follow_up": ["How to prevent leaks while running?", "Does running help with period fatigue?", "What should I wear for running on my period?"]
+  },
+  {
+    "id": 472,
+    "category": "running",
+    "question": "Does running help with period cramps?",
+    "alternate_questions": ["Can jogging reduce menstrual pain?", "Running for cramp relief", "Will a run make my cramps better?"],
+    "keywords": ["running", "cramps", "relief", "pain", "endorphins"],
+    "answer": "Yes, for many people, running or jogging can help alleviate menstrual cramps. The increased blood flow and the natural 'feel-good' hormones (endorphins) released during exercise act as natural pain relievers.",
+    "follow_up": ["How long should I run to help with cramps?", "What if running makes my cramps worse?", "Are there other exercises for cramps?"]
+  },
+  {
+    "id": 473,
+    "category": "running",
+    "question": "Will running make my period flow heavier?",
+    "alternate_questions": ["Does exercise increase bleeding?", "Running and period flow", "Can jogging cause more blood loss?"],
+    "keywords": ["running", "flow", "heavy", "bleeding", "exercise"],
+    "answer": "Running doesn't actually make you lose more blood, but the movement can cause the blood to leave your body faster, which might make your flow appear heavier temporarily. It's nothing to worry about.",
+    "follow_up": ["Best period products for runners?", "How to handle heavy flow while running?", "Can intense running stop my period?"]
+  },
+  {
+    "id": 474,
+    "category": "running",
+    "question": "How to handle period fatigue while running?",
+    "alternate_questions": ["Running when tired on my period", "Low energy runs during menstruation", "Should I run if I feel exhausted?"],
+    "keywords": ["running", "fatigue", "tired", "energy", "period"],
+    "answer": "If you're feeling particularly tired, it's okay to take it easy. Try a shorter, slower run or switch to a walk. Make sure you're well-hydrated and have eaten enough iron-rich foods and complex carbs for energy.",
+    "follow_up": ["What to eat before a run on my period?", "How much rest do I need?", "Can running boost my energy?"]
+  },
+  {
+    "id": 475,
+    "category": "running",
+    "question": "What are the best period products for runners?",
+    "alternate_questions": ["Running with a tampon", "Menstrual cups for running", "Best way to prevent leaks while jogging"],
+    "keywords": ["running", "products", "tampons", "menstrual cups", "leaks"],
+    "answer": "Many runners prefer tampons or menstrual cups as they stay in place better and are less bulky than pads. Period underwear can also be a great backup or primary option for runners who want to avoid internal products.",
+    "follow_up": ["How often to change tampons while running?", "Are menstrual cups comfortable for jogging?", "How to choose period underwear for sports?"]
+  }
+]

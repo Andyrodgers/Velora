@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1901,
+    "category": "endometriosis",
+    "question": "What is endometriosis?",
+    "alternate_questions": ["Define endometriosis", "What causes endometriosis?", "Explain endo"],
+    "keywords": ["endometriosis", "endo", "uterus", "lining", "pain"],
+    "answer": "Endometriosis is a condition where tissue similar to the lining of the uterus (the endometrium) grows outside the uterus. It often involves the ovaries, fallopian tubes, and the tissue lining your pelvis.",
+    "follow_up": ["What are the symptoms of endometriosis?", "How is endometriosis diagnosed?", "Is there a cure for endometriosis?"]
+  },
+  {
+    "id": 1902,
+    "category": "endometriosis",
+    "question": "What are the symptoms of endometriosis?",
+    "alternate_questions": ["Signs of endo", "How do I know if I have endometriosis?", "Endometriosis pain"],
+    "keywords": ["symptoms", "endometriosis", "pain", "periods", "fertility"],
+    "answer": "Common symptoms include very painful periods, chronic pelvic pain, pain during or after sex, painful bowel movements or urination, and infertility. Some people also experience heavy bleeding or fatigue.",
+    "follow_up": ["Why are endo periods so painful?", "Can endometriosis cause digestive issues?", "Is endo pain different from normal cramps?"]
+  },
+  {
+    "id": 1903,
+    "category": "endometriosis",
+    "question": "How is endometriosis diagnosed?",
+    "alternate_questions": ["Endo testing", "Doctor visit for endometriosis", "Laparoscopy for endo"],
+    "keywords": ["diagnosis", "test", "laparoscopy", "ultrasound", "mri"],
+    "answer": "Diagnosis usually starts with a pelvic exam and ultrasound or MRI. However, the only way to definitively diagnose endometriosis is through a laparoscopy, a minor surgical procedure where a doctor looks inside the abdomen.",
+    "follow_up": ["What is a laparoscopy?", "Can an ultrasound miss endometriosis?", "How to prepare for an endo diagnosis?"]
+  },
+  {
+    "id": 1904,
+    "category": "endometriosis",
+    "question": "How is endometriosis treated?",
+    "alternate_questions": ["Endo treatment options", "Managing endometriosis pain", "Hormones for endo"],
+    "keywords": ["treatment", "manage", "hormones", "surgery", "pain relief"],
+    "answer": "Treatment options include pain relievers (NSAIDs), hormone therapy (like birth control pills or GnRH agonists), and surgery to remove the endometrial tissue. In severe cases, more extensive surgery may be recommended.",
+    "follow_up": ["Does birth control help endo?", "What is excision surgery?", "Are there natural treatments for endo?"]
+  },
+  {
+    "id": 1905,
+    "category": "endometriosis",
+    "question": "Does endometriosis affect fertility?",
+    "alternate_questions": ["Can I get pregnant with endometriosis?", "Endo and pregnancy", "Endometriosis and infertility"],
+    "keywords": ["fertility", "pregnancy", "pregnant", "infertility", "endo"],
+    "answer": "Yes, endometriosis is a common cause of infertility. However, many people with endometriosis are still able to conceive, sometimes with the help of treatment or fertility specialists.",
+    "follow_up": ["How does endo cause infertility?", "What are the chances of pregnancy with endo?", "Should I freeze my eggs if I have endo?"]
+  }
+]

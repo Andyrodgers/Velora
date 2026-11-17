@@ -1,0 +1,182 @@
+[
+  {
+    "id": 341,
+    "category": "period_color",
+    "question": "What does bright red period blood mean",
+    "alternate_questions": ["Bright red blood period", "Why is my period blood bright red", "Red period blood meaning", "Fresh blood period", "Crimson period blood"],
+    "keywords": ["bright red", "fresh blood", "period", "meaning", "normal"],
+    "answer": "Bright red period blood indicates fresh blood that is flowing quickly from the uterus. It's most common at the beginning of your period or on heavy flow days when blood doesn't have time to oxidize. Bright red blood is generally normal and healthy. However, if you have very heavy bright red bleeding (soaking through protection hourly) or bright red bleeding between periods, consult a healthcare provider.",
+    "follow_up": ["When during your period is the blood bright red?", "How heavy is the flow?", "Do you have any pain or other symptoms?"]
+  },
+  {
+    "id": 342,
+    "category": "period_color",
+    "question": "What does dark red period blood mean",
+    "alternate_questions": ["Dark red blood period", "Why is my period blood dark red", "Deep red menstruation", "Maroon period blood", "Dark red flow meaning"],
+    "keywords": ["dark red", "period", "oxidized", "normal", "meaning"],
+    "answer": "Dark red period blood is normal and simply indicates blood that has had a little time to oxidize before leaving your body. It's common in the middle of your period or on moderate flow days. The darker color just means the blood isn't as fresh as bright red blood, but it's still completely normal. Dark red blood is not a cause for concern unless accompanied by unusual symptoms.",
+    "follow_up": ["When during your period does the dark red appear?", "Is there any unusual odor?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 343,
+    "category": "period_color",
+    "question": "What does pink period blood mean",
+    "alternate_questions": ["Pink period blood", "Light pink menstruation", "Why is my blood pink", "Pink spotting meaning", "Diluted period blood"],
+    "keywords": ["pink blood", "light", "diluted", "period", "low estrogen"],
+    "answer": "Pink period blood usually indicates light bleeding mixed with cervical fluid, diluting the blood. It can occur at the beginning or end of your period, with spotting, or with low estrogen levels. Pink blood can also be a sign of implantation bleeding in early pregnancy. If pink spotting is unusual for you, occurs between periods, or is accompanied by other symptoms, consult a healthcare provider to rule out hormonal issues or pregnancy.",
+    "follow_up": ["When does the pink blood appear?", "Is this unusual for you?", "Could you be pregnant?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 344,
+    "category": "period_color",
+    "question": "What does orange period blood mean",
+    "alternate_questions": ["Orange period blood", "Rust colored period", "Why is my blood orange", "Orange discharge menstruation", "Orange tinted period"],
+    "keywords": ["orange blood", "rust", "period", "infection", "cervical fluid"],
+    "answer": "Orange or rust-colored period blood can be normal, especially when blood mixes with cervical fluid and oxidizes slightly. However, if the orange color is bright or accompanied by a bad smell, itching, or unusual discharge, it could indicate an infection like bacterial vaginosis or trichomoniasis. Orange blood with gray discharge and fishy odor strongly suggests infection. If you're concerned about the color or have other symptoms, see a healthcare provider.",
+    "follow_up": ["Is there any odor?", "Do you have itching or irritation?", "Has the color changed recently?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 345,
+    "category": "period_color",
+    "question": "What does gray period blood mean",
+    "alternate_questions": ["Gray period blood", "Why is my blood gray", "Gray discharge during period", "Ash colored period", "Grayish menstruation"],
+    "keywords": ["gray blood", "infection", "bacterial vaginosis", "period", "abnormal"],
+    "answer": "Gray period blood or discharge is NOT normal and usually indicates an infection, most commonly bacterial vaginosis (BV). Gray discharge with a fishy odor, especially after sex, is a classic BV symptom. It could also indicate other infections or, rarely, more serious conditions. Do not ignore gray-colored discharge. See a healthcare provider promptly for testing and treatment, which usually involves antibiotics.",
+    "follow_up": ["Is there a strong fishy odor?", "Do you have itching or burning?", "When did you notice the gray color?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 346,
+    "category": "period_color",
+    "question": "What does purple period blood mean",
+    "alternate_questions": ["Purple period blood", "Why is my blood purple", "Dark purple menstruation", "Violet period blood", "Purple tinted flow"],
+    "keywords": ["purple blood", "dark", "oxidized", "period", "rare"],
+    "answer": "True purple period blood is rare. What appears purple is usually very dark red or maroon blood that has oxidized significantly. It can look purple in certain lighting or when mixed with cervical mucus. If your blood genuinely appears purple and is accompanied by severe pain, large clots, or other unusual symptoms, see a healthcare provider. Otherwise, very dark colors at the beginning or end of your period are usually normal.",
+    "follow_up": ["When during your period does this appear?", "Is it truly purple or very dark red?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 347,
+    "category": "period_color",
+    "question": "What does green period blood mean",
+    "alternate_questions": ["Green period blood", "Why is my blood green", "Green discharge menstruation", "Greenish period", "Green tinted flow"],
+    "keywords": ["green blood", "infection", "abnormal", "period", "serious"],
+    "answer": "Green period blood or discharge is NOT normal and indicates a serious infection. It may suggest trichomoniasis (a sexually transmitted infection), bacterial vaginosis, or another type of infection. Green discharge, especially with a foul odor, itching, or pain, requires immediate medical attention. Do not wait, see a healthcare provider promptly for testing and appropriate treatment with antibiotics or antiparasitics.",
+    "follow_up": ["Is there a foul odor?", "Do you have itching, burning, or pain?", "Have you had unprotected sex recently?", "When did you notice the green color?"]
+  },
+  {
+    "id": 348,
+    "category": "period_color",
+    "question": "What does yellow period blood mean",
+    "alternate_questions": ["Yellow period blood", "Why is my blood yellow", "Yellow discharge menstruation", "Yellowish period", "Mustard colored period"],
+    "keywords": ["yellow blood", "infection", "abnormal", "period", "discharge"],
+    "answer": "Yellow period blood or discharge is not normal and usually indicates an infection. It could suggest bacterial vaginosis, trichomoniasis, or another type of infection. Yellow discharge with a strong odor, itching, or burning requires medical evaluation. However, if what you're seeing is actually very light pink or watery blood that appears yellowish when dried on a pad, that might be normal. When in doubt, especially with odor or symptoms, see a healthcare provider.",
+    "follow_up": ["Is there a strong odor?", "Do you have itching, burning, or pain?", "Have you had unprotected sex recently?", "When did you notice the yellow color?"]
+  },
+  {
+    "id": 349,
+    "category": "period_color",
+    "question": "What does white period blood mean",
+    "alternate_questions": ["White period blood", "Why is my blood white", "White discharge during period", "Milky period blood", "White tinted flow"],
+    "keywords": ["white blood", "discharge", "period", "infection", "yeast"],
+    "answer": "True white period blood doesn't exist, but white or milky discharge mixed with period blood can occur. Thick, white, cottage cheese-like discharge usually indicates a yeast infection. Thin, grayish-white discharge with a fishy odor suggests bacterial vaginosis. If you're seeing white discharge with itching, burning, or unusual odor during your period, see a healthcare provider for treatment. Normal cervical fluid can also appear whitish when mixed with small amounts of blood.",
+    "follow_up": ["Is there itching or burning?", "What is the consistency (thick, thin, cottage cheese-like)?", "Is there an odor?", "Have you had recent antibiotic use?"]
+  },
+  {
+    "id": 350,
+    "category": "period_color",
+    "question": "What does black period blood mean",
+    "alternate_questions": ["Black period blood", "Very dark period blood", "Why is my blood black", "Black discharge during period", "Darkest period blood meaning"],
+    "keywords": ["black blood", "very old blood", "oxidized", "period", "normal variation"],
+    "answer": "Black period blood is simply very old blood that has had maximum time to oxidize before leaving your body. It's most common at the very beginning or end of your period when flow is extremely slow. Think of it like a very old bruise that has turned dark purple or black. While it can look alarming, black blood is usually normal. However, if you have black discharge accompanied by severe pain, fever, or a foul odor, seek medical attention as this could indicate infection or tissue death.",
+    "follow_up": ["When during your period does the black blood appear?", "Is there any unusual odor?", "Do you have severe pain or fever?", "How long does the black phase last?"]
+  },
+  {
+    "id": 351,
+    "category": "period_color",
+    "question": "What does watery period blood mean",
+    "alternate_questions": ["Watery period blood", "Thin period blood", "Why is my blood watery", "Diluted menstruation", "Watery flow meaning"],
+    "keywords": ["watery blood", "thin", "diluted", "period", "low estrogen"],
+    "answer": "Watery or thin period blood can be normal, especially at the beginning or end of your period when flow is light. However, consistently watery periods may indicate low estrogen levels, nutritional deficiencies, or perimenopause. Watery blood that is pink and accompanied by other symptoms like hot flashes, vaginal dryness, or irregular cycles should be evaluated. If your periods have recently become much more watery than usual, consult a healthcare provider.",
+    "follow_up": ["Has your flow always been watery or is this new?", "Do you have other symptoms like hot flashes?", "Are you in perimenopause?", "How heavy is the overall flow?"]
+  },
+  {
+    "id": 352,
+    "category": "period_color",
+    "question": "What does thick period blood mean",
+    "alternate_questions": ["Thick period blood", "Why is my blood thick and clumpy", "Dense menstruation", "Thick flow meaning", "Heavy consistency period"],
+    "keywords": ["thick blood", "clumpy", "heavy", "period", "normal"],
+    "answer": "Thick or clumpy period blood is usually normal and is simply blood that has started to coagulate or mix with cervical mucus and uterine tissue. The uterine lining sheds as both blood and tissue, so some thickness or small clots is expected. However, very thick blood with large clots (bigger than a quarter) may indicate heavy bleeding or hormonal issues. If thickness is accompanied by severe pain, very heavy flow, or unusual symptoms, see a healthcare provider.",
+    "follow_up": ["How thick is the blood?", "Do you pass large clots?", "Do you have severe pain?", "How heavy is your overall flow?"]
+  },
+  {
+    "id": 353,
+    "category": "period_color",
+    "question": "What does mucus in period blood mean",
+    "alternate_questions": ["Mucus with period", "Stringy period blood", "Why is there mucus in my blood", "Cervical mucus during period", "Jelly-like period blood"],
+    "keywords": ["mucus", "cervical fluid", "stringy", "period", "normal"],
+    "answer": "Mucus in period blood is completely normal. Your cervix produces mucus throughout your cycle, and during menstruation, this mucus mixes with blood, creating stringy or jelly-like textures. This is simply cervical fluid doing its job of keeping the vagina moist and protected. The amount and texture of mucus varies by person and cycle phase. Unless the mucus has a foul odor or is accompanied by itching or unusual color, it's nothing to worry about.",
+    "follow_up": ["Is there any unusual odor?", "Do you have itching or irritation?", "What does the mucus look like?", "Is this a new occurrence?"]
+  },
+  {
+    "id": 354,
+    "category": "period_color",
+    "question": "What does tissue in period blood mean",
+    "alternate_questions": ["Tissue in period", "Fleshy pieces in blood", "Why is there tissue in my period", "Uterine lining shedding", "Chunky period blood"],
+    "keywords": ["tissue", "uterine lining", "shedding", "period", "endometrium"],
+    "answer": "Small pieces of tissue in your period blood are usually just fragments of the uterine lining (endometrium) shedding. This is completely normal. The lining builds up each month and then breaks down and exits as your period. Sometimes it comes out in larger pieces that look like tissue or small clumps. However, if you pass large tissue-like masses with severe pain, very heavy bleeding, or if you might be pregnant, seek medical attention immediately.",
+    "follow_up": ["How large are the tissue pieces?", "Do you have severe pain?", "Could you be pregnant?", "How heavy is your bleeding?"]
+  },
+  {
+    "id": 355,
+    "category": "period_color",
+    "question": "What does clear discharge during period mean",
+    "alternate_questions": ["Clear fluid with period", "Watery discharge menstruation", "Why clear discharge during bleeding", "Transparent fluid period", "Clear and blood together"],
+    "keywords": ["clear discharge", "watery", "period", "cervical fluid", "normal"],
+    "answer": "Clear, watery discharge during your period is usually just cervical mucus mixing with menstrual blood. Cervical fluid is always present and changes consistency throughout your cycle. During your period, it can make blood appear more watery or you might notice clear fluid between blood flows. This is normal. However, if the clear discharge has a fishy odor, is accompanied by itching, or occurs outside your period in large amounts, see a healthcare provider.",
+    "follow_up": ["Is there any odor?", "Do you have itching or irritation?", "How much clear discharge is there?", "When does it occur in your cycle?"]
+  },
+  {
+    "id": 356,
+    "category": "period_color",
+    "question": "What does frothy period blood mean",
+    "alternate_questions": ["Frothy discharge period", "Bubbly period blood", "Why is my discharge frothy", "Foamy period blood", "Aerated discharge"],
+    "keywords": ["frothy", "foam", "trichomoniasis", "infection", "abnormal"],
+    "answer": "Frothy or bubbly discharge during your period is NOT normal and strongly suggests trichomoniasis, a sexually transmitted infection caused by a parasite. Trichomoniasis typically causes frothy, yellow-green discharge with a strong odor, along with itching and discomfort. It requires prescription antibiotic treatment (usually metronidazole). Both you and your sexual partner(s) need treatment to prevent reinfection. See a healthcare provider promptly for testing and treatment.",
+    "follow_up": ["Is there a strong odor?", "What color is the frothy discharge?", "Do you have itching or burning?", "Have you had unprotected sex recently?"]
+  },
+  {
+    "id": 357,
+    "category": "period_color",
+    "question": "What does cheesy period discharge mean",
+    "alternate_questions": ["Cheesy discharge period", "Cottage cheese period", "Thick white clumpy period", "Curdled period discharge", "Lumpy white period"],
+    "keywords": ["cheesy", "cottage cheese", "yeast infection", "candida", "thick white"],
+    "answer": "Thick, white, cottage cheese-like discharge during your period indicates a yeast infection (candidiasis). Yeast infections are common and not sexually transmitted. They can be triggered by antibiotics, hormonal changes, diabetes, or a weakened immune system. While menstruation doesn't cause yeast infections, the warm, moist environment can make symptoms more noticeable. Treat with over-the-counter antifungal creams or prescription medication. If it's your first yeast infection, see a doctor to confirm the diagnosis.",
+    "follow_up": ["Do you have intense itching?", "Is there burning or redness?", "Have you taken antibiotics recently?", "Have you had yeast infections before?"]
+  },
+  {
+    "id": 358,
+    "category": "period_color",
+    "question": "What does metallic smell period blood mean",
+    "alternate_questions": ["Metallic odor period", "Iron smell menstruation", "Why does my period smell like metal", "Penny smell period", "Blood metallic scent"],
+    "keywords": ["metallic smell", "iron", "period", "normal", "blood"],
+    "answer": "A mild metallic smell during your period is completely normal. Menstrual blood contains iron, which gives it a metallic or penny-like scent. This is natural and not a sign of anything wrong. The smell might be stronger on heavy flow days or if a pad or tampon has been in place for several hours. Good hygiene practices like regular changing of protection and gentle washing help manage normal period odor. However, a strong fishy or foul odor indicates infection.",
+    "follow_up": ["How strong is the metallic smell?", "Is there any fishy or foul odor?", "How often do you change your protection?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 359,
+    "category": "period_color",
+    "question": "What does fishy smell period blood mean",
+    "alternate_questions": ["Fishy odor period", "Why does my period smell fishy", "Bad smell menstruation", "Rotten odor period", "Foul period smell"],
+    "keywords": ["fishy smell", "bacterial vaginosis", "infection", "period", "abnormal"],
+    "answer": "A fishy odor during your period is NOT normal and usually indicates bacterial vaginosis (BV), an imbalance of vaginal bacteria. BV is not an STI but can be triggered by sex, douching, or hormonal changes. It causes thin, grayish discharge with a strong fishy odor, especially after sex or during your period. BV requires antibiotic treatment. See a healthcare provider for testing. Avoid douching, which worsens the imbalance. Untreated BV can increase STI risk and cause pregnancy complications.",
+    "follow_up": ["Is the odor strong and fishy?", "Do you have thin grayish discharge?", "Does the smell worsen after sex?", "Have you tried any treatments?"]
+  },
+  {
+    "id": 360,
+    "category": "period_color",
+    "question": "What does sweet smell period blood mean",
+    "alternate_questions": ["Sweet odor period", "Why does my period smell sweet", "Fruity period smell", "Pleasant period odor", "Sweet scent menstruation"],
+    "keywords": ["sweet smell", "period", "bacteria", "diet", "normal variation"],
+    "answer": "A slightly sweet smell during your period can be normal and is often related to the natural bacteria in your vagina, your diet, or the pH changes during menstruation. Some people describe it as earthy or musky rather than truly sweet. However, a very strong sweet or fruity odor, especially if accompanied by unusual discharge, itching, or irritation, could indicate an infection or metabolic issue. When in doubt, especially with other symptoms, see a healthcare provider.",
+    "follow_up": ["How strong is the sweet smell?", "Do you have unusual discharge?", "Do you have itching or irritation?", "Have you changed your diet recently?"]
+  }
+]

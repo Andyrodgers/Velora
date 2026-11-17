@@ -1,0 +1,606 @@
+[
+  {
+    "id": 521,
+    "category": "emergency_contraception",
+    "question": "What is emergency contraception",
+    "alternate_questions": ["Morning after pill", "Emergency birth control", "Post-coital contraception", "EC explained", "After sex pregnancy prevention"],
+    "keywords": ["emergency contraception", "morning after pill", "post-coital", "pregnancy prevention", "backup"],
+    "answer": "Emergency contraception (EC) is birth control used after unprotected sex to prevent pregnancy. It's not an abortion pill and won't end an existing pregnancy. Options include: 1) Levonorgestrel pills (Plan B One-Step, Take Action) - over-the-counter, effective up to 72 hours after sex (can work up to 5 days but less effective). 2) Ulipristal acetate (Ella) - prescription, effective up to 5 days. 3) Copper IUD - most effective, can be inserted up to 5 days after sex and provides ongoing contraception. EC works primarily by delaying ovulation.",
+    "follow_up": ["When did you have unprotected sex?", "Are you within 72 hours or 5 days?", "What EC option interests you?", "Do you want ongoing contraception too?"]
+  },
+  {
+    "id": 522,
+    "category": "emergency_contraception",
+    "question": "How does emergency contraception work",
+    "alternate_questions": ["EC mechanism", "How does morning after pill work", "Emergency contraception science", "Why does EC prevent pregnancy", "Post-coital pill function"],
+    "keywords": ["emergency contraception", "mechanism", "delay ovulation", "hormones", "prevention"],
+    "answer": "Emergency contraception works primarily by delaying or preventing ovulation. If ovulation has already occurred, EC is unlikely to be effective because it doesn't interfere with fertilization or implantation of an already fertilized egg. Levonorgestrel (Plan B) is a high dose of the same hormone in regular birth control pills. Ulipristal acetate (Ella) is a progesterone receptor modulator that delays ovulation more effectively than levonorgestrel, especially closer to ovulation. The copper IUD works by creating a toxic environment for sperm, preventing fertilization. EC is not an abortifacient.",
+    "follow_up": ["Where are you in your cycle?", "Do you know if you've ovulated?", "When did unprotected sex occur?", "Are you concerned about mechanism?"]
+  },
+  {
+    "id": 523,
+    "category": "emergency_contraception",
+    "question": "How effective is Plan B",
+    "alternate_questions": ["Plan B effectiveness", "How well does Plan B work", "Plan B success rate", "Levonorgestrel EC effectiveness", "Morning after pill effectiveness", "Plan B failure rate"],
+    "keywords": ["Plan B", "effectiveness", "levonorgestrel", "success rate", "efficacy", "prevention"],
+    "answer": "Plan B (levonorgestrel) reduces the risk of pregnancy by about 75-89% when taken within 72 hours of unprotected sex. It's most effective the sooner you take it - within 24 hours is best. Effectiveness decreases over time: about 95% effective within 24 hours, 85% within 48 hours, and 58% within 72 hours. It may still work up to 5 days after sex but with significantly reduced effectiveness. Effectiveness is lower in women with higher BMI (over 165 lbs or 75 kg). Plan B does not work if ovulation has already occurred. It is less effective than regular contraception methods.",
+    "follow_up": ["When did you have unprotected sex?", "What is your weight/BMI?", "Have you ovulated yet?", "Do you need ongoing contraception?"]
+  },
+  {
+    "id": 524,
+    "category": "emergency_contraception",
+    "question": "How effective is Ella",
+    "alternate_questions": ["Ella effectiveness", "Ulipristal acetate success rate", "How well does Ella work", "Ella vs Plan B effectiveness", "Prescription emergency contraception efficacy"],
+    "keywords": ["Ella", "ulipristal acetate", "effectiveness", "prescription", "5 days", "efficacy"],
+    "answer": "Ella (ulipristal acetate) is effective up to 5 days (120 hours) after unprotected sex and maintains its effectiveness throughout that window, unlike Plan B which decreases over time. It reduces pregnancy risk by about 85% overall. Ella is more effective than Plan B, especially between days 3-5 after sex and for women with higher BMI. It works by blocking progesterone receptors to delay ovulation more effectively than levonorgestrel, even when taken close to ovulation. Ella requires a prescription in most countries. It is not recommended if you are already taking hormonal contraception.",
+    "follow_up": ["How many days since unprotected sex?", "What is your BMI?", "Are you on hormonal birth control?", "Do you have prescription access?"]
+  },
+  {
+    "id": 525,
+    "category": "emergency_contraception",
+    "question": "How effective is copper IUD for emergency contraception",
+    "alternate_questions": ["Copper IUD EC effectiveness", "Paragard emergency contraception", "IUD as morning after", "Most effective emergency contraception", "Copper IUD post-coital"],
+    "keywords": ["copper IUD", "Paragard", "emergency contraception", "most effective", "99%", "5 days"],
+    "answer": "The copper IUD (Paragard) is the most effective form of emergency contraception, preventing over 99% of pregnancies when inserted within 5 days of unprotected sex. Unlike pills, it works even if ovulation has already occurred by creating a toxic environment for sperm and preventing fertilization. It can be inserted up to 5 days after unprotected sex or up to 5 days after estimated ovulation. The major advantage is that it provides ongoing contraception for up to 10-12 years after insertion. It requires a healthcare provider for insertion. Side effects may include heavier periods and cramping initially.",
+    "follow_up": ["Can you access an IUD provider quickly?", "Do you want long-term contraception?", "Are you comfortable with IUD insertion?", "How many days have passed?"]
+  },
+  {
+    "id": 526,
+    "category": "emergency_contraception",
+    "question": "Plan B vs Ella which is better",
+    "alternate_questions": ["Should I take Plan B or Ella", "Ella versus Plan B", "Which emergency contraception is best", "Plan B or Ella comparison", "Best morning after pill"],
+    "keywords": ["Plan B", "Ella", "comparison", "better", "ulipristal", "levonorgestrel", "choose"],
+    "answer": "Ella is generally more effective than Plan B, especially in certain situations. Choose Ella if: it's been 3-5 days since unprotected sex, you have a higher BMI (over 165 lbs/75 kg), or you're close to ovulation. Ella requires a prescription. Choose Plan B if: it's within 72 hours (sooner is better), you need over-the-counter access immediately, you're already on hormonal birth control (Ella can interact), or cost/access is a concern. The copper IUD is the most effective option overall if you can access it within 5 days. The best choice depends on timing, your body, and access.",
+    "follow_up": ["How many hours since unprotected sex?", "What is your weight/BMI?", "Do you have prescription access?", "Do you want ongoing contraception?"]
+  },
+  {
+    "id": 527,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception while on birth control",
+    "alternate_questions": ["EC while on pill", "Emergency contraception with IUD", "Morning after pill on birth control", "Do I need EC if I missed pills", "Backup with regular contraception"],
+    "keywords": ["emergency contraception", "birth control", "combined", "missed pills", "backup", "regular"],
+    "answer": "If you're on regular birth control and used it correctly, you typically don't need emergency contraception. However, you may need EC if you missed pills (2+ active pills in a row), had a late injection, expelled IUD, delayed ring/patch replacement, had vomiting/diarrhea after taking pills, or took interacting medications. Important: If you take Ella (ulipristal), wait 5 days before restarting hormonal contraception, as it can reduce Ella's effectiveness. Use backup methods during this time. If you take Plan B, you can continue your regular birth control immediately but use backup for 7 days.",
+    "follow_up": ["What birth control method do you use?", "Did you miss any doses?", "When did unprotected sex occur?", "Are you considering Ella or Plan B?"]
+  },
+  {
+    "id": 528,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception side effects",
+    "alternate_questions": ["Plan B side effects", "Ella side effects", "Morning after pill symptoms", "EC adverse effects", "What to expect after emergency contraception"],
+    "keywords": ["emergency contraception", "side effects", "nausea", "bleeding", "period changes", "symptoms"],
+    "answer": "Common side effects of emergency contraception include: nausea (sometimes with vomiting), fatigue, headache, dizziness, breast tenderness, abdominal pain, and changes to your next period (earlier, later, heavier, lighter, or spotting). These usually resolve within a few days. If you vomit within 2-3 hours of taking EC, you may need another dose. Your next period may be delayed by up to a week. If your period is more than 1 week late, take a pregnancy test. Serious side effects are rare. EC does not affect long-term fertility. If you experience severe abdominal pain, seek medical care as this could indicate an ectopic pregnancy.",
+    "follow_up": ["Are you experiencing any side effects now?", "When is your next period expected?", "Did you vomit after taking EC?", "Do you have severe pain?"]
+  },
+  {
+    "id": 529,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception cause abortion",
+    "alternate_questions": ["Is Plan B an abortion pill", "Does EC terminate pregnancy", "Morning after pill abortion", "EC abortifacient", "Does emergency contraception kill embryo"],
+    "keywords": ["emergency contraception", "abortion", "abortifacient", "pregnancy termination", "misconception", "myth"],
+    "answer": "No, emergency contraception is not an abortion pill and does not terminate an existing pregnancy. EC works primarily by delaying or preventing ovulation. If fertilization has already occurred, EC will not prevent implantation or harm an existing embryo. EC is ineffective if you are already pregnant. This is a common misconception. Medical and scientific organizations including the FDA, WHO, and American College of Obstetricians and Gynecologists confirm that EC prevents pregnancy before it begins and is not an abortifacient. If you are already pregnant, EC will not work and will not harm the pregnancy.",
+    "follow_up": ["Are you concerned about pregnancy status?", "Do you want to understand how EC works?", "Are you already pregnant?", "Do you need information about actual abortion options?"]
+  },
+  {
+    "id": 530,
+    "category": "emergency_contraception",
+    "question": "Can I get emergency contraception over the counter",
+    "alternate_questions": ["Do I need prescription for Plan B", "Where to buy morning after pill", "OTC emergency contraception", "Plan B pharmacy", "Ella prescription required"],
+    "keywords": ["over the counter", "OTC", "prescription", "pharmacy", "access", "Plan B", "Ella"],
+    "answer": "Levonorgestrel emergency contraception (Plan B One-Step, Take Action, My Way, AfterPill) is available over-the-counter without a prescription or age restriction in many countries including the US. You can buy it at pharmacies, drugstores, and some grocery stores. It is typically kept behind the pharmacy counter or in the family planning aisle. Ulipristal acetate (Ella) requires a prescription in most places. The copper IUD requires a healthcare provider for insertion. Some clinics, Planned Parenthood, and university health centers provide EC. If you cannot afford EC, some programs offer financial assistance. Online pharmacies may also sell EC with shipping delays.",
+    "follow_up": ["Do you have pharmacy access nearby?", "Do you need immediate EC?", "Can you get a prescription if needed?", "What is your budget?"]
+  },
+  {
+    "id": 531,
+    "category": "emergency_contraception",
+    "question": "How many times can I take emergency contraception",
+    "alternate_questions": ["Can I take Plan B multiple times", "EC frequency", "How often can I use morning after pill", "Repeated emergency contraception", "Plan B twice in one month"],
+    "keywords": ["frequency", "multiple times", "repeated use", "safety", "often", "limits"],
+    "answer": "Emergency contraception can be used multiple times, even within the same menstrual cycle, though it is not recommended as a regular birth control method. Repeated use can cause menstrual irregularities, unpredictable bleeding, and is less effective than consistent contraception. There are no known long-term health risks from repeated EC use. However, if you find yourself needing EC frequently, consider switching to a regular contraception method (pill, patch, ring, IUD, implant, shot) which is more effective and cost-efficient. EC does not affect future fertility. If you use EC more than once in a cycle, your period may be significantly delayed or irregular.",
+    "follow_up": ["How many times have you used EC?", "Are you using regular birth control?", "Would you like to discuss ongoing contraception?", "Are your periods regular?"]
+  },
+  {
+    "id": 532,
+    "category": "emergency_contraception",
+    "question": "Does weight affect emergency contraception effectiveness",
+    "alternate_questions": ["Plan B weight limit", "BMI emergency contraception", "Does EC work for overweight women", "Plan B effectiveness overweight", "Ella weight effectiveness"],
+    "keywords": ["weight", "BMI", "effectiveness", "overweight", "obesity", "body mass"],
+    "answer": "Yes, body weight and BMI can affect emergency contraception effectiveness. Levonorgestrel (Plan B) may be less effective in women with BMI over 25 or weight over 165 lbs (75 kg), and significantly less effective with BMI over 30. Ulipristal acetate (Ella) is effective at higher weights than Plan B but may also have reduced effectiveness at very high BMI. The copper IUD is not affected by weight and is the most effective EC option regardless of BMI. If you have a higher BMI and need EC, Ella is preferable to Plan B, but the copper IUD is the best option if accessible. Some providers recommend a double dose of Plan B for higher BMI, though this is not officially approved.",
+    "follow_up": ["What is your weight or BMI?", "How many days since unprotected sex?", "Can you access a copper IUD?", "Have you used EC before?"]
+  },
+  {
+    "id": 533,
+    "category": "emergency_contraception",
+    "question": "What if I vomit after taking emergency contraception",
+    "alternate_questions": ["Threw up after Plan B", "Vomiting after EC", "Do I need another dose if I vomit", "Morning after pill nausea vomiting", "EC absorption vomiting"],
+    "keywords": ["vomit", "nausea", "dose", "repeat", "absorption", "effectiveness"],
+    "answer": "If you vomit within 2-3 hours of taking oral emergency contraception, your body may not have absorbed enough of the medication, and you should take another dose as soon as possible. If you have the anti-nausea medication meclizine or dimenhydrinate, taking it 30 minutes before EC can help prevent vomiting. If you vomit after 3 hours, the medication has likely been absorbed and you do not need another dose. If you continue to vomit or cannot keep a second dose down, contact a healthcare provider. The copper IUD is an alternative that does not involve oral medication and is not affected by vomiting.",
+    "follow_up": ["When did you vomit relative to taking EC?", "Can you keep medication down now?", "Do you have anti-nausea medication?", "Can you access a copper IUD?"]
+  },
+  {
+    "id": 534,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception during my period",
+    "alternate_questions": ["Plan B during menstruation", "EC while on period", "Morning after pill menstruating", "Emergency contraception menstrual cycle timing"],
+    "keywords": ["period", "menstruation", "timing", "cycle", "during period", "menstrual"],
+    "answer": "Yes, you can take emergency contraception during your period. EC works by delaying ovulation, and since you are menstruating, you are unlikely to be ovulating at that time, making pregnancy risk lower. However, sperm can survive in the body for up to 5 days, so if you have a short cycle and ovulate early, there is still a small risk. Taking EC during your period may cause your period to become heavier, lighter, shorter, longer, or cause spotting. Your next cycle may also be irregular. EC is safe to take at any point in your cycle, though it is most urgently needed if taken close to ovulation.",
+    "follow_up": ["What day of your cycle are you?", "How long are your cycles typically?", "When did unprotected sex occur?", "Are your cycles regular?"]
+  },
+  {
+    "id": 535,
+    "category": "emergency_contraception",
+    "question": "Does breastfeeding affect emergency contraception",
+    "alternate_questions": ["Plan B while breastfeeding", "EC nursing mother", "Emergency contraception lactation", "Morning after pill breast milk", "Safe EC breastfeeding"],
+    "keywords": ["breastfeeding", "lactation", "nursing", "safe", "milk", "postpartum"],
+    "answer": "Levonorgestrel (Plan B) is considered safe during breastfeeding. Small amounts may pass into breast milk but are not harmful to the baby. You do not need to pump and dump. Ulipristal acetate (Ella) is generally not recommended during breastfeeding because it may affect milk supply and its effects on infants are less studied; if used, pump and discard milk for 24 hours. The copper IUD is safe during breastfeeding and does not affect milk supply. Progestin-only pills are also safe while breastfeeding. If you are exclusively breastfeeding and your baby is under 6 months old, you may have some natural contraceptive protection (lactational amenorrhea method), though this is not 100% effective.",
+    "follow_up": ["Are you currently breastfeeding?", "How old is your baby?", "Are you exclusively breastfeeding?", "Which EC option are you considering?"]
+  },
+  {
+    "id": 536,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception and drug interactions",
+    "alternate_questions": ["Medications that affect Plan B", "Drugs interfering with EC", "Ella interactions", "EC effectiveness medications", "Antibiotics emergency contraception"],
+    "keywords": ["drug interactions", "medications", "antibiotics", "anticonvulsants", "herbal supplements", "St. John's Wort"],
+    "answer": "Certain medications can reduce emergency contraception effectiveness. These include: enzyme-inducing drugs like rifampin (antibiotic for TB), some anti-seizure medications (carbamazepine, phenytoin, phenobarbital, primidone, oxcarbazepine), some HIV medications, and St. John's Wort herbal supplement. These drugs speed up liver metabolism of hormones. Most common antibiotics do NOT affect EC. If you take these medications, the copper IUD is the best EC option as it is not affected by drug interactions. If using oral EC, you may need a higher dose or alternative - consult a healthcare provider. Ella may have more interactions than Plan B due to its mechanism.",
+    "follow_up": ["What medications are you taking?", "Are any anti-seizure or TB medications?", "Can you access a copper IUD?", "When did unprotected sex occur?"]
+  },
+  {
+    "id": 537,
+    "category": "emergency_contraception",
+    "question": "How soon after sex should I take emergency contraception",
+    "alternate_questions": ["Timing emergency contraception", "When to take Plan B", "How late can I take EC", "Emergency contraception window", "72 hours 120 hours EC"],
+    "keywords": ["timing", "window", "72 hours", "120 hours", "5 days", "asap", "urgent"],
+    "answer": "Take emergency contraception as soon as possible after unprotected sex. The sooner you take it, the more effective it is. Plan B (levonorgestrel) works best within 24 hours (95% effective) and should be taken within 72 hours, though it may have some effect up to 5 days with decreasing effectiveness. Ella (ulipristal) is effective up to 5 days (120 hours) and maintains effectiveness throughout that window. The copper IUD can be inserted up to 5 days after sex or up to 5 days after ovulation. Do not wait to see if you get your period - take EC immediately. If you are beyond 5 days, EC will not work and you should take a pregnancy test if your period is late.",
+    "follow_up": ["How many hours since unprotected sex?", "Do you know when you ovulated?", "Can you access EC right now?", "What options are available to you?"]
+  },
+  {
+    "id": 538,
+    "category": "emergency_contraception",
+    "question": "Can emergency contraception fail",
+    "alternate_questions": ["Why did Plan B fail", "EC didn't work", "Pregnant after emergency contraception", "Morning after pill failed", "EC failure reasons"],
+    "keywords": ["failure", "didn't work", "pregnant after EC", "reasons", "ineffective", "why"],
+    "answer": "Yes, emergency contraception can fail. Reasons include: taking it too late (especially after ovulation has occurred), vomiting within 2-3 hours of taking it, taking interacting medications, having a higher BMI (reduces Plan B effectiveness), and already being pregnant before taking it. EC primarily works by delaying ovulation - if ovulation has already happened, EC cannot prevent fertilization. No method is 100% effective. If your period is more than 1 week late after taking EC, take a pregnancy test. If EC fails and you become pregnant, EC does not harm the fetus. If you do not want to continue the pregnancy, consult a healthcare provider about your options.",
+    "follow_up": ["When did you take EC relative to unprotected sex?", "Did you vomit after taking it?", "What is your BMI?", "Is your period late?"]
+  },
+  {
+    "id": 539,
+    "category": "emergency_contraception",
+    "question": "What is the difference between emergency contraception and abortion pill",
+    "alternate_questions": ["Plan B vs abortion pill", "EC versus medical abortion", "Morning after pill vs mifepristone", "Emergency contraception abortion difference", "RU-486 vs Plan B"],
+    "keywords": ["abortion pill", "mifepristone", "misoprostol", "medical abortion", "difference", "vs"],
+    "answer": "Emergency contraception and the abortion pill are completely different medications with different purposes. Emergency contraception (Plan B, Ella) prevents pregnancy BEFORE it starts by delaying ovulation. It will not work if you are already pregnant and will not harm an existing pregnancy. The abortion pill (mifepristone and misoprostol) terminates an EXISTING pregnancy up to 10 weeks gestation. EC is taken within 5 days of unprotected sex. The abortion pill is taken after pregnancy is confirmed. EC is available over-the-counter in many places; the abortion pill requires a prescription and medical supervision. EC prevents fertilization or implantation; the abortion pill causes uterine contractions to expel an established pregnancy. They are not interchangeable.",
+    "follow_up": ["Are you trying to prevent or end a pregnancy?", "How many weeks since your last period?", "Do you know if you are pregnant?", "What is your goal?"]
+  },
+  {
+    "id": 540,
+    "category": "emergency_contraception",
+    "question": "Can I use emergency contraception as regular birth control",
+    "alternate_questions": ["Plan B as daily contraception", "EC regular method", "Morning after pill instead of birth control", "Using EC frequently", "Emergency contraception regular use"],
+    "keywords": ["regular birth control", "daily", "frequent use", "not recommended", "alternative"],
+    "answer": "Emergency contraception is not recommended as a regular birth control method. While it is safe to use multiple times, it is less effective than ongoing contraception, more expensive, and can cause menstrual irregularities, unpredictable bleeding, and cycle disruption. Regular birth control methods (pill, patch, ring, IUD, implant, shot, condoms) are more effective, cost-efficient, and provide predictable cycles. If you find yourself needing EC often, consider switching to a regular method. Talk to a healthcare provider about options that fit your lifestyle. Long-acting reversible contraception (IUDs, implant) provides the best protection with minimal maintenance.",
+    "follow_up": ["How often do you need EC?", "What birth control methods have you tried?", "Would you like to explore regular options?", "What are your lifestyle needs?"]
+  },
+  {
+    "id": 541,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception protect against STIs",
+    "alternate_questions": ["EC STI protection", "Plan B STD prevention", "Emergency contraception sexually transmitted infections", "Morning after pill HIV", "EC and condoms"],
+    "keywords": ["STI", "STD", "protection", "sexually transmitted", "infection", "condoms", "no protection"],
+    "answer": "No, emergency contraception does NOT protect against sexually transmitted infections (STIs) including HIV, chlamydia, gonorrhea, syphilis, herpes, or HPV. EC only prevents pregnancy. If you had unprotected sex and are concerned about STIs, consider getting tested. Many STIs have no symptoms but can cause serious health problems if untreated. Condoms are the only contraceptive method that also protects against STIs. If there was a risk of HIV exposure (unprotected sex with someone who is HIV positive or of unknown status), consider post-exposure prophylaxis (PEP) within 72 hours. Contact a healthcare provider or sexual health clinic for STI testing and PEP if indicated.",
+    "follow_up": ["Do you know your partner's STI status?", "Was a condom used?", "Are you experiencing any symptoms?", "When did the exposure occur?"]
+  },
+  {
+    "id": 542,
+    "category": "emergency_contraception",
+    "question": "How much does emergency contraception cost",
+    "alternate_questions": ["Plan B price", "Ella cost", "Emergency contraception cost", "Morning after pill price", "Cheap EC options"],
+    "keywords": ["cost", "price", "affordable", "cheap", "insurance", "coverage", "generic"],
+    "answer": "Costs vary by type and location. Generic levonorgestrel EC (Take Action, My Way, AfterPill) typically costs $15-50 USD. Brand name Plan B One-Step costs $40-65. Ella (ulipristal) costs $50-90 and requires a prescription. The copper IUD costs $0-1,300 depending on insurance, but provides 10-12 years of contraception. Many insurance plans cover EC with no copay under the Affordable Care Act (US). Planned Parenthood, family planning clinics, and university health centers may offer reduced cost or free EC. Some pharmacies keep generic EC behind the counter - ask for the generic to save money. Online options may be cheaper but have shipping delays. If cost is a barrier, call clinics about financial assistance programs.",
+    "follow_up": ["Do you have insurance?", "What is your budget?", "Do you need EC immediately?", "Do you have a Planned Parenthood nearby?"]
+  },
+  {
+    "id": 543,
+    "category": "emergency_contraception",
+    "question": "Where can I get free emergency contraception",
+    "alternate_questions": ["Free Plan B", "No cost EC", "Emergency contraception assistance", "Free morning after pill", "Low cost EC clinics"],
+    "keywords": ["free", "low cost", "clinics", "Planned Parenthood", "assistance", "programs"],
+    "answer": "Free or low-cost emergency contraception may be available at: Planned Parenthood health centers, family planning clinics, Title X clinics (US), university health centers, some public health departments, and community health centers. Under the Affordable Care Act (US), most insurance plans cover prescription contraception including EC with no copay. Some states allow pharmacists to prescribe EC directly. School-based health centers may provide EC to students. If you cannot afford EC, call 1-800-230-PLAN (US) to find a nearby Planned Parenthood. Some organizations offer online coupons for Plan B. In an emergency, some ERs provide EC, though this is usually more expensive. Don't let cost delay you - many resources exist.",
+    "follow_up": ["Do you have insurance coverage?", "Are you near a Planned Parenthood?", "Are you a student?", "Do you need EC urgently?"]
+  },
+  {
+    "id": 544,
+    "category": "emergency_contraception",
+    "question": "Can men buy emergency contraception",
+    "alternate_questions": ["Male purchase Plan B", "Can guys buy morning after pill", "Man buying EC", "Emergency contraception gender purchase", "Male partner get EC"],
+    "keywords": ["men", "male", "purchase", "buy", "gender", "partner", "boyfriend"],
+    "answer": "Yes, in many countries including the US, there are no gender or age restrictions for purchasing levonorgestrel emergency contraception (Plan B) over-the-counter. Men, women, and people of any gender can buy it. A partner, friend, or family member can purchase it for you. No ID is typically required. This is helpful if you cannot get to a pharmacy yourself. However, some pharmacies may have individual policies or keep EC behind the counter requiring you to ask. If someone experiences resistance, ask to speak to a pharmacist or manager, or try another pharmacy. Ulipristal (Ella) requires a prescription regardless of gender. The copper IUD requires a medical appointment.",
+    "follow_up": ["Can your partner access a pharmacy?", "Do you need someone to purchase it for you?", "What type of EC do you need?", "Is there pharmacy access nearby?"]
+  },
+  {
+    "id": 545,
+    "category": "emergency_contraception",
+    "question": "What is the Yuzpe method",
+    "alternate_questions": ["Yuzpe regimen", "Combined pill emergency contraception", "Birth control pills as EC", "Old emergency contraception method", "Yuzpe method effectiveness"],
+    "keywords": ["Yuzpe", "combined pills", "old method", "regimen", "birth control pills", "backup"],
+    "answer": "The Yuzpe method is an older emergency contraception technique using regular combined oral contraceptive pills (those containing both estrogen and progestin) taken in specific doses within 72 hours of unprotected sex. It involves taking a certain number of birth control pills, then repeating the dose 12 hours later. It is less effective than dedicated EC pills and causes more nausea due to higher estrogen doses. The Yuzpe method is generally not recommended anymore because dedicated EC (Plan B, Ella) is more effective, better tolerated, and widely available. However, it may be useful in situations where dedicated EC is unavailable. Not all birth control pills can be used for the Yuzpe method - specific formulations are required. Consult a pharmacist if considering this option.",
+    "follow_up": ["Do you have access to dedicated EC?", "What birth control pills do you have?", "When did unprotected sex occur?", "Do you have nausea concerns?"]
+  },
+  {
+    "id": 546,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception after 5 days",
+    "alternate_questions": ["EC after 120 hours", "Late emergency contraception", "Plan B after 5 days", "Too late for morning after pill", "EC 6 days after"],
+    "keywords": ["after 5 days", "late", "too late", "120 hours", "6 days", "not effective"],
+    "answer": "Oral emergency contraception (Plan B and Ella) is not effective after 5 days (120 hours) from unprotected sex. The copper IUD can sometimes be inserted up to 5 days after estimated ovulation, which may extend beyond 5 days after sex if ovulation was late. If you are beyond 5 days after unprotected sex, EC pills will not work. Your options are: 1) Wait for your period and take a pregnancy test if it is late (test 3 weeks after sex for accurate results). 2) If you are pregnant and do not wish to continue, consult a healthcare provider about your options. 3) If pregnancy would be dangerous for medical reasons, contact a provider immediately. Going forward, consider regular contraception to avoid this situation.",
+    "follow_up": ["How many days since unprotected sex?", "Do you know when you ovulated?", "Are you trying to prevent or address pregnancy?", "Do you have pregnancy tests available?"]
+  },
+  {
+    "id": 547,
+    "category": "emergency_contraception",
+    "question": "Does alcohol affect emergency contraception",
+    "alternate_questions": ["Drinking after Plan B", "Alcohol EC effectiveness", "Can I drink after morning after pill", "Alcohol and Ella", "Party after emergency contraception"],
+    "keywords": ["alcohol", "drinking", "effectiveness", "party", "intoxication", "liver"],
+    "answer": "Moderate alcohol consumption does not significantly affect emergency contraception effectiveness. However, heavy drinking or alcohol intoxication could potentially cause vomiting, which would reduce EC absorption if it occurs within 2-3 hours of taking the pill. Alcohol does not interact with the hormones in EC in a way that reduces their effectiveness. That said, being intoxicated might lead to forgetting to take EC, taking it late, or engaging in further unprotected sex. If you drink alcohol after taking EC, stay hydrated and avoid vomiting. If you do vomit within 3 hours of taking EC, take another dose. The copper IUD is not affected by alcohol at all.",
+    "follow_up": ["Did you already take EC?", "Are you planning to drink?", "Did you vomit after taking EC?", "When did you take the EC?"]
+  },
+  {
+    "id": 548,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception while pregnant",
+    "alternate_questions": ["Plan B while pregnant", "EC if already pregnant", "Took morning after pill pregnant", "Emergency contraception pregnancy harm", "Accidental EC pregnancy"],
+    "keywords": ["pregnant", "already pregnant", "harm", "fetus", "accidental", "safety"],
+    "answer": "If you are already pregnant, emergency contraception will not work to end the pregnancy, but it will not harm the fetus either. EC is not an abortifacient and does not cause birth defects or miscarriage. If you took EC before knowing you were pregnant, there is no need to worry about harm to the baby. Studies show no increased risk of birth defects in babies born to mothers who took levonorgestrel EC during early pregnancy. However, if you suspect you are pregnant, EC is unnecessary. Take a pregnancy test if your period is late. If you are pregnant and do not want to continue the pregnancy, consult a healthcare provider about safe, legal options in your area. Do not attempt self-induced abortion.",
+    "follow_up": ["Do you think you might be pregnant?", "When was your last period?", "Have you taken a pregnancy test?", "What are your needs and concerns?"]
+  },
+  {
+    "id": 549,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception for rape survivors",
+    "alternate_questions": ["EC after sexual assault", "Rape emergency contraception", "Sexual assault morning after pill", "Hospital EC rape", "Post-assault pregnancy prevention"],
+    "keywords": ["rape", "sexual assault", "survivor", "hospital", "forensic exam", "support"],
+    "answer": "If you have experienced sexual assault, emergency contraception is available and important for preventing pregnancy. In many countries, EC is offered during forensic medical exams (rape kits) at hospitals. You have the right to EC regardless of whether you report to police. Hospitals should provide EC without cost in many jurisdictions. You can also get EC at pharmacies, clinics, or from a trusted person. In addition to EC, you may need STI prophylaxis and HIV post-exposure prophylaxis (PEP) within 72 hours. Support resources include: RAINN (US) 1-800-656-4673, local rape crisis centers, and sexual assault hotlines. You are not alone, and what happened was not your fault. Medical care is confidential.",
+    "follow_up": ["Are you safe right now?", "When did the assault occur?", "Have you received medical care?", "Do you have someone supportive with you?"]
+  },
+  {
+    "id": 550,
+    "category": "emergency_contraception",
+    "question": "What happens to my period after emergency contraception",
+    "alternate_questions": ["Period after Plan B", "Menstrual cycle after EC", "Late period emergency contraception", "Bleeding after morning after pill", "Period changes EC"],
+    "keywords": ["period", "menstrual cycle", "late", "early", "bleeding", "spotting", "changes"],
+    "answer": "Emergency contraception can cause changes to your next period. Your period may come earlier or later than expected - typically by up to 1 week. It may be heavier, lighter, shorter, or longer than usual. You may also experience spotting or breakthrough bleeding before your period. These changes are temporary and usually resolve by the next cycle. If your period is more than 1 week late, take a pregnancy test to rule out pregnancy. If you experience very heavy bleeding (soaking through a pad/tampon every hour for 2+ hours), severe pain, or signs of anemia (dizziness, fatigue), seek medical care. EC does not cause long-term menstrual problems or affect future fertility.",
+    "follow_up": ["When was your last period?", "Is your period late?", "Are you experiencing unusual bleeding?", "Did you take a pregnancy test?"]
+  },
+  {
+    "id": 551,
+    "category": "emergency_contraception",
+    "question": "Can I get pregnant after taking emergency contraception",
+    "alternate_questions": ["Pregnancy after Plan B", "EC failed pregnant", "Conception after emergency contraception", "Morning after pill didn't work pregnant", "Next steps EC failure"],
+    "keywords": ["pregnant after", "failure", "next steps", "options", "what to do"],
+    "answer": "Yes, it is possible to get pregnant after taking emergency contraception because no method is 100% effective. EC failure rates are low but real: about 1-2% for copper IUD, 2-9% for Ella, and 11-25% for Plan B depending on timing. If EC fails and you become pregnant, the medication will not harm the fetus. If your period is more than 1 week late, take a pregnancy test. If you are pregnant, you have options: continue the pregnancy, adoption, or abortion (where legal). Consider speaking with a healthcare provider, counselor, or trusted support person. If you do not want to be pregnant, act quickly as abortion options become more limited and complex as pregnancy progresses. You deserve non-judgmental care.",
+    "follow_up": ["Is your period late?", "Have you taken a pregnancy test?", "What would you want to do if pregnant?", "Do you have support?"]
+  },
+  {
+    "id": 552,
+    "category": "emergency_contraception",
+    "question": "Is there emergency contraception for men",
+    "alternate_questions": ["Male emergency contraception", "EC for guys", "Male birth control after sex", "Post-coital contraception men", "Sperm emergency prevention"],
+    "keywords": ["male", "men", "sperm", "vasectomy", "male contraception", "not available"],
+    "answer": "There is currently no emergency contraception specifically for men or people with sperm. Emergency contraception works by preventing ovulation in people with ovaries. For people with sperm, the only post-sex option to prevent pregnancy is vasectomy, which is a permanent surgical procedure and not an emergency method. If you are concerned about causing a pregnancy, encourage your partner to take EC if they have ovaries. Going forward, consider regular contraception options: condoms (also protect against STIs), withdrawal (less effective), or vasectomy if you are certain you do not want biological children. Research into male hormonal contraception is ongoing but not yet commercially available. Communication with partners about contraception is essential.",
+    "follow_up": ["Are you concerned about a partner's pregnancy risk?", "What contraception do you currently use?", "Have you discussed options with your partner?", "Are you interested in vasectomy?"]
+  },
+  {
+    "id": 553,
+    "category": "emergency_contraception",
+    "question": "Can teenagers buy emergency contraception",
+    "alternate_questions": ["Minors Plan B", "Teen EC access", "Age limit emergency contraception", "Under 18 morning after pill", "Adolescent emergency contraception"],
+    "keywords": ["teenagers", "minors", "age", "under 18", "adolescent", "access", "legal"],
+    "answer": "In many countries including the US, there is no age restriction for purchasing levonorgestrel emergency contraception (Plan B) over-the-counter. Teenagers can buy it without parental consent or ID. However, some pharmacies may incorrectly ask for ID or refuse sale to young people - if this happens, ask to speak to a pharmacist or manager, or try another store. Planned Parenthood and school-based health centers often provide EC confidentially to teens. Ulipristal (Ella) requires a prescription regardless of age. The copper IUD requires a medical appointment. If you are a teen and need EC, you have rights to confidential reproductive healthcare in many jurisdictions. Don't let age be a barrier to preventing an unwanted pregnancy.",
+    "follow_up": ["How old are you?", "Do you have pharmacy access?", "Do you need help finding a clinic?", "Is there an adult you trust who can help?"]
+  },
+  {
+    "id": 554,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception affect future fertility",
+    "alternate_questions": ["EC fertility impact", "Plan B future pregnancy", "Can EC make me infertile", "Emergency contraception long term effects", "Morning after pill fertility"],
+    "keywords": ["fertility", "future pregnancy", "infertility", "long term", "reproductive health", "safe"],
+    "answer": "No, emergency contraception does not affect future fertility or long-term reproductive health. Multiple studies confirm that using EC repeatedly does not cause infertility, miscarriage, birth defects, or ectopic pregnancy. Your fertility returns to normal immediately after taking EC. EC does not damage ovaries, uterus, or fallopian tubes. If you have difficulty conceiving later, it is due to other factors, not EC use. This is a common myth. However, if you use EC frequently because you don't have regular contraception, consider switching to an ongoing method for better protection and cycle predictability. If you are trying to conceive after using EC, you can start trying immediately in your next cycle.",
+    "follow_up": ["Are you planning pregnancy in the future?", "Have you used EC before?", "Are you concerned about fertility?", "Do you need regular contraception?"]
+  },
+  {
+    "id": 555,
+    "category": "emergency_contraception",
+    "question": "What is AfterPill",
+    "alternate_questions": ["AfterPill emergency contraception", "AfterPill vs Plan B", "Online emergency contraception", "AfterPill effectiveness", "AfterPill cost"],
+    "keywords": ["AfterPill", "online", "generic", "levonorgestrel", "cost", "mail order"],
+    "answer": "AfterPill is a generic levonorgestrel emergency contraception pill (1.5 mg) similar to Plan B One-Step. It is sold primarily online and shipped directly to you, which can be convenient for having EC on hand before an emergency occurs. It contains the same active ingredient as Plan B and has the same effectiveness and side effect profile. AfterPill is typically cheaper than brand-name Plan B but may take days to ship, so it is not suitable for immediate emergency use. It is best purchased in advance as a backup. Like all levonorgestrel EC, it works best within 72 hours of unprotected sex. It is FDA-approved and safe. Having EC available before you need it can reduce stress and ensure timely use.",
+    "follow_up": ["Do you need EC immediately or for backup?", "Have you used EC before?", "Do you want to keep EC on hand?", "What is your budget?"]
+  },
+  {
+    "id": 556,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception twice in one cycle",
+    "alternate_questions": ["Double EC same cycle", "Plan B twice one month", "Multiple EC one period", "Emergency contraception repeated cycle", "Two morning after pills"],
+    "keywords": ["twice", "same cycle", "repeated", "multiple", "one month", "safety"],
+    "answer": "Yes, you can take emergency contraception more than once in the same menstrual cycle if needed, though it is not ideal. Taking EC multiple times in one cycle can cause significant menstrual irregularities, unpredictable bleeding, and cycle disruption. It is safe but uncomfortable. If you need EC twice in one cycle, it suggests your regular contraception method is not working well for you. Consider switching to a more reliable ongoing method like an IUD, implant, or consistent pill use. If you take Ella and then need EC again in the same cycle, use Plan B or a copper IUD, as Ella can interact with progestin. After taking EC, use condoms until your next period to avoid needing EC again.",
+    "follow_up": ["How many times have you used EC this cycle?", "What contraception are you using?", "Are you experiencing irregular bleeding?", "Would you like to discuss regular options?"]
+  },
+  {
+    "id": 557,
+    "category": "emergency_contraception",
+    "question": "Does herbal emergency contraception work",
+    "alternate_questions": ["Natural EC", "Herbal morning after pill", "Plant based emergency contraception", "Traditional EC remedies", "Herbs prevent pregnancy after sex"],
+    "keywords": ["herbal", "natural", "traditional", "remedies", "plants", "ineffective", "dangerous"],
+    "answer": "No, herbal or natural emergency contraception does not work and can be dangerous. There are no herbs, plants, teas, supplements, or traditional remedies proven to prevent pregnancy after unprotected sex. Some herbs promoted online (like wild carrot seed, neem, or pennyroyal) are ineffective and can cause serious harm including liver damage, kidney failure, bleeding, or death. Do not attempt to use herbs, high doses of vitamin C, douching, or other unproven methods. These will not prevent pregnancy and may delay you from getting effective EC. Stick to proven methods: levonorgestrel pills, ulipristal acetate, or copper IUD. If you cannot access EC, contact a healthcare provider immediately rather than trying unproven remedies.",
+    "follow_up": ["Have you seen herbal EC recommendations?", "Do you have access to proven EC methods?", "Are you considering herbal options?", "Can you get to a pharmacy or clinic?"]
+  },
+  {
+    "id": 558,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception with antibiotics",
+    "alternate_questions": ["Antibiotics and Plan B", "EC with medication", "Morning after pill antibiotics", "Ella drug interactions", "Infection treatment EC"],
+    "keywords": ["antibiotics", "medications", "interactions", "infection", "safe", "most antibiotics"],
+    "answer": "Most antibiotics do NOT affect emergency contraception effectiveness. Common antibiotics like amoxicillin, azithromycin, doxycycline, and cephalexin do not interact with EC. The only antibiotic known to reduce EC effectiveness is rifampin (used for tuberculosis and some bacterial infections), which speeds up liver metabolism of hormones. If you are taking rifampin or related drugs, the copper IUD is the best EC option as it is not affected by medications. If you have an infection and need EC, take it as soon as possible. Do not delay EC because of antibiotics. If you are concerned about a specific medication interaction, ask a pharmacist or healthcare provider. Complete your antibiotic course as prescribed.",
+    "follow_up": ["What antibiotics are you taking?", "When did unprotected sex occur?", "Can you access a copper IUD?", "Do you need EC immediately?"]
+  },
+  {
+    "id": 559,
+    "category": "emergency_contraception",
+    "question": "What is ellaOne",
+    "alternate_questions": ["ellaOne emergency contraception", "ellaOne vs Ella", "European emergency contraception", "ellaOne availability", "ellaOne effectiveness"],
+    "keywords": ["ellaOne", "Ella", "European", "international", "ulipristal", "30mg"],
+    "answer": "EllaOne is the European brand name for ulipristal acetate 30mg emergency contraception, the same active ingredient as Ella (sold in the US). It is a prescription-only emergency contraception effective up to 5 days (120 hours) after unprotected sex. EllaOne maintains its effectiveness throughout the 5-day window, unlike levonorgestrel which decreases over time. It works by blocking progesterone receptors to delay ovulation. It is more effective than levonorgestrel EC, especially on days 3-5 and for women with higher BMI. Side effects are similar to other EC: nausea, headache, menstrual changes. It should not be taken if you are already using hormonal contraception. After taking EllaOne, wait 5 days before restarting hormonal birth control.",
+    "follow_up": ["Are you in Europe or elsewhere?", "How many days since unprotected sex?", "Do you have prescription access?", "Are you on hormonal birth control?"]
+  },
+  {
+    "id": 560,
+    "category": "emergency_contraception",
+    "question": "Can I swim after taking emergency contraception",
+    "alternate_questions": ["Exercise after Plan B", "Swimming morning after pill", "Activities after EC", "Sports emergency contraception", "Shower bath after EC"],
+    "keywords": ["swim", "exercise", "activities", "sports", "shower", "bath", "normal activities"],
+    "answer": "Yes, you can swim, exercise, shower, bathe, and engage in all normal activities after taking emergency contraception. There are no activity restrictions after taking EC pills. Water and physical activity do not affect the medication's absorption or effectiveness. You can resume your normal routine immediately. The only consideration is if you experience nausea or vomiting after taking EC - avoid strenuous activity if you feel nauseated, and seek a second dose if you vomit within 2-3 hours. After copper IUD insertion for emergency contraception, your provider may advise avoiding swimming or baths for 24-48 hours to reduce infection risk, but showers are fine. Otherwise, live your life normally.",
+    "follow_up": ["Did you already take EC?", "Are you feeling nauseous?", "Do you have activity concerns?", "What type of EC did you take?"]
+  },
+  {
+    "id": 561,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception cause weight gain",
+    "alternate_questions": ["Plan B weight gain", "EC bloating", "Morning after pill weight", "Emergency contraception body changes", "Water retention EC"],
+    "keywords": ["weight gain", "bloating", "water retention", "body changes", "temporary"],
+    "answer": "Emergency contraception does not cause long-term weight gain. You may experience temporary bloating or mild water retention for a few days after taking EC due to the hormone dose, but this resolves quickly. EC does not cause fat gain or permanent body composition changes. Some people may feel their clothes fit tighter for 2-3 days due to bloating. If you experience significant or persistent weight gain, it is due to other factors (diet, activity, other medications, underlying conditions) not EC. If you are concerned about weight, focus on regular exercise and balanced nutrition. For ongoing contraception, some methods like the shot (Depo-Provera) may be associated with weight gain in some users, but EC pills do not have this effect.",
+    "follow_up": ["Are you experiencing bloating?", "How long since you took EC?", "Are you on other medications?", "Is this a temporary concern?"]
+  },
+  {
+    "id": 562,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception if I have PCOS",
+    "alternate_questions": ["Plan B PCOS", "EC polycystic ovary syndrome", "Emergency contraception hormonal disorder", "PCOS morning after pill", "Ella PCOS"],
+    "keywords": ["PCOS", "polycystic ovary syndrome", "hormonal disorder", "effectiveness", "safe"],
+    "answer": "Yes, emergency contraception is safe to take if you have PCOS. EC works the same way in people with PCOS as in those without. However, PCOS can cause irregular ovulation, making it harder to predict your fertile window. This means you might need EC at unexpected times. EC is effective for people with PCOS, though if you have a higher BMI associated with PCOS, Plan B may be less effective - Ella or copper IUD would be better options. EC does not worsen PCOS symptoms long-term, though it may temporarily worsen cycle irregularity. If you have PCOS and are not trying to conceive, consider a regular contraception method that also helps manage PCOS symptoms, such as combined hormonal contraception which regulates cycles and reduces androgen symptoms.",
+    "follow_up": ["Do you have a PCOS diagnosis?", "What is your BMI?", "Are your cycles regular?", "Are you managing PCOS with medication?"]
+  },
+  {
+    "id": 563,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception with endometriosis",
+    "alternate_questions": ["Plan B endometriosis", "EC endo", "Emergency contraception endometriosis safe", "Morning after pill endometriosis", "Ella endometriosis"],
+    "keywords": ["endometriosis", "endo", "safe", "pain", "hormones", "condition"],
+    "answer": "Yes, emergency contraception is safe to take if you have endometriosis. EC does not worsen endometriosis or cause endometriosis flares. The hormone dose in EC is short-term and does not significantly affect endometrial tissue. However, EC may cause temporary menstrual irregularities which could be uncomfortable if you already have painful periods. If you have endometriosis and are not trying to conceive, consider regular contraception that also helps manage endometriosis symptoms. Continuous combined hormonal contraception (skipping placebo weeks) or progestin-only methods can suppress endometriosis growth and reduce pain. The copper IUD is generally not recommended for endometriosis as it may worsen bleeding and cramps. Discuss long-term options with your gynecologist.",
+    "follow_up": ["Do you have an endometriosis diagnosis?", "How severe are your symptoms?", "What treatments are you using?", "Are you looking for ongoing contraception?"]
+  },
+  {
+    "id": 564,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception and ectopic pregnancy",
+    "alternate_questions": ["EC ectopic risk", "Plan B ectopic pregnancy", "Morning after pill tubal pregnancy", "Emergency contraception ectopic", "EC and fallopian tube"],
+    "keywords": ["ectopic pregnancy", "tubal pregnancy", "fallopian tube", "risk", "warning signs"],
+    "answer": "Emergency contraception does not increase the risk of ectopic pregnancy. However, EC is less effective at preventing ectopic pregnancy than uterine pregnancy, so if EC fails, there is a slightly higher chance the pregnancy could be ectopic compared to a natural conception. This is a small absolute risk. If you take EC and experience severe abdominal pain (especially one-sided), shoulder pain, dizziness, fainting, or vaginal bleeding with pain, seek emergency medical care immediately as these are signs of possible ectopic pregnancy. Ectopic pregnancy is life-threatening and requires immediate treatment. EC does not cause ectopic pregnancy - it simply may be less effective at preventing implantation outside the uterus. Regular contraception is more effective at preventing all pregnancies including ectopic.",
+    "follow_up": ["Are you experiencing severe pain?", "Do you have one-sided abdominal pain?", "Are you dizzy or faint?", "When did you take EC?"]
+  },
+  {
+    "id": 565,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception with an IUD",
+    "alternate_questions": ["EC with hormonal IUD", "Plan B with Mirena", "Emergency contraception IUD in place", "Morning after pill copper IUD", "IUD backup EC"],
+    "keywords": ["IUD", "intrauterine device", "backup", "already have IUD", "hormonal IUD", "copper IUD"],
+    "answer": "If you already have a copper IUD, you do not need emergency contraception - the copper IUD itself is the most effective EC method and provides ongoing protection. If you have a hormonal IUD (Mirena, Kyleena, Liletta, Skyla) and are concerned about pregnancy due to late insertion, partial expulsion, or other issues, EC is generally not needed as hormonal IUDs are highly effective. However, if your hormonal IUD was inserted more than 7 days ago and you had unprotected sex without backup, or if you suspect expulsion, consult your provider. If you need EC and want an IUD, the copper IUD can be inserted for EC even if you previously had a hormonal IUD removed. Do not use Ella if you have a hormonal IUD in place.",
+    "follow_up": ["What type of IUD do you have?", "When was it inserted?", "Do you suspect expulsion?", "When did unprotected sex occur?"]
+  },
+  {
+    "id": 566,
+    "category": "emergency_contraception",
+    "question": "What is the most effective emergency contraception",
+    "alternate_questions": ["Best emergency contraception", "Most effective EC method", "Highest success rate morning after", "Best option prevent pregnancy after sex", "Most reliable EC"],
+    "keywords": ["most effective", "best", "highest", "copper IUD", "reliable", "comparison"],
+    "answer": "The copper IUD (Paragard) is the most effective emergency contraception, preventing over 99% of pregnancies when inserted within 5 days of unprotected sex. It works even if ovulation has already occurred, unlike pills. It also provides ongoing contraception for 10-12 years. Among pills, Ella (ulipristal) is more effective than Plan B (levonorgestrel), especially on days 3-5 and for women with higher BMI. Effectiveness ranking: 1) Copper IUD (>99% effective), 2) Ella (85% effective up to 5 days), 3) Plan B (75-89% effective within 72 hours, decreasing over time). The best choice depends on timing, access, cost, and whether you want ongoing contraception. If you can access a copper IUD within 5 days, it is the superior choice.",
+    "follow_up": ["How many days since unprotected sex?", "Can you access an IUD provider?", "What is your BMI?", "Do you want ongoing contraception?"]
+  },
+  {
+    "id": 567,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception work if I am ovulating",
+    "alternate_questions": ["EC during ovulation", "Plan B ovulation day", "Morning after pill fertile window", "Emergency contraception ovulation timing", "Ella ovulation"],
+    "keywords": ["ovulating", "ovulation", "fertile window", "timing", "effectiveness", "during"],
+    "answer": "Emergency contraception pills work primarily by delaying ovulation. If you have already ovulated (the egg has been released), EC pills are unlikely to prevent pregnancy because they do not interfere with fertilization or implantation of a fertilized egg. However, it can be difficult to know exactly when ovulation occurs, so taking EC is still recommended if you had unprotected sex. Ella (ulipristal) may have some effect closer to ovulation than Plan B because it blocks progesterone receptors more effectively. The copper IUD is the only EC method that works after ovulation because it creates a toxic environment for sperm and prevents fertilization. If you track ovulation and know you ovulated before sex, the copper IUD is your best option if within 5 days.",
+    "follow_up": ["Do you know if you ovulated?", "Are you tracking ovulation?", "When did unprotected sex occur?", "Can you access a copper IUD?"]
+  },
+  {
+    "id": 568,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception after ovulation",
+    "alternate_questions": ["EC post ovulation", "Plan B after egg released", "Emergency contraception luteal phase", "Morning after pill after ovulation", "Can EC work after egg release"],
+    "keywords": ["after ovulation", "post ovulation", "luteal phase", "egg released", "too late"],
+    "answer": "If ovulation has definitely already occurred and the egg has been released, emergency contraception pills (Plan B, Ella) are unlikely to work because they primarily prevent ovulation, not fertilization or implantation. However, sperm can survive up to 5 days, so if you had sex before ovulation but ovulated shortly after, EC taken immediately after sex may still prevent ovulation. The copper IUD is the only EC option that works after ovulation because it prevents fertilization by creating a sperm-toxic environment. If you are past ovulation and within 5 days of sex, the copper IUD is your only effective EC option. If you are beyond 5 days after sex, no EC will work - wait for your period and take a pregnancy test if late.",
+    "follow_up": ["Are you sure you ovulated?", "When did unprotected sex occur relative to ovulation?", "Can you access a copper IUD?", "How many days since sex?"]
+  },
+  {
+    "id": 569,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception work during fertile window",
+    "alternate_questions": ["EC fertile days", "Plan B most fertile time", "Emergency contraception peak fertility", "Morning after pill ovulation day", "EC effectiveness fertile window"],
+    "keywords": ["fertile window", "peak fertility", "most fertile", "effectiveness", "timing"],
+    "answer": "Emergency contraception can work during your fertile window, but effectiveness varies. EC pills are most effective when taken BEFORE ovulation occurs, as they delay the release of the egg. If taken during the fertile window but before ovulation, EC can still prevent pregnancy by postponing ovulation. If taken on the day of ovulation or after, pills are much less effective. The copper IUD works throughout the entire fertile window and even after ovulation because it prevents sperm from reaching the egg. If you know you are in your fertile window, take EC as soon as possible - every hour matters. Ella is more effective than Plan B during the fertile window, especially close to ovulation. The copper IUD is the best option if you can access it within 5 days.",
+    "follow_up": ["Where are you in your cycle?", "Do you know your ovulation date?", "When did unprotected sex occur?", "What EC options can you access?"]
+  },
+  {
+    "id": 570,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception with the implant",
+    "alternate_questions": ["Plan B with Nexplanon", "EC contraceptive implant", "Emergency contraception implant", "Morning after pill arm implant", "Nexplanon backup EC"],
+    "keywords": ["implant", "Nexplanon", "etonogestrel", "backup", "already protected"],
+    "answer": "If you have a contraceptive implant (Nexplanon/Implanon) that was inserted correctly and within its effective period (3-5 years), you typically do not need emergency contraception as the implant is over 99% effective. However, if your implant was inserted less than 7 days ago and you had unprotected sex during that time, or if you suspect the implant has moved, broken, or is overdue for replacement, you may need backup. If you need EC while having an implant, Plan B is safe to use. Do not use Ella (ulipristal) with a hormonal implant as it can reduce Ella's effectiveness. The copper IUD is also an option. If you are concerned about implant failure, check that you can feel the implant under your skin and consult your provider.",
+    "follow_up": ["When was your implant inserted?", "Can you feel the implant?", "Is it due for replacement?", "When did unprotected sex occur?"]
+  },
+  {
+    "id": 571,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception and the birth control shot",
+    "alternate_questions": ["Plan B with Depo", "EC Depo-Provera", "Emergency contraception injection", "Morning after pill while on shot", "Depo backup EC"],
+    "keywords": ["Depo-Provera", "shot", "injection", "depo", "backup", "already on"],
+    "answer": "If you are up-to-date on your Depo-Provera shots (every 12-13 weeks) and received them on time, you typically do not need emergency contraception as the shot is over 99% effective when used correctly. However, if your shot was late (more than 2 weeks overdue), you may need backup contraception or EC if you had unprotected sex. If you need EC while on Depo, Plan B is safe to use. Do not use Ella (ulipristal) if you are on Depo-Provera or have used it in the past 14 days, as the progestin in Depo can reduce Ella's effectiveness. The copper IUD is a good alternative if you need EC and are on Depo. If your shot was late, use backup contraception for 7 days after getting back on schedule.",
+    "follow_up": ["When was your last Depo shot?", "Is it overdue?", "When did unprotected sex occur?", "Do you need EC or just backup?"]
+  },
+  {
+    "id": 572,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception with the patch",
+    "alternate_questions": ["Plan B with Xulane", "EC contraceptive patch", "Emergency contraception patch", "Morning after pill patch backup", "Patch fell off EC"],
+    "keywords": ["patch", "Xulane", "Ortho Evra", "transdermal", "backup", "fell off"],
+    "answer": "If you use the contraceptive patch correctly and consistently, you typically do not need emergency contraception. However, you may need EC if your patch fell off for more than 24 hours, was applied late after the patch-free week, or if you had unprotected sex during the first week of patch use without backup. If you need EC while using the patch, Plan B is safe. Do not use Ella (ulipristal) if you are currently using the patch, as the hormones can interact and reduce Ella's effectiveness. The copper IUD is an alternative. After taking Plan B, continue your patch schedule but use backup contraception (condoms) for 7 days. If your patch fell off, replace it and use backup for 7 days.",
+    "follow_up": ["Did your patch fall off or was it late?", "When did unprotected sex occur?", "What week of your cycle are you in?", "Are you considering Ella or Plan B?"]
+  },
+  {
+    "id": 573,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception and the vaginal ring",
+    "alternate_questions": ["Plan B with NuvaRing", "EC vaginal ring", "Emergency contraception ring", "Morning after pill ring backup", "Ring out too long EC"],
+    "keywords": ["ring", "NuvaRing", "Annovera", "vaginal", "backup", "out too long"],
+    "answer": "If you use the vaginal ring correctly, you typically do not need emergency contraception. You may need EC if your ring was out for more than 3 hours (NuvaRing) or more than 2 hours (Annovera), if you left it in past the recommended time, or if you had unprotected sex during the first week without backup. If you need EC while using the ring, Plan B is safe. Do not use Ella (ulipristal) if you are currently using a hormonal vaginal ring, as the hormones can reduce Ella's effectiveness. The copper IUD is an alternative. After taking Plan B, reinsert or replace your ring and use backup contraception for 7 days. If the ring was out too long, you may need to start a new cycle.",
+    "follow_up": ["Was your ring out too long?", "When did unprotected sex occur?", "What ring do you use?", "Do you need EC immediately?"]
+  },
+  {
+    "id": 574,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception with mini pill",
+    "alternate_questions": ["Plan B with progestin only pill", "EC mini pill", "Emergency contraception progestin only", "Morning after pill POP", "Norethindrone EC"],
+    "keywords": ["mini pill", "progestin only", "POP", "norethindrone", "backup", "already on"],
+    "answer": "If you take the progestin-only pill (mini pill) correctly every day at the same time, you typically do not need emergency contraception. However, if you are more than 3 hours late taking a traditional norethindrone mini pill (or more than 24 hours late for drospirenone mini pills like Slynd), you may need backup contraception or EC if you had unprotected sex. If you need EC while on the mini pill, Plan B is safe to use. Do not use Ella (ulipristal) if you are on progestin-only pills, as the progestin can reduce Ella's effectiveness. The copper IUD is an alternative. After taking Plan B, continue your mini pill but use backup contraception for 2 days (traditional mini pill) or 7 days (drospirenone).",
+    "follow_up": ["What mini pill do you take?", "Were you late taking it?", "When did unprotected sex occur?", "How late was the pill?"]
+  },
+  {
+    "id": 575,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception and combined birth control pills",
+    "alternate_questions": ["Plan B with combined pill", "EC while on birth control", "Emergency contraception regular pills", "Morning after pill combined oral contraceptive", "Missed pills EC"],
+    "keywords": ["combined pill", "regular birth control", "missed pills", "COC", "estrogen progestin"],
+    "answer": "If you take combined birth control pills correctly, you typically do not need emergency contraception. You may need EC if you missed 2 or more active pills in a row (days 1-2 of pack or days 15-21), had vomiting or severe diarrhea within 2 hours of taking pills, or took interacting medications. If you need EC while on combined pills, Plan B is safe. Do not use Ella (ulipristal) if you are currently on combined hormonal contraception or have used it in the past 5 days, as it can reduce Ella's effectiveness. The copper IUD is an alternative. After taking Plan B, continue your regular pills and use backup contraception for 7 days. If you missed pills, follow your pill's specific instructions for missed doses.",
+    "follow_up": ["How many pills did you miss?", "When did unprotected sex occur?", "Did you vomit after taking pills?", "What brand of pill do you use?"]
+  },
+  {
+    "id": 576,
+    "category": "emergency_contraception",
+    "question": "What is the window for copper IUD emergency contraception",
+    "alternate_questions": [
+      "Copper IUD EC timing",
+      "How late can I get copper IUD after sex",
+      "Paragard emergency window",
+      "Copper IUD 5 days after",
+      "IUD EC deadline"
+    ],
+    "keywords": [
+      "copper IUD",
+      "window",
+      "5 days",
+      "120 hours",
+      "timing",
+      "deadline",
+      "insertion"
+    ],
+    "answer": "The copper IUD can be inserted up to 5 days (120 hours) after unprotected sex for emergency contraception. It can also be inserted up to 5 days after estimated ovulation, which may extend the window if ovulation occurred late. This is the longest effective window of any EC method, and unlike pills, the copper IUD maintains its effectiveness throughout the entire 5-day period. It is over 99% effective at preventing pregnancy and provides ongoing contraception for 10-12 years. If you are approaching the 5-day deadline, contact a provider immediately. Some clinics offer same-day or next-day insertion appointments. The IUD must be inserted by a trained healthcare provider.",
+    "follow_up": [
+      "How many days since unprotected sex?",
+      "Do you know your ovulation date?",
+      "Can you get an appointment within 5 days?",
+      "Do you want ongoing contraception?"
+    ]
+  },
+  {
+    "id": 577,
+    "category": "emergency_contraception",
+    "question": "Does emergency contraception affect my next ovulation",
+    "alternate_questions": [
+      "EC ovulation delay",
+      "Plan B next cycle ovulation",
+      "Emergency contraception future ovulation",
+      "Morning after pill cycle reset",
+      "Ella ovulation timing next month"
+    ],
+    "keywords": [
+      "next ovulation",
+      "cycle reset",
+      "delay",
+      "future cycle",
+      "timing",
+      "ovulation return"
+    ],
+    "answer": "Emergency contraception can delay your next ovulation by a few days to a week, which is why your next period may be late. This delay is temporary and does not affect long-term fertility or future cycles. Your ovulation should return to normal in the following cycle. EC does not 'reset' your cycle permanently. If you use EC frequently, you may experience more irregular ovulation timing. If your period is more than 1 week late after taking EC, take a pregnancy test. After taking EC, use backup contraception until your next period because ovulation timing may be unpredictable. Tracking your cycle with an app can help you understand when ovulation returns to normal.",
+    "follow_up": [
+      "When was your last ovulation?",
+      "Is your cycle usually regular?",
+      "Are you tracking ovulation?",
+      "When do you expect your next period?"
+    ]
+  },
+  {
+    "id": 578,
+    "category": "emergency_contraception",
+    "question": "Can I take emergency contraception if I have migraines",
+    "alternate_questions": [
+      "Plan B migraines",
+      "EC headache disorder",
+      "Emergency contraception migraine with aura",
+      "Morning after pill headaches",
+      "Ella migraine safety"
+    ],
+    "keywords": [
+      "migraines",
+      "headaches",
+      "aura",
+      "neurological",
+      "safe",
+      "contraindication"
+    ],
+    "answer": "Yes, emergency contraception is generally safe for people with migraines. Unlike combined hormonal contraception, which is contraindicated in people with migraine with aura due to stroke risk, EC contains only progestin (Plan B) or ulipristal (Ella) - neither of which carries the same stroke risk as estrogen. If you have migraine with aura, you can safely use Plan B or Ella. The copper IUD is also completely safe and hormone-free. Some people may experience a temporary headache after taking EC, but this is not dangerous and usually resolves within 24 hours. If you experience a severe headache after EC that is different from your usual migraines, or if you have neurological symptoms (vision changes, weakness, confusion), seek medical care.",
+    "follow_up": [
+      "Do you have migraine with or without aura?",
+      "Are your migraines well-controlled?",
+      "Have you used EC before?",
+      "Did you experience headaches after EC?"
+    ]
+  },
+  {
+    "id": 579,
+    "category": "emergency_contraception",
+    "question": "Emergency contraception and blood clot risk",
+    "alternate_questions": [
+      "Plan B blood clots",
+      "EC DVT risk",
+      "Emergency contraception thrombosis",
+      "Morning after pill clotting",
+      "Ella venous thromboembolism"
+    ],
+    "keywords": [
+      "blood clots",
+      "DVT",
+      "thrombosis",
+      "clotting risk",
+      "venous thromboembolism",
+      "safety"
+    ],
+    "answer": "Emergency contraception does not significantly increase blood clot risk. Unlike combined hormonal contraception which contains estrogen and carries a small increased risk of blood clots, EC pills (Plan B and Ella) do not contain estrogen. Plan B contains levonorgestrel (progestin only), and Ella contains ulipristal acetate. Neither has been associated with increased thrombosis risk. The copper IUD is completely hormone-free and has no clotting risk. If you have a history of blood clots, stroke, or are at high risk for thrombosis, EC is still safe for you. However, if you are looking for ongoing contraception, avoid combined hormonal methods and consider progestin-only or non-hormonal options. Always inform your provider of your clotting history.",
+    "follow_up": [
+      "Do you have a history of blood clots?",
+      "Are you at risk for thrombosis?",
+      "What medications are you on?",
+      "Do you need ongoing contraception?"
+    ]
+  }
+  ]

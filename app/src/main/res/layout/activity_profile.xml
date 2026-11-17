@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/appPrimaryColor">
+
+    <!-- Header area to show the background color -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_screen_body"
+        android:clipToPadding="true"
+        android:paddingTop="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="32dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My Profile"
+                android:textSize="28sp"
+                android:textColor="?attr/appPrimaryColor"
+                android:textStyle="bold"
+                android:layout_marginBottom="24dp"
+                tools:ignore="HardcodedText" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/ivProfilePhoto"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:padding="2dp"
+                android:src="@drawable/user_account_icon"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/CircleImage"
+                app:strokeColor="?attr/appPrimaryColor"
+                app:strokeWidth="2dp"
+                tools:ignore="ContentDescription"
+                android:layout_marginBottom="16dp" />
+
+            <Button
+                android:id="@+id/btnUploadPhoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Upload Photo"
+                android:backgroundTint="?attr/appSecondaryColor"
+                android:layout_marginBottom="24dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/tvSettings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Settings"
+                android:textSize="20sp"
+                android:textColor="?attr/appTextColor"
+                android:padding="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_marginBottom="8dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/tvPersonalInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Personal Information"
+                android:textSize="20sp"
+                android:textColor="?attr/appTextColor"
+                android:padding="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_marginBottom="8dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/tvCurrentStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Current Status"
+                android:textSize="20sp"
+                android:textColor="?attr/appTextColor"
+                android:padding="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_marginBottom="24dp"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/etProfileName"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:autofillHints="name"
+                android:hint="Full Name"
+                android:background="@drawable/edit_text_rounded"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                android:layout_marginBottom="12dp"
+                android:textColor="?attr/appTextColor"
+                android:textColorHint="#888888"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/etProfileAge"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:autofillHints="none"
+                android:hint="Age"
+                android:inputType="number"
+                android:background="@drawable/edit_text_rounded"
+                android:padding="16dp"
+                android:layout_marginBottom="12dp"
+                android:textColor="?attr/appTextColor"
+                android:textColorHint="#888888"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/etProfileEmail"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:autofillHints="emailAddress"
+                android:hint="Email"
+                android:background="@drawable/edit_text_rounded"
+                android:inputType="textEmailAddress"
+                android:padding="16dp"
+                android:layout_marginBottom="12dp"
+                android:textColor="?attr/appTextColor"
+                android:textColorHint="#888888"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/etProfilePhone"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:autofillHints="phone"
+                android:hint="Mobile Number"
+                android:background="@drawable/edit_text_rounded"
+                android:inputType="phone"
+                android:padding="16dp"
+                android:layout_marginBottom="24dp"
+                android:textColor="?attr/appTextColor"
+                android:textColorHint="#888888"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/btnUpdateProfile"
+                android:layout_width="wrap_content"
+                android:layout_height="56dp"
+                android:text="SAVE CHANGES"
+                android:backgroundTint="?attr/appPrimaryColor"
+                android:textColor="#FFFFFF"
+                android:layout_marginBottom="16dp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/btnLogout"
+                android:layout_width="wrap_content"
+                android:layout_height="56dp"
+                android:text="LOGOUT"
+                android:backgroundTint="#FF0000"
+                android:textColor="#FFFFFF"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

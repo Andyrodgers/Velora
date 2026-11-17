@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2101,
+    "category": "pain_relief",
+    "question": "How can I relieve period pain?",
+    "alternate_questions": ["Period pain relief", "How to stop cramps", "What to do for menstrual pain"],
+    "keywords": ["pain relief", "cramps", "period pain", "ibuprofen", "heating pad"],
+    "answer": "You can relieve period pain by using a heating pad on your lower abdomen, taking over-the-counter pain relievers like ibuprofen or naproxen, doing gentle exercise, and staying hydrated. Reducing caffeine and salt may also help.",
+    "follow_up": ["What are natural ways to relieve pain?", "When should I see a doctor for pain?", "Does exercise help with cramps?"]
+  },
+  {
+    "id": 2102,
+    "category": "pain_relief",
+    "question": "Are there natural ways to relieve period pain?",
+    "alternate_questions": ["Home remedies for cramps", "Natural cramp relief", "Non-medicine pain relief"],
+    "keywords": ["natural", "relief", "cramps", "herbal", "yoga"],
+    "answer": "Natural methods include using heat therapy (heating pads or warm baths), herbal teas like ginger or chamomile, gentle yoga or stretching, and magnesium supplements. Deep breathing and relaxation techniques can also lower pain perception.",
+    "follow_up": ["What yoga poses help with cramps?", "Does ginger tea really work?", "How much magnesium should I take?"]
+  },
+  {
+    "id": 2103,
+    "category": "pain_relief",
+    "question": "What medications help with period cramps?",
+    "alternate_questions": ["Best medicine for period pain", "NSAIDs for cramps", "Painkillers for menstruation"],
+    "keywords": ["medication", "ibuprofen", "naproxen", "nsaids", "painkillers"],
+    "answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen (Advil, Motrin) and naproxen (Aleve) are most effective because they lower the production of prostaglandins, which cause the uterus to contract and cramp.",
+    "follow_up": ["Can I take Tylenol for cramps?", "What are the side effects of NSAIDs?", "When should I take pain medicine for it to work best?"]
+  },
+  {
+    "id": 2104,
+    "category": "pain_relief",
+    "question": "Does a heating pad help with cramps?",
+    "alternate_questions": ["How to use heat for period pain", "Warm compress for cramps", "Benefits of heat therapy"],
+    "keywords": ["heating pad", "heat", "cramps", "blood flow", "relaxation"],
+    "answer": "Yes! Applying heat to the lower abdomen can help relax the contracting muscles in the uterus, which is what causes the pain. It also increases blood flow to the area, which can provide further relief.",
+    "follow_up": ["How long should I use a heating pad?", "Are warm baths as good as heating pads?", "Can I sleep with a heating pad?"]
+  },
+  {
+    "id": 2105,
+    "category": "pain_relief",
+    "question": "When should I seek medical help for period pain?",
+    "alternate_questions": ["When is period pain too much?", "Severe cramps help", "Doctor for menstrual pain"],
+    "keywords": ["doctor", "severe pain", "warning", "signs", "dysmenorrhea"],
+    "answer": "Seek medical help if your pain is so severe that it prevents you from doing daily activities, if it doesn't improve with over-the-counter medication, or if it suddenly gets worse. Extremely painful periods can sometimes be a sign of conditions like endometriosis.",
+    "follow_up": ["What is secondary dysmenorrhea?", "What will a doctor do for severe pain?", "Could it be endometriosis?"]
+  }
+]

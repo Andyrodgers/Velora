@@ -1,0 +1,47 @@
+[
+  {
+    "id": 241,
+    "category": "nutrition",
+    "question": "What should I eat during my period?",
+    "alternate_questions": ["Best foods for menstruation", "Diet during period", "Nutrition for my cycle"],
+    "keywords": ["nutrition", "food", "period", "diet", "menstruation"],
+    "answer": "Focus on iron-rich foods (lean meats, leafy greens, lentils) to replace blood loss. Anti-inflammatory foods like fatty fish, ginger, and turmeric can help with cramps. Complex carbs like whole grains can help stabilize mood and energy.",
+    "follow_up": ["Why is iron important during my period?", "Which foods help with cramps?", "Should I avoid certain foods during my period?"]
+  },
+  {
+    "id": 242,
+    "category": "nutrition",
+    "question": "Should I avoid any foods during my period?",
+    "alternate_questions": ["Foods to avoid on my period", "What not to eat during menstruation", "Dietary restrictions during my cycle"],
+    "keywords": ["nutrition", "avoid", "food", "period", "salt", "caffeine", "sugar"],
+    "answer": "Reducing salt can help minimize bloating and water retention. Limiting caffeine and sugar may help reduce breast tenderness, anxiety, and mood swings. Highly processed foods can also increase inflammation and worsen cramps.",
+    "follow_up": ["How does caffeine affect my period?", "Why does salt cause bloating?", "Are there healthy alternatives to sugar cravings?"]
+  },
+  {
+    "id": 243,
+    "category": "nutrition",
+    "question": "Which vitamins are good for my cycle?",
+    "alternate_questions": ["Best vitamins for hormonal health", "Supplements for menstrual health", "Vitamins for PMS relief"],
+    "keywords": ["nutrition", "vitamins", "supplements", "magnesium", "b6", "calcium", "vitamin d"],
+    "answer": "Magnesium can help with cramps and sleep. Vitamin B6 and Calcium have been shown to help with PMS symptoms like mood swings and bloating. Vitamin D is essential for overall hormonal balance.",
+    "follow_up": ["What are magnesium-rich foods?", "How does Vitamin B6 help with PMS?", "Should I take a multivitamin?"]
+  },
+  {
+    "id": 244,
+    "category": "nutrition",
+    "question": "Why do I crave chocolate during my period?",
+    "alternate_questions": ["Period cravings explained", "Why do I want sweets during PMS?", "Cravings and hormones"],
+    "keywords": ["nutrition", "cravings", "chocolate", "sugar", "pms", "magnesium"],
+    "answer": "Cravings are often linked to shifts in hormones and changes in serotonin levels. Chocolate specifically contains magnesium and can boost feel-good chemicals in the brain. If you crave chocolate, try dark chocolate for more benefits and less sugar.",
+    "follow_up": ["How to manage intense cravings?", "Does dark chocolate help with cramps?", "Why do I feel hungrier before my period?"]
+  },
+  {
+    "id": 245,
+    "category": "nutrition",
+    "question": "Does nutrition affect my hormone balance?",
+    "alternate_questions": ["Diet and hormones", "How what I eat impacts my cycle", "Nutritional support for hormonal health"],
+    "keywords": ["nutrition", "hormones", "balance", "diet", "impact"],
+    "answer": "Yes! A balanced diet provides the building blocks for hormone production and helps regulate blood sugar, which is crucial for hormonal stability. Eating enough healthy fats, proteins, and fiber supports your endocrine system throughout your cycle.",
+    "follow_up": ["What are healthy fats for hormone health?", "How does blood sugar affect hormones?", "Can a poor diet cause irregular periods?"]
+  }
+]

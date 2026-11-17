@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Velora" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Global input text color - enforcing black even in dark mode -->
+        <item name="editTextStyle">@style/BlackEditText</item>
+        <item name="android:editTextStyle">@style/BlackEditText</item>
+
+        <!-- Primary branding colors -->
+        <item name="colorPrimary">#FF69B4</item>
+        <item name="colorAccent">#FF69B4</item>
+    </style>
+
+    <!-- Global style for all EditTexts to ensure text is pure black -->
+    <style name="BlackEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textColorHint">#888888</item>
+    </style>
+</resources>

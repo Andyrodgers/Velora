@@ -1,0 +1,263 @@
+[
+  {
+    "id": 577,
+    "category": "mood_swings",
+    "question": "What are mood swings during period",
+    "alternate_questions": ["Period mood changes", "Menstrual mood swings", "Why do I get emotional before period", "Hormonal mood changes", "PMS mood swings explained"],
+    "keywords": ["mood swings", "period", "menstrual", "emotional", "PMS", "hormonal changes"],
+    "answer": "Mood swings during your period or premenstrual phase are very common and are primarily caused by hormonal fluctuations. As estrogen and progesterone levels drop before menstruation, they affect neurotransmitters in your brain including serotonin, which regulates mood. You may feel irritable, anxious, sad, tearful, or emotionally sensitive. These mood changes typically start 1-2 weeks before your period and improve within a few days of bleeding starting. For most people, these mood changes are mild and manageable. However, if mood swings are severe enough to interfere with daily life, relationships, or work, you may have premenstrual dysphoric disorder (PMDD), which requires medical attention. Tracking your moods with Velora can help you identify patterns and prepare for challenging days.",
+    "follow_up": ["How severe are your mood swings?", "Do they affect your daily life?", "When in your cycle do they occur?", "Have you tracked your symptoms?"]
+  },
+  {
+    "id": 578,
+    "category": "mood_swings",
+    "question": "Why do I cry easily before my period",
+    "alternate_questions": ["Premenstrual crying", "Why am I so emotional before period", "Tearful before menstruation", "PMS crying spells", "Hormonal crying"],
+    "keywords": ["crying", "emotional", "tearful", "premenstrual", "sensitive", "hormones"],
+    "answer": "Crying easily before your period is a common premenstrual symptom caused by hormonal fluctuations. As progesterone and estrogen levels fall in the luteal phase (after ovulation), they affect brain chemistry including serotonin and GABA, neurotransmitters that regulate emotions and stress response. This can lower your emotional threshold, making you more sensitive to stress, sadness, or even positive emotions. Sleep disturbances, bloating, and physical discomfort can also contribute to feeling overwhelmed. This is normal for many people and usually resolves once menstruation begins. If crying spells are severe, accompanied by hopelessness, or last beyond your period, talk to a healthcare provider as this could indicate PMDD or depression. Self-care, adequate sleep, and reducing stress can help.",
+    "follow_up": ["How often does this happen?", "Does it resolve after your period starts?", "Are you also experiencing physical PMS symptoms?", "Is this affecting your relationships?"]
+  },
+  {
+    "id": 579,
+    "category": "mood_swings",
+    "question": "How to manage mood swings during PMS",
+    "alternate_questions": ["PMS mood management", "Control premenstrual mood", "Reduce period mood swings", "PMS emotional regulation", "Deal with PMS irritability"],
+    "keywords": ["manage", "control", "reduce", "PMS", "coping strategies", "self care"],
+    "answer": "Managing PMS mood swings involves lifestyle changes, stress management, and sometimes medical intervention. Effective strategies include: 1) Regular exercise - aerobic activity boosts serotonin and reduces stress. 2) Balanced diet - reduce caffeine, alcohol, sugar, and salt; increase complex carbs, lean protein, and omega-3s. 3) Sleep hygiene - aim for 7-9 hours of quality sleep. 4) Stress reduction - try yoga, meditation, deep breathing, or journaling. 5) Social support - talk to trusted friends or family about how you're feeling. 6) Supplements - calcium (1,000-1,200mg daily), magnesium (200-400mg), vitamin B6 (50-100mg), and vitamin D may help some people. 7) Limit alcohol and caffeine which can worsen anxiety and irritability. If symptoms are severe, discuss medical options like hormonal birth control or SSRIs with your provider.",
+    "follow_up": ["What strategies have you tried?", "How severe are your mood swings?", "Are you getting enough sleep?", "Would you consider supplements or medication?"]
+  },
+  {
+    "id": 580,
+    "category": "mood_swings",
+    "question": "What is PMDD",
+    "alternate_questions": ["Premenstrual dysphoric disorder", "Severe PMS", "PMDD symptoms", "PMDD vs PMS", "Is PMDD real"],
+    "keywords": ["PMDD", "premenstrual dysphoric disorder", "severe", "diagnosis", "mental health", "depression"],
+    "answer": "Premenstrual Dysphoric Disorder (PMDD) is a severe form of premenstrual syndrome that affects about 3-8% of people who menstruate. PMDD causes significant emotional and physical symptoms during the luteal phase (1-2 weeks before period) that severely interfere with daily life, work, and relationships. Symptoms include severe depression, anxiety, irritability, mood swings, feeling overwhelmed, difficulty concentrating, fatigue, and physical symptoms like bloating and breast tenderness. Unlike PMS, PMDD symptoms are debilitating and may include suicidal thoughts. PMDD is believed to be caused by abnormal sensitivity to normal hormonal changes. It is a real medical condition, not a character flaw. Treatment includes SSRIs (antidepressants), hormonal birth control, lifestyle changes, and therapy. If you suspect PMDD, seek medical evaluation.",
+    "follow_up": ["Do your symptoms severely impact daily life?", "Do you have thoughts of self harm?", "When do symptoms occur in your cycle?", "Have you discussed this with a healthcare provider?"]
+  },
+  {
+    "id": 581,
+    "category": "mood_swings",
+    "question": "PMDD vs PMS what is the difference",
+    "alternate_questions": ["Difference PMDD PMS", "Severe PMS or PMDD", "PMS versus premenstrual dysphoric disorder", "How to tell PMDD from PMS", "PMDD PMS comparison"],
+    "keywords": ["PMDD", "PMS", "difference", "comparison", "severity", "diagnosis"],
+    "answer": "PMS and PMDD are related but differ in severity and impact. PMS affects up to 90% of people who menstruate with mild to moderate physical and emotional symptoms that may be annoying but don't severely disrupt life. PMDD affects 3-8% and causes severe, debilitating symptoms that significantly impair functioning. Key differences: PMS mood symptoms are uncomfortable; PMDD mood symptoms are severe and include feelings of hopelessness, extreme irritability, or suicidal thoughts. PMS may cause mild sadness; PMDD causes severe depression. PMS may cause tension; PMDD causes severe anxiety or panic attacks. PMDD symptoms consistently occur in the luteal phase and resolve within a few days of menstruation starting. To diagnose PMDD, symptoms must be present for most cycles over a year and severely impact work, school, or relationships.",
+    "follow_up": ["How much do your symptoms impact daily life?", "Do you have suicidal thoughts before your period?", "Do symptoms resolve when bleeding starts?", "Have you kept a symptom diary?"]
+  },
+  {
+    "id": 582,
+    "category": "mood_swings",
+    "question": "How is PMDD diagnosed",
+    "alternate_questions": ["PMDD diagnosis", "How to know if I have PMDD", "PMDD testing", "Doctor diagnosis PMDD", "PMDD criteria"],
+    "keywords": ["diagnosis", "criteria", "DSM-5", "symptom tracking", "medical evaluation", "diary"],
+    "answer": "PMDD is diagnosed through symptom tracking and medical evaluation, not a blood test. Your healthcare provider will ask you to track your symptoms daily for at least 2-3 menstrual cycles. Diagnostic criteria (DSM-5) require: 1) Symptoms in the week before menstruation for most cycles over a year. 2) At least 5 symptoms including mood-related ones (depression, anxiety, irritability, mood swings). 3) Symptoms significantly interfere with work, school, relationships, or social activities. 4) Symptoms are not due to another condition (depression, anxiety disorder, thyroid issues). 5) Symptoms resolve within a few days of menstruation starting. Your provider may also check thyroid function and rule out other mood disorders. Keeping a detailed symptom diary with Velora is essential for accurate diagnosis.",
+    "follow_up": ["Have you tracked your symptoms for multiple cycles?", "Do symptoms resolve after your period?", "Are symptoms present all month or only premenstrually?", "Have you ruled out other conditions?"]
+  },
+  {
+    "id": 583,
+    "category": "mood_swings",
+    "question": "PMDD treatment options",
+    "alternate_questions": ["How to treat PMDD", "PMDD medication", "PMDD therapy", "PMDD management", "Cure for PMDD"],
+    "keywords": ["treatment", "SSRIs", "birth control", "therapy", "lifestyle", "medication"],
+    "answer": "PMDD treatment typically involves a combination of approaches. First-line treatments include: 1) SSRIs (selective serotonin reuptake inhibitors) like fluoxetine (Prozac), sertraline (Zoloft), or escitalopram (Lexapro). These can be taken daily or only during the luteal phase. 2) Hormonal birth control - continuous use of combined pills (especially those containing drospirenone like Yaz) can suppress ovulation and reduce symptoms. 3) Lifestyle modifications - regular exercise, stress management, adequate sleep, and dietary changes. 4) Cognitive behavioral therapy (CBT) helps manage negative thought patterns. 5) Supplements - calcium, magnesium, vitamin B6, and omega-3s may help some people. 6) In severe cases resistant to other treatments, GnRH agonists or surgery (oophorectomy) may be considered. Work with a knowledgeable healthcare provider to find the right combination.",
+    "follow_up": ["Have you tried any treatments?", "Are you open to medication?", "Do you have a healthcare provider familiar with PMDD?", "What are your primary symptoms?"]
+  },
+  {
+    "id": 584,
+    "category": "mood_swings",
+    "question": "Can birth control help with mood swings",
+    "alternate_questions": ["Birth control PMS mood", "Pill for mood swings", "Hormonal contraception emotions", "Birth control stabilize mood", "Contraception premenstrual mood"],
+    "keywords": ["birth control", "hormonal contraception", "stabilize", "PMS", "mood", "regulation"],
+    "answer": "Hormonal birth control can help with mood swings for some people but worsen them for others. Combined hormonal contraception (pill, patch, ring) that suppresses ovulation can reduce or eliminate premenstrual mood swings by maintaining steady hormone levels instead of the natural fluctuation. Pills containing drospirenone (like Yaz, Yasmin) are FDA-approved for PMDD treatment. Continuous use (skipping placebo weeks) may provide even more mood stability. However, some people experience mood worsening, depression, or anxiety on hormonal birth control, especially progestin-only methods. It may take trying several formulations to find one that works for your body. Non-hormonal options like the copper IUD won't affect mood but won't help PMS either. Track your mood when starting any new contraception and discuss concerns with your provider.",
+    "follow_up": ["Are you currently on birth control?", "Did it affect your mood?", "Are your mood swings cycle-related?", "Have you tried different formulations?"]
+  },
+  {
+    "id": 585,
+    "category": "mood_swings",
+    "question": "Why am I angry before my period",
+    "alternate_questions": ["Period rage", "Premenstrual anger", "Irritable before period", "PMS anger issues", "Why do I get mad before menstruation"],
+    "keywords": ["anger", "irritability", "rage", "premenstrual", "short temper", "frustration"],
+    "answer": "Feeling angry or irritable before your period is a common PMS symptom caused by hormonal changes. As estrogen and progesterone levels drop in the luteal phase, they affect neurotransmitters including serotonin and GABA that regulate mood and impulse control. This can make you more reactive to stress, more sensitive to annoyances, and less able to regulate anger. Physical discomforts like bloating, cramps, breast tenderness, and sleep disruption can also lower your patience threshold. Some people experience 'period rage' - intense anger that feels out of proportion to triggers. This is more common in PMDD. Strategies to manage premenstrual anger include: recognizing the pattern, communicating with loved ones about your cycle, exercise, mindfulness, adequate sleep, reducing caffeine and alcohol, and considering calcium and magnesium supplements. If anger is severe or destructive, seek professional help.",
+    "follow_up": ["How intense is your anger?", "Does it affect relationships?", "Are there specific triggers?", "Do you feel out of control?"]
+  },
+  {
+    "id": 586,
+    "category": "mood_swings",
+    "question": "Can diet affect menstrual mood swings",
+    "alternate_questions": ["Food PMS mood", "Diet premenstrual emotions", "Nutrition mood swings period", "What to eat for PMS mood", "Foods that worsen PMS mood"],
+    "keywords": ["diet", "nutrition", "food", "PMS", "mood", "eating", "sugar", "caffeine"],
+    "answer": "Yes, diet significantly affects menstrual mood swings. Foods that can worsen PMS mood symptoms include: caffeine (increases anxiety and irritability), alcohol (disrupts sleep and worsens depression), sugar and refined carbs (cause blood sugar crashes and mood swings), and high-sodium foods (contribute to bloating and discomfort). Foods that may improve mood during PMS include: complex carbohydrates (whole grains, oats, brown rice) which boost serotonin; lean proteins ( stabilize blood sugar); omega-3 fatty acids (fatty fish, walnuts, flaxseed) which reduce inflammation and may help depression; calcium-rich foods (dairy, leafy greens, fortified foods); magnesium-rich foods (nuts, seeds, dark chocolate, legumes); and vitamin B6 sources (bananas, potatoes, poultry). Eating regular meals and snacks helps maintain blood sugar stability. Staying hydrated is also important.",
+    "follow_up": ["What does your diet look like before your period?", "Do you crave certain foods?", "Have you noticed food-mood connections?", "Are you willing to try dietary changes?"]
+  },
+  {
+    "id": 587,
+    "category": "mood_swings",
+    "question": "Does exercise help with PMS mood swings",
+    "alternate_questions": ["Workout PMS mood", "Exercise premenstrual emotions", "Fitness menstrual mood", "Yoga PMS mood", "Running period mood"],
+    "keywords": ["exercise", "workout", "fitness", "yoga", "aerobic", "endorphins", "PMS"],
+    "answer": "Yes, regular exercise is one of the most effective non-pharmaceutical treatments for PMS mood swings. Physical activity increases endorphins (natural mood boosters), improves serotonin levels, reduces stress hormones like cortisol, improves sleep quality, and increases energy. Aerobic exercise (walking, running, swimming, cycling) for 30 minutes most days is particularly effective. Yoga and Pilates combine movement with mindfulness and deep breathing, which can reduce anxiety and irritability. Even gentle movement like stretching or walking helps. The key is consistency - regular exercisers experience less severe PMS than sedentary individuals. You don't need intense workouts; moderate activity is sufficient. During your period, exercise is safe and can actually reduce cramps and improve mood, though you may need to adjust intensity based on how you feel.",
+    "follow_up": ["Do you currently exercise?", "What types of exercise do you enjoy?", "How often are you active?", "Are you willing to try regular exercise?"]
+  },
+  {
+    "id": 588,
+    "category": "mood_swings",
+    "question": "Can sleep affect menstrual mood swings",
+    "alternate_questions": ["Sleep PMS mood", "Insomnia premenstrual emotions", "Tired before period mood", "Sleep deprivation period", "Rest menstrual mood"],
+    "keywords": ["sleep", "insomnia", "rest", "fatigue", "tired", "sleep quality", "PMS"],
+    "answer": "Sleep has a profound impact on menstrual mood swings. Poor sleep or insomnia before your period can significantly worsen irritability, anxiety, depression, and emotional reactivity. Hormonal changes in the luteal phase can disrupt sleep by raising body temperature and affecting melatonin and progesterone levels. Many people experience difficulty falling asleep, staying asleep, or non-restorative sleep before their period. This creates a vicious cycle: poor sleep worsens mood, and bad mood worsens sleep. To improve sleep: maintain a consistent sleep schedule, create a cool dark sleep environment, limit screens 1 hour before bed, avoid caffeine after noon, practice relaxation techniques, and consider magnesium glycinate or melatonin supplements. If PMS-related insomnia is severe, discuss treatment options with your provider. Prioritizing sleep is one of the most important self-care strategies for managing mood swings.",
+    "follow_up": ["How is your sleep before your period?", "Do you have trouble falling or staying asleep?", "How many hours do you sleep?", "Have you tried sleep hygiene strategies?"]
+  },
+  {
+    "id": 589,
+    "category": "mood_swings",
+    "question": "Supplements for PMS mood swings",
+    "alternate_questions": ["Vitamins PMS mood", "Herbal supplements premenstrual", "Calcium magnesium PMS", "Omega-3 mood period", "Natural remedies PMS emotions"],
+    "keywords": ["supplements", "vitamins", "calcium", "magnesium", "B6", "omega-3", "herbal", "natural"],
+    "answer": "Several supplements may help with PMS mood swings, though evidence varies. Most promising: 1) Calcium (1,000-1,200mg daily) - shown to reduce mood symptoms and physical PMS symptoms in studies. 2) Magnesium (200-400mg daily, preferably glycinate form) - may reduce anxiety, irritability, and bloating. 3) Vitamin B6 (50-100mg daily, do not exceed 100mg) - helps serotonin production. 4) Omega-3 fatty acids (1-2g EPA/DHA daily) - anti-inflammatory and may help depression. 5) Vitamin D - deficiency is linked to mood disorders. 6) Chasteberry (Vitex agnus-castus) - may help hormonal balance but takes 2-3 months to work. 7) St. John's Wort - may help mild depression but interacts with many medications including birth control. Always consult a healthcare provider before starting supplements, especially if you take other medications. Quality matters - choose third-party tested brands.",
+    "follow_up": ["Are you currently taking any supplements?", "Do you have medication interactions to consider?", "What are your main PMS symptoms?", "Have you had vitamin levels checked?"]
+  },
+  {
+    "id": 590,
+    "category": "mood_swings",
+    "question": "Can stress make PMS mood swings worse",
+    "alternate_questions": ["Stress PMS emotions", "Anxiety worsen premenstrual mood", "Stress hormones period mood", "Overwhelmed PMS worse", "Life stress menstrual mood"],
+    "keywords": ["stress", "anxiety", "cortisol", "worsen", "life stress", "overwhelm"],
+    "answer": "Yes, stress significantly worsens PMS mood swings. High stress levels elevate cortisol, which interacts with reproductive hormones and can amplify premenstrual emotional symptoms. People with high chronic stress experience more severe PMS, and stressful life events can trigger worse cycles. Stress also depletes serotonin and other neurotransmitters that help regulate mood. The combination of hormonal fluctuations and high stress creates a perfect storm for emotional volatility. Managing stress is crucial for PMS mood management. Effective stress reduction techniques include: mindfulness meditation, deep breathing exercises, progressive muscle relaxation, regular physical activity, adequate sleep, time in nature, social connection, setting boundaries, and therapy. If you are going through a particularly stressful period, be extra gentle with yourself and increase self-care practices in the week before your period.",
+    "follow_up": ["How stressed are you currently?", "Are there major stressors in your life?", "What stress management techniques do you use?", "Do mood swings correlate with stress levels?"]
+  },
+  {
+    "id": 591,
+    "category": "mood_swings",
+    "question": "Why do I feel anxious before my period",
+    "alternate_questions": ["Premenstrual anxiety", "PMS panic", "Anxious before menstruation", "Period anxiety attacks", "Hormonal anxiety"],
+    "keywords": ["anxiety", "panic", "worry", "nervous", "premenstrual", "hormonal anxiety"],
+    "answer": "Feeling anxious before your period is a common PMS symptom caused by hormonal fluctuations affecting brain chemistry. As progesterone rises after ovulation and then drops before menstruation, it affects GABA receptors in the brain - GABA is a calming neurotransmitter. This can create feelings of anxiety, worry, restlessness, or even panic attacks in susceptible individuals. Estrogen fluctuations also affect serotonin, which influences mood stability. Physical symptoms like heart palpitations, shortness of breath, and dizziness from PMS can mimic anxiety symptoms, making you feel more anxious. Caffeine, sugar, and poor sleep can amplify these feelings. If premenstrual anxiety is mild, lifestyle changes like exercise, relaxation techniques, and reducing stimulants may help. If it's severe, interfering with daily life, or accompanied by panic attacks, talk to a healthcare provider about treatment options including SSRIs or hormonal management.",
+    "follow_up": ["How severe is your anxiety?", "Do you have panic attacks?", "Does it resolve after your period?", "Are you using caffeine or alcohol?"]
+  },
+  {
+    "id": 592,
+    "category": "mood_swings",
+    "question": "Can I have depression only before my period",
+    "alternate_questions": ["Premenstrual depression", "Depressed only before period", "PMS depression", "Sad before menstruation", "Hormonal depression"],
+    "keywords": ["depression", "sad", "hopeless", "premenstrual", "cyclical", "hormonal"],
+    "answer": "Yes, it is possible to experience depression that only occurs before your period, which is a key feature of PMDD. This cyclical depression is caused by sensitivity to normal hormonal fluctuations rather than a separate depressive disorder. Symptoms include feeling sad, hopeless, worthless, guilty, or empty; losing interest in activities; fatigue; difficulty concentrating; and in severe cases, suicidal thoughts. Unlike major depression, these symptoms reliably appear 1-2 weeks before menstruation and resolve within a few days of bleeding starting. However, PMDD can coexist with depression or anxiety disorders, making diagnosis complex. If you experience premenstrual depression, track your symptoms carefully. If symptoms are severe or include suicidal thoughts, seek immediate help from a mental health professional. Treatment with SSRIs (taken daily or luteal phase only) or hormonal birth control can be very effective.",
+    "follow_up": ["Do you feel depressed only before your period?", "Have you had thoughts of self harm?", "Does it completely resolve after bleeding starts?", "Have you been evaluated for depression?"]
+  },
+  {
+    "id": 593,
+    "category": "mood_swings",
+    "question": "Mood tracking for menstrual health",
+    "alternate_questions": ["Track mood period", "Mood diary menstrual cycle", "How to track PMS mood", "Velora mood tracking", "Cycle mood patterns"],
+    "keywords": ["tracking", "diary", "patterns", "Velora", "app", "symptom log", "cycle"],
+    "answer": "Tracking your mood throughout your menstrual cycle is one of the most powerful tools for understanding and managing menstrual mood swings. Using Velora, log your emotions daily including: mood ratings (1-10), specific emotions (irritability, sadness, anxiety, anger), energy levels, sleep quality, physical symptoms, and any triggers or stressors. After 2-3 months, patterns will emerge showing when in your cycle mood changes occur, how severe they are, and what helps. This data is invaluable for: 1) Diagnosing PMDD (requires symptom tracking for diagnosis). 2) Predicting challenging days so you can plan self-care. 3) Communicating with healthcare providers about treatment needs. 4) Identifying personal triggers. 5) Validating your experience. Be honest and detailed in your tracking. Note both positive and negative emotions. Share your tracked data with your doctor or therapist for better care.",
+    "follow_up": ["Are you currently tracking your mood?", "How long have you been tracking?", "Have you noticed patterns?", "What do you want to learn from tracking?"]
+  },
+  {
+    "id": 594,
+    "category": "mood_swings",
+    "question": "How to explain PMS mood swings to partner",
+    "alternate_questions": ["Tell partner about PMS", "Partner doesn't understand mood swings", "Communicate period emotions", "Explain PMDD to boyfriend", "Partner support PMS"],
+    "keywords": ["partner", "communication", "boyfriend", "girlfriend", "spouse", "support", "relationship"],
+    "answer": "Communicating about PMS mood swings with your partner can improve understanding and support. Tips for the conversation: 1) Choose a calm time, not during an argument or when symptoms are severe. 2) Explain the biology - it's hormonal, not personal. Share how estrogen and progesterone fluctuations affect brain chemistry. 3) Be specific about your symptoms - 'I get irritable and need space' or 'I feel overwhelmed and need extra support.' 4) Share your tracking data from Velora to show patterns. 5) Tell them what helps - 'I need quiet time,' 'Hugs help,' 'Please don't take my irritability personally.' 6) Discuss what doesn't help - minimizing, joking, or walking on eggshells. 7) Create a plan together for difficult days. 8) Encourage them to ask questions. A supportive partner can make a huge difference. If they dismiss your experience, that may indicate a deeper relationship issue worth addressing.",
+    "follow_up": ["Have you talked to your partner about this?", "How do they currently respond?", "What do you need most from them?", "Are they open to learning?"]
+  },
+  {
+    "id": 595,
+    "category": "mood_swings",
+    "question": "Can ovulation cause mood changes",
+    "alternate_questions": ["Ovulation mood swing", "Fertile window emotions", "Happy ovulation", "Ovulation anxiety", "Hormones ovulation mood"],
+    "keywords": ["ovulation", "fertile window", "mid cycle", "estrogen peak", "positive mood"],
+    "answer": "Yes, ovulation can cause mood changes, often positive ones. Around ovulation, estrogen reaches its peak level, which can boost serotonin and create feelings of confidence, energy, sociability, and heightened sexuality. Many people feel their best emotionally during the fertile window. However, some people experience anxiety, moodiness, or irritability around ovulation due to the rapid hormone shifts. The luteinizing hormone (LH) surge that triggers ovulation can also affect mood. After ovulation, as estrogen drops and progesterone rises, mood typically shifts again. Some people with PMDD actually feel worse around ovulation rather than premenstrually. Tracking your mood with Velora can help you identify whether ovulation is a positive, negative, or neutral time for your emotions. Understanding your unique pattern empowers you to plan accordingly.",
+    "follow_up": ["How do you feel around ovulation?", "Do you notice a mid-cycle mood change?", "Is ovulation a good or challenging time?", "Are you tracking ovulation?"]
+  },
+  {
+    "id": 596,
+    "category": "mood_swings",
+    "question": "Postpartum mood swings",
+    "alternate_questions": ["After baby mood changes", "Postpartum emotions", "Baby blues vs depression", "Mood swings after birth", "Hormones after delivery mood"],
+    "keywords": ["postpartum", "baby blues", "depression", "after birth", "new mother", "hormones"],
+    "answer": "Postpartum mood swings are very common due to dramatic hormonal changes after delivery. Estrogen and progesterone levels drop sharply within 24 hours of birth, which can trigger emotional volatility. 'Baby blues' affect up to 80% of new parents and include mood swings, crying, anxiety, irritability, and feeling overwhelmed. These typically peak around day 3-5 postpartum and resolve within 2 weeks. Postpartum depression (PPD) is more severe and persistent, affecting about 15% of new parents. PPD symptoms include severe sadness, hopelessness, guilt, loss of interest, difficulty bonding with baby, and thoughts of self-harm or harming the baby. Postpartum psychosis is rare but serious, involving delusions, hallucinations, and confusion - this is a medical emergency. If mood swings persist beyond 2 weeks, worsen, or include scary thoughts, seek medical help immediately. Treatment includes therapy, medication, and support. You are not alone, and help is available.",
+    "follow_up": ["How long since delivery?", "Are symptoms getting better or worse?", "Do you have thoughts of harming yourself or baby?", "Do you have support at home?"]
+  },
+  {
+    "id": 597,
+    "category": "mood_swings",
+    "question": "Perimenopause mood swings",
+    "alternate_questions": ["Menopause mood changes", "Perimenopause emotions", "Hormonal mood swings 40s", "Pre menopause irritability", "Menopausal mood symptoms"],
+    "keywords": ["perimenopause", "menopause", "40s", "hormonal changes", "aging", "transition"],
+    "answer": "Perimenopause (the transition to menopause, typically ages 40-55) often causes significant mood swings due to fluctuating and declining estrogen levels. Unlike the regular monthly pattern of PMS, perimenopausal mood changes can be unpredictable and more intense. Symptoms include irritability, anxiety, depression, mood swings, tearfulness, rage, and difficulty concentrating. Sleep disruption from night sweats and hot flashes worsens mood. Some people experience 'menopause rage' - intense anger that feels foreign to their usual personality. These mood changes are real and biologically based, not a sign of weakness. Treatment options include: hormone therapy (estrogen or combined), SSRIs, lifestyle changes, cognitive behavioral therapy, and stress management. If mood swings are severe or accompanied by suicidal thoughts, seek professional help. Tracking symptoms with Velora during perimenopause can help identify patterns and guide treatment discussions.",
+    "follow_up": ["How old are you?", "Are you experiencing irregular periods?", "How severe are the mood swings?", "Are you having hot flashes or night sweats?"]
+  },
+  {
+    "id": 598,
+    "category": "mood_swings",
+    "question": "Can thyroid problems cause mood swings",
+    "alternate_questions": ["Thyroid mood changes", "Hypothyroidism emotions", "Hyperthyroidism mood", "Thyroid disorder period mood", "TSH mood swings"],
+    "keywords": ["thyroid", "hypothyroidism", "hyperthyroidism", "TSH", "T3", "T4", "hormonal imbalance"],
+    "answer": "Yes, thyroid disorders can cause or worsen mood swings and are often overlooked. The thyroid regulates metabolism and interacts with reproductive hormones. Hypothyroidism (underactive thyroid) commonly causes depression, fatigue, brain fog, irritability, and low mood. Hyperthyroidism (overactive thyroid) often causes anxiety, irritability, mood swings, restlessness, and sometimes mania-like symptoms. Thyroid issues can also cause menstrual irregularities, which may be mistaken for PMS or PMDD. Because symptoms overlap, it's important to have thyroid function tested (TSH, free T3, free T4) if you experience mood swings with menstrual changes, especially if you also have fatigue, weight changes, hair loss, or temperature sensitivity. Thyroid disorders are treatable with medication, and treating them often resolves mood symptoms. If you suspect thyroid issues, request comprehensive thyroid testing from your healthcare provider.",
+    "follow_up": ["Do you have other thyroid symptoms?", "Have you had thyroid tests?", "Is there family history of thyroid disease?", "Do you have fatigue or weight changes?"]
+  },
+  {
+    "id": 599,
+    "category": "mood_swings",
+    "question": "When should I see a doctor for mood swings",
+    "alternate_questions": ["Doctor mood swings period", "When to seek help PMS", "PMDD doctor visit", "Mental health period symptoms", "Severe mood swings medical help"],
+    "keywords": ["doctor", "healthcare provider", "seek help", "severe", "interference", "suicidal"],
+    "answer": "You should see a healthcare provider for menstrual mood swings if: 1) Symptoms severely interfere with work, school, relationships, or daily functioning. 2) You have thoughts of self-harm or suicide. 3) Mood swings are accompanied by severe physical symptoms. 4) Symptoms persist beyond your period or occur throughout your cycle. 5) You suspect PMDD rather than typical PMS. 6) Mood swings are new, worsening, or different from your usual pattern. 7) Self-care strategies haven't helped after 2-3 months. 8) You also have symptoms suggesting thyroid issues, depression, or anxiety disorders. 9) You need guidance on treatment options. Seek immediate emergency help if you have thoughts of harming yourself or others. For PMDD evaluation, bring 2-3 months of symptom tracking data. A mental health professional, gynecologist, or primary care provider can help. You deserve support and effective treatment.",
+    "follow_up": ["How severe are your symptoms?", "Do you have suicidal thoughts?", "Have you tried self-care strategies?", "Do you have a healthcare provider?"]
+  },
+  {
+    "id": 600,
+    "category": "mood_swings",
+    "question": "Can I have PMDD and depression",
+    "alternate_questions": ["PMDD comorbid depression", "PMDD and anxiety together", "PMDD plus bipolar", "Multiple mood disorders PMDD", "PMDD overlapping conditions"],
+    "keywords": ["comorbid", "coexisting", "depression", "anxiety", "bipolar", "overlapping", "complex"],
+    "answer": "Yes, PMDD can coexist with other mental health conditions including depression, anxiety disorders, bipolar disorder, and PTSD. This is called comorbidity and is fairly common. Having another mood disorder doesn't mean you don't also have PMDD, and vice versa. However, comorbidity can make diagnosis and treatment more complex. Key considerations: 1) If you have depression all month that worsens premenstrually, you may have both conditions. 2) Bipolar disorder can be mistaken for PMDD or coexist with it - mood stabilizers may be needed. 3) PTSD can worsen premenstrually due to heightened emotional sensitivity. 4) Treatment may need to address both conditions simultaneously. 5) SSRIs may help both PMDD and depression/anxiety. Accurate diagnosis requires careful symptom tracking and a knowledgeable mental health professional. Don't let complexity discourage you from seeking help - effective treatment is possible even with comorbid conditions.",
+    "follow_up": ["Do you have other diagnosed mental health conditions?", "Do symptoms occur all month or only premenstrually?", "Have you seen a mental health professional?", "What treatments have you tried?"]
+  },
+  {
+    "id": 601,
+    "category": "mood_swings",
+    "question": "SSRIs for PMS mood swings",
+    "alternate_questions": ["Antidepressants PMS", "Prozac premenstrual", "Zoloft PMDD", "SSRIs luteal phase", "Antidepressants only before period"],
+    "keywords": ["SSRIs", "antidepressants", "Prozac", "Zoloft", "fluoxetine", "sertraline", "medication"],
+    "answer": "SSRIs (selective serotonin reuptake inhibitors) are a first-line treatment for severe PMS and PMDD mood swings. Common options include fluoxetine (Prozac), sertraline (Zoloft), escitalopram (Lexapro), and citalopram (Celexa). They work by increasing serotonin levels in the brain, which helps regulate mood. SSRIs can be taken in two ways: 1) Continuous daily dosing - standard antidepressant regimen. 2) Luteal phase dosing - only during the 1-2 weeks before your period, starting when symptoms begin and stopping when menstruation starts. Luteal phase dosing is effective for many people with PMDD and reduces side effects and cost. SSRIs typically work faster for PMDD than for depression - sometimes within days. Common side effects include nausea, headache, decreased libido, and initial anxiety. Most people tolerate them well. If one SSRI doesn't work, another may. Work with a psychiatrist or knowledgeable provider to find the right approach.",
+    "follow_up": ["Have you tried SSRIs before?", "Are you open to medication?", "Do you prefer daily or luteal phase dosing?", "What side effects concern you?"]
+  },
+  {
+    "id": 602,
+    "category": "mood_swings",
+    "question": "Can therapy help with menstrual mood swings",
+    "alternate_questions": ["Counseling PMS", "Therapy PMDD", "CBT premenstrual", "Psychologist period mood", "Mental health support menstrual"],
+    "keywords": ["therapy", "counseling", "CBT", "psychologist", "mental health", "support", "talk therapy"],
+    "answer": "Yes, therapy can be very helpful for managing menstrual mood swings, especially for PMDD and severe PMS. Cognitive Behavioral Therapy (CBT) is particularly effective - it helps you identify negative thought patterns, develop coping strategies, and change behavioral responses to premenstrual symptoms. CBT can reduce the emotional impact of mood swings even if physical symptoms persist. Other helpful approaches include: 1) Mindfulness-Based Cognitive Therapy (MBCT) - combines meditation with CBT techniques. 2) Interpersonal Therapy (IPT) - focuses on relationship issues that may worsen premenstrually. 3) Dialectical Behavior Therapy (DBT) - teaches emotional regulation skills. 4) Support groups - connecting with others who understand PMDD. Therapy is often used alongside medication for best results. If you cannot access in-person therapy, online therapy platforms, self-help CBT workbooks, and PMDD support communities can provide valuable support. You don't have to manage this alone.",
+    "follow_up": ["Have you tried therapy before?", "What type of therapy interests you?", "Do you have access to mental health services?", "Are you interested in CBT specifically?"]
+  },
+  {
+    "id": 603,
+    "category": "mood_swings",
+    "question": "Why do I feel good during my period",
+    "alternate_questions": ["Happy during period", "Relief menstruation", "Period feel better", "Mood improves bleeding", "Menstruation positive mood"],
+    "keywords": ["feel good", "happy", "relief", "positive", "menstruation", "bleeding", "improvement"],
+    "answer": "Feeling better or even euphoric during your period is a real experience for many people and has biological explanations. As menstruation begins, progesterone and estrogen levels drop to their lowest point. For some people, especially those sensitive to progesterone, this drop brings relief from premenstrual symptoms. The physical release of bleeding can feel like a relief after days of tension and bloating. Additionally, some people experience a small testosterone peak during menstruation, which can boost energy and mood. The end of PMS symptoms themselves - reduced bloating, breast tenderness, and mood swings - naturally improves wellbeing. For people with PMDD, the first day of bleeding often brings dramatic relief from depression and anxiety. This pattern of feeling worst before the period and better during it is actually a diagnostic clue for PMDD. Enjoy feeling good and use this time for activities that require more energy or social interaction.",
+    "follow_up": ["Do you consistently feel better during your period?", "How do you feel in other cycle phases?", "Do you have PMS or PMDD symptoms before?", "How can you use this good phase?"]
+  },
+  {
+    "id": 604,
+    "category": "mood_swings",
+    "question": "Can birth control make mood swings worse",
+    "alternate_questions": ["Pill made me depressed", "Birth control mood side effects", "Hormonal contraception depression", "IUD mood changes", "Contraception worsen emotions"],
+    "keywords": ["worse", "side effects", "depression", "anxiety", "hormonal contraception", "reaction"],
+    "answer": "Yes, hormonal birth control can worsen mood swings for some people. While many find hormonal contraception stabilizes their mood by suppressing ovulation, others experience depression, anxiety, irritability, or emotional numbness. Progestin-only methods (mini pill, implant, shot) seem more likely to negatively affect mood in some studies. Combined pills with certain progestins may also cause mood issues. The mechanism isn't fully understood but may involve individual sensitivity to synthetic hormones affecting neurotransmitters. If you notice mood worsening after starting hormonal birth control, don't ignore it. Options: 1) Try a different formulation - pills with drospirenone or different estrogen doses may work better. 2) Consider non-hormonal options like copper IUD or barrier methods. 3) Track your mood meticulously to confirm the connection. 4) Discuss with your provider - they can help you switch or explore alternatives. Your mental health matters as much as contraceptive efficacy.",
+    "follow_up": ["What birth control are you using?", "Did mood changes start after beginning it?", "How severe are the mood changes?", "Have you tried different formulations?"]
+  },
+  {
+    "id": 605,
+    "category": "mood_swings",
+    "question": "Mood swings and PCOS",
+    "alternate_questions": ["PCOS mood changes", "Polycystic ovary syndrome emotions", "PCOS depression anxiety", "Hormonal imbalance mood PCOS", "PCOS mental health"],
+    "keywords": ["PCOS", "polycystic ovary syndrome", "androgens", "insulin resistance", "depression", "anxiety"],
+    "answer": "PCOS is associated with higher rates of mood disorders including depression, anxiety, and mood swings. Several factors contribute: 1) Hormonal imbalance - elevated androgens and insulin resistance affect brain chemistry and mood regulation. 2) Body image concerns - symptoms like weight gain, acne, and excess hair growth can impact self-esteem. 3) Fertility concerns - PCOS is a leading cause of infertility, which causes significant emotional distress. 4) Metabolic factors - insulin resistance and inflammation are linked to depression. 5) Sleep disruption - PCOS increases risk of sleep apnea, worsening mood. 6) Chronic stress - managing a complex condition is emotionally taxing. Treatment approaches that address both PCOS and mood include: lifestyle changes (exercise, diet), metformin for insulin resistance, hormonal birth control, mental health support, and sometimes antidepressants. Addressing the root causes of PCOS often improves mood. You deserve comprehensive care for both physical and mental health aspects.",
+    "follow_up": ["Do you have a PCOS diagnosis?", "What PCOS symptoms do you experience?", "How is your mood overall?", "Are you receiving treatment for PCOS?"]
+  }
+  ]

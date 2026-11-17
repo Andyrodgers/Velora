@@ -1,0 +1,47 @@
+[
+  {
+    "id": 331,
+    "category": "breakfast",
+    "question": "What are good breakfast ideas for my period?",
+    "alternate_questions": ["Best breakfast for menstruation", "Healthy period breakfast", "Breakfast for cramps"],
+    "keywords": ["breakfast", "period", "healthy", "oats", "eggs", "smoothie"],
+    "answer": "Great breakfast options include oatmeal with berries and seeds (high in fiber and antioxidants), Greek yogurt with fruit (calcium and protein), or eggs with spinach and whole-grain toast (iron and protein). A smoothie with leafy greens and a banana is also a quick, nutrient-dense choice.",
+    "follow_up": ["Why is fiber important during my period?", "Which fruits are best for breakfast?", "Can breakfast help with energy levels?"]
+  },
+  {
+    "id": 332,
+    "category": "breakfast",
+    "question": "Does eating breakfast help with morning nausea during my cycle?",
+    "alternate_questions": ["Breakfast for period nausea", "Should I eat breakfast if I feel sick?", "Morning sickness and breakfast"],
+    "keywords": ["breakfast", "nausea", "morning", "sick", "stomach"],
+    "answer": "Yes, eating a small, bland breakfast like dry toast or crackers can often help settle your stomach if you're feeling nauseous. Avoiding very oily or sugary foods in the morning can also prevent worsening the feeling.",
+    "follow_up": ["What are bland breakfast foods?", "Does ginger tea help in the morning?", "Why do I feel nauseous in the morning?"]
+  },
+  {
+    "id": 333,
+    "category": "breakfast",
+    "question": "Why should I include protein in my breakfast?",
+    "alternate_questions": ["Benefits of protein for breakfast", "High-protein breakfast ideas", "Protein and hormones"],
+    "keywords": ["protein", "breakfast", "energy", "hormones", "blood sugar"],
+    "answer": "Including protein in your breakfast helps stabilize your blood sugar levels, which can improve your mood and provide sustained energy throughout the morning. This is especially helpful during your period when energy levels may dip.",
+    "follow_up": ["What are good sources of protein?", "Does protein help with cravings?", "How much protein do I need?"]
+  },
+  {
+    "id": 334,
+    "category": "breakfast",
+    "question": "Is coffee a good part of breakfast during my period?",
+    "alternate_questions": ["Can I drink coffee for breakfast on my period?", "Caffeine for breakfast and cramps", "Should I avoid coffee in the morning?"],
+    "keywords": ["coffee", "caffeine", "breakfast", "period", "cramps"],
+    "answer": "While many enjoy coffee, caffeine can sometimes worsen breast tenderness or anxiety for some people during their cycle. If you notice it affects you, try switching to decaf or green tea, or ensure you're drinking plenty of water as well.",
+    "follow_up": ["Does caffeine cause cramps?", "What are good coffee alternatives?", "How does tea affect my cycle?"]
+  },
+  {
+    "id": 335,
+    "category": "breakfast",
+    "question": "Can oatmeal help with PMS symptoms?",
+    "alternate_questions": ["Benefits of oats for PMS", "Oatmeal for mood and energy", "Why are oats good for my cycle?"],
+    "keywords": ["oatmeal", "oats", "pms", "symptoms", "fiber", "magnesium"],
+    "answer": "Oatmeal is an excellent breakfast choice because it's rich in fiber, which helps with digestion and hormone balance, and contains magnesium and B vitamins, which can help improve mood and reduce PMS symptoms.",
+    "follow_up": ["What should I add to my oatmeal?", "Does magnesium help with PMS?", "Other high-fiber breakfast ideas?"]
+  }
+]

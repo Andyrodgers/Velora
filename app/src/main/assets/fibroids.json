@@ -1,0 +1,47 @@
+[
+  {
+    "id": 511,
+    "category": "fibroids",
+    "question": "What are uterine fibroids?",
+    "alternate_questions": ["Leiomyomas", "What are fibroids in the uterus?", "Are fibroids cancerous?"],
+    "keywords": ["fibroids", "uterus", "leiomyomas", "growths", "benign"],
+    "answer": "Uterine fibroids are noncancerous growths of the uterus that often appear during childbearing years. They are not associated with an increased risk of uterine cancer and almost never develop into cancer.",
+    "follow_up": ["What are the symptoms of fibroids?", "How are fibroids treated?", "Can fibroids affect pregnancy?"]
+  },
+  {
+    "id": 512,
+    "category": "fibroids",
+    "question": "What are the common symptoms of fibroids?",
+    "alternate_questions": ["Signs of uterine fibroids", "How do I know if I have fibroids?", "Fibroid symptoms list"],
+    "keywords": ["fibroids", "symptoms", "heavy periods", "pelvic pain", "frequent urination"],
+    "answer": "Common symptoms include heavy menstrual bleeding, menstrual periods lasting more than a week, pelvic pressure or pain, frequent urination, difficulty emptying the bladder, and constipation.",
+    "follow_up": ["Do fibroids cause heavy periods?", "Can fibroids cause back pain?", "When to see a doctor for fibroid symptoms?"]
+  },
+  {
+    "id": 513,
+    "category": "fibroids",
+    "question": "How are fibroids diagnosed?",
+    "alternate_questions": ["Testing for uterine fibroids", "Fibroid diagnosis", "How does a doctor find fibroids?"],
+    "keywords": ["fibroids", "diagnosis", "ultrasound", "pelvic exam", "mri"],
+    "answer": "Fibroids are often found during a routine pelvic exam. Diagnosis can be confirmed using imaging tests like an ultrasound, which uses sound waves to get a picture of your uterus, or an MRI for more detail.",
+    "follow_up": ["What is a pelvic ultrasound?", "Are there blood tests for fibroids?", "What happens after diagnosis?"]
+  },
+  {
+    "id": 514,
+    "category": "fibroids",
+    "question": "What causes uterine fibroids?",
+    "alternate_questions": ["Why do fibroids grow?", "Fibroid risk factors", "Who gets fibroids?"],
+    "keywords": ["fibroids", "cause", "hormones", "estrogen", "genetics"],
+    "answer": "The exact cause of fibroids is unknown, but they are linked to hormones (estrogen and progesterone) and genetics. Risk factors include age (more common as you get older), family history, and obesity.",
+    "follow_up": ["Does diet affect fibroid growth?", "Can stress cause fibroids?", "Do fibroids shrink after menopause?"]
+  },
+  {
+    "id": 515,
+    "category": "fibroids",
+    "question": "How are fibroids treated?",
+    "alternate_questions": ["Treatment for uterine fibroids", "Fibroid removal options", "Managing fibroid symptoms"],
+    "keywords": ["fibroids", "treatment", "surgery", "medication", "myomectomy"],
+    "answer": "Treatment options range from watchful waiting to medications that regulate your cycle or shrink fibroids, and surgical procedures like myomectomy (removing the fibroids) or hysterectomy (removing the uterus).",
+    "follow_up": ["What is a myomectomy?", "Are there non-surgical fibroid treatments?", "Can birth control treat fibroids?"]
+  }
+]

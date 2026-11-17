@@ -1,0 +1,47 @@
+[
+  {
+    "id": 181,
+    "category": "pain",
+    "question": "Why do I have pelvic pain?",
+    "alternate_questions": ["What causes pain in my lower abdomen?", "Pelvic pain causes", "Is pelvic pain normal?"],
+    "keywords": ["pain", "pelvic", "abdomen", "cause", "lower"],
+    "answer": "Pelvic pain can be caused by various factors, including menstrual cramps, ovulation (Mittelschmerz), pelvic inflammatory disease (PID), endometriosis, or ovarian cysts. It's important to track when the pain occurs in your cycle.",
+    "follow_up": ["What is Mittelschmerz?", "Can ovulation cause pain?", "When should I see a doctor for pelvic pain?"]
+  },
+  {
+    "id": 182,
+    "category": "pain",
+    "question": "How can I manage period pain at home?",
+    "alternate_questions": ["Home remedies for period pain", "Natural pain relief for menstruation", "How to stop period pain without meds?"],
+    "keywords": ["manage", "pain", "relief", "home", "remedies"],
+    "answer": "Home management for period pain includes applying heat, taking warm baths, gentle exercise, staying hydrated, and using relaxation techniques. Some find relief with herbal teas like ginger or chamomile.",
+    "follow_up": ["Does heat help pain?", "What exercises are best for pain?", "Which teas help with period cramps?"]
+  },
+  {
+    "id": 183,
+    "category": "pain",
+    "question": "Can I take ibuprofen for period pain?",
+    "alternate_questions": ["What meds are good for period cramps?", "Is Advil okay for my period?", "Painkillers for menstruation"],
+    "keywords": ["ibuprofen", "pain", "medication", "cramps", "advil"],
+    "answer": "Yes, nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or naproxen are often effective for period pain as they reduce the production of prostaglandins, which cause the uterus to contract.",
+    "follow_up": ["What is the recommended dosage?", "Are there side effects to NSAIDs?", "Can I take paracetamol instead?"]
+  },
+  {
+    "id": 184,
+    "category": "pain",
+    "question": "Why does my back hurt during my period?",
+    "alternate_questions": ["Lower back pain and periods", "Period-related backaches", "Is back pain a period symptom?"],
+    "keywords": ["back", "pain", "period", "symptom", "lower back"],
+    "answer": "Lower back pain is common during menstruation and is often caused by the same prostaglandins that trigger uterine contractions. The pain can radiate from the uterus to the lower back muscles.",
+    "follow_up": ["How to relieve back pain?", "Can yoga help with backaches?", "Is severe back pain normal?"]
+  },
+  {
+    "id": 185,
+    "category": "pain",
+    "question": "What is 'Mittelschmerz'?",
+    "alternate_questions": ["Pain during ovulation", "Why do I hurt in the middle of my cycle?", "Ovulation pain explained"],
+    "keywords": ["mittelschmerz", "ovulation", "pain", "cycle", "middle"],
+    "answer": "Mittelschmerz is one-sided, lower abdominal pain associated with ovulation. it occurs midway through the menstrual cycle when an egg is released from the ovary.",
+    "follow_up": ["How long does ovulation pain last?", "Which side does ovulation pain occur on?", "Is ovulation pain a sign of fertility?"]
+  }
+]

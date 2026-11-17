@@ -1,0 +1,182 @@
+[
+  {
+    "id": 301,
+    "category": "brown_blood",
+    "question": "Why is my period blood brown",
+    "alternate_questions": ["Brown period blood", "Why is my blood brown", "Dark brown menstruation", "Brown discharge during period", "Why isn't my blood red"],
+    "keywords": ["brown blood", "old blood", "oxidized", "period", "normal"],
+    "answer": "Brown period blood is completely normal and simply indicates older blood that has had time to oxidize before leaving your body. It's common at the beginning or end of your period when flow is slower. Brown blood is not a sign of anything wrong in most cases. However, if brown discharge persists outside your period, has a foul odor, or is accompanied by pain, see a healthcare provider.",
+    "follow_up": ["When during your cycle does the brown blood appear?", "Is there any unusual odor?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 302,
+    "category": "brown_blood",
+    "question": "Why do I have brown discharge before my period",
+    "alternate_questions": ["Brown spotting before period", "Dark discharge premenstrual", "Why is my pre-period blood brown", "Brown before menstruation", "Old blood before period"],
+    "keywords": ["brown discharge", "before period", "premenstrual", "old blood", "spotting"],
+    "answer": "Brown discharge before your period is usually old blood from the previous cycle that's being expelled as your uterus prepares to shed its lining. It's common 1-2 days before your period starts. This can also indicate low progesterone levels (luteal phase defect), where the uterine lining starts breaking down early. If it happens consistently and you're trying to conceive, mention it to your doctor as it might affect implantation.",
+    "follow_up": ["How many days before your period does this start?", "Is this a new occurrence?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 303,
+    "category": "brown_blood",
+    "question": "Why do I have brown discharge after my period",
+    "alternate_questions": ["Brown spotting after period", "Dark discharge postmenstrual", "Why is my post-period blood brown", "Brown after menstruation", "Old blood after period"],
+    "keywords": ["brown discharge", "after period", "postmenstrual", "old blood", "spotting"],
+    "answer": "Brown discharge after your period is very common and is simply the last of the menstrual blood leaving your body. As flow slows, blood takes longer to exit and oxidizes, turning brown. This is normal and usually lasts 1-2 days after your period ends. If brown discharge persists for more than 3 days after your period, or occurs regularly outside your period, consult a healthcare provider to rule out hormonal issues or infection.",
+    "follow_up": ["How long does the brown discharge last?", "Is this a recent change?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 304,
+    "category": "brown_blood",
+    "question": "Is brown blood at the beginning of my period normal",
+    "alternate_questions": ["Brown start to period", "Dark blood first day", "Why does my period start brown", "Brown then red period", "Beginning of period brown"],
+    "keywords": ["brown blood", "beginning", "start", "period", "normal"],
+    "answer": "Yes, it's very common for periods to start with brown blood. This is older blood from the previous cycle or blood that has been slowly leaving the uterus and oxidizing before your flow picks up. Once your flow increases, the blood typically becomes brighter red. Starting with brown blood is completely normal and not a cause for concern unless accompanied by unusual symptoms like severe pain or foul odor.",
+    "follow_up": ["Does it turn red after the first day?", "How long does the brown phase last?", "Do you have pain or odor?"]
+  },
+  {
+    "id": 305,
+    "category": "brown_blood",
+    "question": "Is brown blood at the end of my period normal",
+    "alternate_questions": ["Brown end of period", "Dark blood last day", "Why does my period end brown", "Red then brown period", "End of menstruation brown"],
+    "keywords": ["brown blood", "end", "finish", "period", "normal"],
+    "answer": "Yes, it's very normal for periods to end with brown blood. As your flow slows down, blood takes longer to travel through the vagina and has time to oxidize, turning from red to brown or even black. This is simply old blood and is a sign that your period is finishing. It's completely normal and healthy. The brown discharge may last a day or two after your main flow stops.",
+    "follow_up": ["How long does the brown phase last?", "Does it eventually stop completely?", "Is there any irritation or odor?"]
+  },
+  {
+    "id": 306,
+    "category": "brown_blood",
+    "question": "Why is my brown discharge smelly",
+    "alternate_questions": ["Brown blood odor", "Foul smelling brown discharge", "Stinky brown period blood", "Brown discharge with bad smell", "Why does my brown blood smell"],
+    "keywords": ["brown discharge", "odor", "smell", "infection", "bacterial vaginosis"],
+    "answer": "Brown discharge with a foul, fishy, or rotten odor is NOT normal and usually indicates an infection. Bacterial vaginosis commonly causes grayish or brown discharge with a fishy odor. A retained tampon can cause brown, foul-smelling discharge and requires immediate removal. Trichomoniasis and other STIs can also cause odor. If you have brown discharge with a bad smell, see a healthcare provider promptly for testing and treatment.",
+    "follow_up": ["What does the odor smell like?", "Do you have itching or burning?", "Could you have a retained tampon?", "When did you notice the smell?"]
+  },
+  {
+    "id": 307,
+    "category": "brown_blood",
+    "question": "Can brown discharge mean I'm pregnant",
+    "alternate_questions": ["Brown spotting pregnancy", "Brown discharge early pregnancy", "Implantation bleeding brown", "Brown blood pregnant", "Pregnancy brown discharge"],
+    "keywords": ["brown discharge", "pregnancy", "implantation", "early pregnancy", "spotting"],
+    "answer": "Brown discharge can occur in early pregnancy, particularly as implantation bleeding. This happens 6-12 days after conception when the fertilized egg attaches to the uterine lining, causing light spotting that may be brown (old blood). However, brown discharge alone is not a reliable pregnancy sign. If you suspect pregnancy, take a test. Brown discharge during pregnancy can also be normal, but any bleeding during pregnancy should be reported to your provider.",
+    "follow_up": ["Have you had unprotected sex?", "When is your period due?", "Do you have other pregnancy symptoms?", "Have you taken a pregnancy test?"]
+  },
+  {
+    "id": 308,
+    "category": "brown_blood",
+    "question": "Can ovulation cause brown discharge",
+    "alternate_questions": ["Brown discharge ovulation", "Ovulation spotting brown", "Mid-cycle brown blood", "Why do I have brown discharge when ovulating", "Brown cervical mucus ovulation"],
+    "keywords": ["brown discharge", "ovulation", "mid-cycle", "spotting", "cervical mucus"],
+    "answer": "Yes, some people experience light brown spotting during ovulation. This occurs when the egg is released from the ovary, sometimes causing minor bleeding that mixes with cervical mucus and appears brown as it exits. Ovulation spotting is usually very light, lasts 1-2 days, and occurs around day 14 of a 28-day cycle. It's generally harmless and can be used as a fertility sign, but track it to confirm the pattern.",
+    "follow_up": ["Does this occur mid-cycle?", "How long does it last?", "Do you track ovulation?", "Is it accompanied by pain?"]
+  },
+  {
+    "id": 309,
+    "category": "brown_blood",
+    "question": "Can birth control cause brown discharge",
+    "alternate_questions": ["Pill brown discharge", "IUD brown spotting", "Implant brown blood", "Why does birth control make brown discharge", "Hormonal contraception brown"],
+    "keywords": ["birth control", "brown discharge", "hormonal", "breakthrough bleeding", "adjustment"],
+    "answer": "Yes, hormonal birth control commonly causes brown discharge, especially in the first 3-6 months as your body adjusts. The hormones thin the uterine lining, and the small amount of tissue may oxidize before exiting, appearing brown. This is particularly common with low-dose pills, implants, and hormonal IUDs. While usually harmless, persistent brown discharge with odor, pain, or after 6 months should be evaluated by your provider.",
+    "follow_up": ["What birth control are you using?", "How long have you been on it?", "Is there any odor or pain?", "Is it improving over time?"]
+  },
+  {
+    "id": 310,
+    "category": "brown_blood",
+    "question": "Can perimenopause cause brown discharge",
+    "alternate_questions": ["Perimenopause brown spotting", "Menopause transition brown blood", "Why brown discharge in my 40s", "Aging and brown discharge", "Perimenopause old blood"],
+    "keywords": ["perimenopause", "brown discharge", "aging", "hormonal fluctuation", "menopause transition"],
+    "answer": "Yes, perimenopause commonly causes brown discharge due to hormonal fluctuations. As estrogen and progesterone levels become unpredictable, the uterine lining may shed irregularly, and the slow flow allows blood to oxidize, appearing brown. This can happen between periods, after periods, or instead of a regular period. While often normal during this transition, any postmenopausal bleeding or significant changes should be evaluated by a doctor.",
+    "follow_up": ["How old are you?", "Are you having other perimenopause symptoms?", "How long has the brown discharge been occurring?", "Are you postmenopausal?"]
+  },
+  {
+    "id": 311,
+    "category": "brown_blood",
+    "question": "Can a yeast infection cause brown discharge",
+    "alternate_questions": ["Yeast infection brown blood", "Candida brown discharge", "Why brown discharge with yeast infection", "Thrush and brown spotting", "Fungal infection brown"],
+    "keywords": ["yeast infection", "brown discharge", "candida", "infection", "unusual"],
+    "answer": "Yeast infections typically cause thick, white, cottage cheese-like discharge without odor, not brown discharge. However, if you have a yeast infection and are also spotting from another cause (like hormonal changes or cervical irritation), the blood may mix with yeast infection discharge and appear brown. Brown discharge with a yeast infection is not typical and should be evaluated to ensure there isn't another underlying cause.",
+    "follow_up": ["Do you have itching and thick white discharge?", "Is the brown discharge separate from the yeast symptoms?", "Have you been treated for the yeast infection?"]
+  },
+  {
+    "id": 312,
+    "category": "brown_blood",
+    "question": "Can bacterial vaginosis cause brown discharge",
+    "alternate_questions": ["BV brown discharge", "Bacterial vaginosis brown blood", "Why does BV cause brown discharge", "Bacterial infection brown spotting", "Gardnerella brown"],
+    "keywords": ["bacterial vaginosis", "brown discharge", "BV", "infection", "odor"],
+    "answer": "Bacterial vaginosis (BV) typically causes thin, grayish-white discharge with a fishy odor, but it can sometimes cause brown discharge, especially if there's minor cervical bleeding mixed with the discharge. The brown color comes from oxidized blood. If you have brown discharge with a fishy odor, especially after sex, see a healthcare provider for BV testing and treatment with antibiotics.",
+    "follow_up": ["Do you have a fishy odor?", "Is the discharge thin and watery?", "Do you have itching or burning?", "Does it worsen after sex?"]
+  },
+  {
+    "id": 313,
+    "category": "brown_blood",
+    "question": "Why do I have black period blood",
+    "alternate_questions": ["Black menstrual blood", "Very dark period blood", "Why is my blood almost black", "Black discharge during period", "Darkest period blood"],
+    "keywords": ["black blood", "very old blood", "oxidized", "period", "normal variation"],
+    "answer": "Black period blood is simply very old blood that has had maximum time to oxidize before leaving your body. It's most common at the very beginning or end of your period when flow is extremely slow. Think of it like a very old bruise. While it can look alarming, black blood is usually normal. However, if you have black discharge accompanied by severe pain, fever, or a foul odor, seek medical attention as this could indicate infection or tissue death.",
+    "follow_up": ["When during your period does the black blood appear?", "Is there any odor?", "Do you have severe pain or fever?"]
+  },
+  {
+    "id": 314,
+    "category": "brown_blood",
+    "question": "Can endometriosis cause brown discharge",
+    "alternate_questions": ["Endo brown discharge", "Endometriosis old blood", "Why does endometriosis cause brown blood", "Endometriosis dark discharge", "Endo chocolate cysts"],
+    "keywords": ["endometriosis", "brown discharge", "old blood", "endo", "cysts"],
+    "answer": "Yes, endometriosis can cause brown discharge. Endometrial tissue growing outside the uterus bleeds during your cycle but has nowhere to exit, creating 'old blood' that may appear as brown discharge. Endometriomas (chocolate cysts on the ovaries) contain old, brown blood that can leak. Endometriosis often causes brown discharge along with severe cramps, pain during sex, and fertility issues. If you suspect endometriosis, see a gynecologist.",
+    "follow_up": ["Do you have severe period pain?", "Do you have pain during sex?", "Do you have fertility concerns?", "Have you been evaluated for endometriosis?"]
+  },
+  {
+    "id": 315,
+    "category": "brown_blood",
+    "question": "Can a miscarriage cause brown discharge",
+    "alternate_questions": ["Brown discharge miscarriage", "Early pregnancy loss brown blood", "Threatened miscarriage brown", "Brown spotting pregnancy loss", "Miscarriage old blood"],
+    "keywords": ["miscarriage", "brown discharge", "early pregnancy", "pregnancy loss", "spotting"],
+    "answer": "Yes, brown discharge can occur with a miscarriage, particularly as the bleeding slows and old blood exits. However, brown discharge alone does not indicate a miscarriage. Many people have healthy pregnancies with some spotting. If you're pregnant and have any bleeding, especially with cramping, back pain, or tissue passing, contact your healthcare provider immediately. They can do an ultrasound and check hCG levels to assess the pregnancy.",
+    "follow_up": ["Are you currently pregnant?", "Do you have cramping or pain?", "Have you had an ultrasound?", "How far along are you?"]
+  },
+  {
+    "id": 316,
+    "category": "brown_blood",
+    "question": "Can cervical cancer cause brown discharge",
+    "alternate_questions": ["Cervical cancer brown blood", "Cancer brown spotting", "Why does cervical cancer cause brown discharge", "Malignancy old blood", "Cervical cancer discharge color"],
+    "keywords": ["cervical cancer", "brown discharge", "malignancy", "warning sign", "screening"],
+    "answer": "Yes, cervical cancer can cause brown discharge, often with a foul odor, and typically occurs after sex or between periods. However, this is rare, especially in people who get regular Pap smears. Most brown discharge is completely benign. Risk factors for cervical cancer include HPV infection, smoking, multiple sexual partners, and not getting screened. Regular Pap smears and HPV vaccination are the best protections. If you have persistent unusual discharge, see your doctor.",
+    "follow_up": ["When was your last Pap smear?", "Are you up to date on cervical screening?", "Do you have other risk factors?", "Is the discharge persistent?"]
+  },
+  {
+    "id": 317,
+    "category": "brown_blood",
+    "question": "Why do I have brown discharge instead of my period",
+    "alternate_questions": ["Brown discharge not period", "Why no red blood", "Brown instead of menstruation", "Dark discharge instead of period", "Where is my real period"],
+    "keywords": ["brown discharge", "instead of period", "missed period", "hormonal", "anovulatory"],
+    "answer": "Having brown discharge instead of a normal period can indicate: an anovulatory cycle (no egg released, so progesterone doesn't rise properly), hormonal imbalance, perimenopause, pregnancy (implantation bleeding or early pregnancy spotting), stress, or thyroid issues. The brown color suggests minimal, slow bleeding. If this happens once, it's usually not concerning. If it happens for 3+ cycles, or you're trying to conceive, see a healthcare provider for evaluation.",
+    "follow_up": ["Have you taken a pregnancy test?", "Is this the first time this has happened?", "Are you under stress?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 318,
+    "category": "brown_blood",
+    "question": "Can dehydration cause brown discharge",
+    "alternate_questions": ["Not drinking enough brown blood", "Dehydration period color", "Why does dehydration affect period blood", "Water intake and brown discharge", "Dryness brown blood"],
+    "keywords": ["dehydration", "brown discharge", "water intake", "concentration", "health"],
+    "answer": "Dehydration doesn't directly cause brown discharge, but it can affect your overall menstrual health. When dehydrated, blood volume decreases and blood may be more concentrated, potentially making period blood appear darker. Proper hydration supports healthy blood flow and can help reduce cramps. If you're noticing darker blood, ensure you're drinking enough water (about 8 glasses daily), but also consider if the brown color is simply normal old blood at the start or end of your period.",
+    "follow_up": ["Are you drinking enough water?", "When in your cycle does the brown blood appear?", "Do you have other dehydration symptoms?"]
+  },
+  {
+    "id": 319,
+    "category": "brown_blood",
+    "question": "Can exercise cause brown discharge",
+    "alternate_questions": ["Workout brown spotting", "Exercise dark discharge", "Why do I have brown blood after exercise", "Fitness and brown discharge", "Intense workout old blood"],
+    "keywords": ["exercise", "brown discharge", "spotting", "fitness", "breakthrough bleeding"],
+    "answer": "Intense exercise can sometimes cause spotting or brown discharge due to hormonal fluctuations and physical stress on the body. Exercise-induced breakthrough bleeding may appear brown because it's light and slow-flowing. However, regular moderate exercise shouldn't cause brown discharge. If you consistently have brown discharge after workouts, especially with other symptoms like pain or fatigue, see a healthcare provider to rule out underlying issues.",
+    "follow_up": ["How intense is your exercise routine?", "Does it happen after specific activities?", "Are you eating enough for your activity level?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 320,
+    "category": "brown_blood",
+    "question": "Can uterine fibroids cause brown discharge",
+    "alternate_questions": ["Fibroids brown blood", "Myoma brown discharge", "Why do fibroids cause brown discharge", "Uterine fibroids old blood", "Fibroid brown spotting"],
+    "keywords": ["fibroids", "brown discharge", "uterine", "old blood", "spotting"],
+    "answer": "Yes, uterine fibroids can cause brown discharge, especially if they're submucosal (bulging into the uterine cavity). Fibroids can cause irregular bleeding, and when the flow is slow, the blood oxidizes and appears brown. Fibroids often also cause heavy periods, prolonged bleeding, pelvic pressure, and frequent urination. If you have brown discharge with these symptoms, see a gynecologist for ultrasound evaluation.",
+    "follow_up": ["Do you have heavy periods too?", "Do you have pelvic pressure or pain?", "Do you urinate frequently?", "Have you been evaluated for fibroids?"]
+  }
+]

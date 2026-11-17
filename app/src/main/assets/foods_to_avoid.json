@@ -1,0 +1,47 @@
+[
+  {
+    "id": 411,
+    "category": "foods_to_avoid",
+    "question": "What foods should I avoid during my period?",
+    "alternate_questions": ["Foods that make period symptoms worse", "What not to eat during menstruation", "Dietary restrictions for my cycle"],
+    "keywords": ["avoid", "food", "period", "salt", "sugar", "caffeine", "processed"],
+    "answer": "Try to limit high-salt foods (which increase bloating), high-sugar foods (which cause energy crashes), and excessive caffeine (which can worsen anxiety and breast tenderness). Highly processed and fried foods can also increase inflammation.",
+    "follow_up": ["Why does salt cause bloating?", "How does caffeine affect periods?", "What are alternatives to sugary snacks?"]
+  },
+  {
+    "id": 412,
+    "category": "foods_to_avoid",
+    "question": "Does caffeine make period cramps worse?",
+    "alternate_questions": ["Should I stop drinking coffee on my period?", "Caffeine and menstrual pain", "Impact of caffeine on my cycle"],
+    "keywords": ["caffeine", "cramps", "period", "pain", "coffee"],
+    "answer": "For some, caffeine can constrict blood vessels and increase tension, which might worsen cramps. It can also contribute to breast tenderness and anxiety during your period.",
+    "follow_up": ["Is decaf okay?", "What are good coffee alternatives?", "How much caffeine is too much?"]
+  },
+  {
+    "id": 413,
+    "category": "foods_to_avoid",
+    "question": "Why should I avoid salty foods during my period?",
+    "alternate_questions": ["Salt and period bloating", "Impact of sodium on menstruation", "Does salt cause water retention?"],
+    "keywords": ["salt", "sodium", "bloating", "period", "water retention"],
+    "answer": "High sodium intake causes your body to retain more water, which leads to bloating and a feeling of heaviness, both of which are common and uncomfortable period symptoms.",
+    "follow_up": ["What are hidden sources of salt?", "How to reduce salt in my diet?", "Does drinking water help with salt intake?"]
+  },
+  {
+    "id": 414,
+    "category": "foods_to_avoid",
+    "question": "Can sugar affect my mood during PMS?",
+    "alternate_questions": ["Sugar and PMS mood swings", "Does candy make me more irritable?", "Impact of sweets on premenstrual syndrome"],
+    "keywords": ["sugar", "mood", "pms", "irritability", "energy crash"],
+    "answer": "Yes, while sugar might give you a temporary 'high,' it's often followed by a crash that can worsen irritability, fatigue, and mood swings associated with PMS.",
+    "follow_up": ["Healthy alternatives to sugar?", "How to manage sugar cravings?", "Does fruit cause a sugar crash?"]
+  },
+  {
+    "id": 415,
+    "category": "foods_to_avoid",
+    "question": "Is alcohol bad during my period?",
+    "alternate_questions": ["Drinking on my period", "Does alcohol affect my cycle?", "Alcohol and period symptoms"],
+    "keywords": ["alcohol", "period", "symptoms", "dehydration", "mood"],
+    "answer": "Alcohol can cause dehydration, which may worsen headaches and bloating. It can also disrupt your sleep and potentially intensify mood swings during your period.",
+    "follow_up": ["Does alcohol affect cramps?", "Can alcohol change my period dates?", "Should I avoid alcohol completely during my cycle?"]
+  }
+]

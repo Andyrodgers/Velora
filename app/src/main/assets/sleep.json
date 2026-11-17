@@ -1,0 +1,47 @@
+[
+  {
+    "id": 221,
+    "category": "sleep",
+    "question": "Why can't I sleep before my period?",
+    "alternate_questions": ["Insomnia before period", "Period-related sleep issues", "Why is my sleep quality poor during PMS?"],
+    "keywords": ["sleep", "insomnia", "pms", "period", "hormones"],
+    "answer": "Many people experience sleep disturbances like insomnia or poor sleep quality in the week before their period. This is often linked to the drop in progesterone levels, which has a calming effect, and changes in body temperature that can disrupt your sleep cycle.",
+    "follow_up": ["How can I improve my sleep during PMS?", "Does progesterone affect sleep?", "Can period cramps affect sleep?"]
+  },
+  {
+    "id": 222,
+    "category": "sleep",
+    "question": "How can I sleep better during my period?",
+    "alternate_questions": ["Sleep tips for menstruation", "Improving sleep quality with cramps", "Ways to rest better during period"],
+    "keywords": ["sleep", "better", "tips", "period", "rest"],
+    "answer": "To sleep better during your period, try maintaining a consistent sleep schedule, keeping your bedroom cool, using a heating pad for cramps before bed, and avoiding caffeine and heavy meals in the evening. Gentle stretching or yoga can also help.",
+    "follow_up": ["Does heat help you sleep?", "What are best sleeping positions for cramps?", "Should I avoid caffeine before bed?"]
+  },
+  {
+    "id": 223,
+    "category": "sleep",
+    "question": "Why do I feel so tired but can't sleep?",
+    "alternate_questions": ["Tired but wired before period", "Fatigue vs insomnia during PMS", "Why am I exhausted but unable to rest?"],
+    "keywords": ["tired", "insomnia", "pms", "fatigue", "restless"],
+    "answer": "This 'tired but wired' feeling is common during PMS. While your body is exhausted due to hormonal shifts, anxiety or changes in brain chemicals like serotonin can keep your mind active, making it difficult to fall asleep.",
+    "follow_up": ["How to calm your mind before bed?", "Is anxiety common before periods?", "What helps with PMS fatigue?"]
+  },
+  {
+    "id": 224,
+    "category": "sleep",
+    "question": "Can period cramps keep me awake?",
+    "alternate_questions": ["Pain preventing sleep during period", "Dealing with nighttime cramps", "Sleeping through period pain"],
+    "keywords": ["cramps", "sleep", "pain", "nighttime", "awake"],
+    "answer": "Yes, menstrual cramps can definitely disrupt your sleep. The pain can make it hard to get comfortable and may even wake you up during the night. Using a heating pad or taking a warm bath before bed can help relax the muscles.",
+    "follow_up": ["Best sleeping positions for period pain?", "What painkillers are best for nighttime cramps?", "How to use a heating pad safely at night?"]
+  },
+  {
+    "id": 225,
+    "category": "sleep",
+    "question": "How much sleep do I need during my cycle?",
+    "alternate_questions": ["Do I need more sleep on my period?", "Ideal sleep duration for hormonal health", "Rest requirements during menstruation"],
+    "keywords": ["sleep", "need", "amount", "period", "rest"],
+    "answer": "Most adults need 7-9 hours of quality sleep. You may find that you need slightly more rest during your period or the week leading up to it as your body is working harder and hormone levels are shifting.",
+    "follow_up": ["Does sleep affect hormone balance?", "Can lack of sleep make PMS worse?", "How to track sleep quality?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 191,
+    "category": "pcos",
+    "question": "What is PCOS?",
+    "alternate_questions": ["What does PCOS stand for?", "Tell me about Polycystic Ovary Syndrome"],
+    "keywords": ["pcos", "polycystic", "ovary", "syndrome", "definition"],
+    "answer": "PCOS (Polycystic Ovary Syndrome) is a hormonal disorder common among women of reproductive age. It can cause irregular periods, excess androgen levels, and polycystic ovaries.",
+    "follow_up": ["What are the symptoms of PCOS?", "How is PCOS diagnosed?", "Can PCOS be cured?"]
+  },
+  {
+    "id": 192,
+    "category": "pcos",
+    "question": "What are the common symptoms of PCOS?",
+    "alternate_questions": ["Signs of PCOS", "How do I know if I have PCOS?", "PCOS symptoms list"],
+    "keywords": ["pcos", "symptoms", "signs", "irregular periods", "acne", "hair growth"],
+    "answer": "Common symptoms include irregular or missed periods, heavy bleeding, excess facial and body hair (hirsutism), severe acne, male-pattern baldness, and weight gain.",
+    "follow_up": ["Why does PCOS cause hair growth?", "How does PCOS affect fertility?", "What is insulin resistance in PCOS?"]
+  },
+  {
+    "id": 193,
+    "category": "pcos",
+    "question": "How is PCOS managed?",
+    "alternate_questions": ["Treatment for PCOS", "Managing PCOS symptoms", "PCOS lifestyle changes"],
+    "keywords": ["pcos", "manage", "treatment", "lifestyle", "diet", "exercise"],
+    "answer": "Management often involves lifestyle changes like a balanced diet and regular exercise to manage weight and insulin levels. Doctors may also prescribe birth control or other medications to regulate hormones.",
+    "follow_up": ["Best diet for PCOS?", "How does exercise help PCOS?", "What medications treat PCOS?"]
+  },
+  {
+    "id": 194,
+    "category": "pcos",
+    "question": "Does PCOS affect fertility?",
+    "alternate_questions": ["Can I get pregnant with PCOS?", "PCOS and pregnancy", "How to boost fertility with PCOS?"],
+    "keywords": ["pcos", "fertility", "pregnancy", "ovulation", "pregnant"],
+    "answer": "PCOS is a leading cause of infertility because it can interfere with regular ovulation. However, many people with PCOS can still conceive with the help of lifestyle changes or fertility treatments.",
+    "follow_up": ["How to track ovulation with PCOS?", "What fertility treatments are available for PCOS?", "Is pregnancy high-risk with PCOS?"]
+  },
+  {
+    "id": 195,
+    "category": "pcos",
+    "question": "What is insulin resistance in PCOS?",
+    "alternate_questions": ["Link between PCOS and insulin", "Why is insulin important in PCOS?", "PCOS and blood sugar"],
+    "keywords": ["pcos", "insulin", "resistance", "blood sugar", "metabolism"],
+    "answer": "Many people with PCOS have insulin resistance, meaning their body's cells don't respond normally to insulin. This can lead to higher insulin levels, which can trigger the ovaries to produce more androgens (male hormones).",
+    "follow_up": ["Signs of insulin resistance?", "How to lower insulin levels naturally?", "Does PCOS increase risk of diabetes?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1801,
+    "category": "vaginal_symptoms",
+    "question": "What are common vaginal symptoms?",
+    "alternate_questions": ["Is my vagina healthy?", "Signs of vaginal issues", "What should I look out for down there?"],
+    "keywords": ["symptoms", "vagina", "itching", "burning", "discharge"],
+    "answer": "Common vaginal symptoms include itching, burning, unusual discharge (in color, consistency, or smell), irritation during or after sex, and pain during urination. These can be signs of anything from mild irritation to an infection.",
+    "follow_up": ["What causes vaginal itching?", "What is healthy discharge?", "When should I see a doctor for vaginal symptoms?"]
+  },
+  {
+    "id": 1802,
+    "category": "vaginal_symptoms",
+    "question": "What causes vaginal itching?",
+    "alternate_questions": ["Why is it itchy down there?", "Itching in the vaginal area", "Common causes of vulvar itch"],
+    "keywords": ["itching", "itchy", "causes", "vagina", "vulva"],
+    "answer": "Vaginal itching can be caused by yeast infections, bacterial vaginosis (BV), STIs, or irritation from soaps, detergents, or tight clothing (contact dermatitis). Hormonal changes, like those during menopause, can also cause dryness and itching.",
+    "follow_up": ["How to treat a yeast infection?", "Can soap cause itching?", "What is contact dermatitis?"]
+  },
+  {
+    "id": 1803,
+    "category": "vaginal_symptoms",
+    "question": "Why does it burn when I pee?",
+    "alternate_questions": ["Burning sensation during urination", "Painful urination causes", "Is burning normal?"],
+    "keywords": ["burning", "urination", "pee", "pain", "uti"],
+    "answer": "Burning during urination is often a sign of a Urinary Tract Infection (UTI). It can also be caused by vaginal infections like yeast or BV, or even irritation to the delicate skin of the vulva. If it persists, you should see a healthcare provider.",
+    "follow_up": ["What are other UTI symptoms?", "Can a yeast infection cause burning?", "How to get relief from burning?"]
+  },
+  {
+    "id": 1804,
+    "category": "vaginal_symptoms",
+    "question": "Is vaginal dryness normal?",
+    "alternate_questions": ["Why am I dry down there?", "Causes of vaginal dryness", "Feeling dry during sex"],
+    "keywords": ["dryness", "vaginal dryness", "menopause", "arousal", "hormones"],
+    "answer": "Vaginal dryness is common and can be caused by low estrogen levels (especially during menopause or breastfeeding), certain medications, or lack of arousal. It can lead to discomfort or pain, especially during intercourse.",
+    "follow_up": ["How to treat vaginal dryness?", "Does menopause cause dryness?", "Can I use lubricants?"]
+  },
+  {
+    "id": 1805,
+    "category": "vaginal_symptoms",
+    "question": "What is vaginal irritation?",
+    "alternate_questions": ["My vagina feels raw", "Redness and swelling down there", "Discomfort in the vulva"],
+    "keywords": ["irritation", "redness", "swelling", "vulva", "discomfort"],
+    "answer": "Vaginal or vulvar irritation often presents as redness, swelling, or a raw feeling. It's frequently caused by 'external' factors like scented products, douching, friction from clothing, or 'internal' factors like an infection.",
+    "follow_up": ["How to soothe vaginal irritation?", "Should I avoid scented pads?", "When to see a doctor for redness?"]
+  }
+]

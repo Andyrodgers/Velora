@@ -1,0 +1,47 @@
+[
+  {
+    "id": 431,
+    "category": "calcium",
+    "question": "Why is calcium important for my cycle?",
+    "alternate_questions": ["Benefits of calcium for PMS", "Calcium and menstrual health", "Does calcium help with period symptoms?"],
+    "keywords": ["calcium", "period", "pms", "health", "benefits"],
+    "answer": "Calcium is known to help reduce PMS symptoms, particularly mood swings, bloating, and food cravings. It also plays a vital role in muscle function and bone health.",
+    "follow_up": ["How much calcium do I need daily?", "What are calcium-rich foods?", "Does calcium help with cramps?"]
+  },
+  {
+    "id": 432,
+    "category": "calcium",
+    "question": "What are good sources of calcium?",
+    "alternate_questions": ["Calcium-rich foods", "How to get more calcium in my diet", "Non-dairy sources of calcium"],
+    "keywords": ["calcium", "foods", "sources", "dairy", "leafy greens", "almonds"],
+    "answer": "Good sources of calcium include dairy products (milk, yogurt, cheese), fortified plant milks, leafy green vegetables (like kale and collard greens), almonds, and canned sardines or salmon with bones.",
+    "follow_up": ["Are there vegan calcium sources?", "Does Vitamin D help with calcium absorption?", "Can I get calcium from snacks?"]
+  },
+  {
+    "id": 433,
+    "category": "calcium",
+    "question": "Does calcium help with period cramps?",
+    "alternate_questions": ["Can taking calcium reduce menstrual pain?", "Calcium for cramp relief", "Link between calcium and muscle contractions"],
+    "keywords": ["calcium", "cramps", "pain", "relief", "muscles"],
+    "answer": "Yes, calcium helps regulate muscle contractions. Maintaining adequate calcium levels can help prevent muscles from over-contracting, which may reduce the severity of period cramps.",
+    "follow_up": ["Does magnesium also help with cramps?", "Should I take calcium supplements?", "What other minerals help with period pain?"]
+  },
+  {
+    "id": 434,
+    "category": "calcium",
+    "question": "Can calcium improve my mood before my period?",
+    "alternate_questions": ["Calcium for PMS mood swings", "Does calcium help with irritability?", "Mineral supplements for emotional PMS symptoms"],
+    "keywords": ["calcium", "mood", "pms", "irritability", "emotions"],
+    "answer": "Several studies have shown that calcium supplementation can significantly reduce the severity of mood-related PMS symptoms like irritability, anxiety, and depression.",
+    "follow_up": ["How long does it take for calcium to help?", "What is the recommended dose for PMS?", "Are there side effects to calcium supplements?"]
+  },
+  {
+    "id": 435,
+    "category": "calcium",
+    "question": "How does Vitamin D affect calcium?",
+    "alternate_questions": ["Do I need Vitamin D to absorb calcium?", "Link between Vitamin D and calcium levels", "Should I take Vitamin D with calcium?"],
+    "keywords": ["calcium", "vitamin d", "absorption", "health", "synergy"],
+    "answer": "Vitamin D is essential for your body to absorb calcium effectively. Without enough Vitamin D, you won't be able to absorb the calcium you're consuming, regardless of how much you eat.",
+    "follow_up": ["How do I get enough Vitamin D?", "What are signs of Vitamin D deficiency?", "Can I take them in the same supplement?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 531,
+    "category": "emergency",
+    "question": "What is a menstrual emergency?",
+    "alternate_questions": ["When should I go to the ER for my period?", "Serious period symptoms", "Emergency period situations"],
+    "keywords": ["emergency", "er", "hospital", "period", "severe"],
+    "answer": "A menstrual emergency involves symptoms like soaking through one or more pads/tampons every hour for several hours, severe abdominal pain that doesn't improve with medication, fainting, dizziness, or a high fever. If you experience these, seek immediate medical attention.",
+    "follow_up": ["What are signs of hemorrhage?", "When is period pain too much?", "What is Toxic Shock Syndrome?"]
+  },
+  {
+    "id": 532,
+    "category": "emergency",
+    "question": "When should I go to the ER for heavy bleeding?",
+    "alternate_questions": ["Is my period bleeding dangerous?", "How much blood loss is an emergency?", "Signs of menstrual hemorrhage"],
+    "keywords": ["heavy bleeding", "emergency", "blood loss", "hemorrhage", "er"],
+    "answer": "Go to the emergency room if you are soaking through a heavy-duty pad or tampon every hour for more than 2-3 hours, or if you are passing blood clots larger than a golf ball.",
+    "follow_up": ["Can heavy periods cause anemia?", "What causes sudden heavy bleeding?", "What to do while waiting for medical help?"]
+  },
+  {
+    "id": 533,
+    "category": "emergency",
+    "question": "What are signs of Toxic Shock Syndrome (TSS)?",
+    "alternate_questions": ["TSS emergency symptoms", "Is TSS a medical emergency?", "Tampon-related emergency signs"],
+    "keywords": ["tss", "emergency", "fever", "rash", "tampon"],
+    "answer": "TSS is a medical emergency. Signs include a sudden high fever (102°F/38.9°C or higher), a faint-like feeling, a flat red rash like a sunburn, vomiting, or diarrhea. If you have these symptoms while using a tampon, remove it and go to the ER immediately.",
+    "follow_up": ["How to prevent TSS?", "Is TSS only from tampons?", "What are the long-term effects of TSS?"]
+  },
+  {
+    "id": 534,
+    "category": "emergency",
+    "question": "When is pelvic pain an emergency?",
+    "alternate_questions": ["Severe abdominal pain emergency", "Is sharp pelvic pain an emergency?", "When to see a doctor for intense cramps"],
+    "keywords": ["pain", "emergency", "pelvic", "sharp", "abdominal"],
+    "answer": "Seek emergency care for pelvic pain that is sudden and severe, accompanied by fever or vomiting, or so intense that you cannot stand or walk. This could indicate a ruptured ovarian cyst, ectopic pregnancy, or severe infection.",
+    "follow_up": ["What is an ectopic pregnancy?", "Can ovarian cysts rupture?", "What are signs of PID?"]
+  },
+  {
+    "id": 535,
+    "category": "emergency",
+    "question": "Can I use Velora for emergency advice?",
+    "alternate_questions": ["Is this app for emergencies?", "Should I wait for an answer from Vela in an emergency?", "Emergency help in Velora"],
+    "keywords": ["emergency", "advice", "help", "velora", "wait"],
+    "answer": "No. Velora is an informational tool, not a medical device or a substitute for emergency services. In a medical emergency, do not wait for an answer from this app; call your local emergency number (like 911) or go to the nearest emergency room immediately.",
+    "follow_up": ["Where is the nearest hospital?", "How to call emergency services?", "What info to give emergency responders?"]
+  }
+]

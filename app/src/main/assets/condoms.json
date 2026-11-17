@@ -1,0 +1,182 @@
+[
+  {
+    "id": 501,
+    "category": "condoms",
+    "question": "What is a condom",
+    "alternate_questions": ["Define condom", "What are condoms", "Condom explained", "Prophylactic meaning", "Rubber contraception"],
+    "keywords": ["condom", "barrier method", "STI protection", "contraception", "latex"],
+    "answer": "A condom is a thin sheath worn on the penis (male condom) or inserted into the vagina (female condom) during sexual intercourse to prevent pregnancy and sexually transmitted infections (STIs). Male condoms are typically made of latex, polyurethane, or lambskin. They work by blocking sperm from entering the vagina and by preventing skin-to-skin contact that can transmit STIs. When used correctly, male condoms are 98% effective at preventing pregnancy and highly effective at preventing STIs. They're available over-the-counter and have no hormonal side effects.",
+    "follow_up": ["Are you considering using condoms?", "Do you need STI protection?", "Do you have latex allergies?", "Are you using them with another contraceptive method?"]
+  },
+  {
+    "id": 502,
+    "category": "condoms",
+    "question": "How effective are condoms",
+    "alternate_questions": ["Condom effectiveness", "How well do condoms work", "Condom failure rate", "Do condoms prevent pregnancy", "Condom success rate"],
+    "keywords": ["condom effectiveness", "98%", "typical use", "perfect use", "pregnancy prevention"],
+    "answer": "With perfect use (used correctly every time), male condoms are 98% effective at preventing pregnancy. With typical use (including human error like incorrect use, breakage, or not using every time), effectiveness drops to about 85%. Female condoms are about 95% effective with perfect use and 79% with typical use. Condoms are also highly effective at preventing STIs, including HIV, gonorrhea, and chlamydia. They offer less protection against STIs transmitted by skin-to-skin contact (herpes, HPV) because they don't cover all genital skin. Using condoms consistently and correctly maximizes protection.",
+    "follow_up": ["Are you using condoms correctly?", "Do you use them every time?", "Are you combining with another method?", "Do you need STI protection?"]
+  },
+  {
+    "id": 503,
+    "category": "condoms",
+    "question": "How do I use a condom correctly",
+    "alternate_questions": ["Correct condom use", "How to put on a condom", "Condom instructions", "Proper condom application", "Condom usage tips"],
+    "keywords": ["condom use", "correct", "instructions", "application", "tips"],
+    "answer": "To use a condom correctly: 1) Check expiration date and package integrity. 2) Open carefully, don't use teeth or nails. 3) Pinch the tip to leave space for semen. 4) Roll down onto erect penis before any genital contact. 5) Use water or silicone-based lubricant to reduce breakage (avoid oil-based products which degrade latex). 6) Hold the base when withdrawing after ejaculation. 7) Remove and tie off before penis softens. 8) Dispose in trash, not toilet. 9) Use a new condom for each act of intercourse. Practice makes perfect!",
+    "follow_up": ["Are you using condoms currently?", "Have you had issues with breakage or slippage?", "Are you using appropriate lubricant?", "Do you need more detailed guidance?"]
+  },
+  {
+    "id": 504,
+    "category": "condoms",
+    "question": "What are condoms made of",
+    "alternate_questions": ["Condom materials", "Latex condoms", "Non latex condoms", "Condom composition", "What is inside condoms"],
+    "keywords": ["condom materials", "latex", "polyurethane", "polyisoprene", "lambskin"],
+    "answer": "Condoms are made from several materials: Latex (most common, very effective, but not suitable for latex allergies). Polyurethane (plastic, good for latex allergies, thinner but less stretchy). Polyisoprene (synthetic latex, suitable for latex allergies, stretchy like latex). Lambskin (natural membrane, suitable for latex allergies, but pores allow some STIs through, so not recommended for STI prevention). Internal (female) condoms are typically made of nitrile. Each material has different sensations, so you may prefer one over another. All except lambskin protect against STIs.",
+    "follow_up": ["Do you have latex allergies?", "What material are you currently using?", "Have you tried different types?", "Do you need STI protection?"]
+  },
+  {
+    "id": 505,
+    "category": "condoms",
+    "question": "Can condoms break",
+    "alternate_questions": ["Condom breakage", "Why do condoms tear", "Broken condom what to do", "Condom ripped during sex", "Condom failure"],
+    "keywords": ["condom break", "tear", "failure", "what to do", "emergency"],
+    "answer": "Yes, condoms can break, though it's rare with correct use (about 1-2% of the time). Common causes: using expired condoms, incorrect storage (heat, friction, wallet), not leaving space at the tip, using oil-based lubricants with latex, sharp nails or teeth during opening, and using the wrong size. If a condom breaks during sex: stop immediately, withdraw carefully, consider emergency contraception if pregnancy is a concern, and get tested for STIs if partner status is unknown. To prevent breakage, use water-based lube, check expiration dates, and ensure proper fit.",
+    "follow_up": ["Has a condom broken on you?", "When did it happen in the cycle?", "Are you considering emergency contraception?", "Have you been tested for STIs?"]
+  },
+  {
+    "id": 506,
+    "category": "condoms",
+    "question": "Can condoms expire",
+    "alternate_questions": ["Expired condoms", "Condom expiration date", "Old condoms safe", "How long do condoms last", "Using expired condoms"],
+    "keywords": ["condom expiration", "expired", "shelf life", "safety", "check date"],
+    "answer": "Yes, condoms expire and using expired condoms is risky. Latex and polyurethane condoms typically last 4-5 years from manufacture. Condoms with spermicide expire sooner (about 2 years). Lambskin condoms have the shortest shelf life. Expired condoms are more likely to break due to material degradation. Always check the expiration date before use. Store condoms in a cool, dry place away from direct sunlight, heat, and friction (don't keep in wallet for long periods). If a condom feels sticky, brittle, or has an odor, discard it even if not expired.",
+    "follow_up": ["Are your condoms expired?", "Where do you store them?", "Have you checked the expiration date recently?", "Do you need to replace your supply?"]
+  },
+  {
+    "id": 507,
+    "category": "condoms",
+    "question": "What size condom do I need",
+    "alternate_questions": ["Condom sizing", "How to choose condom size", "Condom too tight", "Condom too loose", "Condom fit guide"],
+    "keywords": ["condom size", "fit", "tight", "loose", "measurement"],
+    "answer": "Condoms come in various sizes: standard (fits most), snugger fit (smaller), and large or magnum (wider/longer). A properly fitting condom should roll down easily, stay in place during sex, and feel comfortable, not overly tight or loose. Too tight increases breakage risk; too loose increases slippage risk. Measure erect penis girth (circumference) to find the right width. Many brands offer size guides. Don't be embarrassed about sizing, proper fit is essential for effectiveness and pleasure. Try different brands to find what works best for you.",
+    "follow_up": ["Are you having fit issues?", "Is your current condom too tight or too loose?", "Have you tried different sizes?", "What brand are you using?"]
+  },
+  {
+    "id": 508,
+    "category": "condoms",
+    "question": "What is a female condom",
+    "alternate_questions": ["Internal condom", "Female condom how to use", "FC2 condom", "Vaginal condom", "Women's condom"],
+    "keywords": ["female condom", "internal condom", "FC2", "vaginal", "insertive"],
+    "answer": "A female condom (internal condom, FC2) is a pouch inserted into the vagina before sex. It has flexible rings at both ends, the inner ring holds it in place against the cervix, and the outer ring stays outside the vagina, covering part of the vulva. It's made of nitrile (synthetic rubber), suitable for latex allergies. It's about 95% effective with perfect use and 79% with typical use. It offers STI protection including some skin-to-skin STIs because it covers more genital area. It can be inserted up to 8 hours before sex and doesn't require an erect penis.",
+    "follow_up": ["Are you considering female condoms?", "Have you used them before?", "Do you find male condoms difficult to use?", "Do you need STI protection?"]
+  },
+  {
+    "id": 509,
+    "category": "condoms",
+    "question": "Can I use two condoms at once",
+    "alternate_questions": ["Double condoms", "Two condoms together", "Using multiple condoms", "Condom layering", "Double bagging"],
+    "keywords": ["two condoms", "double", "friction", "breakage", "not recommended"],
+    "answer": "No, you should never use two condoms at once, whether two male condoms or a male and female condom together. The friction between the two condoms increases the likelihood of both breaking. This applies to 'double-bagging' with two male condoms or using a male condom with a female condom simultaneously. If you want extra protection, use a condom with a different type of contraception (like the pill, IUD, or spermicide), not with another condom. One properly used condom is sufficient and safer than two.",
+    "follow_up": ["Were you considering using two condoms?", "Are you looking for extra pregnancy protection?", "Have you had condom breakage before?", "Are you using another contraceptive method?"]
+  },
+  {
+    "id": 510,
+    "category": "condoms",
+    "question": "Can I reuse a condom",
+    "alternate_questions": ["Reuse condom", "Using condom twice", "Wash and reuse condom", "Condom multiple times", "Recycling condoms"],
+    "keywords": ["reuse condom", "not recommended", "single use", "hygiene", "safety"],
+    "answer": "No, condoms are strictly single-use only. Reusing a condom is unsafe and ineffective. Once used, a condom may have microscopic tears, stretched areas, or dried bodily fluids that compromise its integrity. Washing a condom doesn't restore its effectiveness and can degrade the material. Reusing condoms increases the risk of pregnancy, STI transmission, and condom breakage. Always use a new condom for each act of intercourse, even if you have sex multiple times in one session. Condoms are affordable and widely available, there's no reason to reuse them.",
+    "follow_up": ["Were you considering reusing a condom?", "Do you have access to new condoms?", "Are cost or availability concerns?", "Do you need information about free condom sources?"]
+  },
+  {
+    "id": 511,
+    "category": "condoms",
+    "question": "What lubricant can I use with condoms",
+    "alternate_questions": ["Condom safe lube", "Lubricant with condoms", "Oil based lube condoms", "Water based lubricant condoms", "Silicone lube condoms"],
+    "keywords": ["lubricant", "condom compatible", "water-based", "silicone-based", "oil-based"],
+    "answer": "Use only water-based or silicone-based lubricants with latex condoms. Oil-based products (petroleum jelly, baby oil, coconut oil, massage oil, lotion) degrade latex and can cause condoms to break. Water-based lube is easy to clean up and safe with all condom types. Silicone-based lube lasts longer and is also safe, but can stain sheets. If using polyurethane or polyisoprene condoms, oil-based lube is generally safe, but water or silicone-based is still recommended. Pre-lubricated condoms are available, but additional lube reduces breakage and increases pleasure.",
+    "follow_up": ["What lubricant are you currently using?", "Have you had condom breakage?", "Do you prefer water or silicone-based?", "Are you using latex condoms?"]
+  },
+  {
+    "id": 512,
+    "category": "condoms",
+    "question": "Can I use condoms for oral sex",
+    "alternate_questions": ["Oral sex condoms", "Blowjob condom", "Dental dam oral sex", "Safe oral sex", "Condoms for mouth"],
+    "keywords": ["oral sex", "condoms", "dental dam", "STI protection", "flavored"],
+    "answer": "Yes, condoms and dental dams should be used for oral sex to prevent STI transmission, including gonorrhea, chlamydia, syphilis, herpes, and HPV. For fellatio (oral sex on a penis), use a regular condom or flavored condom. For cunnilingus (oral sex on a vulva) or analingus, use a dental dam (a thin latex or polyurethane sheet) or cut a condom into a flat sheet. Flavored condoms and dams make the experience more pleasant. Never use oil-based products with latex dams or condoms. STIs can be transmitted through oral sex, so protection is important.",
+    "follow_up": ["Are you using protection for oral sex?", "Do you need flavored options?", "Have you used dental dams?", "Are you aware of STI risks from oral sex?"]
+  },
+  {
+    "id": 513,
+    "category": "condoms",
+    "question": "Where can I get free condoms",
+    "alternate_questions": ["Free condoms", "Condoms no cost", "Where to get condoms free", "Condom distribution", "Free safer sex supplies"],
+    "keywords": ["free condoms", "access", "clinics", "health departments", "schools"],
+    "answer": "Free condoms are available at many locations: Planned Parenthood health centers, local health departments, community health clinics, college health centers, LGBTQ+ community centers, some bars and clubs, and through various community organizations. Many schools with comprehensive sex education programs provide free condoms. You can also order free condoms online from some public health websites. Don't let cost be a barrier to protection. If you can't find free condoms, they're affordable at drugstores, supermarkets, and online. Your health is worth it.",
+    "follow_up": ["Do you need help finding free condoms in your area?", "Are you comfortable accessing these resources?", "Is cost a barrier for you?", "What type of condoms do you prefer?"]
+  },
+  {
+    "id": 514,
+    "category": "condoms",
+    "question": "Do condoms reduce pleasure",
+    "alternate_questions": ["Condoms feel", "Do condoms feel worse", "Sex with condom pleasure", "Condom sensation", "Bareback vs condom"],
+    "keywords": ["pleasure", "sensation", "condom", "myth", "experience"],
+    "answer": "Condoms may slightly reduce sensation for some people, but modern condoms are very thin and designed to maximize pleasure while maintaining safety. Many people report that good-fitting, lubricated condoms feel fine and that the peace of mind actually enhances enjoyment. Ultra-thin condoms, textured condoms, and proper lubrication can improve sensation. The 'pleasure reduction' is often more psychological than physical. Practicing with condoms during masturbation can help you get used to the sensation. Remember, the small sensation difference is worth the protection against pregnancy and STIs.",
+    "follow_up": ["Do you find condoms reduce pleasure?", "Have you tried ultra-thin or textured options?", "Are you using enough lubricant?", "Is the psychological aspect affecting you?"]
+  },
+  {
+    "id": 515,
+    "category": "condoms",
+    "question": "Are flavored condoms safe",
+    "alternate_questions": ["Flavored condoms vaginal", "Condom flavor safe", "Taste condoms", "Flavored condoms for oral", "Sugar condoms infection"],
+    "keywords": ["flavored condoms", "sugar", "yeast infection", "oral sex", "safety"],
+    "answer": "Flavored condoms are safe for oral sex and add pleasant taste. However, many flavored condoms contain sugar or glycerin, which can disrupt vaginal pH and increase yeast infection risk if used for vaginal intercourse. If using flavored condoms for vaginal sex, choose sugar-free options or switch to regular condoms after oral sex. Always check ingredients. For people prone to yeast infections, avoid flavored condoms for vaginal use entirely. Flavored dental dams are also available for safer oral sex on vulvas.",
+    "follow_up": ["Are you using flavored condoms for vaginal sex?", "Are you prone to yeast infections?", "Have you had issues with flavored condoms?", "Are you using them for oral sex?"]
+  },
+  {
+    "id": 516,
+    "category": "condoms",
+    "question": "What are spermicidal condoms",
+    "alternate_questions": ["Condoms with spermicide", "Spermicide condoms effectiveness", "Nonoxynol-9 condoms", "Spermicidal lubricant condoms", "Extra protection condoms"],
+    "keywords": ["spermicidal condoms", "nonoxynol-9", "spermicide", "extra protection", "irritation"],
+    "answer": "Spermicidal condoms are lubricated with nonoxynol-9 (N-9), a chemical that kills sperm. They offer slightly more pregnancy protection than regular condoms, but the difference is minimal. However, N-9 can irritate the vagina and rectum, increasing the risk of micro-tears that may actually increase STI transmission, including HIV. For this reason, spermicidal condoms are not recommended for people at high STI risk or those who have sex multiple times daily. Regular condoms with water-based lube are generally preferred.",
+    "follow_up": ["Are you considering spermicidal condoms?", "Do you need extra pregnancy protection?", "Are you at risk for STIs?", "Have you experienced irritation with N-9?"]
+  },
+  {
+    "id": 517,
+    "category": "condoms",
+    "question": "Can I be allergic to condoms",
+    "alternate_questions": ["Latex allergy condoms", "Condom irritation", "Allergic reaction condom", "Condom rash", "Non latex options allergy"],
+    "keywords": ["latex allergy", "condom allergy", "irritation", "non-latex", "polyurethane"],
+    "answer": "Yes, some people are allergic to latex, which can cause itching, redness, rash, swelling, or in severe cases, anaphylaxis. If you suspect a latex allergy, switch to non-latex options: polyurethane condoms, polyisoprene condoms, or female condoms (nitrile). Lambskin condoms are another option but don't protect against STIs. If you experience irritation with condoms, it might also be from lubricants, spermicides, or friction rather than latex allergy. Try different brands and materials. If symptoms are severe, see an allergist for testing.",
+    "follow_up": ["What symptoms are you experiencing?", "Have you tried non-latex condoms?", "Do you have other latex allergies?", "How severe are your symptoms?"]
+  },
+  {
+    "id": 518,
+    "category": "condoms",
+    "question": "How do I store condoms properly",
+    "alternate_questions": ["Condom storage", "Where to keep condoms", "Condom care", "Prevent condom damage", "Condom wallet safe"],
+    "keywords": ["storage", "condom care", "heat", "friction", "expiration"],
+    "answer": "Store condoms properly to maintain effectiveness: Keep in a cool, dry place away from direct sunlight and heat (not in car glove compartments or windowsills). Avoid storing in wallets or pockets for extended periods, friction and body heat can degrade them. Don't store near sharp objects. Check expiration dates regularly. Keep a few in an easily accessible place for when needed, but rotate your stock. Proper storage ensures condoms remain intact when you need them most. If a condom feels sticky, brittle, or has an odor, discard it.",
+    "follow_up": ["Where are you currently storing condoms?", "Have you checked expiration dates?", "Do you carry them in your wallet?", "Do you need storage tips?"]
+  },
+  {
+    "id": 519,
+    "category": "condoms",
+    "question": "What should I do if a condom gets stuck inside",
+    "alternate_questions": ["Condom stuck vagina", "Lost condom inside", "Condom came off inside", "Retained condom", "Condom slipped off inside"],
+    "keywords": ["condom stuck", "retained", "slipped off", "removal", "pregnancy risk"],
+    "answer": "If a condom gets stuck inside the vagina, don't panic. Wash your hands, squat or sit on the toilet, bear down like having a bowel movement, and reach in with two fingers to grasp the condom and pull it out. If you can't reach it, have a partner help, or see a healthcare provider. A retained condom increases pregnancy and STI risk, and can cause infection if left too long. Consider emergency contraception if pregnancy is a concern, and get tested for STIs if partner status is unknown. If you can't remove it within a few hours, see a doctor.",
+    "follow_up": ["Is the condom still inside?", "How long has it been there?", "Are you able to reach it?", "Are you considering emergency contraception?"]
+  },
+  {
+    "id": 520,
+    "category": "condoms",
+    "question": "Can condoms be used with sex toys",
+    "alternate_questions": ["Condoms on toys", "Sex toy condoms", "Toy safety condoms", "Sharing toys condoms", "Dildo condom use"],
+    "keywords": ["sex toys", "condoms", "hygiene", "sharing", "STI prevention"],
+    "answer": "Yes, using condoms on sex toys is a great practice for hygiene and STI prevention, especially when sharing toys between partners or using them for both anal and vaginal play. Put a new condom on the toy before each use and between partners or orifices. Use water-based lube with latex condoms on toys. This prevents bacterial transfer and makes cleanup easier. If using silicone toys with silicone lube, the lube may degrade the toy material, so use water-based lube or cover with a condom. Always clean toys thoroughly after use.",
+    "follow_up": ["Are you sharing toys with a partner?", "Are you using toys for multiple purposes?", "Do you clean toys between uses?", "What material are your toys?"]
+  }
+]

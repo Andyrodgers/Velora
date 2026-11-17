@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3101,
+    "category": "medications",
+    "question": "What medications help with period pain?",
+    "alternate_questions": ["Painkillers for cramps", "What can I take for menstrual pain?", "Best medicine for periods"],
+    "keywords": ["medications", "pain relief", "ibuprofen", "naproxen", "cramps"],
+    "answer": "Over-the-counter NSAIDs like ibuprofen (Advil, Motrin) and naproxen (Aleve) are very effective for period pain because they reduce prostaglandins. Acetaminophen (Tylenol) can also help but doesn't target the cause of cramps as directly.",
+    "follow_up": ["What are the side effects of ibuprofen?", "Can I take aspirin for period pain?", "How often can I take pain relief?"]
+  },
+  {
+    "id": 3102,
+    "category": "medications",
+    "question": "Does birth control help with period symptoms?",
+    "alternate_questions": ["Hormonal contraceptives for periods", "Can the pill stop cramps?", "Birth control for heavy bleeding"],
+    "keywords": ["birth control", "contraception", "hormones", "cramps", "heavy periods"],
+    "answer": "Yes, many people use hormonal birth control (pills, patches, IUDs) to manage heavy periods, severe cramps, and PMS. It works by thinning the uterine lining and, in some cases, preventing ovulation.",
+    "follow_up": ["What are the types of hormonal birth control?", "Are there side effects to the pill?", "How long does it take for birth control to help?"]
+  },
+  {
+    "id": 3103,
+    "category": "medications",
+    "question": "What is Tranexamic acid?",
+    "alternate_questions": ["Medicine for heavy periods", "Lysteda for bleeding", "Non-hormonal heavy flow treatment"],
+    "keywords": ["tranexamic acid", "heavy flow", "bleeding", "medication", "non-hormonal"],
+    "answer": "Tranexamic acid is a non-hormonal prescription medication used to treat heavy menstrual bleeding. It works by helping the blood to clot more effectively in the uterus during your period.",
+    "follow_up": ["When should I take tranexamic acid?", "Does it have side effects?", "Can I take it with birth control?"]
+  },
+  {
+    "id": 3104,
+    "category": "medications",
+    "question": "Are there medications for PMS or PMDD?",
+    "alternate_questions": ["Antidepressants for periods", "Help for severe mood swings", "Medication for PMDD"],
+    "keywords": ["pms", "pmdd", "antidepressants", "ssrises", "mood swings"],
+    "answer": "For severe PMS or PMDD, doctors may prescribe SSRIs (antidepressants like fluoxetine or sertraline), which can be taken daily or just during the two weeks before your period to help manage mood symptoms.",
+    "follow_up": ["What is PMDD?", "How do SSRIs help with PMS?", "What are the side effects of antidepressants?"]
+  },
+  {
+    "id": 3105,
+    "category": "medications",
+    "question": "Can I take aspirin for period cramps?",
+    "alternate_questions": ["Is aspirin good for periods?", "Aspirin vs ibuprofen for cramps"],
+    "keywords": ["aspirin", "cramps", "pain relief", "bleeding", "period"],
+    "answer": "Aspirin can help with pain, but it's generally not the first choice for period cramps because it's a blood thinner and might slightly increase your menstrual flow. Ibuprofen is typically more effective for cramp-specific pain.",
+    "follow_up": ["Why does aspirin thin the blood?", "What is the best dose for cramps?", "Can teens take aspirin?"]
+  }
+]

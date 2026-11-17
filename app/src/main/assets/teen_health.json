@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2001,
+    "category": "teen_health",
+    "question": "What is puberty?",
+    "alternate_questions": ["When does puberty start?", "Signs of puberty", "What happens during puberty?"],
+    "keywords": ["puberty", "changes", "hormones", "growth", "teen"],
+    "answer": "Puberty is the time when your body grows from a child's to an adult's. It's triggered by hormones and involves physical changes like breast development, growth of pubic hair, and the start of your period.",
+    "follow_up": ["When will I get my first period?", "What are normal body changes?", "Why do I have acne?"]
+  },
+  {
+    "id": 2002,
+    "category": "teen_health",
+    "question": "When will I get my first period?",
+    "alternate_questions": ["Average age for first period", "Signs my period is coming", "Am I late for my first period?"],
+    "keywords": ["first period", "menarche", "age", "signs", "teen"],
+    "answer": "Most people get their first period between the ages of 10 and 15, but everyone is different. Signs it might be coming include breast development, growing pubic hair, and seeing white vaginal discharge in your underwear.",
+    "follow_up": ["How to prepare for the first period?", "What should I use: pads or tampons?", "Is it normal for first periods to be irregular?"]
+  },
+  {
+    "id": 2003,
+    "category": "teen_health",
+    "question": "Are irregular periods normal for teens?",
+    "alternate_questions": ["Why is my period late?", "Teen period cycles", "Skipping periods in high school"],
+    "keywords": ["irregular", "teen", "cycle", "hormones", "skipped period"],
+    "answer": "Yes, it's very common for periods to be irregular for the first few years after they start. Your body is still adjusting to new hormone levels. It can take some time for a regular cycle to establish.",
+    "follow_up": ["How long can a cycle be?", "When should I worry about irregular periods?", "How to track my cycle?"]
+  },
+  {
+    "id": 2004,
+    "category": "teen_health",
+    "question": "What is normal vaginal discharge for teens?",
+    "alternate_questions": ["White stuff in my underwear", "Teen discharge concerns", "Is discharge normal?"],
+    "keywords": ["discharge", "white", "clear", "teen", "normal"],
+    "answer": "It's normal to have clear or white discharge. It's your body's way of keeping the vagina clean and healthy. It often increases right before your first period or during different times in your cycle.",
+    "follow_up": ["What if my discharge smells?", "When is discharge a problem?", "Should I use liners every day?"]
+  },
+  {
+    "id": 2005,
+    "category": "teen_health",
+    "question": "How do I talk to my parents about my period?",
+    "alternate_questions": ["Asking for pads", "Telling mom about period", "Talking about puberty"],
+    "keywords": ["parents", "talk", "communication", "period", "help"],
+    "answer": "It can feel awkward, but remember they've been through it too! You can be direct: 'Hey, I think I started my period, can we get some supplies?' or 'I have some questions about my body, can we talk?'",
+    "follow_up": ["What supplies do I need?", "Where can I find more information?", "Can I talk to a school nurse?"]
+  }
+]

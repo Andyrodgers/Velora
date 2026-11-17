@@ -1,0 +1,182 @@
+[
+  {
+    "id": 201,
+    "category": "cycle_tracking",
+    "question": "How do I track my menstrual cycle",
+    "alternate_questions": ["Best way to track period", "How to monitor my cycle", "Cycle tracking methods", "Period tracking tips", "How to keep track of menstruation"],
+    "keywords": ["tracking", "cycle", "period", "monitor", "methods"],
+    "answer": "You can track your cycle by marking the first day of your period each month. Count from day 1 of one period to day 1 of the next to determine cycle length. Note symptoms like cramps, mood changes, cervical mucus, and basal body temperature. Apps like Velora make this easy, but you can also use a calendar or journal. Tracking helps you understand your body and predict your next period.",
+    "follow_up": ["Do you currently track your cycle?", "What symptoms do you want to monitor?", "Would you like app recommendations?"]
+  },
+  {
+    "id": 202,
+    "category": "cycle_tracking",
+    "question": "What is basal body temperature tracking",
+    "alternate_questions": ["BBT tracking", "How to take basal temperature", "Temperature method fertility", "Basal body temperature chart", "BBT for ovulation"],
+    "keywords": ["basal body temperature", "BBT", "tracking", "ovulation", "fertility"],
+    "answer": "Basal body temperature (BBT) tracking involves taking your temperature first thing every morning before getting out of bed. Your temperature typically rises 0.5-1°F after ovulation due to progesterone. By charting this daily, you can identify when you've ovulated. It requires consistency and is best used to confirm ovulation rather than predict it. Special BBT thermometers are more accurate than regular ones.",
+    "follow_up": ["Are you trying to conceive or avoid pregnancy?", "Do you wake up at the same time daily?", "Have you tried BBT tracking before?"]
+  },
+  {
+    "id": 203,
+    "category": "cycle_tracking",
+    "question": "How do I track cervical mucus",
+    "alternate_questions": ["Cervical fluid tracking", "What does cervical mucus look like", "Monitoring discharge for fertility", "Cervical mucus method", "Checking cervical mucus"],
+    "keywords": ["cervical mucus", "tracking", "fertility", "discharge", "ovulation"],
+    "answer": "To track cervical mucus, check your discharge daily by observing toilet paper after wiping or using clean fingers. During your fertile window, mucus becomes clear, stretchy, and similar to egg whites. After ovulation, it becomes thicker and cloudier. This method, also called the Billings method, helps identify your fertile days. Avoid checking during or right after sex, as semen can be mistaken for mucus.",
+    "follow_up": ["Are you comfortable checking cervical mucus?", "Are you trying to conceive or avoid pregnancy?", "Have you noticed changes in your discharge?"]
+  },
+  {
+    "id": 204,
+    "category": "cycle_tracking",
+    "question": "What is the calendar method",
+    "alternate_questions": ["Rhythm method", "Calendar rhythm method", "Counting days for fertility", "Standard days method", "Calendar-based contraception"],
+    "keywords": ["calendar method", "rhythm", "fertility awareness", "natural", "contraception"],
+    "answer": "The calendar method involves tracking your cycle length over several months to predict fertile days. For a 28-day cycle, days 10-17 are typically considered fertile. You avoid unprotected sex during these days if preventing pregnancy. This method is less reliable than others because cycle length can vary. It's best combined with other fertility awareness methods and is not recommended for cycles shorter than 26 or longer than 32 days.",
+    "follow_up": ["How regular is your cycle?", "Are you using this for contraception or conception?", "How long have you been tracking?"]
+  },
+  {
+    "id": 205,
+    "category": "cycle_tracking",
+    "question": "What are ovulation predictor kits",
+    "alternate_questions": ["OPK tests", "Ovulation test strips", "How do ovulation tests work", "LH surge detection", "Best ovulation tests"],
+    "keywords": ["ovulation predictor kits", "OPK", "LH test", "fertility test", "ovulation detection"],
+    "answer": "Ovulation predictor kits (OPKs) detect the luteinizing hormone (LH) surge that occurs 24-36 hours before ovulation. You pee on a test strip or stick, similar to a pregnancy test. A positive result means you'll likely ovulate soon. OPKs are helpful for timing intercourse when trying to conceive. Test between 10am and 8pm, as LH surges often happen in the morning and show up in urine later.",
+    "follow_up": ["Are you trying to conceive?", "Do you know when to start testing in your cycle?", "Have you used OPKs before?"]
+  },
+  {
+    "id": 206,
+    "category": "cycle_tracking",
+    "question": "How do I use a period tracking app",
+    "alternate_questions": ["Period app features", "Best period tracker app", "How to log symptoms", "Tracking app tutorial", "Velora app tracking"],
+    "keywords": ["app", "tracking", "period", "digital", "symptoms"],
+    "answer": "Period tracking apps like Velora allow you to log your period start and end dates, flow intensity, symptoms (cramps, mood, acne, etc.), sexual activity, and more. Simply tap the calendar to mark period days, add symptoms as they occur, and the app predicts your next period and fertile window based on your data. The more you log, the more accurate predictions become. You can also set reminders for PMS or period start.",
+    "follow_up": ["What app are you using?", "What features do you want to track?", "Do you want reminder notifications?"]
+  },
+  {
+    "id": 207,
+    "category": "cycle_tracking",
+    "question": "What symptoms should I track",
+    "alternate_questions": ["Which symptoms to log", "Important cycle symptoms", "What to record in period tracker", "Tracking menstrual symptoms", "Best symptoms to monitor"],
+    "keywords": ["symptoms", "tracking", "log", "monitor", "cycle"],
+    "answer": "Useful symptoms to track include: flow intensity and color, cramps severity and location, mood changes, breast tenderness, bloating, acne, headaches, energy levels, sleep quality, cervical mucus changes, sexual desire, digestion changes, and any unusual symptoms. Tracking helps identify patterns, predict PMS, diagnose conditions like PMDD or endometriosis, and optimize conception timing.",
+    "follow_up": ["What symptoms do you experience most?", "Are you tracking for health concerns or general awareness?", "Do symptoms follow a pattern?"]
+  },
+  {
+    "id": 208,
+    "category": "cycle_tracking",
+    "question": "How accurate are period tracking apps",
+    "alternate_questions": ["App prediction accuracy", "Can apps predict my period", "How reliable are trackers", "Period app mistakes", "Tracking app precision"],
+    "keywords": ["accuracy", "prediction", "app", "reliability", "algorithm"],
+    "answer": "Period tracking apps are generally accurate for people with regular cycles, often predicting within 1-2 days. However, they rely on past data and algorithms, so irregular cycles, stress, illness, or lifestyle changes can affect accuracy. No app is 100% accurate, especially for contraception. Always use backup protection if avoiding pregnancy. The more data you input over time, the more accurate predictions become.",
+    "follow_up": ["How regular is your cycle?", "Are you using this for contraception?", "Has the app been accurate for you?"]
+  },
+  {
+    "id": 209,
+    "category": "cycle_tracking",
+    "question": "Can I track my cycle without an app",
+    "alternate_questions": ["Manual cycle tracking", "Paper period tracking", "Calendar method without app", "Old fashioned period tracking", "Track cycle on paper"],
+    "keywords": ["manual tracking", "paper", "calendar", "no app", "traditional"],
+    "answer": "Absolutely! You can track your cycle using a paper calendar, journal, or spreadsheet. Mark day 1 of your period each month, note cycle length, and record symptoms. Some people create color-coded charts. While less convenient than apps, manual tracking works well and keeps your data private. The key is consistency, mark the first day of every period and note any symptoms or changes.",
+    "follow_up": ["Do you prefer pen and paper?", "What information do you want to record?", "Are you concerned about app privacy?"]
+  },
+  {
+    "id": 210,
+    "category": "cycle_tracking",
+    "question": "What is fertility awareness method",
+    "alternate_questions": ["FAM method", "Natural family planning", "Fertility awareness explained", "Symptothermal method", "Natural contraception"],
+    "keywords": ["fertility awareness", "FAM", "natural planning", "contraception", "symptoms"],
+    "answer": "Fertility Awareness Method (FAM) involves tracking multiple signs to identify fertile and infertile days. It combines basal body temperature, cervical mucus observation, and calendar calculations. When practiced correctly, it can be 76-88% effective for contraception or helpful for conception. It requires daily commitment, training, and abstinence or barrier methods during fertile days. It's not recommended for those with irregular cycles.",
+    "follow_up": ["Are you using this for contraception or conception?", "How regular are your cycles?", "Are you willing to track daily?"]
+  },
+  {
+    "id": 211,
+    "category": "cycle_tracking",
+    "question": "How do I know if my cycle is regular",
+    "alternate_questions": ["Regular cycle definition", "Is my cycle normal", "How to tell if periods are regular", "Regular vs irregular cycle", "Consistent menstruation"],
+    "keywords": ["regular", "consistent", "cycle length", "normal", "predictable"],
+    "answer": "A regular cycle typically varies by no more than 7-9 days from month to month. For example, if one cycle is 28 days and the next is 30 days, that's regular. If your cycle length jumps from 24 days to 35 days regularly, that may be considered irregular. Track for at least 3-6 months to determine your pattern. Some variation is normal, especially with stress, travel, or illness.",
+    "follow_up": ["How much does your cycle vary?", "How long have you been tracking?", "Do external factors affect your cycle?"]
+  },
+  {
+    "id": 212,
+    "category": "cycle_tracking",
+    "question": "Why should I track my period",
+    "alternate_questions": ["Benefits of period tracking", "Why track menstruation", "Importance of cycle tracking", "Reasons to log periods", "Period tracking benefits"],
+    "keywords": ["benefits", "tracking", "health", "awareness", "empowerment"],
+    "answer": "Tracking your period helps you understand your body, predict your next period, identify PMS patterns, optimize conception timing, detect irregularities early, manage symptoms better, and provide valuable information to healthcare providers. It can help diagnose conditions like PCOS, endometriosis, or thyroid issues. Tracking also helps you plan around your cycle for events, travel, or important activities.",
+    "follow_up": ["What do you hope to learn from tracking?", "Are you having specific symptoms?", "Do you want to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 213,
+    "category": "cycle_tracking",
+    "question": "How do I track ovulation naturally",
+    "alternate_questions": ["Natural ovulation signs", "Fertility signs without tests", "Body signals ovulation", "Cervical position tracking", "Natural fertility awareness"],
+    "keywords": ["natural tracking", "ovulation signs", "body signals", "fertility", "without tests"],
+    "answer": "Natural ovulation tracking involves observing: 1) Cervical mucus changes (egg-white consistency when fertile). 2) Cervical position (soft, high, open when fertile). 3) Basal body temperature rise after ovulation. 4) Mild pelvic pain (mittelschmerz). 5) Increased libido. 6) Breast tenderness. 7) Bloating. These signs combined give a good picture of your fertile window without buying tests.",
+    "follow_up": ["Which signs do you notice most?", "Are you comfortable checking cervical position?", "How long have you been observing?"]
+  },
+  {
+    "id": 214,
+    "category": "cycle_tracking",
+    "question": "What is a cycle day",
+    "alternate_questions": ["How to count cycle days", "Day 1 of cycle", "What counts as cycle day 1", "Menstrual cycle counting", "Understanding cycle days"],
+    "keywords": ["cycle day", "counting", "day 1", "calendar", "understanding"],
+    "answer": "Cycle Day 1 is the first day of full menstrual bleeding (not spotting). You count forward from there. So if your period starts on Monday, Monday is CD1, Tuesday is CD2, and so on until your next period starts. The day before your next period is your last cycle day. A typical 28-day cycle has CD1 through CD28. This standardized counting helps healthcare providers and tracking apps communicate clearly about where you are in your cycle.",
+    "follow_up": ["Do you count spotting as day 1?", "How do you currently count your cycle?", "Are you tracking for a specific reason?"]
+  },
+  {
+    "id": 215,
+    "category": "cycle_tracking",
+    "question": "How do I track PMS symptoms",
+    "alternate_questions": ["PMS tracking methods", "Logging premenstrual symptoms", "Tracking mood before period", "PMS diary", "Premenstrual symptom monitor"],
+    "keywords": ["PMS tracking", "symptoms", "premenstrual", "mood", "log"],
+    "answer": "Track PMS symptoms by logging physical and emotional changes in the 1-2 weeks before your period. Common symptoms include mood swings, irritability, bloating, breast tenderness, fatigue, cravings, headaches, and acne. Rate severity daily. After 2-3 months, patterns will emerge. This helps distinguish normal PMS from PMDD (which is more severe) and allows you to prepare coping strategies or seek treatment.",
+    "follow_up": ["What PMS symptoms do you experience?", "How severe are they?", "Do they affect your daily life?"]
+  },
+  {
+    "id": 216,
+    "category": "cycle_tracking",
+    "question": "Can I track my cycle with a smartwatch",
+    "alternate_questions": ["Smartwatch period tracking", "Wearable cycle tracking", "Fitness tracker menstruation", "Apple Watch period tracking", "Garmin cycle tracking"],
+    "keywords": ["smartwatch", "wearable", "fitness tracker", "technology", "tracking"],
+    "answer": "Yes, many smartwatches and fitness trackers now offer period and cycle tracking features. They can log period dates, predict cycles, track symptoms, and some even monitor skin temperature changes that indicate ovulation. While convenient, they're generally less comprehensive than dedicated apps. They're best used alongside other tracking methods, especially if you have irregular cycles or specific health concerns.",
+    "follow_up": ["What smartwatch do you have?", "What features does it offer?", "Are you using it with an app?"]
+  },
+  {
+    "id": 217,
+    "category": "cycle_tracking",
+    "question": "How do I share tracking data with my doctor",
+    "alternate_questions": ["Show period data to doctor", "Cycle tracking for medical visits", "Sharing tracking app with provider", "Period history for gynecologist", "Medical cycle records"],
+    "keywords": ["doctor", "medical", "sharing data", "healthcare provider", "records"],
+    "answer": "Most tracking apps allow you to export or screenshot your data. Create a summary showing: cycle lengths for the past 6-12 months, period duration, flow intensity, symptom patterns, and any irregularities. Some apps generate health reports. Bring this to appointments. Your doctor may also want to know about medications, stress levels, weight changes, and sexual history. Clear data helps with faster, more accurate diagnoses.",
+    "follow_up": ["What symptoms are you concerned about?", "Does your app have an export feature?", "When is your next appointment?"]
+  },
+  {
+    "id": 218,
+    "category": "cycle_tracking",
+    "question": "What is a luteal phase defect",
+    "alternate_questions": ["Short luteal phase", "Luteal phase problems", "Luteal phase insufficiency", "Progesterone deficiency luteal", "Luteal phase and fertility"],
+    "keywords": ["luteal phase defect", "short luteal", "progesterone", "fertility", "defect"],
+    "answer": "A luteal phase defect occurs when the luteal phase is shorter than 10 days or when progesterone levels are insufficient to maintain the uterine lining. This can make it difficult to conceive or maintain early pregnancy because the lining breaks down too early. It's diagnosed through blood tests, endometrial biopsy, or ultrasound. Treatment may include progesterone supplements or fertility medications.",
+    "follow_up": ["How long is your luteal phase?", "Are you having trouble conceiving?", "Have you had progesterone levels tested?"]
+  },
+  {
+    "id": 219,
+    "category": "cycle_tracking",
+    "question": "How do I track my fertile window",
+    "alternate_questions": ["Fertile days tracking", "When am I most fertile", "Tracking conception window", "Fertility window calculation", "Best days to conceive tracking"],
+    "keywords": ["fertile window", "conception", "tracking", "ovulation", "fertility"],
+    "answer": "Your fertile window includes the 5 days before ovulation and ovulation day itself, since sperm can survive up to 5 days. Track by: 1) Counting back 14 days from your expected period in a 28-day cycle. 2) Using OPKs to detect LH surge. 3) Observing egg-white cervical mucus. 4) Monitoring basal body temperature rise. 5) Using fertility apps that combine these methods. Track for several months to identify your personal pattern.",
+    "follow_up": ["Are you trying to conceive?", "How regular are your cycles?", "Which tracking methods are you using?"]
+  },
+  {
+    "id": 220,
+    "category": "cycle_tracking",
+    "question": "What is cycle syncing",
+    "alternate_questions": ["Menstrual cycle syncing", "Living with your cycle", "Cycle-based lifestyle", "Period syncing activities", "Hormonal cycle optimization"],
+    "keywords": ["cycle syncing", "lifestyle", "optimization", "hormonal", "phases"],
+    "answer": "Cycle syncing involves adjusting your diet, exercise, work, and social activities to match your menstrual cycle phases. For example: Menstruation - rest and gentle movement. Follicular - try new things and social activities. Ovulatory - high-intensity workouts and important meetings. Luteal - focus on organization and self-care. While popular, scientific evidence is limited. It can help some people feel more in tune with their bodies.",
+    "follow_up": ["Have you tried cycle syncing?", "What aspects interest you most?", "Do you notice energy changes during your cycle?"]
+  }
+]

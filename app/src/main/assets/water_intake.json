@@ -1,0 +1,47 @@
+[
+  {
+    "id": 131,
+    "category": "water_intake",
+    "question": "How can I track my water intake?",
+    "alternate_questions": ["Ways to monitor drinking water", "How to remember to drink water?", "Tracking hydration"],
+    "keywords": ["track", "water", "intake", "monitor", "hydration"],
+    "answer": "You can track your water intake using apps like Velora, setting reminders on your phone, or using a marked water bottle to see how much you've consumed throughout the day.",
+    "follow_up": ["How much water should I drink daily?", "Does Velora have a water tracker?", "What are the benefits of tracking water?"]
+  },
+  {
+    "id": 132,
+    "category": "water_intake",
+    "question": "Why is water intake important during my period?",
+    "alternate_questions": ["Benefits of drinking water during menstruation", "How water helps with period symptoms", "Hydration and cycles"],
+    "keywords": ["water", "importance", "period", "menstruation", "benefits"],
+    "answer": "Drinking enough water during your period helps reduce bloating, eases headaches, and can even help with cramps by preventing water retention and supporting muscle function.",
+    "follow_up": ["Can drinking water reduce bloating?", "How does hydration affect cramps?", "What else should I drink during my period?"]
+  },
+  {
+    "id": 133,
+    "category": "water_intake",
+    "question": "Does water intake affect skin health?",
+    "alternate_questions": ["Can drinking water clear my skin?", "Hydration and acne", "Is water good for my complexion?"],
+    "keywords": ["water", "skin", "health", "acne", "complexion"],
+    "answer": "Yes, staying hydrated helps flush out toxins and keeps your skin moisturized from the inside out, which can improve your complexion and may help reduce cycle-related breakouts.",
+    "follow_up": ["Can hydration prevent period acne?", "What are other benefits of water for skin?", "Does drinking water help with dry skin?"]
+  },
+  {
+    "id": 134,
+    "category": "water_intake",
+    "question": "How do I know if I'm drinking enough water?",
+    "alternate_questions": ["Am I hydrated?", "Signs of good hydration", "Check hydration levels"],
+    "keywords": ["hydrated", "enough", "water", "signs", "urine"],
+    "answer": "A good indicator is the color of your urine; it should ideally be light yellow or clear. Other signs include feeling energetic, having regular bowel movements, and not feeling thirsty frequently.",
+    "follow_up": ["What color should urine be?", "How much water is too much?", "What are signs of dehydration?"]
+  },
+  {
+    "id": 135,
+    "category": "water_intake",
+    "question": "Should I drink more water when exercising?",
+    "alternate_questions": ["Hydration during workouts", "How much water to drink when active?", "Exercise and water intake"],
+    "keywords": ["exercise", "water", "intake", "active", "workout"],
+    "answer": "Yes, you should increase your water intake when exercising to replace fluids lost through sweat. It's best to drink before, during, and after your workout.",
+    "follow_up": ["Do I need electrolytes during exercise?", "How much extra water for an hour of exercise?", "Best drinks for post-workout?"]
+  }
+]

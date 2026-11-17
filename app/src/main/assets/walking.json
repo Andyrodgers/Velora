@@ -1,0 +1,47 @@
+[
+  {
+    "id": 491,
+    "category": "walking",
+    "question": "Is walking good for period cramps?",
+    "alternate_questions": ["Does walking help with menstrual pain?", "Should I walk when I have cramps?", "Benefits of walking during my period"],
+    "keywords": ["walking", "cramps", "relief", "pain", "exercise"],
+    "answer": "Yes, walking is an excellent, low-impact exercise that can help relieve period cramps. It increases blood flow to the pelvic area and releases endorphins, which are natural pain relievers.",
+    "follow_up": ["How long should I walk to help with cramps?", "Can walking help with bloating?", "Is walking better than running for period pain?"]
+  },
+  {
+    "id": 492,
+    "category": "walking",
+    "question": "Can walking help reduce period bloating?",
+    "alternate_questions": ["Walking for water retention", "Does walking help with a bloated stomach during PMS?", "Benefits of light movement for bloating"],
+    "keywords": ["walking", "bloating", "pms", "water retention", "movement"],
+    "answer": "Yes! Walking helps stimulate the digestive system and improves circulation, both of which can help your body process excess fluids and reduce bloating and water retention.",
+    "follow_up": ["What other light exercises help with bloating?", "How much walking is recommended for bloating?", "Does walking help with gas?"]
+  },
+  {
+    "id": 493,
+    "category": "walking",
+    "question": "Does walking improve mood during PMS?",
+    "alternate_questions": ["Walking for mood swings", "Can a walk help with irritability before my period?", "Exercise for emotional PMS symptoms"],
+    "keywords": ["walking", "mood", "pms", "irritability", "endorphins"],
+    "answer": "Walking, especially outdoors in nature, can significantly improve your mood by reducing stress hormones and increasing endorphins. This can help alleviate the irritability and sadness often associated with PMS.",
+    "follow_up": ["Does walking help with anxiety?", "Is walking in nature better than a treadmill?", "How long should I walk to boost my mood?"]
+  },
+  {
+    "id": 494,
+    "category": "walking",
+    "question": "How much should I walk during my period?",
+    "alternate_questions": ["Ideal walking distance on my period", "Is a 30-minute walk enough for period relief?", "Walking frequency during menstruation"],
+    "keywords": ["walking", "amount", "period", "frequency", "duration"],
+    "answer": "A gentle 20-30 minute walk most days of your period is usually sufficient to see benefits. However, always listen to your body; if you're feeling very fatigued, even a short 10-minute stroll can help.",
+    "follow_up": ["Should I walk faster or slower?", "Can I walk if my period is very heavy?", "What if walking makes me feel worse?"]
+  },
+  {
+    "id": 495,
+    "category": "walking",
+    "question": "Is walking safe during heavy flow days?",
+    "alternate_questions": ["Can I walk when my period is heavy?", "Walking and heavy bleeding", "Exercise during heavy menstruation"],
+    "keywords": ["walking", "heavy flow", "safe", "bleeding", "period"],
+    "answer": "Yes, walking is safe even on heavy flow days. While movement can cause the blood to leave your body more quickly, it doesn't increase the total amount of blood you lose. Many find it helpful for managing the discomfort of heavy flow.",
+    "follow_up": ["Best period products for walking?", "What to do if I feel dizzy while walking?", "Can walking help with heavy flow symptoms?"]
+  }
+]

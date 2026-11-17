@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/appBackgroundColor">
+
+    <!-- Header -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="?attr/appPrimaryColor"
+        android:paddingHorizontal="16dp">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:src="@android:drawable/ic_menu_revert"
+            app:tint="#FFFFFF"
+            android:contentDescription="Back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="PCOS Assessment"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Please answer the following questions truthfully for an accurate assessment."
+                android:textSize="16sp"
+                android:textColor="?attr/appTextColor"
+                android:layout_marginBottom="24dp" />
+
+            <!-- Q1 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. Are your periods irregular (less than 9 times a year or cycle longer than 35 days)?"
+                android:textColor="?attr/appTextColor" />
+            <RadioGroup
+                android:id="@+id/rgQ1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+                <RadioButton android:id="@+id/rbQ1Yes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" android:textColor="@color/black" />
+                <RadioButton android:id="@+id/rbQ1No" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" android:textColor="@color/black" />
+            </RadioGroup>
+
+            <!-- Q2 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2. Have you noticed excess hair growth on your face, chest, or stomach?"
+                android:textColor="?attr/appTextColor" />
+            <RadioGroup
+                android:id="@+id/rgQ2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+                <RadioButton android:id="@+id/rbQ2Yes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" android:textColor="@color/black" />
+                <RadioButton android:id="@+id/rbQ2No" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" android:textColor="@color/black" />
+            </RadioGroup>
+
+            <!-- Q3 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3. Do you struggle with severe acne or oily skin?"
+                android:textColor="?attr/appTextColor" />
+            <RadioGroup
+                android:id="@+id/rgQ3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+                <RadioButton android:id="@+id/rbQ3Yes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" android:textColor="@color/black" />
+                <RadioButton android:id="@+id/rbQ3No" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" android:textColor="@color/black" />
+            </RadioGroup>
+
+            <!-- Q4 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4. Have you experienced weight gain that is very difficult to lose?"
+                android:textColor="?attr/appTextColor" />
+            <RadioGroup
+                android:id="@+id/rgQ4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+                <RadioButton android:id="@+id/rbQ4Yes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" android:textColor="@color/black" />
+                <RadioButton android:id="@+id/rbQ4No" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" android:textColor="@color/black" />
+            </RadioGroup>
+
+            <!-- Q5 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5. Have you noticed patches of thickened, dark, velvety skin (especially on the neck or armpits)?"
+                android:textColor="?attr/appTextColor" />
+            <RadioGroup
+                android:id="@+id/rgQ5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+                <RadioButton android:id="@+id/rbQ5Yes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" android:textColor="@color/black" />
+                <RadioButton android:id="@+id/rbQ5No" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" android:textColor="@color/black" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/btnFinishAssessment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="FINISH ASSESSMENT"
+                android:padding="12dp"
+                android:backgroundTint="?attr/appPrimaryColor"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Note: This is a self-assessment tool and does not replace a medical diagnosis. Please consult a doctor for official testing."
+                android:textSize="12sp"
+                android:textColor="#777777"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

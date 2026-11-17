@@ -1,0 +1,47 @@
+[
+  {
+    "id": 311,
+    "category": "vomiting",
+    "question": "Can my period cause vomiting?",
+    "alternate_questions": ["Throwing up on my period", "Is vomiting a normal period symptom?", "Severe nausea and vomiting during menstruation"],
+    "keywords": ["vomiting", "period", "throwing up", "prostaglandins", "sick"],
+    "answer": "While less common than nausea, some people do experience vomiting during their period. This is typically caused by high levels of prostaglandins which can cause severe uterine contractions and also affect the digestive system. Severe pain from cramps can also trigger vomiting.",
+    "follow_up": ["How to stop vomiting during my period?", "Is severe period pain normal?", "When to see a doctor for vomiting?"]
+  },
+  {
+    "id": 312,
+    "category": "vomiting",
+    "question": "How can I manage vomiting during my period?",
+    "alternate_questions": ["What to do if I'm throwing up on my period", "Ways to calm my stomach when I feel like vomiting", "Recovery after vomiting during menstruation"],
+    "keywords": ["manage", "vomiting", "period", "hydration", "recovery"],
+    "answer": "If you're vomiting, focus on staying hydrated with small sips of water, electrolyte drinks, or ginger ale once your stomach settles. Rest is crucial. Once you can keep fluids down, try bland foods like crackers or toast.",
+    "follow_up": ["What are signs of dehydration?", "Is ginger good for vomiting?", "When can I start eating again?"]
+  },
+  {
+    "id": 313,
+    "category": "vomiting",
+    "question": "When is vomiting on my period an emergency?",
+    "alternate_questions": ["When to go to the hospital for period vomiting", "Is throwing up during menstruation dangerous?", "Severe period sickness signs"],
+    "keywords": ["vomiting", "emergency", "period", "dehydration", "hospital"],
+    "answer": "Vomiting becomes a concern if you cannot keep any fluids down for more than 24 hours, if you show signs of severe dehydration, if it's accompanied by extreme abdominal pain, or if you have a high fever. In these cases, seek medical attention immediately.",
+    "follow_up": ["What are signs of severe dehydration?", "How to tell if period pain is too much?", "What is endometriosis?"]
+  },
+  {
+    "id": 314,
+    "category": "vomiting",
+    "question": "Can severe cramps cause vomiting?",
+    "alternate_questions": ["Throwing up from period pain", "Is it normal to vomit from cramps?", "Pain-induced vomiting during menstruation"],
+    "keywords": ["cramps", "vomiting", "pain", "period", "prostaglandins"],
+    "answer": "Yes, intense pain from menstrual cramps can trigger a 'vasovagal response' or simply be so overwhelming that it causes nausea and vomiting. Managing the pain effectively with heat or medication can often help prevent the vomiting.",
+    "follow_up": ["How to relieve severe cramps?", "What are best painkillers for periods?", "Can birth control help with severe cramps?"]
+  },
+  {
+    "id": 315,
+    "category": "vomiting",
+    "question": "Does hormone therapy help with period-related vomiting?",
+    "alternate_questions": ["Can the pill stop me from throwing up on my period?", "Birth control for period sickness", "Hormonal treatments for menstrual nausea"],
+    "keywords": ["hormone therapy", "birth control", "vomiting", "period", "relief"],
+    "answer": "For some, hormonal birth control can reduce the production of prostaglandins, which in turn can lessen the severity of cramps, nausea, and vomiting associated with menstruation. Talk to your doctor to see if this is a good option for you.",
+    "follow_up": ["How does birth control work for periods?", "What are side effects of the pill?", "Are there other treatments for period sickness?"]
+  }
+]

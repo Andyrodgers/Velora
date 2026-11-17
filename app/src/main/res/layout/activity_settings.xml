@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/appBackgroundColor"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textSize="28sp"
+        android:textColor="?attr/appPrimaryColor"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notifications"
+        android:textSize="20sp"
+        android:textColor="?attr/appTextColor"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchNotifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Period Reminders"
+        android:textColor="?attr/appTextColor"
+        android:textSize="16sp"
+        android:padding="8dp"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App Themes"
+        android:textSize="20sp"
+        android:textColor="?attr/appTextColor"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <RadioGroup
+        android:id="@+id/rgThemes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/rbDefaultTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Velora Pink (Default)"
+            android:textColor="?attr/appTextColor" />
+
+        <RadioButton
+            android:id="@+id/rbBlueTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Calm Blue"
+            android:textColor="?attr/appTextColor" />
+
+        <RadioButton
+            android:id="@+id/rbGreenTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Light Green"
+            android:textColor="?attr/appTextColor" />
+
+        <RadioButton
+            android:id="@+id/rbYellowTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Light Yellow"
+            android:textColor="?attr/appTextColor" />
+
+        <RadioButton
+            android:id="@+id/rbPurpleTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Purple"
+            android:textColor="?attr/appTextColor" />
+
+        <RadioButton
+            android:id="@+id/rbMaroonTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Light Maroon"
+            android:textColor="?attr/appTextColor" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnApplyTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="APPLY CHANGES"
+        android:backgroundTint="?attr/appPrimaryColor"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

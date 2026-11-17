@@ -1,0 +1,272 @@
+[
+  {
+    "id": 6001,
+    "category": "sex_drive",
+    "question": "What is sex drive",
+    "alternate_questions": ["Libido meaning", "Sexual desire explained", "What is libido", "Sex drive definition", "Understanding libido"],
+    "keywords": ["sex drive", "libido", "desire", "definition", "sexual", "understanding", "meaning"],
+    "answer": "Sex drive, or libido, is your desire for sexual activity. It exists on a spectrum and varies greatly among individuals. Sex drive is influenced by biological factors (hormones, neurotransmitters, physical health), psychological factors (stress, mood, body image, past experiences), and social factors (relationship quality, cultural messages, life circumstances). There is no 'normal' sex drive - what matters is whether your level of desire causes you distress or relationship problems. In women, sex drive often fluctuates across the menstrual cycle, typically peaking around ovulation due to elevated estrogen and testosterone. Low desire is the most common sexual concern among women. Both high and low sex drive can be healthy if they don't cause distress. If you're concerned about your sex drive, know that help is available and you are not alone.",
+    "follow_up": ["Are you concerned about your sex drive?", "Has it changed recently?", "Is this causing distress?", "What factors might be affecting it?"]
+  },
+  {
+    "id": 6002,
+    "category": "sex_drive",
+    "question": "How does the menstrual cycle affect sex drive",
+    "alternate_questions": ["Libido cycle", "Horny ovulation", "Sex drive period", "Menstrual cycle desire", "When is sex drive highest"],
+    "keywords": ["menstrual cycle", "sex drive", "ovulation", "period", "hormones", "desire", "highest"],
+    "answer": "Sex drive typically fluctuates across the menstrual cycle due to hormonal changes. Many women experience increased desire during the follicular phase and peak around ovulation (days 14-16 in a 28-day cycle) when estrogen and testosterone are highest. This evolutionary peak promotes fertility. Some women also experience increased arousal during menstruation due to increased pelvic blood flow and heightened sensitivity. During the luteal phase, rising progesterone may decrease desire for some women, while others notice no change or even increased desire. These patterns vary individually. Tracking your cycle alongside desire helps you understand your personal pattern. There's no right or wrong - your cycle is unique. Some women use cycle awareness to plan intimate moments, while others prefer spontaneity regardless of cycle phase.",
+    "follow_up": ["Do you notice cycle-related desire changes?", "When is your sex drive highest?", "Does this concern you or your partner?", "Have you tracked this pattern?"]
+  },
+  {
+    "id": 6003,
+    "category": "sex_drive",
+    "question": "What causes low sex drive in women",
+    "alternate_questions": ["Low libido causes", "No desire sex", "Why low sex drive", "Hypoactive sexual desire", "Lost interest sex"],
+    "keywords": ["low sex drive", "causes", "libido", "desire", "hypoactive", "interest", "women"],
+    "answer": "Low sex drive in women has many potential causes: hormonal (low estrogen, testosterone, thyroid issues, menopause, postpartum), medical conditions (diabetes, heart disease, chronic pain), medications (antidepressants especially SSRIs, birth control pills, blood pressure meds), psychological (depression, anxiety, stress, body image issues, trauma), relationship factors (conflict, lack of emotional connection, poor communication), and lifestyle (fatigue, alcohol, lack of exercise). In many cases, multiple factors interact. Low desire is only a problem if it causes you distress - some people are naturally less interested in sex. If you want to increase desire, identifying the cause guides treatment. Options include: addressing medical issues, adjusting medications, therapy (individual or couples), hormone therapy, and lifestyle changes. Your desire is valid whether high, low, or changing.",
+    "follow_up": ["When did you notice low desire?", "Are you distressed by it?", "What factors might be contributing?", "Have you discussed this with a provider?"]
+  },
+  {
+    "id": 6004,
+    "category": "sex_drive",
+    "question": "Can birth control affect sex drive",
+    "alternate_questions": ["Pill lower libido", "Contraception sex drive", "Birth control desire", "Hormonal contraception libido", "IUD sex drive"],
+    "keywords": ["birth control", "libido", "sex drive", "contraception", "pill", "hormonal", "desire"],
+    "answer": "Yes, hormonal contraception can affect sex drive, though individual responses vary. Some women experience decreased libido due to lowered testosterone levels and reduced natural hormone fluctuations. Progestin-only methods (mini pill, implant, shot) may have more impact than combined pills for some women. Non-hormonal methods (copper IUD, condoms) don't affect hormones and thus don't impact libido. Some women actually experience increased desire on birth control due to reduced pregnancy anxiety or lighter periods. If you notice decreased desire after starting contraception: track the change, consider switching formulations or methods, and discuss with your provider. Don't stop hormonal contraception suddenly without backup if pregnancy prevention is needed. Finding the right contraceptive method involves balancing pregnancy prevention, side effects, and quality of life including sexual wellbeing.",
+    "follow_up": ["Which contraception are you using?", "Did desire change after starting it?", "Are you considering alternatives?", "Is pregnancy prevention a concern?"]
+  },
+  {
+    "id": 6005,
+    "category": "sex_drive",
+    "question": "How does menopause affect sex drive",
+    "alternate_questions": ["Menopause libido", "No desire after menopause", "Postmenopausal sex drive", "Hormones sex menopause", "Aging sex drive women"],
+    "keywords": ["menopause", "libido", "sex drive", "postmenopausal", "aging", "hormones", "estrogen"],
+    "answer": "Menopause affects sex drive through decreased estrogen and testosterone, which can reduce desire, arousal, and physical comfort. Vaginal dryness and thinning tissues (vaginal atrophy) may make sex painful, further reducing desire. However, menopause doesn't automatically end sexuality - many women report improved sex lives due to freedom from pregnancy concerns, children leaving home, and increased self-confidence. Management options: lubricants and moisturizers for dryness, local estrogen therapy, systemic hormone replacement therapy (if appropriate), testosterone therapy (off-label but used), addressing relationship issues, and maintaining sexual activity to preserve tissue health. Psychological factors like body image, partner availability, and cultural attitudes also matter. Sex after menopause can be fulfilling with proper care and communication. Don't accept 'that's just aging' if you want an active sex life.",
+    "follow_up": ["Are you menopausal or perimenopausal?", "What specific changes concern you?", "Are you experiencing pain with sex?", "Have you discussed HRT with your provider?"]
+  },
+  {
+    "id": 6006,
+    "category": "sex_drive",
+    "question": "What is arousal disorder",
+    "alternate_questions": ["Can't get aroused", "Arousal problems women", "Female arousal disorder", "Not turned on", "Arousal dysfunction"],
+    "keywords": ["arousal", "disorder", "turned on", "problems", "dysfunction", "female", "arousal issues"],
+    "answer": "Female sexual arousal disorder involves persistent difficulty with physical arousal (lubrication, genital swelling) despite desire and stimulation. It may occur with or without low desire. Causes include: hormonal changes (menopause, postpartum, breastfeeding), medical conditions (diabetes, vascular disease), medications (antidepressants, antihistamines), psychological factors (stress, distraction, body image), and relationship issues. Treatment depends on cause: lubricants, local estrogen, addressing medical conditions, adjusting medications, therapy, and devices like vibrators. The distinction between desire and arousal is important - you may want sex but your body doesn't respond, or vice versa. Arousal often follows a slower path in women than men, requiring more time and stimulation. Don't rush yourself. If arousal issues persist and cause distress, consult a healthcare provider or sex therapist.",
+    "follow_up": ["Do you have desire but not physical response?", "Is this causing distress?", "Have you tried lubricants or extended foreplay?", "When did this start?"]
+  },
+  {
+    "id": 6007,
+    "category": "sex_drive",
+    "question": "Can antidepressants lower sex drive",
+    "alternate_questions": ["SSRIs libido", "Antidepressants sexual side effects", "Prozac sex drive", "Zoloft desire", "Medication low libido"],
+    "keywords": ["antidepressants", "SSRIs", "libido", "sex drive", "sexual side effects", "medication", "desire"],
+    "answer": "Yes, antidepressants - especially SSRIs (sertraline, fluoxetine, paroxetine) - commonly reduce sex drive, arousal, and orgasm. This affects up to 70% of users. Mechanisms include increased serotonin which suppresses dopamine (involved in desire) and affects nitric oxide (involved in arousal). If you're experiencing this: don't stop medication suddenly - depression also reduces libido. Options include: switching to bupropion (less sexual side effects), adding bupropion to current regimen, adjusting timing (taking medication after sex), dose reduction, or trying other antidepressants (mirtazapine, vilazodone). Discuss with your prescriber - sexual side effects are a legitimate reason to adjust treatment. Your sexual health matters and should be part of medication decisions. There are solutions that address both depression and sexual wellbeing.",
+    "follow_up": ["Which antidepressant are you taking?", "When did sexual side effects start?", "Have you discussed this with your prescriber?", "Are you considering switching?"]
+  },
+  {
+    "id": 6008,
+    "category": "sex_drive",
+    "question": "How does stress affect sex drive",
+    "alternate_questions": ["Stress libido", "Too stressed for sex", "Anxiety sex drive", "Work stress desire", "Cortisol sex drive"],
+    "keywords": ["stress", "libido", "sex drive", "anxiety", "cortisol", "desire", "too stressed"],
+    "answer": "Stress significantly reduces sex drive through multiple mechanisms. High cortisol suppresses reproductive hormones including testosterone (important for desire in women too). Stress redirects blood flow away from sexual organs to muscles. Mental preoccupation with stressors leaves little capacity for arousal. Fatigue from stress eliminates energy for sex. Relationship conflict from stress reduces emotional intimacy. Evolutionarily, stress signals danger - not a time for reproduction. However, some people seek sex as stress relief due to endorphin release. Management: address root stressors, practice stress reduction, schedule intimate time when energy is higher, communicate with partner about stress, and consider that sex itself can reduce stress once initiated. Don't force desire when severely stressed, but don't abandon intimacy entirely - physical connection maintains relationship bonds during difficult times.",
+    "follow_up": ["What are your main stressors?", "Is stress temporary or chronic?", "Does your partner understand?", "Have you tried stress reduction?"]
+  },
+  {
+    "id": 6009,
+    "category": "sex_drive",
+    "question": "What is responsive desire",
+    "alternate_questions": ["Responsive vs spontaneous desire", "Not in mood until started", " Desire after arousal", "Emily Nagoski desire", "Come as you are desire"],
+    "keywords": ["responsive desire", "spontaneous", "arousal", "desire", "Nagoski", "mood", "started"],
+    "answer": "Responsive desire is desire that emerges in response to sexual stimulation or context, rather than appearing spontaneously. Researcher Emily Nagoski describes two desire types: spontaneous (desire comes first, then arousal) and responsive (arousal comes first, then desire). Many women experience responsive desire - they're not in the mood until sexual activity begins and their body responds. This is normal and healthy, not a disorder. Problems arise when responsive desire is pathologized as 'low libido.' If you have responsive desire: initiate physical intimacy even when not initially desiring sex, create contexts that facilitate arousal (relaxation, romance, erotica), communicate this pattern to your partner, and don't wait for spontaneous desire that may not come. Understanding your desire type reduces shame and improves sexual satisfaction. There's nothing wrong with needing to get started before wanting to continue.",
+    "follow_up": ["Do you experience responsive desire?", "Has this been misunderstood?", "Does your partner understand?", "Would you like to explore this concept?"]
+  },
+  {
+    "id": 6010,
+    "category": "sex_drive",
+    "question": "Can breastfeeding affect sex drive",
+    "alternate_questions": ["Nursing libido", "Breastfeeding no desire", "Postpartum sex drive", "Prolactin sex drive", "Milk supply desire"],
+    "keywords": ["breastfeeding", "nursing", "libido", "postpartum", "prolactin", "desire", "sex drive"],
+    "answer": "Breastfeeding commonly reduces sex drive due to high prolactin levels (which suppress ovulation and desire) and low estrogen (causing vaginal dryness and low desire). Physical demands of caring for a newborn, sleep deprivation, body changes, and adjusting to motherhood also contribute. Some women experience increased sensitivity in breasts and may feel 'touched out' from constant physical contact with baby. This is normal and temporary. Management: communicate with partner about your needs, use plenty of lubrication, choose comfortable positions, find time when you're less exhausted, and remember that desire often returns gradually as breastfeeding decreases and hormones stabilize. If low desire persists beyond weaning or causes relationship distress, consult a provider. Your body is prioritizing infant survival - this is biology, not rejection of your partner.",
+    "follow_up": ["Are you currently breastfeeding?", "How old is your baby?", "Is your partner understanding?", "Are you experiencing pain with sex?"]
+  },
+  {
+    "id": 6011,
+    "category": "sex_drive",
+    "question": "How to increase sex drive naturally",
+    "alternate_questions": ["Boost libido naturally", "Increase desire without medication", "Natural aphrodisiacs women", "Improve sex drive lifestyle", "Libido supplements"],
+    "keywords": ["increase", "boost", "naturally", "libido", "lifestyle", "supplements", "aphrodisiacs", "desire"],
+    "answer": "Natural approaches to increase sex drive include: exercise (improves body image, circulation, and mood), adequate sleep (fatigue kills desire), stress management (cortisol suppresses libido), balanced nutrition (zinc, magnesium, healthy fats support hormones), limiting alcohol (depresses nervous system), quitting smoking (impairs circulation), pelvic floor exercises (increase sensation), mindfulness and meditation (reduce distraction during sex), spending quality time with partner (emotional connection fuels desire), and addressing underlying medical issues. Some supplements show promise (maca, fenugreek, ginseng) but evidence is limited - consult your provider before taking them. Sensate focus exercises (non-demand touching) help reconnect with physical sensation. Erotic literature or films may increase mental arousal. Remember: natural approaches work best when the cause is lifestyle-related rather than medical or psychological.",
+    "follow_up": ["What factors might be lowering your desire?", "Have you tried lifestyle changes?", "Are you open to sensate focus?", "What appeals to you most?"]
+  },
+  {
+    "id": 6012,
+    "category": "sex_drive",
+    "question": "What is sexual anorexia",
+    "alternate_questions": ["Avoid sex completely", "Sex aversion disorder", "Sexual avoidance", "Fear of intimacy sexual", "Sexual anorexia explained"],
+    "keywords": ["sexual anorexia", "avoidance", "aversion", "fear", "intimacy", "sex", "disorder"],
+    "answer": "Sexual anorexia is a term (not a formal diagnosis) describing obsessive avoidance of sexual activity, often due to trauma, shame, or addiction recovery. It involves: persistent fear of sexual contact, extreme avoidance, disgust toward sex, and using sex avoidance as a coping mechanism. It differs from low desire or asexuality in being driven by fear and compulsion rather than natural orientation. Causes include: sexual trauma, religious shame, body image issues, relationship problems, or as a reaction to past sexual addiction. Treatment involves: trauma therapy, addressing shame, rebuilding healthy relationship with sexuality, and sometimes couples therapy. Asexuality (lack of sexual attraction) is a valid orientation, not a disorder. Sexual anorexia is about fear and avoidance, not orientation. If you avoid sex due to fear or shame, therapy can help you develop a healthier relationship with your sexuality.",
+    "follow_up": ["Do you avoid sex due to fear or disgust?", "Is there trauma history?", "Do you want to change this pattern?", "Have you sought therapy?"]
+  },
+  {
+    "id": 6013,
+    "category": "sex_drive",
+    "question": "How does body image affect sex drive",
+    "alternate_questions": ["Hate body sex", "Body image libido", "Insecure naked", "Weight sex drive", "Appearance desire"],
+    "keywords": ["body image", "libido", "insecure", "appearance", "weight", "naked", "self esteem"],
+    "answer": "Body image significantly affects sex drive. Negative body image creates self-consciousness during sex, distraction from pleasure, avoidance of sex, and difficulty receiving touch. You may hide your body, avoid certain positions, or refuse sex entirely. This affects women disproportionately due to societal beauty standards. Improving body image for sexual wellbeing: focus on what your body can feel and do rather than how it looks, practice self-compassion, communicate insecurities with partner (often they don't notice what you criticize), receive compliments without deflection, avoid comparing yourself to media images, engage in physical activities that build appreciation, and consider therapy for deep-seated body shame. Your partner likely desires you as you are. Sex happens in the dark, under sheets, and with eyes closed for a reason - sensation matters more than appearance.",
+    "follow_up": ["How does body image affect your sexuality?", "What specifically do you feel insecure about?", "Has your partner reassured you?", "Would you like body image strategies?"]
+  },
+  {
+    "id": 6014,
+    "category": "sex_drive",
+    "question": "Can trauma affect sex drive",
+    "alternate_questions": ["Sexual assault libido", "Trauma sex desire", "Abuse sex drive", "PTSD sexuality", "Past trauma intimacy"],
+    "keywords": ["trauma", "sexual assault", "abuse", "PTSD", "sex drive", "desire", "intimacy", "past"],
+    "answer": "Yes, sexual trauma significantly affects sex drive and sexual functioning. Effects include: low desire, avoidance of sex, flashbacks during intimacy, dissociation, pain, inability to orgasm, hypersexuality (as coping mechanism), or alternating between extremes. Trauma disrupts the association between sex and safety, pleasure, or choice. The body may respond with shutdown (low desire) or hyperarousal (anxiety). Healing requires: trauma-informed therapy (EMDR, somatic therapy), patience with yourself, rebuilding safety and trust, communicating boundaries with partners, and understanding that healing is non-linear. Some survivors find their sex drive returns with healing; others discover their orientation or desires have changed. Both are valid. You are not broken - your responses are adaptations to survive. With support, you can develop a sexual life that feels safe and fulfilling on your terms.",
+    "follow_up": ["Do you have trauma history?", "How does it affect your sexuality?", "Are you in trauma therapy?", "Do you have a supportive partner?"]
+  },
+  {
+    "id": 6015,
+    "category": "sex_drive",
+    "question": "What is hypersexuality",
+    "alternate_questions": ["Too much sex drive", "High libido problem", "Hypersexual disorder", "Sex addiction women", "Compulsive sexual behavior"],
+    "keywords": ["hypersexuality", "high libido", "sex addiction", "compulsive", "behavior", "disorder", "too much"],
+    "answer": "Hypersexuality (compulsive sexual behavior disorder) involves persistent, intense preoccupation with sexual fantasies, urges, or behaviors that cause distress or impairment. It's not about having a high sex drive - it's about using sex compulsively to cope with stress, trauma, or emotional pain. Signs include: sex interfering with work/relationships, inability to reduce sexual behavior despite consequences, using sex to escape problems, and feeling out of control. Causes may include: trauma, bipolar mania, ADHD, substance use, or neurological conditions. In women, hypersexuality is often misunderstood or stigmatized. Treatment includes: therapy (CBT, psychodynamic), addressing underlying conditions, medication if related to bipolar or OCD, and support groups. If you're concerned about your sexual behavior, seek non-judgmental professional help. There is no shame in seeking understanding and support.",
+    "follow_up": ["Are you concerned about your sexual behavior?", "Is it causing problems?", "What triggers the behavior?", "Have you sought help?"]
+  },
+  {
+    "id": 6016,
+    "category": "sex_drive",
+    "question": "How does thyroid affect sex drive",
+    "alternate_questions": ["Thyroid libido", "Hypothyroidism sex drive", "Hyperthyroidism desire", "Thyroid hormone sex", "TSH libido"],
+    "keywords": ["thyroid", "libido", "hypothyroidism", "hyperthyroidism", "hormone", "TSH", "sex drive"],
+    "answer": "Thyroid dysfunction significantly affects sex drive. Hypothyroidism (underactive thyroid) commonly causes low libido due to fatigue, depression, weight gain, and hormonal disruption. Hyperthyroidism (overactive thyroid) may increase or decrease desire - some experience heightened anxiety that reduces intimacy, while others have increased desire. Thyroid hormones regulate metabolism and interact with sex hormones. If you have unexplained changes in sex drive, especially with other thyroid symptoms (fatigue, temperature intolerance, weight changes, hair loss), request thyroid testing. Treating thyroid dysfunction often restores normal libido. Thyroid issues are more common in women and often emerge during hormonal transitions. Don't accept 'it's just aging or stress' without ruling out thyroid problems. A simple blood test can reveal if your thyroid is affecting your sexual health.",
+    "follow_up": ["Have you had thyroid testing?", "Do you have other thyroid symptoms?", "Did libido change suddenly?", "Are you receiving thyroid treatment?"]
+  },
+  {
+    "id": 6017,
+    "category": "sex_drive",
+    "question": "What is asexuality",
+    "alternate_questions": ["No sexual attraction", "Asexual meaning", "Ace spectrum", "Asexuality explained", "Not interested in sex orientation"],
+    "keywords": ["asexuality", "asexual", "ace", "attraction", "orientation", "spectrum", "not interested"],
+    "answer": "Asexuality is a sexual orientation characterized by little or no sexual attraction to others. It exists on a spectrum: some asexual people have no sexual attraction ever, while others (gray-asexual or demisexual) experience it rarely or only after deep emotional connection. Asexuality is not: a disorder, trauma response, hormone imbalance, or choice to abstain. It's a valid orientation affecting approximately 1% of the population. Asexual people may still: have romantic relationships, experience aesthetic or emotional attraction, have sex for various reasons, or masturbate. The key distinction is lack of sexual attraction, not necessarily lack of sexual behavior. If you don't experience sexual attraction, you may be asexual. This is normal and healthy. You don't need to 'fix' yourself. Asexual communities provide support and validation for this orientation.",
+    "follow_up": ["Do you experience sexual attraction?", "Have you felt pressure to be sexual?", "Do you want romantic relationships?", "Would you like to learn about ace spectrum?"]
+  },
+  {
+    "id": 6018,
+    "category": "sex_drive",
+    "question": "How to talk to partner about sex drive differences",
+    "alternate_questions": ["Partner wants more sex", "Different libidos", "Mismatched sex drive", "Talk sex desire partner", "Sex drive incompatibility"],
+    "keywords": ["partner", "talk", "different libidos", "mismatched", "incompatibility", "communication", "desire"],
+    "answer": "Discussing sex drive differences requires honesty, empathy, and collaboration: 1) Choose a neutral time, not during or after sex. 2) Use 'I' statements - 'I feel...' rather than 'You never...' 3) Acknowledge it's a shared problem, not one person's fault. 4) Explore causes together - stress, health, medications, relationship issues. 5) Discuss compromises - frequency, types of intimacy, scheduling. 6) Consider non-sexual intimacy - cuddling, massage, quality time. 7) Avoid pressure or guilt - they increase resistance. 8) Be specific about what you need and can offer. 9) Consider couples therapy or sex therapy. 10) Remember: desire differences are normal in long-term relationships. The goal isn't matching drives but finding mutual satisfaction. Sometimes the higher-drive partner needs more solo activity; sometimes the lower-drive partner stretches comfort zone. Both should feel respected, not coerced.",
+    "follow_up": ["Who has higher drive?", "Have you discussed this before?", "What compromises have you tried?", "Would you consider therapy?"]
+  },
+  {
+    "id": 6019,
+    "category": "sex_drive",
+    "question": "What is sex therapy",
+    "alternate_questions": ["Sex therapist", "Therapy for sexual issues", "Sexual counseling", "Intimacy therapy", "Sex therapy what to expect"],
+    "keywords": ["sex therapy", "therapist", "sexual", "counseling", "intimacy", "issues", "expect"],
+    "answer": "Sex therapy is specialized counseling for sexual concerns, provided by licensed therapists with additional training in human sexuality. It addresses: low desire, arousal difficulties, orgasm problems, pain during sex, sexual trauma, desire differences, sexual orientation concerns, and gender identity. Sex therapy is talk therapy - there is no physical contact or nudity during sessions. The therapist takes a detailed sexual history, identifies contributing factors, and provides education, exercises, and communication strategies. Common approaches include: sensate focus (non-demand touching), CBT for sexual anxiety, mindfulness for arousal, and trauma processing. Sessions may be individual or couples. Finding a certified sex therapist: AASECT (American Association of Sexuality Educators, Counselors and Therapists) directory. Sex therapy is effective for most sexual concerns. There's no shame in seeking help - sexual health is part of overall health.",
+    "follow_up": ["What sexual concern would you address?", "Are you comfortable discussing sex?", "Have you considered therapy?", "Would you prefer individual or couples?"]
+  },
+  {
+    "id": 6020,
+    "category": "sex_drive",
+    "question": "Can pain affect sex drive",
+    "alternate_questions": ["Painful sex desire", "Dyspareunia libido", "Chronic pain sex drive", "Endometriosis sex desire", "Pain lowers libido"],
+    "keywords": ["pain", "painful sex", "dyspareunia", "chronic pain", "libido", "desire", "endometriosis"],
+    "answer": "Yes, pain significantly reduces sex drive through classical conditioning - if sex hurts, you learn to avoid it. Conditions causing pain include: endometriosis, vulvodynia, vaginismus, infections, menopausal dryness, pelvic inflammatory disease, and scar tissue. Even after pain is treated, low desire may persist because the association remains. Management: treat underlying physical causes (see gynecologist, pelvic floor PT), use plenty of lubrication, communicate with partner about what hurts, try non-penetrative intimacy, practice relaxation before sex, and consider therapy if fear of pain persists. Pain during sex is never normal - don't accept 'just relax' or 'use more lube' without proper evaluation. You deserve pain-free, pleasurable sex. Addressing pain is the first step toward restoring desire.",
+    "follow_up": ["Do you experience pain with sex?", "Where is the pain located?", "Have you seen a gynecologist?", "Does fear of pain affect desire?"]
+  },
+  {
+    "id": 6021,
+    "category": "sex_drive",
+    "question": "How does alcohol affect sex drive",
+    "alternate_questions": ["Drinking libido", "Alcohol sex desire", "Wine sex drive", "Alcohol arousal", "Booze sexuality"],
+    "keywords": ["alcohol", "drinking", "libido", "sex drive", "arousal", "desire", "effects"],
+    "answer": "Alcohol affects sex drive in complex ways. Small amounts may reduce inhibitions and increase initial desire due to decreased anxiety. However, alcohol is a depressant that impairs sexual response: reduces genital blood flow (making arousal harder), delays or prevents orgasm, decreases sensation, and can cause erectile dysfunction in partners. Chronic heavy drinking significantly lowers testosterone and estrogen, reducing desire long-term. Alcohol also impairs judgment, leading to risky sexual behavior or encounters you may regret. If you rely on alcohol to feel sexual, underlying anxiety or inhibition may need addressing. For optimal sexual health: limit alcohol before sex, address anxiety directly rather than medicating it, and be aware that alcohol's initial relaxation gives way to physiological impairment. Sobriety often improves sexual satisfaction over time.",
+    "follow_up": ["How much do you drink before or during sex?", "Do you need alcohol to relax?", "Have you noticed alcohol affecting performance?", "Are you concerned about drinking patterns?"]
+  },
+  {
+    "id": 6022,
+    "category": "sex_drive",
+    "question": "What is sexual mindfulness",
+    "alternate_questions": ["Mindful sex", "Present during sex", "Meditation sex drive", "Mindfulness intimacy", "Focus during sex"],
+    "keywords": ["mindfulness", "sex", "present", "meditation", "intimacy", "focus", "attention"],
+    "answer": "Sexual mindfulness is the practice of being fully present during sexual activity, focusing on sensations rather than distractions, performance anxiety, or body image concerns. Research shows mindfulness improves sexual desire, arousal, and satisfaction. Practice by: noticing physical sensations without judgment, focusing on breath, observing thoughts without following them, using all five senses, and letting go of goal-oriented thinking (orgasm as the only goal). When your mind wanders (to-do lists, body worries), gently return attention to sensation. Mindfulness counters spectatoring (watching yourself from outside during sex). Start with solo practice: mindful self-touch without orgasm goal. Then bring to partnered sex. Apps and books on mindful sex are available. This approach is particularly helpful for anxiety-related arousal and desire issues. Presence is the greatest aphrodisiac.",
+    "follow_up": ["Is your mind distracted during sex?", "Do you experience spectatoring?", "Have you tried mindfulness?", "Would you like guided exercises?"]
+  },
+  {
+    "id": 6023,
+    "category": "sex_drive",
+    "question": "How does age affect sex drive",
+    "alternate_questions": ["Older women libido", "Aging sex desire", "Sex drive 40s 50s", "Menopause sex life", "Age sexuality women"],
+    "keywords": ["age", "aging", "older", "libido", "menopause", "40s", "50s", "sexuality"],
+    "answer": "Sex drive changes with age but doesn't disappear. In your 20s-30s: desire is often highest, though life stress may interfere. In your 40s: perimenopause brings hormonal fluctuations that may increase or decrease desire; some women experience a 'sexual peak' due to confidence and reduced inhibition. In your 50s+: menopause reduces estrogen and testosterone, potentially decreasing desire and causing vaginal dryness. However, many postmenopausal women report satisfying sex lives due to: no pregnancy concerns, more time, increased self-knowledge, and relationship stability. Physical changes require adaptation: more lubrication, longer arousal time, different positions. Medical issues and medications become more relevant. Cultural ageism suggests older women shouldn't be sexual - this is false. Sexuality can be lifelong with proper care, communication, and medical support when needed.",
+    "follow_up": ["How has your desire changed with age?", "What concerns you most?", "Are you perimenopausal or menopausal?", "Would you like age-specific advice?"]
+  },
+  {
+    "id": 6024,
+    "category": "sex_drive",
+    "question": "Can exercise increase sex drive",
+    "alternate_questions": ["Workout libido", "Fitness sex drive", "Exercise arousal", "Yoga sex drive", "Physical activity desire"],
+    "keywords": ["exercise", "workout", "fitness", "libido", "arousal", "physical activity", "desire"],
+    "answer": "Yes, exercise can increase sex drive through multiple mechanisms: improved body image and confidence, increased blood flow to genitals, enhanced mood through endorphins, reduced stress and cortisol, better sleep, increased energy, and elevated testosterone. Specific benefits: cardiovascular exercise improves circulation and stamina; strength training increases testosterone; yoga improves body awareness and pelvic floor strength; pelvic floor exercises (Kegels) increase sensation and orgasm intensity. However, excessive exercise (overtraining) can decrease desire by elevating cortisol and suppressing reproductive hormones. Moderate, regular exercise is optimal. Even 20-30 minutes most days helps. Exercise also improves sexual function by reducing risk of conditions that impair sexuality (diabetes, heart disease, depression). Moving your body regularly supports a healthy sex life.",
+    "follow_up": ["Do you currently exercise?", "What activities do you enjoy?", "Have you noticed exercise affecting desire?", "Would you like specific recommendations?"]
+  },
+  {
+    "id": 6025,
+    "category": "sex_drive",
+    "question": "What are aphrodisiacs for women",
+    "alternate_questions": ["Foods increase desire", "Natural libido boosters", "Aphrodisiacs work", "Herbs sex drive", "Supplements libido women"],
+    "keywords": ["aphrodisiacs", "foods", "natural", "boosters", "herbs", "supplements", "libido", "desire"],
+    "answer": "Aphrodisiacs for women include foods and supplements that may support desire, though evidence varies. Foods: oysters (zinc), dark chocolate (phenylethylamine), watermelon (citrulline), avocado (vitamin E), nuts (arginine), and spicy foods (capsaicin increases blood flow). Herbs/supplements: maca root (most researched for female desire), fenugreek, ginseng, tribulus, and DHEA (hormone precursor). However, evidence is often limited or mixed. What works best: addressing underlying causes (stress, hormones, relationship issues), exercise, sleep, and emotional connection. Placebo effect also plays a role - if you believe something will work, it might. Be cautious with supplements - they can interact with medications and aren't regulated. Consult your provider before trying supplements, especially if on other medications. The most reliable 'aphrodisiac' is feeling safe, connected, and relaxed with your partner.",
+    "follow_up": ["Have you tried aphrodisiacs?", "What underlying factors might be affecting desire?", "Are you interested in supplements?", "Have you consulted your provider?"]
+  },
+  {
+    "id": 6026,
+    "category": "sex_drive",
+    "question": "How does sleep affect sex drive",
+    "alternate_questions": ["Tired no desire", "Sleep libido", "Insomnia sex drive", "Rest desire", "Fatigue sexuality"],
+    "keywords": ["sleep", "tired", "fatigue", "libido", "insomnia", "rest", "desire", "energy"],
+    "answer": "Sleep profoundly affects sex drive. Sleep deprivation increases cortisol and reduces testosterone, both lowering desire. Fatigue eliminates energy for sex and reduces emotional availability. Poor sleep impairs mood, making you irritable and less interested in intimacy. One study found that women who slept one hour longer were 14% more likely to be sexual the next day. Sleep apnea, common and underdiagnosed in women, causes severe fatigue and low desire. Shift work disrupts circadian rhythms affecting hormones. Improve sleep for better sex: consistent schedule, cool dark room, limit screens, avoid caffeine after noon, manage stress, and treat sleep disorders. Prioritize sleep as foreplay - being well-rested makes you more receptive to intimacy. If you're choosing between sex and sleep, sometimes sleep is the better choice for long-term desire.",
+    "follow_up": ["How is your sleep?", "Are you chronically tired?", "Do you choose sleep over sex?", "Have you addressed sleep issues?"]
+  },
+  {
+    "id": 6027,
+    "category": "sex_drive",
+    "question": "What is orgasmic disorder",
+    "alternate_questions": ["Can't orgasm", "Anorgasmia", "Difficulty orgasming", "Never had orgasm", "Orgasm problems women"],
+    "keywords": ["orgasmic disorder", "anorgasmia", "can't orgasm", "difficulty", "orgasm", "problems", "women"],
+    "answer": "Female orgasmic disorder is persistent difficulty achieving orgasm despite adequate stimulation and arousal. It may be lifelong (never experienced orgasm) or acquired (developed after a period of normal function). Primary anorgasmia affects approximately 10-15% of women. Causes include: insufficient stimulation (most common), medication side effects (SSRIs), medical conditions (diabetes, neurological issues), hormonal changes (menopause), psychological factors (anxiety, shame, distraction), and relationship issues. Treatment: education about anatomy and stimulation, vibrators (provide consistent stimulation), mindfulness to reduce distraction, adjusting medications, hormone therapy, and sex therapy. Many women need clitoral stimulation to orgasm - this is normal, not a disorder. If you've never had an orgasm, explore self-stimulation first to learn your body. Orgasm is learnable for most women with patience and the right approach.",
+    "follow_up": ["Have you ever had an orgasm?", "What type of stimulation do you experience?", "Are you on medications that might affect this?", "Would you like guidance on exploration?"]
+  },
+  {
+    "id": 6028,
+    "category": "sex_drive",
+    "question": "How to initiate sex when you have low desire",
+    "alternate_questions": ["Start sex low libido", "Initiate when not in mood", "Responsive desire initiate", "Low desire partner sex", "Begin intimacy low drive"],
+    "keywords": ["initiate", "low desire", "responsive", "partner", "intimacy", "begin", "mood", "start"],
+    "answer": "Initiating sex with low or responsive desire requires reframing initiation: 1) Start with willingness rather than desire - 'I'm open to seeing where this goes.' 2) Begin with non-sexual intimacy - cuddling, massage, kissing - and let arousal build. 3) Schedule sex - reduces pressure of spontaneity and ensures intimacy happens. 4) Focus on pleasure for you - ask for what feels good. 5) Use arousal aids - erotica, fantasies, vibrators. 6) Communicate with partner - explain your desire type so they understand. 7) Start solo - self-stimulation can awaken desire before partnered sex. 8) Reduce barriers - address pain, fatigue, stress beforehand. 9) Remember that desire often follows arousal, not precedes it. 10) Be gentle with yourself - you're not broken. Many happy couples have one partner who initiates from willingness rather than spontaneous desire. The key is mutual satisfaction, not how desire begins.",
+    "follow_up": ["Do you want to initiate more?", "What barriers exist?", "Does your partner understand your desire type?", "What has worked before?"]
+  },
+  {
+    "id": 6029,
+    "category": "sex_drive",
+    "question": "Can relationship problems cause low sex drive",
+    "alternate_questions": ["Marriage problems libido", "Partner resentment desire", "Relationship sex drive", "Anger low libido", "Unhappy relationship sex"],
+    "keywords": ["relationship", "problems", "marriage", "resentment", "anger", "unhappy", "libido", "desire"],
+    "answer": "Yes, relationship problems are a leading cause of low sex drive in women. Unlike men who may desire sex despite conflict, women often need emotional safety and connection for desire. Issues that reduce desire include: unresolved conflict and resentment, lack of emotional intimacy, poor communication, feeling taken for granted, unequal distribution of labor, criticism or contempt, trust breaches (infidelity), and mismatched expectations. The body reads relationship stress as threat, shutting down desire. Improvement requires addressing relationship issues directly, not just trying to increase libido. Couples therapy helps rebuild connection. Practical steps: express appreciation, share non-sexual affection, resolve conflicts, ensure fairness in household responsibilities, and create quality time together. Sometimes improving the relationship naturally restores desire. Sometimes desire differences reveal fundamental incompatibility. Both possibilities deserve honest exploration.",
+    "follow_up": ["What relationship issues exist?", "Do you feel emotionally safe?", "Is labor distributed fairly?", "Have you considered couples therapy?"]
+  },
+  {
+    "id": 6030,
+    "category": "sex_drive",
+    "question": "What is sensate focus",
+    "alternate_questions": ["Sensate focus exercises", "Non demand touching", "Sensate focus therapy", "Rebuild intimacy exercises", "Sensate focus technique"],
+    "keywords": ["sensate focus", "exercises", "non demand", "touching", "therapy", "rebuild", "intimacy", "technique"],
+    "answer": "Sensate focus is a sex therapy technique developed by Masters and Johnson to rebuild intimacy and reduce performance anxiety. It involves structured, non-demand touching where the goal is not orgasm or even arousal, but simply experiencing physical sensation and giving/receiving pleasure. Structure: Step 1 - non-genital touching, taking turns giving and receiving, with the receiver focusing purely on sensation. Step 2 - include breast and genital touching but still no goal of orgasm. Step 3 - include penetration if desired, but orgasm is not the goal. Rules: no performance pressure, communicate about touch, stay present, and stop if anxiety becomes overwhelming. Sensate focus helps couples reconnect physically without the pressure of 'having sex.' It's particularly helpful after trauma, childbirth, illness, or long periods without intimacy. The goal is pleasure and connection, not performance.",
+    "follow_up": ["Have you heard of sensate focus?", "Would you try non-demand touching?", "Is performance anxiety an issue?", "Are you and your partner willing to practice?"]
+  }
+]

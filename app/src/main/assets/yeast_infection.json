@@ -1,0 +1,272 @@
+[
+  {
+    "id": 12001,
+    "category": "yeast_infection",
+    "question": "What is a yeast infection",
+    "alternate_questions": ["Vaginal yeast infection", "Candida explained", "Yeast infection meaning", "Thrush vaginal", "What causes yeast infection"],
+    "keywords": ["yeast infection", "candida", "vaginal", "thrush", "causes", "meaning", "explained"],
+    "answer": "A yeast infection is a fungal infection caused by Candida overgrowth in the vagina. It's common and not an STI. Symptoms include itching, thick white discharge, burning, and redness. Most women experience at least one in their lifetime. It's treatable with OTC or prescription antifungals.",
+    "follow_up": ["Do you have symptoms?", "Is this your first infection?", "Have you been diagnosed before?"]
+  },
+  {
+    "id": 12002,
+    "category": "yeast_infection",
+    "question": "What causes yeast infections",
+    "alternate_questions": ["Why yeast infection", "Yeast infection triggers", "Candida overgrowth causes", "What leads to yeast infection", "Yeast infection risk factors"],
+    "keywords": ["causes", "triggers", "candida", "overgrowth", "risk factors", "why", "leads"],
+    "answer": "Causes include: antibiotics, pregnancy, diabetes, weakened immunity, hormonal changes, tight clothing, douching, and moisture. Candida naturally lives in the vagina but overgrows when balance disrupts. Not caused by poor hygiene. Some women are simply more prone.",
+    "follow_up": ["Have you taken antibiotics recently?", "Do you have diabetes?", "What might have triggered yours?"]
+  },
+  {
+    "id": 12003,
+    "category": "yeast_infection",
+    "question": "What are yeast infection symptoms",
+    "alternate_questions": ["Yeast infection signs", "Itchy vagina", "White discharge", "Burning yeast infection", "How to tell yeast infection"],
+    "keywords": ["symptoms", "signs", "itchy", "white discharge", "burning", "tell", "vagina"],
+    "answer": "Symptoms: intense vaginal itching, thick white cottage cheese-like discharge, burning during urination or sex, redness and swelling of vulva, and soreness. Odor is typically minimal or absent. If discharge smells fishy, it may be BV instead.",
+    "follow_up": ["What symptoms do you have?", "Is there odor?", "How severe is the itching?"]
+  },
+  {
+    "id": 12004,
+    "category": "yeast_infection",
+    "question": "How to treat yeast infection",
+    "alternate_questions": ["Yeast infection treatment", "Cure yeast infection", "OTC yeast infection", "Antifungal vaginal", "Yeast infection medication"],
+    "keywords": ["treatment", "cure", "OTC", "antifungal", "medication", "vaginal", "how"],
+    "answer": "OTC treatments: clotrimazole (Gyne-Lotrimin), miconazole (Monistat), and tioconazole (1-day treatment). Available as creams, ointments, or suppositories. Prescription oral fluconazole (Diflucan) is a single-dose pill. Treatment duration: 1, 3, or 7 days. Follow package directions.",
+    "follow_up": ["Have you tried OTC treatment?", "Do you prefer pill or cream?", "Is this your first infection?"]
+  },
+  {
+    "id": 12005,
+    "category": "yeast_infection",
+    "question": "Can I treat yeast infection at home",
+    "alternate_questions": ["Home remedy yeast", "Natural yeast cure", "Yogurt yeast infection", "Garlic yeast", "Boric acid yeast"],
+    "keywords": ["home remedy", "natural", "yogurt", "garlic", "boric acid", "cure", "treat"],
+    "answer": "Some home remedies may help but evidence is limited: plain yogurt with live cultures (topical or eaten), boric acid suppositories (for recurrent infections), and probiotics. Avoid douching and garlic inserts (can burn). See a provider if first infection or symptoms persist.",
+    "follow_up": ["Are you considering home remedies?", "Have you tried any before?", "Would you like evidence-based options?"]
+  },
+  {
+    "id": 12006,
+    "category": "yeast_infection",
+    "question": "How long does yeast infection last",
+    "alternate_questions": ["Yeast infection duration", "How many days yeast", "Yeast infection healing time", "When does yeast infection go away", "Yeast infection timeline"],
+    "keywords": ["duration", "how long", "days", "healing", "go away", "timeline", "last"],
+    "answer": "With treatment, symptoms improve in 1-3 days and resolve in 7 days. Without treatment, mild infections may resolve in a few days or worsen. Severe infections may take longer. If no improvement in 3 days, see a provider. Recurrent infections need medical evaluation.",
+    "follow_up": ["How long have you had symptoms?", "Are you using treatment?", "Are symptoms improving?"]
+  },
+  {
+    "id": 12007,
+    "category": "yeast_infection",
+    "question": "Can yeast infections go away on their own",
+    "alternate_questions": ["Yeast infection self resolve", "Without treatment yeast", "Mild yeast infection", "Heal naturally yeast", "Yeast infection no meds"],
+    "keywords": ["go away", "self resolve", "without treatment", "mild", "heal naturally", "no meds"],
+    "answer": "Mild yeast infections may resolve without treatment, but there's no guarantee. Untreated infections can worsen or become recurrent. Treatment provides faster relief and reduces complications. If unsure it's yeast, see a provider for proper diagnosis.",
+    "follow_up": ["How severe are your symptoms?", "Are you hesitant to use medication?", "Do you want to wait or treat?"]
+  },
+  {
+    "id": 12008,
+    "category": "yeast_infection",
+    "question": "Are yeast infections contagious",
+    "alternate_questions": ["Spread yeast infection", "Partner get yeast", "Sex transmit yeast", "Contagious candida", "Yeast infection partner"],
+    "keywords": ["contagious", "spread", "partner", "sex", "transmit", "candida", "contagious"],
+    "answer": "Yeast infections are generally not considered STIs but can rarely spread through sex. Partners typically don't need treatment unless they have symptoms (itching, rash). Avoid sex during active infection as it can worsen irritation and delay healing.",
+    "follow_up": ["Are you sexually active?", "Does your partner have symptoms?", "Have you been avoiding sex?"]
+  },
+  {
+    "id": 12009,
+    "category": "yeast_infection",
+    "question": "Can I have sex with yeast infection",
+    "alternate_questions": ["Sex during yeast infection", "Intercourse candida", "Yeast infection sex safe", "Sex while treating yeast", "Partner yeast infection sex"],
+    "keywords": ["sex", "intercourse", "during", "safe", "while treating", "partner"],
+    "answer": "Avoid sex during a yeast infection. It can worsen irritation, spread infection, and cause discomfort. Friction from sex damages inflamed tissue. Wait until symptoms fully resolve, usually 7 days after starting treatment. If you must, use condoms and lots of lube.",
+    "follow_up": ["Are you currently sexually active?", "How long have you had symptoms?", "Are you being treated?"]
+  },
+  {
+    "id": 12010,
+    "category": "yeast_infection",
+    "question": "Why do I keep getting yeast infections",
+    "alternate_questions": ["Recurrent yeast infection", "Chronic yeast", "Yeast infection often", "Frequent candida", "Why recurring yeast"],
+    "keywords": ["recurrent", "chronic", "often", "frequent", "recurring", "why", "keep getting"],
+    "answer": "Recurrent yeast infections (4+ per year) may indicate: uncontrolled diabetes, weakened immunity, hormonal changes, resistant Candida strains, or underlying conditions. See a provider for culture and evaluation. Maintenance therapy (weekly fluconazole or boric acid) may be prescribed.",
+    "follow_up": ["How often do you get them?", "Have you seen a provider?", "Do you have diabetes or other conditions?"]
+  },
+  {
+    "id": 12011,
+    "category": "yeast_infection",
+    "question": "Can antibiotics cause yeast infection",
+    "alternate_questions": ["After antibiotics yeast", "Amoxicillin yeast infection", "Antibiotic side effect yeast", "Why antibiotics cause yeast", "Prevent yeast antibiotics"],
+    "keywords": ["antibiotics", "cause", "after", "amoxicillin", "side effect", "prevent", "why"],
+    "answer": "Yes, antibiotics kill good bacteria that keep yeast in check, causing overgrowth. Prevent by: taking probiotics during and after antibiotics, eating yogurt with live cultures, avoiding unnecessary antibiotics, and wearing breathable underwear. Treat if symptoms develop.",
+    "follow_up": ["Are you on antibiotics now?", "Have you had yeast after antibiotics before?", "Are you taking probiotics?"]
+  },
+  {
+    "id": 12012,
+    "category": "yeast_infection",
+    "question": "Can pregnancy cause yeast infections",
+    "alternate_questions": ["Yeast infection pregnant", "Pregnancy thrush", "Candida pregnancy", "Why pregnant yeast", "Treat yeast while pregnant"],
+    "keywords": ["pregnancy", "pregnant", "thrush", "candida", "why", "treat", "while pregnant"],
+    "answer": "Yes, pregnancy increases yeast infection risk due to hormonal changes and increased glycogen in vaginal secretions. Use 7-day topical azole treatments (clotrimazole, miconazole) as they're safer in pregnancy. Avoid oral fluconazole. Consult your OB before treatment.",
+    "follow_up": ["Are you pregnant?", "How far along?", "Have you discussed treatment with your OB?"]
+  },
+  {
+    "id": 12013,
+    "category": "yeast_infection",
+    "question": "Can birth control cause yeast infections",
+    "alternate_questions": ["Pill yeast infection", "Contraception candida", "Hormonal birth control yeast", "IUD yeast infection", "Birth control thrush"],
+    "keywords": ["birth control", "pill", "contraception", "hormonal", "IUD", "thrush", "cause"],
+    "answer": "Hormonal birth control may increase yeast infection risk for some women due to estrogen effects on vaginal environment. Not everyone experiences this. If recurrent infections started with birth control, discuss alternatives with your provider. Non-hormonal options don't affect yeast risk.",
+    "follow_up": ["What birth control do you use?", "Did infections start after beginning it?", "Are you considering alternatives?"]
+  },
+  {
+    "id": 12014,
+    "category": "yeast_infection",
+    "question": "Can diabetes cause yeast infections",
+    "alternate_questions": ["Diabetes thrush", "High blood sugar yeast", "Sugar yeast infection", "Diabetic candida", "Why diabetes yeast"],
+    "keywords": ["diabetes", "thrush", "high blood sugar", "sugar", "diabetic", "candida", "why"],
+    "answer": "Yes, high blood sugar creates favorable environment for yeast growth. Uncontrolled diabetes significantly increases infection risk. Improve blood sugar control to reduce infections. If you have recurrent yeast infections, ask your provider about diabetes screening.",
+    "follow_up": ["Do you have diabetes?", "Is your blood sugar controlled?", "Have you been screened?"]
+  },
+  {
+    "id": 12015,
+    "category": "yeast_infection",
+    "question": "How to prevent yeast infections",
+    "alternate_questions": ["Stop yeast infections", "Prevent candida", "Yeast infection prevention", "Avoid yeast infection", "Keep yeast away"],
+    "keywords": ["prevent", "stop", "candida", "prevention", "avoid", "keep away", "how"],
+    "answer": "Prevention: wear cotton underwear, avoid tight clothing, don't douche, wipe front to back, change out of wet clothes promptly, limit sugar, take probiotics, avoid unnecessary antibiotics, and manage blood sugar if diabetic. Some find limiting scented products helps.",
+    "follow_up": ["Do you practice any prevention?", "What might be triggering yours?", "Would you like specific tips?"]
+  },
+  {
+    "id": 12016,
+    "category": "yeast_infection",
+    "question": "Can stress cause yeast infections",
+    "alternate_questions": ["Stress candida", "Anxiety yeast infection", "Immune stress yeast", "Why stress yeast", "Emotional health yeast"],
+    "keywords": ["stress", "candida", "anxiety", "immune", "why", "emotional health", "cause"],
+    "answer": "Stress weakens immune system, making you more susceptible to infections including yeast. Chronic stress elevates cortisol which affects immunity. Manage stress through sleep, exercise, relaxation techniques, and mental health support to reduce infection frequency.",
+    "follow_up": ["Are you under stress?", "How do you manage stress?", "Do infections correlate with stressful times?"]
+  },
+  {
+    "id": 12017,
+    "category": "yeast_infection",
+    "question": "Can I use boric acid for yeast infection",
+    "alternate_questions": ["Boric acid suppositories", "Boric acid candida", "Boric acid safe", "Boric acid recurrent yeast", "Boric acid treatment"],
+    "keywords": ["boric acid", "suppositories", "candida", "safe", "recurrent", "treatment", "use"],
+    "answer": "Boric acid suppositories (600 mg) are effective for recurrent or resistant yeast infections, especially non-albicans Candida. Use only vaginally, never swallow. Avoid in pregnancy. May cause irritation. Available by prescription or some pharmacies. Discuss with your provider first.",
+    "follow_up": ["Have you tried boric acid?", "Is your infection recurrent?", "Are you pregnant?"]
+  },
+  {
+    "id": 12018,
+    "category": "yeast_infection",
+    "question": "What is the difference between yeast infection and BV",
+    "alternate_questions": ["Yeast vs BV", "Thrush vs bacterial vaginosis", "Itchy vs fishy odor", "Yeast BV difference", "Tell yeast infection BV"],
+    "keywords": ["difference", "BV", "bacterial vaginosis", "thrus", "fishy odor", "vs", "tell"],
+    "answer": "Yeast: intense itching, thick white discharge, minimal odor. BV: thin gray/white discharge, fishy odor (especially after sex), mild itching or none. Yeast is fungal; BV is bacterial. They require different treatments. If unsure, see a provider for proper diagnosis.",
+    "follow_up": ["What are your symptoms?", "Is there odor?", "Have you had both before?"]
+  },
+  {
+    "id": 12019,
+    "category": "yeast_infection",
+    "question": "Can I treat yeast infection while on my period",
+    "alternate_questions": ["Period yeast treatment", "Menstruation antifungal", "Treat yeast period bleeding", "Monistat period", "Yeast infection period care"],
+    "keywords": ["period", "menstruation", "antifungal", "treat", "bleeding", "Monistat", "care"],
+    "answer": "Yes, you can treat yeast infection during your period, though it may be messier. Use pads instead of tampons to allow medication to work. Creams and suppositories are still effective. Some women prefer to wait until period ends for comfort, but treatment shouldn't be delayed.",
+    "follow_up": ["Are you on your period now?", "Do you use tampons or pads?", "Would you prefer to wait?"]
+  },
+  {
+    "id": 12020,
+    "category": "yeast_infection",
+    "question": "Can men get yeast infections",
+    "alternate_questions": ["Male yeast infection", "Thrush men", "Partner yeast symptoms", "Penile yeast infection", "Candida men"],
+    "keywords": ["men", "male", "thrush", "partner", "penile", "candida", "symptoms"],
+    "answer": "Yes, men can get yeast infections, though less commonly. Symptoms: itching, redness, rash on penis, and discharge. Often occurs after sex with infected partner. Treat with topical antifungal cream. Men typically don't need treatment unless symptomatic.",
+    "follow_up": ["Does your partner have symptoms?", "Have they been treated?", "Are you sexually active?"]
+  },
+  {
+    "id": 12021,
+    "category": "yeast_infection",
+    "question": "Can yeast infection affect fertility",
+    "alternate_questions": ["Yeast infection conceive", "Candida fertility", "Thrush TTC", "Yeast infection pregnancy", "Infection ovulation"],
+    "keywords": ["fertility", "conceive", "candida", "TTC", "pregnancy", "ovulation", "affect"],
+    "answer": "Yeast infections don't directly affect fertility but can make sex uncomfortable, reducing frequency. Severe or untreated infections may affect cervical mucus. Treat before ovulation if TTC. Recurrent infections may indicate underlying issues affecting fertility.",
+    "follow_up": ["Are you trying to conceive?", "Is sex uncomfortable?", "Do you get infections often?"]
+  },
+  {
+    "id": 12022,
+    "category": "yeast_infection",
+    "question": "Can swimming cause yeast infection",
+    "alternate_questions": ["Pool yeast infection", "Wet swimsuit yeast", "Chlorine candida", "Swimming thrush", "Water yeast infection"],
+    "keywords": ["swimming", "pool", "wet swimsuit", "chlorine", "water", "thrush", "cause"],
+    "answer": "Swimming itself doesn't cause yeast infections, but staying in wet swimsuits creates moist environment where yeast thrives. Change out of wet clothes promptly, rinse after swimming, and dry thoroughly. Chlorine may irritate sensitive tissue but doesn't directly cause infection.",
+    "follow_up": ["Do you swim often?", "Do you stay in wet suits?", "Have you had infections after swimming?"]
+  },
+  {
+    "id": 12023,
+    "category": "yeast_infection",
+    "question": "Can tight clothing cause yeast infection",
+    "alternate_questions": ["Yeast infection clothes", "Yoga pants yeast", "Tight underwear candida", "Synthetic fabric yeast", "Breathable underwear yeast"],
+    "keywords": ["tight clothing", "clothes", "yoga pants", "underwear", "synthetic", "breathable", "cause"],
+    "answer": "Tight, non-breathable clothing traps moisture and heat, creating ideal yeast environment. Wear cotton underwear, loose clothing, and avoid staying in sweaty workout clothes. Breathable fabrics help maintain healthy vaginal balance.",
+    "follow_up": ["What underwear do you wear?", "Do you wear tight clothing often?", "Have you tried cotton?"]
+  },
+  {
+    "id": 12024,
+    "category": "yeast_infection",
+    "question": "Can douching cause yeast infection",
+    "alternate_questions": ["Douche yeast", "Vaginal wash yeast", "Feminine hygiene yeast", "Why douching bad", "Stop douching yeast"],
+    "keywords": ["douching", "douche", "vaginal wash", "feminine hygiene", "why bad", "stop", "cause"],
+    "answer": "Yes, douching disrupts healthy vaginal bacteria balance, increasing yeast infection and BV risk. The vagina is self-cleaning. Douching is unnecessary and harmful. Use mild external soap and water only. Never douche.",
+    "follow_up": ["Do you douche?", "Have you been told to stop?", "What hygiene products do you use?"]
+  },
+  {
+    "id": 12025,
+    "category": "yeast_infection",
+    "question": "Can scented products cause yeast infection",
+    "alternate_questions": ["Scented pads yeast", "Perfumed soap yeast", "Feminine spray yeast", "Scented tampons candida", "Fragrance vaginal irritation"],
+    "keywords": ["scented products", "perfumed", "feminine spray", "fragrance", "irritation", "pads", "tampons", "cause"],
+    "answer": "Yes, scented soaps, pads, tampons, and sprays irritate vaginal tissue and disrupt natural pH balance, increasing infection risk. Use unscented, hypoallergenic products. Avoid vaginal deodorants completely. Less is more for vaginal health.",
+    "follow_up": ["Do you use scented products?", "Which ones?", "Would you switch to unscented?"]
+  },
+  {
+    "id": 12026,
+    "category": "yeast_infection",
+    "question": "Can probiotics prevent yeast infections",
+    "alternate_questions": ["Probiotics yeast", "Lactobacillus candida", "Yogurt yeast prevention", "Supplements yeast infection", "Good bacteria yeast"],
+    "keywords": ["probiotics", "lactobacillus", "yogurt", "supplements", "good bacteria", "prevent", "yeast"],
+    "answer": "Probiotics, especially Lactobacillus strains, may help maintain vaginal balance and prevent yeast infections. Evidence is mixed but promising. Sources: yogurt with live cultures, kefir, fermented foods, and probiotic supplements. Consider if you get recurrent infections.",
+    "follow_up": ["Do you take probiotics?", "Have you noticed a difference?", "Would you try them?"]
+  },
+  {
+    "id": 12027,
+    "category": "yeast_infection",
+    "question": "Can I use tea tree oil for yeast infection",
+    "alternate_questions": ["Tea tree oil yeast", "Natural yeast remedy", "Essential oil candida", "Tea tree suppository", "Home treatment yeast"],
+    "keywords": ["tea tree oil", "natural", "remedy", "essential oil", "suppository", "home treatment", "use"],
+    "answer": "Tea tree oil has antifungal properties but can irritate sensitive vaginal tissue. Never apply undiluted. Some use diluted tea tree oil suppositories, but evidence is limited and irritation risk is real. Stick to proven treatments unless advised by a provider.",
+    "follow_up": ["Have you tried tea tree oil?", "Are you looking for natural options?", "Would you consider proven treatments?"]
+  },
+  {
+    "id": 12028,
+    "category": "yeast_infection",
+    "question": "When to see a doctor for yeast infection",
+    "alternate_questions": ["Doctor yeast infection", "Provider candida", "When seek care yeast", "Severe yeast infection", "First yeast infection doctor"],
+    "keywords": ["doctor", "provider", "seek care", "severe", "first", "when", "see"],
+    "answer": "See a provider if: first yeast infection (to confirm diagnosis), symptoms don't improve with OTC treatment in 3 days, infections recur frequently (4+ per year), you have severe symptoms, you're pregnant, you have diabetes or weakened immunity, or you're unsure it's yeast.",
+    "follow_up": ["Is this your first infection?", "Have OTC treatments failed?", "Do you have other health conditions?"]
+  },
+  {
+    "id": 12029,
+    "category": "yeast_infection",
+    "question": "Can yeast infection cause UTIs",
+    "alternate_questions": ["Yeast UTI together", "Candida urinary", "Infection after yeast", "Thrush then UTI", "Yeast bacteria infection"],
+    "keywords": ["UTI", "urinary", "together", "candida", "bacteria", "after", "cause"],
+    "answer": "Yeast infections don't directly cause UTIs but the irritation and inflammation can make you more susceptible. Some treatments or behaviors (like frequent wiping) may contribute. If you have both UTI and yeast symptoms, see a provider for proper diagnosis and treatment.",
+    "follow_up": ["Do you have UTI symptoms?", "Have you had both together?", "Are you being treated?"]
+  },
+  {
+    "id": 12030,
+    "category": "yeast_infection",
+    "question": "What is chronic yeast infection",
+    "alternate_questions": ["Chronic candida", "Recurrent thrush", "Constant yeast infection", "Yeast infection won't go away", "Persistent candida"],
+    "keywords": ["chronic", "recurrent", "constant", "won't go away", "persistent", "candida", "thrush"],
+    "answer": "Chronic or recurrent yeast infections mean 4+ infections per year or persistent symptoms. Causes: resistant Candida strains, underlying conditions (diabetes, HIV), hormonal factors, or treatment failure. Needs medical evaluation, culture testing, and possibly long-term maintenance therapy.",
+    "follow_up": ["How often do you get infections?", "Have you had testing?", "What treatments have you tried?"]
+  }
+]

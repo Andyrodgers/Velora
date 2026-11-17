@@ -1,0 +1,272 @@
+[
+  {
+    "id": 8001,
+    "category": "foods_during_ovulation",
+    "question": "What foods boost fertility during ovulation",
+    "alternate_questions": ["Fertility foods ovulation", "Eat to conceive", "Ovulation diet", "Foods help ovulation", "Conception nutrition"],
+    "keywords": ["foods", "fertility", "ovulation", "conceive", "diet", "nutrition", "boost"],
+    "answer": "Foods that support ovulation and fertility include: leafy greens (folate), fatty fish (omega-3s), eggs (choline), berries (antioxidants), nuts and seeds (zinc, vitamin E), whole grains (B vitamins), legumes (iron, fiber), and full-fat dairy. These nutrients support egg quality, hormone balance, and uterine lining. Avoid trans fats, excessive sugar, and processed foods which can disrupt ovulation.",
+    "follow_up": ["Are you trying to conceive?", "What does your current diet look like?", "Do you take prenatal vitamins?"]
+  },
+  {
+    "id": 8002,
+    "category": "foods_during_ovulation",
+    "question": "Should I eat more calories when ovulating",
+    "alternate_questions": ["Calories ovulation", "Eat more mid cycle", "Ovulation appetite", "Hunger during ovulation", "Metabolism ovulation"],
+    "keywords": ["calories", "appetite", "hunger", "metabolism", "mid cycle", "eat more"],
+    "answer": "Basal metabolic rate increases slightly during the luteal phase (after ovulation), not during ovulation itself. Some women feel less hungry around ovulation due to peak estrogen suppressing appetite. Others experience increased hunger. Listen to your body. Focus on nutrient-dense foods rather than counting calories. If trying to conceive, ensure adequate intake but avoid extreme restriction or overeating.",
+    "follow_up": ["Do you notice appetite changes?", "Are you tracking calories?", "What is your goal?"]
+  },
+  {
+    "id": 8003,
+    "category": "foods_during_ovulation",
+    "question": "What vitamins help ovulation",
+    "alternate_questions": ["Supplements ovulation", "Vitamins fertility", "Folate ovulation", "Vitamin D ovulation", "Ovulation supplements"],
+    "keywords": ["vitamins", "supplements", "folate", "vitamin D", "fertility", "help"],
+    "answer": "Key vitamins for ovulation: folate/folic acid (400-800 mcg daily), vitamin D (test levels, often need 1000-2000 IU), B vitamins (especially B6 and B12), vitamin E (antioxidant), and omega-3 fatty acids. CoQ10 may improve egg quality in women over 35. Always consult your provider before starting supplements, especially if trying to conceive.",
+    "follow_up": ["Do you currently take vitamins?", "Have you had vitamin D tested?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 8004,
+    "category": "foods_during_ovulation",
+    "question": "Is caffeine bad during ovulation",
+    "alternate_questions": ["Coffee ovulation", "Caffeine fertility", "Tea ovulation", "Energy drinks conception", "Caffeine TTC"],
+    "keywords": ["caffeine", "coffee", "tea", "fertility", "conception", "TTC", "bad"],
+    "answer": "Moderate caffeine (200 mg/day or less, about 1-2 cups coffee) is generally safe when trying to conceive. High caffeine intake (over 500 mg/day) may impair fertility and increase miscarriage risk. Consider limiting to 200 mg daily when TTC and during early pregnancy. Remember caffeine is also in tea, soda, chocolate, and some medications.",
+    "follow_up": ["How much caffeine do you drink?", "Are you trying to conceive?", "Would you consider cutting back?"]
+  },
+  {
+    "id": 8005,
+    "category": "foods_during_ovulation",
+    "question": "Should I avoid alcohol when ovulating",
+    "alternate_questions": ["Alcohol ovulation", "Drink while TTC", "Wine conception", "Alcohol fertility", "Fetal alcohol risk"],
+    "keywords": ["alcohol", "avoid", "ovulation", "TTC", "fertility", "wine", "drink"],
+    "answer": "It's safest to avoid alcohol when trying to conceive, including during ovulation. Alcohol can affect hormone balance, egg quality, and implantation. Since you won't know you're pregnant until after implantation, avoiding alcohol during the fertile window prevents early exposure. If not TTC, moderate drinking is unlikely to affect ovulation.",
+    "follow_up": ["Are you trying to conceive?", "How much do you typically drink?", "Would you consider abstaining?"]
+  },
+  {
+    "id": 8006,
+    "category": "foods_during_ovulation",
+    "question": "What is the fertility diet",
+    "alternate_questions": ["Mediterranean diet fertility", "Fertility eating plan", "Preconception diet", "Nurses Health Study fertility", "Diet to get pregnant"],
+    "keywords": ["fertility diet", "Mediterranean", "eating plan", "preconception", "pregnant", "diet"],
+    "answer": "The fertility diet, based on the Nurses' Health Study, emphasizes: plant-based proteins (beans, nuts), full-fat dairy, monounsaturated fats (olive oil, avocados), complex carbs (whole grains), iron-rich foods, and multivitamins. It limits trans fats, refined carbs, red meat, and sugary sodas. This Mediterranean-style eating pattern supports ovulation and fertility.",
+    "follow_up": ["Are you familiar with the Mediterranean diet?", "Would you like meal ideas?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 8007,
+    "category": "foods_during_ovulation",
+    "question": "Do I need to eat pineapple during ovulation",
+    "alternate_questions": ["Pineapple core ovulation", "Bromelain implantation", "Pineapple TTC", "Implantation foods", "Pineapple fertility myth"],
+    "keywords": ["pineapple", "bromelain", "implantation", "TTC", "fertility", "myth", "core"],
+    "answer": "The pineapple core theory is an unproven fertility myth. Some claim bromelain in pineapple core aids implantation, but there's no scientific evidence. Eating pineapple won't harm you, but don't expect it to boost fertility. Focus on proven strategies: balanced diet, prenatal vitamins, healthy weight, and timing intercourse.",
+    "follow_up": ["Have you heard this myth?", "Are you trying other unproven methods?", "Would you like evidence-based tips?"]
+  },
+  {
+    "id": 8008,
+    "category": "foods_during_ovulation",
+    "question": "Should I eat maca root for fertility",
+    "alternate_questions": ["Maca fertility", "Maca root ovulation", "Maca powder TTC", "Maca supplements", "Maca hormone balance"],
+    "keywords": ["maca", "maca root", "fertility", "supplements", "hormone", "balance", "powder"],
+    "answer": "Maca root is a traditional Peruvian food claimed to balance hormones and boost fertility. Some small studies suggest it may improve sperm quality and libido, but evidence for female fertility is limited. It's generally safe in food amounts. If trying supplements, choose gelatinized (easier to digest) and consult your provider. Don't rely on maca alone for fertility issues.",
+    "follow_up": ["Are you taking maca?", "Have you noticed any effects?", "Are you seeing a fertility specialist?"]
+  },
+  {
+    "id": 8009,
+    "category": "foods_during_ovulation",
+    "question": "What proteins are best during ovulation",
+    "alternate_questions": ["Protein ovulation", "Meat fertility", "Plant protein conceive", "Protein sources TTC", "Fish eggs fertility"],
+    "keywords": ["protein", "meat", "plant", "fish", "eggs", "fertility", "sources"],
+    "answer": "Best proteins for ovulation: fatty fish (salmon, sardines) for omega-3s, eggs for choline, legumes (beans, lentils) for iron and fiber, nuts and seeds for zinc, and moderate lean poultry. Limit red meat and avoid processed meats. Plant-based proteins are excellent fertility choices. Ensure adequate but not excessive protein intake.",
+    "follow_up": ["What proteins do you currently eat?", "Do you eat fish regularly?", "Are you vegetarian?"]
+  },
+  {
+    "id": 8010,
+    "category": "foods_during_ovulation",
+    "question": "Are carbs okay during ovulation",
+    "alternate_questions": ["Carbohydrates fertility", "Low carb ovulation", "Keto fertility", "Complex carbs TTC", "Carb timing cycle"],
+    "keywords": ["carbs", "carbohydrates", "low carb", "keto", "complex", "fertility", "timing"],
+    "answer": "Complex carbohydrates are important for ovulation. Extreme low-carb or ketogenic diets may disrupt menstrual cycles and ovulation in some women. Focus on: whole grains, quinoa, sweet potatoes, oats, fruits, and vegetables. Limit refined carbs and sugar. Moderate carb intake supports insulin sensitivity and hormone balance.",
+    "follow_up": ["Are you on a low-carb diet?", "Have you noticed cycle changes?", "What carbs do you eat?"]
+  },
+  {
+    "id": 8011,
+    "category": "foods_during_ovulation",
+    "question": "What fats support ovulation",
+    "alternate_questions": ["Healthy fats fertility", "Omega-3 ovulation", "Avocado fertility", "Olive oil conception", "Fat intake TTC"],
+    "keywords": ["fats", "healthy", "omega-3", "avocado", "olive oil", "fertility", "conception"],
+    "answer": "Healthy fats support hormone production and ovulation. Best sources: avocados, olive oil, nuts, seeds, fatty fish (salmon, mackerel), and full-fat dairy. Omega-3 fatty acids reduce inflammation and improve egg quality. Avoid trans fats completely and limit saturated fats. Include a source of healthy fat at each meal.",
+    "follow_up": ["Do you eat enough healthy fats?", "Do you take omega-3 supplements?", "Do you avoid trans fats?"]
+  },
+  {
+    "id": 8012,
+    "category": "foods_during_ovulation",
+    "question": "Should I drink fertility teas",
+    "alternate_questions": ["Fertility tea", "Red raspberry leaf", "Nettle tea TTC", "Herbal tea ovulation", "Tea fertility boost"],
+    "keywords": ["fertility tea", "red raspberry leaf", "nettle", "herbal", "tea", "boost", "TTC"],
+    "answer": "Fertility teas like red raspberry leaf and nettle are generally safe but have limited scientific evidence for boosting fertility. Red raspberry leaf may tone uterine muscles. Nettle provides nutrients. Avoid high doses of herbal supplements. Tea can be a calming ritual, but don't rely on it as a fertility treatment. Discuss herbal use with your provider.",
+    "follow_up": ["Do you drink fertility teas?", "Which herbs interest you?", "Are you using other supplements?"]
+  },
+  {
+    "id": 8013,
+    "category": "foods_during_ovulation",
+    "question": "What foods to avoid when trying to conceive",
+    "alternate_questions": ["Avoid TTC", "Foods harm fertility", "Bad foods ovulation", "Fertility diet avoid", "Conception no foods"],
+    "keywords": ["avoid", "foods", "harm", "bad", "fertility", "conception", "TTC", "no"],
+    "answer": "Foods to limit or avoid when TTC: high-mercury fish (shark, swordfish, king mackerel), trans fats, excessive alcohol, high-glycemic processed foods, unpasteurized dairy and soft cheeses, raw or undercooked meat and eggs, and excessive caffeine. These may affect hormone balance, egg quality, or early pregnancy if conception occurs.",
+    "follow_up": ["Do you eat any of these regularly?", "Are you trying to conceive?", "Would you like a shopping list?"]
+  },
+  {
+    "id": 8014,
+    "category": "foods_during_ovulation",
+    "question": "Does soy affect ovulation",
+    "alternate_questions": ["Soy fertility", "Tofu ovulation", "Phytoestrogens TTC", "Soy milk conception", "Isoflavones fertility"],
+    "keywords": ["soy", "fertility", "tofu", "phytoestrogens", "isoflavones", "conception", "milk"],
+    "answer": "Moderate soy consumption is generally safe and may even benefit fertility. Phytoestrogens in soy are weak and may have protective effects. Large amounts of processed soy might theoretically affect hormones, but research is inconclusive. Whole soy foods (tofu, tempeh, edamame) are preferable to highly processed soy products. Don't avoid soy unless advised by your provider.",
+    "follow_up": ["How much soy do you eat?", "Are you worried about phytoestrogens?", "Do you have thyroid issues?"]
+  },
+  {
+    "id": 8015,
+    "category": "foods_during_ovulation",
+    "question": "What snacks are good during ovulation",
+    "alternate_questions": ["Healthy snacks ovulation", "Fertility snacks", "TTC snacks", "Ovulation cravings", "Mid cycle snacks"],
+    "keywords": ["snacks", "healthy", "fertility", "TTC", "cravings", "mid cycle", "good"],
+    "answer": "Good ovulation snacks: Greek yogurt with berries, nuts and seeds, hummus with veggies, hard-boiled eggs, avocado toast, dark chocolate (70%+), apple with almond butter, trail mix, and smoothies with leafy greens. These provide protein, healthy fats, and antioxidants. Avoid sugary snacks that spike blood sugar.",
+    "follow_up": ["What do you currently snack on?", "Do you have cravings mid-cycle?", "Would you like snack prep ideas?"]
+  },
+  {
+    "id": 8016,
+    "category": "foods_during_ovulation",
+    "question": "Should I eat organic when TTC",
+    "alternate_questions": ["Organic food fertility", "Pesticides conception", "Clean eating TTC", "Organic vs conventional", "Toxins fertility"],
+    "keywords": ["organic", "pesticides", "clean eating", "conventional", "toxins", "fertility", "TTC"],
+    "answer": "Eating organic may reduce pesticide exposure, but evidence directly linking conventional produce to fertility problems is limited. If budget allows, prioritize organic for the 'Dirty Dozen' (strawberries, spinach, kale, etc.). Washing produce thoroughly reduces pesticide residue. Don't stress if organic isn't affordable - eating fruits and vegetables matters more than organic status.",
+    "follow_up": ["Do you currently buy organic?", "Is budget a concern?", "Would you like the Dirty Dozen list?"]
+  },
+  {
+    "id": 8017,
+    "category": "foods_during_ovulation",
+    "question": "What hydration needs during ovulation",
+    "alternate_questions": ["Water ovulation", "Hydrate fertility", "Drink water conceive", "Cervical mucus hydration", "Fluid intake TTC"],
+    "keywords": ["hydration", "water", "fertility", "cervical mucus", "fluid", "intake", "TTC"],
+    "answer": "Adequate hydration supports cervical mucus production, which helps sperm reach the egg. Aim for 8 glasses (2 liters) of water daily. Signs of good hydration: pale yellow urine. Limit dehydrating beverages like excessive caffeine and alcohol. Some women notice improved cervical mucus with increased water intake.",
+    "follow_up": ["How much water do you drink?", "Do you notice cervical mucus changes?", "Are you tracking hydration?"]
+  },
+  {
+    "id": 8018,
+    "category": "foods_during_ovulation",
+    "question": "Does weight affect ovulation",
+    "alternate_questions": ["BMI fertility", "Overweight ovulation", "Underweight conceive", "Weight loss TTC", "Obesity fertility"],
+    "keywords": ["weight", "BMI", "overweight", "underweight", "fertility", "ovulation", "obesity"],
+    "answer": "Both underweight and overweight can disrupt ovulation. BMI below 18.5 or above 30 may cause anovulation. Excess body fat increases estrogen, disrupting hormone balance. Too little body fat reduces estrogen, stopping periods. A 5-10% weight change can restore ovulation in some women. Focus on healthy, sustainable habits rather than extreme diets.",
+    "follow_up": ["What is your current BMI?", "Have you had cycle irregularities?", "Are you trying to lose or gain weight?"]
+  },
+  {
+    "id": 8019,
+    "category": "foods_during_ovulation",
+    "question": "What is the two week wait diet",
+    "alternate_questions": ["Luteal phase diet", "TWW nutrition", "Implantation diet", "After ovulation foods", "Two week wait eating"],
+    "keywords": ["two week wait", "luteal phase", "TWW", "implantation", "after ovulation", "diet"],
+    "answer": "During the two-week wait (luteal phase), eat as if you're already pregnant: continue prenatal vitamins, avoid alcohol, limit caffeine to 200 mg, eat balanced meals with folate-rich foods, and avoid raw or undercooked foods. No specific food guarantees implantation. Focus on nourishment and avoiding anything harmful to early pregnancy.",
+    "follow_up": ["Are you in the two week wait?", "What are you currently eating?", "Are you avoiding alcohol?"]
+  },
+  {
+    "id": 8020,
+    "category": "foods_during_ovulation",
+    "question": "Should I take prenatal vitamins before conception",
+    "alternate_questions": ["Prenatal vitamins TTC", "Folic acid before pregnant", "When start prenatals", "Preconception vitamins", "Prenatal folate"],
+    "keywords": ["prenatal vitamins", "folic acid", "before conception", "TTC", "preconception", "start"],
+    "answer": "Yes, start prenatal vitamins at least 1-3 months before conception. Folic acid (400-800 mcg) prevents neural tube defects in early pregnancy, often before you know you're pregnant. Choose a prenatal with folate/folic acid, iron, vitamin D, DHA, and iodine. Continue through pregnancy and breastfeeding.",
+    "follow_up": ["Are you taking prenatals?", "When do you hope to conceive?", "Do you need brand recommendations?"]
+  },
+  {
+    "id": 8021,
+    "category": "foods_during_ovulation",
+    "question": "What iron rich foods for ovulation",
+    "alternate_questions": ["Iron fertility", "Anemia ovulation", "Iron sources TTC", "Plant iron absorption", "Heme iron foods"],
+    "keywords": ["iron", "rich", "fertility", "anemia", "sources", "plant", "heme", "absorption"],
+    "answer": "Iron supports ovulation and prevents anemia. Best sources: heme iron from lean red meat, poultry, and fish (best absorbed). Plant sources: lentils, beans, spinach, fortified cereals, pumpkin seeds. Pair plant iron with vitamin C (citrus, peppers) to enhance absorption. Avoid tea or coffee with iron-rich meals as they inhibit absorption.",
+    "follow_up": ["Do you get enough iron?", "Have you been tested for anemia?", "Do you eat meat or vegetarian?"]
+  },
+  {
+    "id": 8022,
+    "category": "foods_during_ovulation",
+    "question": "What antioxidants help egg quality",
+    "alternate_questions": ["Antioxidants fertility", "Egg quality foods", "CoQ10 egg quality", "Vitamin E fertility", "Oxidative stress eggs"],
+    "keywords": ["antioxidants", "egg quality", "CoQ10", "vitamin E", "oxidative stress", "fertility", "help"],
+    "answer": "Antioxidants protect eggs from oxidative stress. Key sources: berries, dark chocolate, nuts, colorful vegetables, green tea, and turmeric. Supplements like CoQ10 (100-200 mg), vitamin E, and NAC may support egg quality, especially for women over 35. Focus on whole food sources first, then discuss supplements with your provider.",
+    "follow_up": ["Do you eat antioxidant-rich foods?", "Are you considering supplements?", "What is your age?"]
+  },
+  {
+    "id": 8023,
+    "category": "foods_during_ovulation",
+    "question": "Should I eat breakfast when TTC",
+    "alternate_questions": ["Breakfast fertility", "Meal timing ovulation", "Calorie distribution TTC", "Big breakfast hormones", "Eat regularly conceive"],
+    "keywords": ["breakfast", "fertility", "meal timing", "calorie distribution", "hormones", "regularly", "conceive"],
+    "answer": "Regular meal timing supports hormone balance. Eating a substantial breakfast (35% of daily calories) may improve ovulation in some women with PCOS. For most, consistent meals prevent blood sugar spikes that disrupt hormones. Don't skip meals. Include protein, healthy fat, and complex carbs at each meal.",
+    "follow_up": ["Do you eat breakfast?", "How regular are your meals?", "Do you skip meals?"]
+  },
+  {
+    "id": 8024,
+    "category": "foods_during_ovulation",
+    "question": "What dairy is best for fertility",
+    "alternate_questions": ["Full fat dairy fertility", "Milk TTC", "Cheese conception", "Yogurt ovulation", "Dairy or no dairy fertility"],
+    "keywords": ["dairy", "full fat", "milk", "cheese", "yogurt", "fertility", "conception"],
+    "answer": "The Nurses' Health Study found full-fat dairy associated with better fertility than low-fat. Choose whole milk, full-fat yogurt, and cheese. Low-fat dairy may contain hormones that disrupt ovulation. If lactose intolerant, try fermented dairy (yogurt, kefir) or fortified alternatives. Limit to 1-2 servings daily.",
+    "follow_up": ["What dairy do you currently eat?", "Full fat or low fat?", "Are you lactose intolerant?"]
+  },
+  {
+    "id": 8025,
+    "category": "foods_during_ovulation",
+    "question": "What spices boost fertility",
+    "alternate_questions": ["Turmeric fertility", "Cinnamon ovulation", "Ginger TTC", "Spices hormones", "Herbs fertility boost"],
+    "keywords": ["spices", "turmeric", "cinnamon", "ginger", "hormones", "herbs", "boost", "fertility"],
+    "answer": "Some spices may support fertility: turmeric (anti-inflammatory), cinnamon (improves insulin sensitivity, especially with PCOS), ginger (digestion, inflammation), and maca (hormone balance). Use in cooking rather than high-dose supplements. Evidence is limited but these spices have general health benefits. Avoid excessive amounts.",
+    "follow_up": ["Do you use these spices?", "Do you have PCOS?", "Would you like recipe ideas?"]
+  },
+  {
+    "id": 8026,
+    "category": "foods_during_ovulation",
+    "question": "Is intermittent fasting safe for ovulation",
+    "alternate_questions": ["Fasting fertility", "IF ovulation", "Time restricted eating TTC", "Skip meals fertility", "Intermittent fasting hormones"],
+    "keywords": ["intermittent fasting", "fasting", "fertility", "IF", "time restricted", "skip meals", "hormones"],
+    "answer": "Intermittent fasting may disrupt ovulation in some women, especially if it leads to significant calorie restriction or weight loss. Hormones are sensitive to energy availability. If trying to conceive, avoid extreme fasting. Light time-restricted eating (12-hour overnight fast) is likely safe for most. Listen to your body and stop if cycles change.",
+    "follow_up": ["Are you practicing IF?", "Have you noticed cycle changes?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 8027,
+    "category": "foods_during_ovulation",
+    "question": "What probiotics for fertility",
+    "alternate_questions": ["Gut health fertility", "Probiotic supplements TTC", "Fermented foods ovulation", "Microbiome conception", "Yogurt fertility"],
+    "keywords": ["probiotics", "gut health", "supplements", "fermented", "microbiome", "conception", "yogurt"],
+    "answer": "Gut health may influence fertility through hormone metabolism and inflammation. Probiotic sources: yogurt, kefir, sauerkraut, kimchi, kombucha, and supplements. Some research suggests specific strains (Lactobacillus) support vaginal and reproductive health. Include fermented foods regularly. Discuss specific probiotic supplements with your provider.",
+    "follow_up": ["Do you eat fermented foods?", "Are you taking probiotics?", "Do you have digestive issues?"]
+  },
+  {
+    "id": 8028,
+    "category": "foods_during_ovulation",
+    "question": "What blood sugar foods support ovulation",
+    "alternate_questions": ["Insulin resistance ovulation", "Glycemic index fertility", "Blood sugar balance hormones", "Diabetes fertility", "PCOS diet ovulation"],
+    "keywords": ["blood sugar", "insulin resistance", "glycemic index", "hormones", "diabetes", "PCOS", "balance"],
+    "answer": "Balanced blood sugar supports ovulation, especially with PCOS or insulin resistance. Choose: low-glycemic carbs (oats, quinoa, sweet potatoes), protein at every meal, healthy fats, fiber-rich foods, and cinnamon. Avoid: sugary drinks, refined carbs, and large sugar spikes. Stable blood sugar means stable hormones.",
+    "follow_up": ["Do you have PCOS or insulin resistance?", "How are your blood sugar levels?", "Would you like meal planning help?"]
+  },
+  {
+    "id": 8029,
+    "category": "foods_during_ovulation",
+    "question": "What zinc foods for fertility",
+    "alternate_questions": ["Zinc ovulation", "Zinc sources TTC", "Oysters fertility", "Pumpkin seeds zinc", "Zinc deficiency fertility"],
+    "keywords": ["zinc", "ovulation", "sources", "oysters", "pumpkin seeds", "deficiency", "fertility"],
+    "answer": "Zinc is essential for hormone production and egg development. Best sources: oysters (highest), beef, pumpkin seeds, cashews, chickpeas, lentils, and fortified cereals. Aim for 8-12 mg daily. Vegetarians may need more due to lower absorption from plant sources. Zinc deficiency can impair ovulation.",
+    "follow_up": ["Do you eat zinc-rich foods?", "Are you vegetarian?", "Do you take a multivitamin with zinc?"]
+  },
+  {
+    "id": 8030,
+    "category": "foods_during_ovulation",
+    "question": "What one food change for fertility",
+    "alternate_questions": ["Single food change TTC", "Easy fertility diet", "One thing eat fertility", "Simple fertility nutrition", "Best food swap conceive"],
+    "keywords": ["one food", "single change", "easy", "simple", "best", "swap", "conceive", "fertility"],
+    "answer": "The single most impactful change: swap refined carbohydrates for complex carbs. Replace white bread, pasta, and rice with whole grains, quinoa, and sweet potatoes. This stabilizes blood sugar, improves insulin sensitivity, and supports hormone balance. It's simple, evidence-based, and affects overall health beyond fertility.",
+    "follow_up": ["What refined carbs do you eat most?", "Are you willing to try this swap?", "Would you like substitution ideas?"]
+  }
+]

@@ -1,0 +1,105 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Velora" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Global input text color -->
+        <item name="editTextStyle">@style/BlackEditText</item>
+        <item name="android:editTextStyle">@style/BlackEditText</item>
+        
+        <item name="colorPrimary">?attr/appPrimaryColor</item>
+        <item name="colorAccent">?attr/appPrimaryColor</item>
+
+        <!-- Global hint color -->
+        <item name="android:textColorHint">#888888</item>
+    </style>
+
+    <!-- Default Pink Theme -->
+    <style name="Theme.Velora" parent="Base.Theme.Velora">
+        <item name="appPrimaryColor">#FF69B4</item>
+        <item name="appSecondaryColor">#DDA0DD</item>
+        <item name="appBackgroundColor">#FFF0F5</item>
+        <item name="appCardBackgroundColor">#FFFFFF</item>
+        <item name="appTextColor">#000000</item>
+    </style>
+
+    <!-- Blue Theme -->
+    <style name="Theme.Velora.Blue" parent="Base.Theme.Velora">
+        <item name="appPrimaryColor">#2196F3</item>
+        <item name="appSecondaryColor">#BBDEFB</item>
+        <item name="appBackgroundColor">#E3F2FD</item>
+        <item name="appCardBackgroundColor">#FFFFFF</item>
+        <item name="appTextColor">#000000</item>
+    </style>
+
+    <!-- Light Green Theme -->
+    <style name="Theme.Velora.LightGreen" parent="Base.Theme.Velora">
+        <item name="appPrimaryColor">#4CAF50</item>
+        <item name="appSecondaryColor">#C8E6C9</item>
+        <item name="appBackgroundColor">#F1F8E9</item>
+        <item name="appCardBackgroundColor">#FFFFFF</item>
+        <item name="appTextColor">#000000</item>
+    </style>
+
+    <!-- Light Yellow Theme -->
+    <style name="Theme.Velora.LightYellow" parent="Base.Theme.Velora">
+        <item name="appPrimaryColor">#FBC02D</item>
+        <item name="appSecondaryColor">#FFF9C4</item>
+        <item name="appBackgroundColor">#FFFDE7</item>
+        <item name="appCardBackgroundColor">#FFFFFF</item>
+        <item name="appTextColor">#000000</item>
+    </style>
+
+    <!-- Purple Theme -->
+    <style name="Theme.Velora.Purple" parent="Base.Theme.Velora">
+        <item name="appPrimaryColor">#9C27B0</item>
+        <item name="appSecondaryColor">#E1BEE7</item>
+        <item name="appBackgroundColor">#F3E5F5</item>
+        <item name="appCardBackgroundColor">#FFFFFF</item>
+        <item name="appTextColor">#000000</item>
+    </style>
+
+    <!-- Light Maroon Theme -->
+    <style name="Theme.Velora.LightMaroon" parent="Base.Theme.Velora">
+        <item name="appPrimaryColor">#880E4F</item>
+        <item name="appSecondaryColor">#F8BBD0</item>
+        <item name="appBackgroundColor">#FCE4EC</item>
+        <item name="appCardBackgroundColor">#FFFFFF</item>
+        <item name="appTextColor">#000000</item>
+    </style>
+
+    <!-- Global style for all EditTexts to ensure text is pure black in light themes -->
+    <style name="BlackEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">?attr/appTextColor</item>
+        <item name="android:textColorHint">#888888</item>
+    </style>
+
+    <!-- Style for Circular Images -->
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Custom Theme for the Circular DatePicker - Dynamic Theme Integration -->
+    <style name="DialogTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorAccent">?attr/appPrimaryColor</item>
+        <item name="android:windowBackground">@drawable/dialog_circle_bg</item>
+        <item name="android:datePickerStyle">@style/MyDatePickerStyle</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+    </style>
+
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">?attr/appPrimaryColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NegativeButtonStyle" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">?attr/appTextColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MyDatePickerStyle" parent="@android:style/Widget.Material.Light.DatePicker">
+        <item name="android:datePickerMode">calendar</item>
+        <item name="android:headerBackground">?attr/appPrimaryColor</item>
+        <item name="android:calendarTextColor">?attr/appTextColor</item>
+        <item name="android:dayOfWeekBackground">?attr/appPrimaryColor</item>
+    </style>
+</resources>

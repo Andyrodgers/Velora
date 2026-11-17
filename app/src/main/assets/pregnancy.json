@@ -1,0 +1,182 @@
+[
+  {
+    "id": 421,
+    "category": "pregnancy",
+    "question": "How do I know if I'm pregnant",
+    "alternate_questions": ["Am I pregnant", "Pregnancy signs", "How to tell if pregnant", "Early pregnancy symptoms", "Pregnancy indicators"],
+    "keywords": ["pregnancy", "symptoms", "signs", "test", "confirmation"],
+    "answer": "The most reliable way to know if you're pregnant is to take a home pregnancy test after your missed period. Early signs can include: missed period, breast tenderness, nausea, fatigue, frequent urination, bloating, mood swings, and food aversions. However, these symptoms can also indicate PMS or other conditions. A pregnancy test detects hCG hormone in urine. For best accuracy, use first morning urine and test on the day of your missed period or later.",
+    "follow_up": ["Have you taken a pregnancy test?", "When was your last period?", "What symptoms are you experiencing?", "Have you had unprotected sex?"]
+  },
+  {
+    "id": 422,
+    "category": "pregnancy",
+    "question": "What are the first signs of pregnancy",
+    "alternate_questions": ["Very early pregnancy signs", "First trimester symptoms", "What happens first when pregnant", "Earliest pregnancy indicators", "First week pregnancy signs"],
+    "keywords": ["first signs", "early pregnancy", "symptoms", "first trimester", "indicators"],
+    "answer": "The earliest signs of pregnancy (before a missed period) can include: implantation bleeding or spotting (6-12 days after conception), mild cramping, breast tenderness or swelling, fatigue, nausea or queasiness, heightened sense of smell, food aversions, bloating, and mood swings. However, many of these symptoms are identical to PMS, so they're not definitive. The most reliable early sign is a missed period, followed by a positive pregnancy test.",
+    "follow_up": ["Are you experiencing any of these symptoms?", "When is your period due?", "Have you taken a pregnancy test?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 423,
+    "category": "pregnancy",
+    "question": "How soon can I take a pregnancy test",
+    "alternate_questions": ["Early pregnancy test", "When to test for pregnancy", "How early can I test", "Pregnancy test timing", "First response early result"],
+    "keywords": ["pregnancy test", "early", "timing", "hCG", "accuracy"],
+    "answer": "You can take a pregnancy test as early as 10-14 days after ovulation, but for the most accurate result, wait until the first day of your missed period. Some sensitive tests claim to detect pregnancy 6 days before a missed period, but false negatives are more likely that early. Use first morning urine when hCG concentration is highest. If negative but your period still doesn't come, retest in 3-5 days. Blood tests at a doctor's office can detect pregnancy earlier than home tests.",
+    "follow_up": ["When was your last period?", "When did you ovulate?", "Have you tested already?", "Are you using a sensitive test?"]
+  },
+  {
+    "id": 424,
+    "category": "pregnancy",
+    "question": "What is a false negative pregnancy test",
+    "alternate_questions": ["Negative test but pregnant", "Why did my test say negative when I'm pregnant", "False negative causes", "Pregnancy test wrong negative", "Why test didn't show positive"],
+    "keywords": ["false negative", "pregnancy test", "hCG", "too early", "inaccurate"],
+    "answer": "A false negative pregnancy test means you're pregnant but the test shows negative. This usually happens because: 1) You tested too early and hCG levels aren't high enough yet. 2) You didn't use first morning urine when hCG is most concentrated. 3) You drank too much fluid before testing, diluting urine. 4) The test was expired or faulty. 5) You have a very low hCG pregnancy. If you suspect pregnancy despite a negative test, wait 3-5 days and retest, or see a doctor for a blood test.",
+    "follow_up": ["When did you take the test?", "Did you use first morning urine?", "How many days past ovulation are you?", "Have you tested more than once?"]
+  },
+  {
+    "id": 425,
+    "category": "pregnancy",
+    "question": "What is a false positive pregnancy test",
+    "alternate_questions": ["Positive test but not pregnant", "Why did my test say positive when I'm not", "False positive causes", "Pregnancy test wrong positive", "Chemical pregnancy false positive"],
+    "keywords": ["false positive", "pregnancy test", "chemical pregnancy", "evaporation line", "medication"],
+    "answer": "A false positive pregnancy test is rare but can occur due to: 1) Chemical pregnancy (very early miscarriage where hCG was produced but pregnancy didn't continue). 2) Evaporation line (reading test after time limit). 3) Recent miscarriage or abortion (hCG still in system). 4) Certain medications containing hCG (fertility treatments). 5) Rare medical conditions. If you get a positive test, confirm with another test in 2-3 days (hCG should double) or see a doctor for blood work and ultrasound.",
+    "follow_up": ["Did you read the test within the time limit?", "Are you on fertility medications?", "Have you had a recent miscarriage?", "Have you confirmed with another test?"]
+  },
+  {
+    "id": 426,
+    "category": "pregnancy",
+    "question": "What is hCG",
+    "alternate_questions": ["Human chorionic gonadotropin", "What does hCG do", "Pregnancy hormone hCG", "hCG levels pregnancy", "Beta hCG meaning"],
+    "keywords": ["hCG", "human chorionic gonadotropin", "pregnancy hormone", "levels", "test"],
+    "answer": "hCG (human chorionic gonadotropin) is the hormone produced by the placenta after implantation. It signals the corpus luteum to continue producing progesterone, maintaining the uterine lining for pregnancy. hCG levels double approximately every 48-72 hours in early pregnancy. Home pregnancy tests detect hCG in urine, while blood tests measure exact hCG levels. hCG levels can indicate pregnancy viability, multiples, or potential issues like ectopic pregnancy if they don't rise appropriately.",
+    "follow_up": ["Have you had hCG blood tests?", "What are your hCG levels?", "Are they rising appropriately?", "How far along are you?"]
+  },
+  {
+    "id": 427,
+    "category": "pregnancy",
+    "question": "What is a chemical pregnancy",
+    "alternate_questions": ["Very early miscarriage", "Chemical pregnancy explained", "Positive test then period", "Biochemical pregnancy", "Early pregnancy loss"],
+    "keywords": ["chemical pregnancy", "early loss", "miscarriage", "hCG", "pregnancy test"],
+    "answer": "A chemical pregnancy is a very early pregnancy loss that occurs shortly after implantation. You might get a positive pregnancy test because hCG was produced, but then get your period as the pregnancy fails to develop. It's called 'chemical' because it's only detected by hormone levels, often before an ultrasound could see anything. It's extremely common (up to 50-75% of miscarriages) and usually doesn't affect future fertility, though it can be emotionally difficult. Most people who have chemical pregnancies go on to have healthy pregnancies.",
+    "follow_up": ["Did you get a positive test?", "How are you feeling emotionally?", "Have you spoken to a healthcare provider?", "Have you had multiple chemical pregnancies?"]
+  },
+  {
+    "id": 428,
+    "category": "pregnancy",
+    "question": "What is an ectopic pregnancy",
+    "alternate_questions": ["Tubal pregnancy", "Ectopic pregnancy symptoms", "Pregnancy outside uterus", "Ectopic pregnancy danger", "Ectopic pregnancy signs"],
+    "keywords": ["ectopic pregnancy", "tubal", "outside uterus", "emergency", "dangerous"],
+    "answer": "An ectopic pregnancy occurs when a fertilized egg implants outside the uterus, most commonly in a fallopian tube. It's a life-threatening emergency because the tube can rupture, causing severe internal bleeding. Symptoms include: sharp one-sided abdominal pain, vaginal bleeding or spotting, shoulder pain, dizziness, fainting, and rectal pressure. Risk factors include previous ectopic pregnancy, PID, endometriosis, tubal surgery, and IVF. If you suspect ectopic pregnancy, seek emergency medical care immediately. It cannot develop into a viable pregnancy.",
+    "follow_up": ["Do you have severe one-sided pain?", "Do you have vaginal bleeding?", "Do you feel dizzy or faint?", "Do you have risk factors?", "Have you sought emergency care?"]
+  },
+  {
+    "id": 429,
+    "category": "pregnancy",
+    "question": "What is a molar pregnancy",
+    "alternate_questions": ["Hydatidiform mole", "Molar pregnancy explained", "Abnormal pregnancy growth", "Trophoblastic disease", "Molar pregnancy symptoms"],
+    "keywords": ["molar pregnancy", "hydatidiform mole", "abnormal", "growth", "rare"],
+    "answer": "A molar pregnancy is a rare abnormality where tissue that normally becomes a fetus instead becomes an abnormal growth in the uterus. There are two types: complete (no fetus, only abnormal placental tissue) and partial (abnormal fetus that cannot survive). Symptoms include severe nausea, vaginal bleeding, unusually high hCG levels, and a uterus that grows faster than normal. It's diagnosed by ultrasound and treated by removing the tissue. After treatment, monitoring hCG levels is essential to ensure no cancerous cells remain.",
+    "follow_up": ["Have you been diagnosed with a molar pregnancy?", "What are your hCG levels?", "Have you had an ultrasound?", "Are you receiving appropriate follow-up care?"]
+  },
+  {
+    "id": 430,
+    "category": "pregnancy",
+    "question": "What is a blighted ovum",
+    "alternate_questions": ["Anembryonic pregnancy", "Blighted ovum explained", "Empty gestational sac", "No embryo pregnancy", "Blighted ovum miscarriage"],
+    "keywords": ["blighted ovum", "anembryonic", "empty sac", "miscarriage", "early loss"],
+    "answer": "A blighted ovum (anembryonic pregnancy) is a type of early miscarriage where a gestational sac develops but no embryo forms inside it. It happens when a fertilized egg implants but fails to develop into an embryo. You may have pregnancy symptoms and a positive test, but an ultrasound shows an empty sac. It's usually caused by chromosomal abnormalities. Most blighted ova are discovered at the first ultrasound (around 8 weeks). The body often miscarries naturally, but sometimes medical or surgical intervention is needed.",
+    "follow_up": ["Have you had an ultrasound?", "How far along are you?", "Are you experiencing bleeding or cramping?", "How are you coping emotionally?"]
+  },
+  {
+    "id": 431,
+    "category": "pregnancy",
+    "question": "What is morning sickness",
+    "alternate_questions": ["Nausea during pregnancy", "Why do I feel sick pregnant", "Morning sickness causes", "Pregnancy nausea relief", "All day sickness pregnancy"],
+    "keywords": ["morning sickness", "nausea", "pregnancy", "first trimester", "relief"],
+    "answer": "Morning sickness is nausea and vomiting during pregnancy, affecting up to 70-80% of pregnant people. Despite the name, it can occur at any time of day. It typically starts around 6 weeks, peaks at 9 weeks, and improves by 14-16 weeks, though some experience it throughout pregnancy. Causes include rising hCG and estrogen levels. Remedies include: small frequent meals, ginger, vitamin B6, acupressure wristbands, avoiding triggers, and staying hydrated. Severe morning sickness (hyperemesis gravidarum) requires medical treatment.",
+    "follow_up": ["How far along are you?", "How severe is your nausea?", "Have you tried any remedies?", "Are you able to keep food and fluids down?"]
+  },
+  {
+    "id": 432,
+    "category": "pregnancy",
+    "question": "What is hyperemesis gravidarum",
+    "alternate_questions": ["Severe morning sickness", "HG pregnancy", "Excessive vomiting pregnancy", "Hyperemesis gravidarum treatment", "When morning sickness is dangerous"],
+    "keywords": ["hyperemesis gravidarum", "severe nausea", "excessive vomiting", "dehydration", "medical treatment"],
+    "answer": "Hyperemesis gravidarum (HG) is severe nausea and vomiting during pregnancy that causes dehydration, weight loss, and electrolyte imbalance. Unlike typical morning sickness, HG doesn't improve with standard remedies and can be life-threatening. Symptoms include: inability to keep any food or fluids down, weight loss of 5+ pounds, dehydration signs (dark urine, dizziness, dry mouth), and rapid heartbeat. Treatment includes IV fluids, anti-nausea medications, and sometimes hospitalization. If you suspect HG, seek medical care immediately.",
+    "follow_up": ["Are you able to keep anything down?", "Have you lost weight?", "Are you showing signs of dehydration?", "Have you sought medical care?"]
+  },
+  {
+    "id": 433,
+    "category": "pregnancy",
+    "question": "What foods should I avoid during pregnancy",
+    "alternate_questions": ["Pregnancy diet restrictions", "Foods not to eat pregnant", "Pregnancy food safety", "What can't I eat pregnant", "Pregnancy nutrition guidelines"],
+    "keywords": ["pregnancy", "foods to avoid", "safety", "nutrition", "restrictions"],
+    "answer": "Foods to avoid during pregnancy include: Raw or undercooked meat, fish, and eggs (risk of salmonella, listeria, toxoplasmosis). Deli meats and unpasteurized cheeses (listeria risk). High-mercury fish (shark, swordfish, king mackerel, tilefish). Raw sprouts. Unpasteurized milk and juices. Excessive caffeine (limit to 200mg daily). Alcohol (no safe amount). Wash fruits and vegetables thoroughly. These precautions protect against infections and toxins that can harm the developing fetus.",
+    "follow_up": ["How far along are you?", "What is your current diet like?", "Do you have questions about specific foods?", "Are you taking prenatal vitamins?"]
+  },
+  {
+    "id": 434,
+    "category": "pregnancy",
+    "question": "What vitamins do I need during pregnancy",
+    "alternate_questions": ["Prenatal vitamins", "Pregnancy supplements", "Essential nutrients pregnancy", "Folic acid pregnancy", "Iron pregnancy"],
+    "keywords": ["prenatal vitamins", "folic acid", "iron", "pregnancy", "nutrition"],
+    "answer": "Essential vitamins and nutrients during pregnancy include: Folic acid (400-800mcg daily) to prevent neural tube defects, ideally starting before conception. Iron (27mg daily) to support increased blood volume and prevent anemia. Calcium (1000mg daily) for fetal bone development. Vitamin D (600 IU) for bone health. DHA/omega-3s for fetal brain development. Iodine (220mcg) for thyroid function. A quality prenatal vitamin covers most needs. Start prenatals as soon as you start trying to conceive or discover you're pregnant.",
+    "follow_up": ["Are you taking prenatal vitamins?", "How far along are you?", "Do you have any dietary restrictions?", "Have you discussed nutrition with your doctor?"]
+  },
+  {
+    "id": 435,
+    "category": "pregnancy",
+    "question": "Can I exercise during pregnancy",
+    "alternate_questions": ["Pregnancy workout", "Exercise while pregnant", "Is it safe to exercise pregnant", "Pregnancy fitness", "Working out expecting"],
+    "keywords": ["pregnancy", "exercise", "safety", "fitness", "activity"],
+    "answer": "Yes, exercise during pregnancy is generally safe and beneficial if you have no complications. It reduces back pain, improves mood, helps with sleep, and may ease labor. Aim for 150 minutes of moderate activity weekly, like walking, swimming, prenatal yoga, or low-impact aerobics. Avoid high-risk activities (contact sports, scuba diving, hot yoga), exercises lying flat on your back after the first trimester, and activities with fall risk. Always consult your healthcare provider before starting or continuing an exercise routine during pregnancy.",
+    "follow_up": ["How far along are you?", "What exercise do you currently do?", "Do you have any pregnancy complications?", "Have you discussed exercise with your doctor?"]
+  },
+  {
+    "id": 436,
+    "category": "pregnancy",
+    "question": "Can I have sex during pregnancy",
+    "alternate_questions": ["Sex while pregnant", "Is sex safe during pregnancy", "Pregnancy intimacy", "Intercourse expecting", "Sexual activity pregnancy"],
+    "keywords": ["pregnancy", "sex", "safety", "intimacy", "intercourse"],
+    "answer": "Yes, sex during pregnancy is safe for most people with uncomplicated pregnancies. The baby is protected by the amniotic sac and uterine muscles. Sex won't cause miscarriage in a healthy pregnancy. You may need to adjust positions as your belly grows. Avoid sex if: you have placenta previa, are at risk for preterm labor, have unexplained bleeding, your water has broken, or your doctor has advised against it. Communicate with your partner about comfort and desires, which may change throughout pregnancy.",
+    "follow_up": ["How far along are you?", "Do you have any pregnancy complications?", "Have you been advised to avoid sex?", "Are you comfortable discussing this with your doctor?"]
+  },
+  {
+    "id": 437,
+    "category": "pregnancy",
+    "question": "What is a due date",
+    "alternate_questions": ["How is due date calculated", "Expected delivery date", "Due date calculation", "Pregnancy due date formula", "When is my baby due"],
+    "keywords": ["due date", "expected delivery", "calculation", "Naegele's rule", "40 weeks"],
+    "answer": "Your due date is calculated as 40 weeks (280 days) from the first day of your last menstrual period (LMP). This is called Naegele's rule: add 1 year, subtract 3 months, and add 7 days to your LMP. If you know your conception date, count 266 days forward. Only about 5% of babies are born on their exact due date, most arrive between 38-42 weeks. Ultrasound in the first trimester provides the most accurate dating. Your due date is an estimate, not an exact appointment.",
+    "follow_up": ["When was your last period?", "Do you know your conception date?", "Have you had a dating ultrasound?", "How far along are you?"]
+  },
+  {
+    "id": 438,
+    "category": "pregnancy",
+    "question": "What are pregnancy trimesters",
+    "alternate_questions": ["Three trimesters explained", "Pregnancy stages", "First second third trimester", "Trimester breakdown", "Pregnancy phases"],
+    "keywords": ["trimesters", "first", "second", "third", "pregnancy stages"],
+    "answer": "Pregnancy is divided into three trimesters: First trimester (weeks 1-12): Major organ development begins, highest miscarriage risk, morning sickness common. Second trimester (weeks 13-27): Often called the 'golden period,' energy returns, baby bump grows, you may feel first movements (quickening) around 18-20 weeks. Third trimester (weeks 28-40): Rapid fetal growth, preparation for birth, increased discomfort, Braxton Hicks contractions. Each trimester has unique developments, symptoms, and milestones for both you and your baby.",
+    "follow_up": ["How far along are you?", "Which trimester are you in?", "What symptoms are you experiencing?", "Do you have questions about a specific trimester?"]
+  },
+  {
+    "id": 439,
+    "category": "pregnancy",
+    "question": "What is a miscarriage",
+    "alternate_questions": ["Pregnancy loss", "Spontaneous abortion", "Why do miscarriages happen", "Miscarriage causes", "Losing a pregnancy"],
+    "keywords": ["miscarriage", "pregnancy loss", "spontaneous abortion", "causes", "grief"],
+    "answer": "A miscarriage is the spontaneous loss of a pregnancy before 20 weeks. About 10-20% of known pregnancies end in miscarriage, but the actual rate is higher as many occur before a person knows they're pregnant. Most miscarriages happen in the first trimester and are caused by chromosomal abnormalities in the embryo, not by anything the parent did. Other causes include hormonal issues, uterine abnormalities, infections, and chronic conditions. Miscarriage is emotionally devastating, and support is essential. Most people who miscarry go on to have healthy pregnancies.",
+    "follow_up": ["Have you experienced a miscarriage?", "How are you coping?", "Do you need support resources?", "Are you trying to conceive again?"]
+  },
+  {
+    "id": 440,
+    "category": "pregnancy",
+    "question": "What are miscarriage symptoms",
+    "alternate_questions": ["Signs of miscarriage", "How do I know if I'm miscarrying", "Miscarriage warning signs", "Pregnancy loss symptoms", "Threatened miscarriage signs"],
+    "keywords": ["miscarriage symptoms", "bleeding", "cramping", "pregnancy loss", "warning signs"],
+    "answer": "Miscarriage symptoms include: vaginal bleeding (light spotting to heavy bleeding), severe cramping or abdominal pain, back pain, fluid or tissue passing from the vagina, and sudden loss of pregnancy symptoms. However, some bleeding in early pregnancy is common and doesn't always mean miscarriage. If you experience any of these symptoms, contact your healthcare provider immediately. They can do an ultrasound and check hCG levels to assess the pregnancy. Bed rest doesn't prevent miscarriage, but medical evaluation is important.",
+    "follow_up": ["Are you experiencing any of these symptoms?", "How far along are you?", "Have you contacted your healthcare provider?", "How heavy is the bleeding?"]
+  }
+]

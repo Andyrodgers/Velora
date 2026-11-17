@@ -1,0 +1,245 @@
+[
+  {
+    "id": 8001,
+    "category": "first_period",
+    "question": "What is a first period",
+    "alternate_questions": ["First menstruation", "Menarche meaning", "First period explained", "What happens first period", "Beginning menstruation"],
+    "keywords": ["first period", "menarche", "menstruation", "beginning", "explained", "what happens"],
+    "answer": "Your first period, also called menarche, is the first time you bleed from your vagina as part of your menstrual cycle. It means your body is maturing and you are now physically capable of becoming pregnant. The blood comes from the lining of your uterus shedding because no pregnancy occurred that month. Your first period usually lasts 2-7 days and the blood may be bright red, dark red, or brownish. The flow might be light or heavy, and that's normal. It may come with cramps, mood changes, or breast tenderness. Most people get their first period between ages 10 and 15, but anywhere from 9 to 16 is normal. Getting your period is a natural, healthy part of growing up and nothing to be ashamed of.",
+    "follow_up": ["How old are you?", "Have you noticed other signs of puberty?", "Do you feel prepared for your first period?", "Do you have questions about what to expect?"]
+  },
+  {
+    "id": 8002,
+    "category": "first_period",
+    "question": "When will I get my first period",
+    "alternate_questions": ["First period age", "When does menstruation start", "Signs first period coming", "How old first period", "Period starting age"],
+    "keywords": ["when", "age", "start", "signs", "coming", "menstruation", "timing"],
+    "answer": "Most people get their first period between ages 10 and 15, with the average being around 12. However, anywhere from 9 to 16 is completely normal. Your first period usually comes about 2 years after your breasts begin developing and about 6 months to a year after you start getting vaginal discharge (white or clear fluid in your underwear). Other signs your period is coming soon: pubic and underarm hair growth, growth spurt, acne, and mood changes. If you haven't gotten your period by age 16, or if you have signs of puberty but no period by age 14, it's a good idea to see a doctor. They can check if everything is developing normally. Remember: everyone develops at their own pace, and there's no 'right' age to start.",
+    "follow_up": ["How old are you?", "Have your breasts started developing?", "Have you noticed vaginal discharge?", "Are you worried about when it will start?"]
+  },
+  {
+    "id": 8003,
+    "category": "first_period",
+    "question": "What are signs my first period is coming",
+    "alternate_questions": ["Period coming symptoms", "Before first period signs", "Premenstrual first time", "How to know period starting", "First period warning signs"],
+    "keywords": ["signs", "symptoms", "coming", "warning", "before", "premenstrual", "know"],
+    "answer": "Signs that your first period may be coming soon include: vaginal discharge (white or clear fluid in your underwear) for 6-12 months beforehand, breast development starting 2 years before, pubic and underarm hair growth, a growth spurt in height, acne or oily skin, mood swings or feeling more emotional, cramps or aching in your lower belly or back, and bloating. Some people also notice their breasts feel tender. These changes happen because your body is producing hormones that prepare it for menstruation. Not everyone experiences all these signs, and that's okay. Keeping track of these changes in a journal or app can help you predict when your period might start.",
+    "follow_up": ["Which signs have you noticed?", "How long have you had discharge?", "Are you tracking these changes?", "Do you feel prepared?"]
+  },
+  {
+    "id": 8004,
+    "category": "first_period",
+    "question": "What should I do when I get my first period",
+    "alternate_questions": ["First period what to do", "Handle first period", "First time menstruating", "First period steps", "What to do when period starts"],
+    "keywords": ["what to do", "handle", "steps", "first time", "menstruating", "prepared", "supplies"],
+    "answer": "When you get your first period, here's what to do: 1) Don't panic - it's completely normal. 2) Tell a trusted adult (parent, guardian, teacher, school nurse) if you need help or supplies. 3) Use a pad, tampon, or period underwear - pads are often easiest for beginners. 4) Change your pad every 4-6 hours or when it feels full. 5) Wash your hands before and after changing products. 6) Keep a period kit with supplies, wipes, and a change of underwear in your bag. 7) Track the start date so you know when your next period might come. 8) If you have cramps, a heating pad, warm bath, or over-the-counter pain reliever can help. 9) Wear dark underwear in case of leaks. 10) Remember: this is a normal, healthy part of growing up. You haven't done anything wrong.",
+    "follow_up": ["Do you have supplies ready?", "Who can you talk to about this?", "Are you worried about leaks at school?", "Do you know how to use a pad?"]
+  },
+  {
+    "id": 8005,
+    "category": "first_period",
+    "question": "What supplies do I need for my first period",
+    "alternate_questions": ["First period kit", "Period supplies beginners", "What to buy first period", "Menstruation products start", "Period essentials"],
+    "keywords": ["supplies", "kit", "products", "pad", "tampon", "period underwear", "essentials"],
+    "answer": "For your first period, you'll need menstrual products to absorb the blood. Options include: Pads - sticky strips that attach to your underwear, easiest for beginners, come in different sizes for light to heavy flow. Tampons - inserted into the vagina to absorb blood internally, good for swimming and sports, may take practice to insert comfortably. Menstrual cups - reusable silicone cups inserted in the vagina, eco-friendly but may be tricky for beginners. Period underwear - special absorbent underwear, comfortable and easy to use. You'll also want: unscented wipes for cleanup, a small bag to carry supplies, pain relievers for cramps, and extra underwear. Start with pads or period underwear for your first few cycles until you're comfortable. There's no rush to use tampons or cups.",
+    "follow_up": ["Which products interest you?", "Do you have a period kit ready?", "Are you comfortable trying tampons?", "What concerns you most about supplies?"]
+  },
+  {
+    "id": 8006,
+    "category": "first_period",
+    "question": "How do I use a pad",
+    "alternate_questions": ["Pad instructions", "First pad use", "How to wear pad", "Pad application", "Pad for beginners"],
+    "keywords": ["pad", "use", "wear", "instructions", "application", "beginners", "how to"],
+    "answer": "Using a pad is simple: 1) Wash and dry your hands. 2) Remove the pad from its wrapper. 3) Peel off the paper backing to expose the sticky side. 4) Press the sticky side firmly onto the inside of your underwear, with the wider end toward the back. 5) Wrap the wings (if your pad has them) around the sides of your underwear and stick them to the outside. 6) Make sure the pad is centered and lies flat. 7) Change your pad every 4-6 hours or when it feels full, wet, or uncomfortable. 8) To dispose: wrap used pad in toilet paper or wrapper from new pad, and throw in trash (never flush pads). 9) Wash hands again. Pads come in different sizes - use regular for light days and super or overnight for heavier days or sleeping.",
+    "follow_up": ["Have you practiced with a pad?", "Do you understand how to attach it?", "Are you worried about leaks?", "Do you have pads available?"]
+  },
+  {
+    "id": 8007,
+    "category": "first_period",
+    "question": "How do I use a tampon",
+    "alternate_questions": ["Tampon instructions", "First tampon use", "How to insert tampon", "Tampon beginner", "Tampon application"],
+    "keywords": ["tampon", "use", "insert", "instructions", "beginner", "application", "how to"],
+    "answer": "Using a tampon for the first time: 1) Wash your hands. 2) Find a comfortable position - sitting on toilet, one foot on toilet, or squatting. 3) Hold the tampon at the grip (middle) with your thumb and middle finger. 4) Angle the tampon toward your lower back (not straight up) - your vagina tilts backward. 5) Gently push the applicator in until your fingers touch your body. 6) Push the inner tube with your index finger to release the tampon. 7) Pull out the applicator, leaving the string hanging out. 8) The tampon should feel comfortable - if you feel it, push it in a bit more. 9) Change every 4-8 hours to prevent toxic shock syndrome (TSS). 10) To remove: relax, gently pull the string at the same angle you inserted it. Start with light or regular absorbency. Practice makes perfect - don't worry if it takes a few tries.",
+    "follow_up": ["Are you ready to try tampons?", "Do you understand the angle?", "Are you worried about TSS?", "Do you have someone to ask for help?"]
+  },
+  {
+    "id": 8008,
+    "category": "first_period",
+    "question": "What is toxic shock syndrome",
+    "alternate_questions": ["TSS explained", "Tampon danger", "Toxic shock symptoms", "TSS risk", "Tampon safety"],
+    "keywords": ["toxic shock syndrome", "TSS", "tampon", "danger", "symptoms", "risk", "safety"],
+    "answer": "Toxic Shock Syndrome (TSS) is a rare but serious bacterial infection associated with tampon use. It occurs when Staphylococcus aureus bacteria produce toxins that enter the bloodstream. Symptoms include: sudden high fever, vomiting, diarrhea, muscle aches, dizziness, fainting, rash resembling sunburn, and confusion. TSS is very rare (about 1 in 100,000 tampon users) and preventable. Prevention: use the lowest absorbency tampon you need, change tampons every 4-8 hours, alternate with pads, and never leave a tampon in longer than 8 hours. If you experience TSS symptoms while using tampons, remove the tampon immediately and seek emergency medical care. TSS is treatable with antibiotics and fluids when caught early. Don't let fear of TSS stop you from using tampons if you want to - just use them safely.",
+    "follow_up": ["Are you using tampons?", "Do you change them regularly?", "Have you had TSS symptoms?", "Do you understand the risks?"]
+  },
+  {
+    "id": 8009,
+    "category": "first_period",
+    "question": "How much blood is normal for first period",
+    "alternate_questions": ["First period flow", "Heavy first period", "Light first period", "How much bleeding normal", "First period blood amount"],
+    "keywords": ["blood", "flow", "amount", "heavy", "light", "normal", "bleeding", "first period"],
+    "answer": "Your first period is usually light to moderate - about 2-3 tablespoons of blood total over 2-7 days. It may seem like more because blood mixes with uterine lining and fluid. The flow might be: light (spotting or needing to change pad every 6-8 hours), moderate (regular pad every 4-6 hours), or heavy (soaking through pad every 2-3 hours). First periods are often irregular and unpredictable - some are very light, some are surprisingly heavy. Both are normal. Blood color can range from bright red to dark brown. Clots (small chunks of tissue) are normal if they're smaller than a quarter. If you're soaking through a pad or tampon every hour for several hours, or bleeding lasts longer than 7 days, tell a trusted adult and see a doctor. Otherwise, your flow is probably normal.",
+    "follow_up": ["How heavy is your flow?", "How often are you changing products?", "Are you seeing large clots?", "Does the amount worry you?"]
+  },
+  {
+    "id": 8010,
+    "category": "first_period",
+    "question": "Is it normal for first period to be irregular",
+    "alternate_questions": ["First period irregular", "Periods not regular start", "Skipped period after first", "Irregular cycles beginning", "First year periods irregular"],
+    "keywords": ["irregular", "cycles", "skipped", "not regular", "beginning", "first year", "normal"],
+    "answer": "Yes, it's completely normal for your periods to be irregular for the first 1-2 years after menarche. Your body is still adjusting its hormone levels, and it takes time for your cycle to settle into a regular pattern. You might: skip a month or two, have periods closer together or further apart, have varying flow amounts, or have longer or shorter periods. A typical adult cycle is 21-35 days, but in the first year, cycles can range from 21 to 45 days. After about 2 years, your cycle should become more predictable. If you go more than 3 months without a period (and you're not pregnant), or if your periods are extremely heavy or painful, see a doctor. Otherwise, irregularity is just your body finding its rhythm.",
+    "follow_up": ["How irregular are your periods?", "How long since your first period?", "Are you tracking your cycles?", "Do you have concerns about the pattern?"]
+  },
+  {
+    "id": 8011,
+    "category": "first_period",
+    "question": "What do I tell my parents about my first period",
+    "alternate_questions": ["Tell mom first period", "Talk parents period", "First period conversation", "How to tell parent menstruating", "Period talk family"],
+    "keywords": ["tell", "parents", "mom", "conversation", "talk", "family", "how to", "communication"],
+    "answer": "Telling your parents about your first period might feel awkward, but remember - they expect this and want to support you. Ways to start the conversation: 'I started my period today and need some supplies,' 'I think I got my period - can you help me?' or simply show them if words feel hard. If you're not comfortable with one parent, tell the other, a guardian, older sibling, aunt, or trusted adult. If face-to-face feels too hard, you could text, write a note, or call. Most parents will be glad you told them and will help you get supplies, answer questions, and offer comfort. If you don't have a supportive adult at home, talk to a school nurse, counselor, or trusted teacher. You don't have to go through this alone. Getting your period is nothing to be embarrassed about.",
+    "follow_up": ["Who would you feel comfortable telling?", "Are you worried about their reaction?", "Do you need help starting the conversation?", "Is there a trusted adult you can talk to?"]
+  },
+  {
+    "id": 8012,
+    "category": "first_period",
+    "question": "What if I get my first period at school",
+    "alternate_questions": ["Period at school", "First period emergency school", "Bleeding at school", "School period supplies", "Period started in class"],
+    "keywords": ["school", "emergency", "class", "bleeding", "started", "supplies", "what if"],
+    "answer": "Getting your period at school is very common and nothing to panic about. Here's what to do: 1) Ask to go to the bathroom or nurse's office. 2) If you have supplies, use a pad or ask a friend. 3) If you don't have supplies, check the bathroom dispenser, ask the school nurse, or ask a friend or female teacher. 4) Wrap toilet paper in your underwear as a temporary pad if needed. 5) Tie a sweater around your waist if you're worried about leaks. 6) Call or text a parent to bring supplies if needed. 7) Remember: most people understand and won't judge you. Prepare by keeping a period kit in your backpack with pads, wipes, and extra underwear. Schools should have free supplies available - don't be afraid to ask. You're not the first or last person this has happened to.",
+    "follow_up": ["Do you have a period kit for school?", "Do you know where the nurse's office is?", "Are you worried about this happening?", "Who could you ask for help?"]
+  },
+  {
+    "id": 8013,
+    "category": "first_period",
+    "question": "Can I swim on my first period",
+    "alternate_questions": ["Swimming first period", "Period swim", "Tampon swimming beginner", "Swim team period", "Pool period first time"],
+    "keywords": ["swim", "swimming", "pool", "tampon", "period", "beginner", "sports", "water"],
+    "answer": "Yes, you can swim on your period, even your first one. Water pressure may slow bleeding temporarily, but it doesn't stop it completely. To swim, you'll need to use a tampon or menstrual cup - pads don't work in water. If you're not comfortable with tampons yet, it's okay to skip swimming that day. When using a tampon for swimming: insert it before getting in the water, make sure it's comfortable, change it immediately after swimming, and never leave it in longer than 8 hours. The tampon string may get wet - that's fine, just tuck it in. Menstrual blood doesn't attract sharks or pose hygiene risks in pools. Many swimmers and athletes compete on their periods. Do what feels comfortable for you - there's no pressure to swim if you're not ready.",
+    "follow_up": ["Are you comfortable using tampons?", "Do you have swimming events coming up?", "Would you prefer to skip swimming?", "Do you need tampon guidance?"]
+  },
+  {
+    "id": 8014,
+    "category": "first_period",
+    "question": "What are period cramps",
+    "alternate_questions": ["First period cramps", "Menstrual cramps beginner", "Why cramps period", "Period pain first time", "Cramp relief first period"],
+    "keywords": ["cramps", "pain", "menstrual", "why", "relief", "first time", "beginner", "period pain"],
+    "answer": "Period cramps are caused by your uterus contracting to push out the menstrual lining. The uterus is a muscle, and these contractions can feel like aching, pressure, or sharp pains in your lower belly, back, or thighs. Cramps are very common, especially in the first few years of having periods. Relief methods: heating pad or hot water bottle on your belly, warm bath, over-the-counter pain relievers like ibuprofen or naproxen (start at first sign of cramps), gentle exercise like walking or stretching, rest, and hydration. Some people also find relief from tea, massage, or yoga. If cramps are so severe you can't go to school or do normal activities, or if pain medication doesn't help, see a doctor. Severe cramps can indicate conditions like endometriosis. Most cramps are manageable with simple self-care.",
+    "follow_up": ["Are you having cramps?", "How severe are they?", "What have you tried for relief?", "Do they interfere with activities?"]
+  },
+  {
+    "id": 8015,
+    "category": "first_period",
+    "question": "What is PMS",
+    "alternate_questions": ["Premenstrual syndrome first period", "PMS symptoms beginners", "Mood changes period", "PMS explained teens", "First PMS experience"],
+    "keywords": ["PMS", "premenstrual syndrome", "symptoms", "mood", "changes", "explained", "teens", "experience"],
+    "answer": "PMS (premenstrual syndrome) is a group of symptoms that some people experience 1-2 weeks before their period starts. It's caused by hormonal changes and is very common. Symptoms include: mood swings, irritability, sadness, anxiety, bloating, breast tenderness, acne, food cravings, fatigue, headaches, and trouble sleeping. Not everyone gets PMS, and symptoms vary in severity. For your first few periods, you may or may not notice PMS. Managing PMS: regular exercise, healthy diet with less salt and caffeine, enough sleep, stress management, and over-the-counter pain relievers for physical symptoms. If PMS is severe and affects school or relationships, talk to a doctor. There's a more severe form called PMDD that needs medical treatment. Most PMS is manageable with self-care.",
+    "follow_up": ["Have you noticed PMS symptoms?", "Which symptoms bother you most?", "How severe are they?", "Have you tried management strategies?"]
+  },
+  {
+    "id": 8016,
+    "category": "first_period",
+    "question": "How do I track my period",
+    "alternate_questions": ["Period tracking beginner", "First period tracker", "How to track menstruation", "Period calendar start", "Track cycle first time"],
+    "keywords": ["track", "tracking", "calendar", "tracker", "cycle", "beginner", "how to", "app"],
+    "answer": "Tracking your period helps you predict when it will come, understand your body, and notice any changes. Simple tracking methods: mark the first day of bleeding on a calendar, count how many days your period lasts, and note when it starts again next month. The days between day 1 of one period and day 1 of the next is your cycle length. Apps like Clue, Flo, or Period Tracker make this easy - just input your period dates and they calculate your average cycle. For your first year, cycles may be irregular (21-45 days), so tracking helps you see patterns. Also note: flow amount, cramps, mood, and any symptoms. This information is helpful if you ever need to see a doctor. Tracking empowers you to understand your body and plan around your period.",
+    "follow_up": ["Have you started tracking?", "Do you prefer paper or apps?", "How regular are your cycles so far?", "What do you want to learn from tracking?"]
+  },
+  {
+    "id": 8017,
+    "category": "first_period",
+    "question": "Can I get pregnant during my first period",
+    "alternate_questions": ["Pregnant first period", "Fertility first cycle", "Can you conceive first menstruation", "Pregnancy risk first period", "Ovulation first period"],
+    "keywords": ["pregnant", "pregnancy", "fertility", "conceive", "ovulation", "first cycle", "risk"],
+    "answer": "Technically, you can get pregnant once you've started having periods because it means you've ovulated. However, your first few cycles are often anovulatory (no egg released) as your body adjusts. Still, you cannot predict when you'll first ovulate, so pregnancy is possible if you have unprotected sex. Sperm can live in the body for up to 5 days, so even if you have sex before your period, you could get pregnant if you ovulate soon after. The bottom line: once you start menstruating, you should understand pregnancy prevention if you're sexually active or may become sexually active. If you've had unprotected sex and are worried about pregnancy, emergency contraception is available. Talk to a trusted adult or healthcare provider about contraception options when you're ready.",
+    "follow_up": ["Are you sexually active?", "Do you understand contraception?", "Are you worried about pregnancy?", "Do you have someone to talk to about this?"]
+  },
+  {
+    "id": 8018,
+    "category": "first_period",
+    "question": "Why is my period blood different colors",
+    "alternate_questions": ["Period blood colors", "Brown period blood", "Dark red period", "Black period blood", "Period color meaning"],
+    "keywords": ["blood", "colors", "brown", "dark red", "black", "meaning", "normal", "period blood"],
+    "answer": "Period blood comes in different colors, and most are normal: Bright red - fresh blood, common at the start of your period. Dark red or brown - older blood that has oxidized, common at the beginning or end of your period. Brown or black - very old blood, often seen at the very start or end when flow is light. Pink - light flow mixed with cervical fluid. Clots - dark red or purple chunks of tissue, normal if smaller than a quarter. These color variations are usually just about how long the blood has been in your body and how quickly it's flowing. However, see a doctor if you have: gray or green discharge (possible infection), very heavy bleeding with large clots, bleeding between periods, or bleeding after sex. Otherwise, color variations are completely normal.",
+    "follow_up": ["What colors are you seeing?", "Are you worried about any specific color?", "Do you have other symptoms?", "Is this your first period?"]
+  },
+  {
+    "id": 8019,
+    "category": "first_period",
+    "question": "What if I never get my period",
+    "alternate_questions": ["No period by 16", "Primary amenorrhea", "Why no period yet", "Delayed menarche", "Never started menstruating"],
+    "keywords": ["never", "no period", "delayed", "amenorrhea", "why", "yet", "16", "concern"],
+    "answer": "If you haven't gotten your period by age 16, or if you have signs of puberty (breast development, pubic hair) but no period by age 14, you should see a doctor. This is called primary amenorrhea. Possible causes include: genetic conditions (like Turner syndrome), hormonal imbalances, problems with the pituitary gland or ovaries, structural issues with the reproductive organs, excessive exercise or eating disorders, and significant stress. A doctor will do a physical exam, possibly blood tests, and maybe an ultrasound to find the cause. Most causes are treatable. If you're 15 and haven't started but have other puberty signs, it's probably still normal - but worth mentioning at your next checkup. Don't panic, but don't ignore it either. Medical evaluation ensures everything is developing correctly.",
+    "follow_up": ["How old are you?", "Do you have other signs of puberty?", "Have you seen a doctor?", "Are you worried about this?"]
+  },
+  {
+    "id": 8020,
+    "category": "first_period",
+    "question": "Is it okay to exercise on my period",
+    "alternate_questions": ["Sports first period", "Exercise menstruation beginner", "Workout period start", "Gym period first time", "Active during period"],
+    "keywords": ["exercise", "sports", "workout", "gym", "active", "menstruation", "period", "beginner"],
+    "answer": "Yes, it's absolutely okay to exercise on your period, including your first one. Exercise can actually help reduce cramps, improve mood, and boost energy. Many athletes compete and train during their periods. Choose what feels comfortable: walking, swimming (with tampon or cup), yoga, stretching, or your usual activities. If you feel tired or crampy, it's also okay to rest or do gentler exercise. There's no medical reason to avoid exercise during your period. Use the period product you're comfortable with - pads may shift during vigorous activity, so tampons, cups, or period underwear might work better. Listen to your body - some days you'll feel energetic, others you'll want to rest. Both are fine. Your period doesn't have to stop you from doing what you enjoy.",
+    "follow_up": ["What activities do you enjoy?", "Do you feel up to exercising?", "What products do you use for sports?", "Have you noticed exercise helping cramps?"]
+  },
+  {
+    "id": 8021,
+    "category": "first_period",
+    "question": "What foods should I eat on my period",
+    "alternate_questions": ["Period nutrition", "Foods for first period", "Eat during menstruation", "Period cravings", "Healthy eating period"],
+    "keywords": ["foods", "nutrition", "eat", "cravings", "healthy", "during", "menstruation", "diet"],
+    "answer": "During your period, focus on nourishing foods that support your body: Iron-rich foods - leafy greens, beans, lentils, red meat, fortified cereals (to replace iron lost in blood). Complex carbohydrates - whole grains, oats, brown rice (provide steady energy and may boost mood). Fruits and vegetables - for vitamins, fiber, and hydration. Protein - eggs, fish, chicken, tofu (supports energy and repair). Healthy fats - nuts, avocados, olive oil (help hormone balance). Hydration - water, herbal teas (reduce bloating). It's okay to satisfy cravings in moderation - chocolate (especially dark) contains magnesium which may help cramps. Limit: excessive salt (increases bloating), too much caffeine (can worsen cramps and anxiety), and lots of sugar (causes energy crashes). Your body is working hard - feed it well.",
+    "follow_up": ["What do you crave during your period?", "Are you eating regular meals?", "Do you notice food affecting your symptoms?", "Would you like meal ideas?"]
+  },
+  {
+    "id": 8022,
+    "category": "first_period",
+    "question": "Why do I feel emotional on my period",
+    "alternate_questions": ["Mood swings first period", "Emotional menstruation", "Cry period beginner", "Period feelings teens", "Hormones mood period"],
+    "keywords": ["emotional", "mood swings", "cry", "feelings", "hormones", "mood", "menstruation", "teens"],
+    "answer": "Feeling emotional on your period is completely normal. Hormonal changes - specifically drops in estrogen and progesterone - affect brain chemicals like serotonin that regulate mood. You might feel: more sensitive, irritable, weepy, anxious, or just 'off.' These feelings are temporary and usually improve within a day or two of starting your period. For your first few periods, emotions might feel intense because everything is new. Coping strategies: talk to someone you trust, get extra rest, practice self-care, journal your feelings, exercise gently, and remember that these emotions are hormone-influenced, not permanent. If mood changes are severe, last beyond your period, or make you feel hopeless or suicidal, tell a trusted adult immediately. That's not normal PMS and needs medical attention. Otherwise, be gentle with yourself - your feelings are valid.",
+    "follow_up": ["What emotions are you experiencing?", "How intense are they?", "Do they improve after your period starts?", "Do you have support?"]
+  },
+  {
+    "id": 8023,
+    "category": "first_period",
+    "question": "What is a period kit",
+    "alternate_questions": ["Period emergency kit", "School period bag", "Period supplies kit", "First period preparation kit", "What to carry period"],
+    "keywords": ["kit", "emergency", "bag", "supplies", "preparation", "carry", "school", "period kit"],
+    "answer": "A period kit is a small bag of supplies you keep with you so you're prepared for your period anywhere. Essentials to include: 2-3 pads or tampons in various absorbencies, a few pairs of clean underwear, unscented wipes or tissues, a small plastic bag for used products or soiled underwear, pain relievers (if allowed at school), and a dark-colored stain remover pen or wipes. Optional: period underwear as backup, hand sanitizer, and a small heating pad patch. Keep your kit in your backpack, locker, or purse. You can also keep one at school and one at home. Being prepared reduces anxiety about unexpected periods. You can buy pre-made period kits or make your own in a small cosmetic bag. Ask a parent to help you put one together. Preparation empowers you to handle your period confidently.",
+    "follow_up": ["Do you have a period kit?", "What would you put in yours?", "Do you need help getting supplies?", "Where would you keep it?"]
+  },
+  {
+    "id": 8024,
+    "category": "first_period",
+    "question": "Can my period start and then stop",
+    "alternate_questions": ["Period started stopped", "One period then nothing", "First period irregular", "Period came went away", "Menstruation stop start"],
+    "keywords": ["start", "stop", "irregular", "came", "went away", "nothing", "menstruation", "beginning"],
+    "answer": "Yes, it's very common for your first period to be irregular. You might have one period and then not have another for several months. This happens because your hormone system is still maturing and hasn't established a regular pattern yet. It can take 1-2 years for cycles to become predictable. Your second period might be lighter, heavier, shorter, or longer than your first - all of this is normal. If you have one period and then nothing for a while, don't worry. Track when it happens and any symptoms. See a doctor if: you have very heavy bleeding (soaking through a pad every hour), severe pain, or if you go more than 3 months without a period after having regular cycles. Otherwise, irregularity is just part of your body figuring things out. Patience is key.",
+    "follow_up": ["Did you have one period then stop?", "How long has it been?", "Are you tracking?", "Are you worried about the gap?"]
+  },
+  {
+    "id": 8025,
+    "category": "first_period",
+    "question": "What if my friends got their period before me",
+    "alternate_questions": ["Friends have period I don't", "Last to get period", "Peer pressure puberty", "Everyone else started", "Feeling left out period"],
+    "keywords": ["friends", "before", "peer pressure", "last", "left out", "puberty", "comparison"],
+    "answer": "It's completely normal to feel left out or worried if your friends have gotten their periods and you haven't. But remember: everyone develops at their own pace, and there's no 'right' time to start your period. The normal range is 9-16 years old, and being earlier or later than friends doesn't mean anything is wrong with you. Your body is on its own timeline determined by genetics, nutrition, overall health, and body composition. Getting your period later can actually be nice - you have more time to prepare and don't have to deal with it as early. Try not to compare yourself to others. When your period does come, you'll be just as normal and healthy as your friends. Focus on the things that make you unique rather than when your body changes. Your time will come.",
+    "follow_up": ["How old are you?", "Are your friends much older?", "Do you feel pressured?", "What are you most worried about?"]
+  },
+  {
+    "id": 8026,
+    "category": "first_period",
+    "question": "What if I get my period before my friends",
+    "alternate_questions": ["First period early", "Got period before friends", "Early puberty feelings", "Youngest to menstruate", "Period started young"],
+    "keywords": ["before", "friends", "early", "young", "puberty", "youngest", "feelings", "started"],
+    "answer": "Getting your period earlier than your friends can feel isolating or embarrassing, but it's completely normal if you're within the normal range (9-16 years). Starting early doesn't mean anything is wrong with you - it's just your body's natural timing, often influenced by genetics and nutrition. You might feel: different from friends, worried about leaks at school, or self-conscious about your changing body. Remember: getting your period is not shameful, even if you're the first in your friend group. You can still do all the activities you enjoy. If friends ask questions, share what you're comfortable with - education helps everyone. Having your period early means you can help and support friends when they start. Your body is doing exactly what it's supposed to do, just on its own schedule.",
+    "follow_up": ["How old were you when you started?", "Do you feel different from friends?", "Do you have support?", "What feels hardest about starting early?"]
+  },
+  {
+    "id": 8027,
+    "category": "first_period",
+    "question": "Is it normal to be scared about my first period",
+    "alternate_questions": ["Scared first period", "Anxious about menstruating", "Fear period starting", "Nervous first time", "Worried about period"],
+    "keywords": ["scared", "anxious", "fear", "nervous", "worried", "normal", "first time", "feelings"],
+    "answer": "Yes, it's completely normal to feel scared, anxious, or nervous about your first period. There's a lot of unknowns, and society often sends negative messages about periods being gross or embarrassing. It's okay to feel however you feel - excited, scared, indifferent, or a mix. Ways to feel less anxious: learn about what to expect, talk to a trusted adult who can answer questions, prepare a period kit so you feel ready, remember that billions of people have periods and survive just fine, and focus on the positive - your body is healthy and developing normally. If your anxiety is overwhelming or affecting your daily life, talk to a counselor or trusted adult. Most fear comes from not knowing what to expect. The more you learn, the less scary it becomes. You're going to be okay.",
+    "follow_up": ["What specifically scares you?", "Have you talked to anyone about your fears?", "What would help you feel more prepared?", "Is anxiety affecting your daily life?"]
+  }
+  ]

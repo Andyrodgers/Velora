@@ -1,0 +1,47 @@
+[
+  {
+    "id": 461,
+    "category": "protein",
+    "question": "Why is protein important during my period?",
+    "alternate_questions": ["Benefits of protein for menstruation", "Should I eat more protein on my period?", "Protein and hormonal health"],
+    "keywords": ["protein", "period", "energy", "blood sugar", "hunger"],
+    "answer": "Protein is essential for stabilizing blood sugar levels, which can help manage mood swings and prevent energy crashes during your period. It also provides the building blocks for hormones and helps you feel full longer.",
+    "follow_up": ["What are good protein sources?", "Does protein help with cravings?", "How much protein do I need daily?"]
+  },
+  {
+    "id": 462,
+    "category": "protein",
+    "question": "What are good sources of protein for my cycle?",
+    "alternate_questions": ["Best protein foods for periods", "High-protein snacks", "Plant-based protein for menstruation"],
+    "keywords": ["protein", "sources", "food", "chicken", "eggs", "beans", "tofu"],
+    "answer": "Excellent sources include lean meats like chicken and turkey, fish, eggs, Greek yogurt, beans, lentils, tofu, and nuts. Including a variety of these can ensure you get all necessary amino acids.",
+    "follow_up": ["Are there vegetarian protein sources?", "Is protein powder okay?", "Can protein help with fatigue?"]
+  },
+  {
+    "id": 463,
+    "category": "protein",
+    "question": "Can protein help with period cravings?",
+    "alternate_questions": ["Will eating protein stop my sugar cravings?", "Managing PMS hunger with protein", "Does protein keep me full during my cycle?"],
+    "keywords": ["protein", "cravings", "hunger", "satisfying", "pms"],
+    "answer": "Yes, protein is very satiating. Eating enough protein at each meal can help reduce the intense sugar and salt cravings often associated with PMS by keeping your blood sugar levels more consistent.",
+    "follow_up": ["What's a high-protein snack for cravings?", "Does fiber help too?", "How much protein per meal?"]
+  },
+  {
+    "id": 464,
+    "category": "protein",
+    "question": "Does protein help with period fatigue?",
+    "alternate_questions": ["Can eating more protein give me energy?", "Protein for low energy during menstruation", "Fighting tiredness with protein"],
+    "keywords": ["protein", "fatigue", "energy", "period", "tired"],
+    "answer": "While it's not a direct 'energy' source like carbs, protein provides sustained fuel and helps maintain muscle mass and energy levels throughout the day, which can counteract the fatigue often felt during menstruation.",
+    "follow_up": ["What else helps with fatigue?", "Best time to eat protein for energy?", "Can iron deficiency cause fatigue?"]
+  },
+  {
+    "id": 465,
+    "category": "protein",
+    "question": "Are there plant-based proteins for my period?",
+    "alternate_questions": ["Vegan protein for menstruation", "Iron-rich plant proteins", "Meat-free protein ideas"],
+    "keywords": ["plant-based", "protein", "vegan", "vegetarian", "beans", "lentils", "quinoa"],
+    "answer": "Absolutely! Lentils, chickpeas, black beans, quinoa, edamame, and chia seeds are all excellent plant-based protein sources. Many of these are also rich in fiber and iron, making them double-duty period foods.",
+    "follow_up": ["How to prepare lentils?", "Is soy okay for hormones?", "What are iron-rich plant foods?"]
+  }
+]

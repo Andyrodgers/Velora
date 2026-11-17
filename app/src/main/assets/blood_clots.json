@@ -1,0 +1,182 @@
+[
+  {
+    "id": 321,
+    "category": "blood_clots",
+    "question": "Why do I get blood clots during my period",
+    "alternate_questions": ["Period blood clots", "Why does my period have clots", "Menstrual clotting", "Clots in period blood", "Jelly-like period blood"],
+    "keywords": ["blood clots", "period", "menstruation", "coagulation", "normal"],
+    "answer": "Blood clots during your period are usually normal. They form when blood pools in the uterus or vagina and coagulates before exiting. Your body produces anticoagulants to prevent clotting, but during heavy flow, they may not have time to work, resulting in clots. Small clots (pea-sized) are common. However, clots larger than a quarter, especially with heavy bleeding, may indicate menorrhagia or other issues and should be evaluated.",
+    "follow_up": ["How large are the clots?", "How heavy is your bleeding?", "Do you have severe pain with the clots?"]
+  },
+  {
+    "id": 322,
+    "category": "blood_clots",
+    "question": "What size blood clots are normal during periods",
+    "alternate_questions": ["Normal clot size period", "How big should period clots be", "Small clots vs large clots", "When are clots too big", "Period clot size chart"],
+    "keywords": ["clot size", "normal", "period", "quarter", "menorrhagia"],
+    "answer": "Small clots the size of a pea or dime are generally normal during menstruation, especially on heavy flow days. Clots the size of a quarter (about 1 inch or 2.5 cm) or larger are considered abnormal and may indicate heavy menstrual bleeding (menorrhagia). If you regularly pass clots larger than a quarter, especially with soaking through protection every hour, see a healthcare provider for evaluation of underlying causes.",
+    "follow_up": ["How large are your typical clots?", "How often do you pass large clots?", "Do you soak through protection hourly?"]
+  },
+  {
+    "id": 323,
+    "category": "blood_clots",
+    "question": "Why are my period blood clots so large",
+    "alternate_questions": ["Large period clots", "Huge blood clots menstruation", "Why are my clots big", "Massive period clots", "Golf ball sized clots"],
+    "keywords": ["large clots", "heavy bleeding", "menorrhagia", "fibroids", "hormonal"],
+    "answer": "Large blood clots (bigger than a quarter) usually indicate very heavy bleeding. Causes include uterine fibroids, hormonal imbalances, adenomyosis, endometriosis, bleeding disorders, miscarriage, or perimenopause. When bleeding is very heavy, your body's natural anticoagulants can't keep up, allowing blood to pool and clot in the uterus. If you regularly pass large clots, especially with other symptoms, see a healthcare provider for diagnosis and treatment.",
+    "follow_up": ["How large are the clots?", "How long has this been happening?", "Do you have other symptoms like pain or heavy bleeding?", "Could you be pregnant?"]
+  },
+  {
+    "id": 324,
+    "category": "blood_clots",
+    "question": "Can fibroids cause large blood clots",
+    "alternate_questions": ["Fibroids and clots", "Myoma large clots", "Why do fibroids cause clotting", "Uterine fibroids heavy clots", "Fibroid symptoms clots"],
+    "keywords": ["fibroids", "large clots", "heavy bleeding", "uterine", "tumors"],
+    "answer": "Yes, uterine fibroids are a very common cause of large blood clots during periods. Fibroids, especially submucosal ones that bulge into the uterine cavity, increase the surface area of the uterine lining and can interfere with the uterus's ability to contract and stop bleeding. This leads to heavy flow that overwhelms your body's anticoagulants, resulting in large clots. If you have large clots with pelvic pressure or frequent urination, ask about fibroid evaluation.",
+    "follow_up": ["Do you have other fibroid symptoms?", "Have you been diagnosed with fibroids?", "How large are your clots?"]
+  },
+  {
+    "id": 325,
+    "category": "blood_clots",
+    "question": "Can hormonal imbalance cause blood clots",
+    "alternate_questions": ["Hormones and period clots", "Estrogen progesterone clots", "Hormonal imbalance clotting", "Why do hormones cause clots", "Endocrine period clots"],
+    "keywords": ["hormonal imbalance", "blood clots", "estrogen", "progesterone", "heavy bleeding"],
+    "answer": "Yes, hormonal imbalances can cause blood clots during periods. When estrogen dominates over progesterone, the uterine lining builds up excessively. When it finally sheds, the heavy flow overwhelms your body's natural anticoagulants, leading to clotting. This is common with anovulatory cycles, PCOS, perimenopause, and thyroid disorders. Hormonal treatments like birth control pills often help by regulating the cycle and reducing lining buildup.",
+    "follow_up": ["Do you have other hormonal symptoms?", "Have you had hormone testing?", "Are your cycles regular?"]
+  },
+  {
+    "id": 326,
+    "category": "blood_clots",
+    "question": "Can a miscarriage cause blood clots",
+    "alternate_questions": ["Miscarriage clots", "Pregnancy loss clots", "Why do miscarriages have clots", "Early miscarriage tissue clots", "Large clots miscarriage"],
+    "keywords": ["miscarriage", "clots", "pregnancy loss", "tissue", "early pregnancy"],
+    "answer": "Yes, miscarriage often involves passing blood clots and tissue. Clots may be large and accompanied by severe cramping, back pain, and heavy bleeding. You may also pass grayish or pinkish tissue (the gestational sac). If you suspect miscarriage, seek medical attention immediately. An ultrasound can confirm whether the pregnancy has ended and if all tissue has passed. In some cases, medication or a procedure is needed to complete the miscarriage safely.",
+    "follow_up": ["Are you pregnant or suspect pregnancy?", "How large are the clots?", "Do you have severe pain?", "Have you passed any tissue?"]
+  },
+  {
+    "id": 327,
+    "category": "blood_clots",
+    "question": "Can adenomyosis cause blood clots",
+    "alternate_questions": ["Adenomyosis clots", "Why does adenomyosis cause clots", "Adenomyosis heavy bleeding clots", "Adenomyosis large clots", "Uterine adenomyosis clotting"],
+    "keywords": ["adenomyosis", "blood clots", "heavy bleeding", "pain", "uterine"],
+    "answer": "Yes, adenomyosis commonly causes both heavy bleeding and large blood clots. In adenomyosis, endometrial tissue grows into the muscular wall of the uterus, making the uterus enlarged and unable to contract effectively to stop bleeding. This results in very heavy flow that leads to clot formation. Adenomyosis also causes severe cramps, painful periods, and a tender, enlarged uterus. If you suspect adenomyosis, see a gynecologist for evaluation.",
+    "follow_up": ["Do you have severe cramps?", "Is your uterus tender or enlarged?", "Have you been diagnosed with adenomyosis?"]
+  },
+  {
+    "id": 328,
+    "category": "blood_clots",
+    "question": "Can endometriosis cause blood clots",
+    "alternate_questions": ["Endo clots", "Endometriosis period clots", "Why does endometriosis cause clots", "Endo heavy bleeding clots", "Endometriosis clotting"],
+    "keywords": ["endometriosis", "blood clots", "heavy bleeding", "endo", "pain"],
+    "answer": "Yes, endometriosis can cause blood clots during periods, though it's more known for causing severe pain. Endometrial tissue growing outside the uterus bleeds during menstruation, and this bleeding, combined with heavy regular menstrual flow, can result in clots. Endometriosis often causes progressively worsening periods, pain during sex, and fertility issues. If you have clots with severe pain and other endo symptoms, see a gynecologist.",
+    "follow_up": ["Do you have severe period pain?", "Do you have pain during sex?", "Do you have fertility concerns?", "Have you been evaluated for endometriosis?"]
+  },
+  {
+    "id": 329,
+    "category": "blood_clots",
+    "question": "Can a copper IUD cause blood clots",
+    "alternate_questions": ["Copper IUD clots", "Paragard large clots", "IUD heavy bleeding clots", "Why does copper IUD cause clots", "Non hormonal IUD clotting"],
+    "keywords": ["copper IUD", "blood clots", "heavy bleeding", "Paragard", "side effects"],
+    "answer": "Yes, copper IUDs commonly cause heavier periods and larger blood clots, especially in the first 6-12 months. The copper creates a local inflammatory response that increases prostaglandins, leading to more bleeding and stronger cramps. For most people, this improves over time. If clotting is severe or doesn't improve, talk to your provider. You might consider switching to a hormonal IUD, which typically reduces bleeding and clots significantly.",
+    "follow_up": ["How long have you had the copper IUD?", "Has the bleeding improved at all?", "Are you considering switching methods?"]
+  },
+  {
+    "id": 330,
+    "category": "blood_clots",
+    "question": "Can bleeding disorders cause period clots",
+    "alternate_questions": ["Von Willebrand clots", "Clotting disorder heavy periods", "Inherited bleeding disorder clots", "Why do bleeding disorders cause clots", "Hemophilia period clots"],
+    "keywords": ["bleeding disorder", "von Willebrand", "clots", "heavy periods", "inherited"],
+    "answer": "Yes, bleeding disorders like von Willebrand disease can cause heavy periods with large clots. In these conditions, your blood doesn't clot properly, leading to prolonged, heavy bleeding that overwhelms your body's natural anticoagulants. If you've always had heavy periods with large clots, bruise easily, or have family members with bleeding issues, ask your doctor about testing. A hematologist can do simple blood tests to check clotting function.",
+    "follow_up": ["Have you always had heavy periods with clots?", "Do you bruise or bleed easily?", "Is there family history of bleeding disorders?"]
+  },
+  {
+    "id": 331,
+    "category": "blood_clots",
+    "question": "Are blood clots during my period dangerous",
+    "alternate_questions": ["Period clots dangerous", "Can period clots harm me", "Risks of menstrual clots", "When are clots serious", "Blood clots health risk"],
+    "keywords": ["dangerous", "health risk", "blood clots", "period", "when to worry"],
+    "answer": "Small blood clots during your period are normal and not dangerous. However, large clots (bigger than a quarter) accompanied by very heavy bleeding can lead to anemia, which causes fatigue, weakness, and other health issues. Very rarely, extremely heavy clotting could indicate a serious condition. If you pass clots larger than a quarter, soak through protection hourly, feel faint, or have severe pain, seek medical attention promptly.",
+    "follow_up": ["How large are your clots?", "Do you feel weak or dizzy?", "How heavy is your overall bleeding?"]
+  },
+  {
+    "id": 332,
+    "category": "blood_clots",
+    "question": "How can I reduce blood clots during my period",
+    "alternate_questions": ["Fewer period clots", "Reduce menstrual clotting", "Stop large clots", "Manage period clots", "Treatment for period clots"],
+    "keywords": ["reduce", "manage", "blood clots", "treatment", "period"],
+    "answer": "To reduce clots, address the underlying cause of heavy bleeding. Medical treatments include hormonal birth control (regulates cycle, reduces lining buildup), hormonal IUD (often reduces bleeding by 90%), tranexamic acid (reduces bleeding during periods), and NSAIDs like ibuprofen (reduce bleeding and cramps). At home, stay hydrated, use a heating pad for cramps, and consider iron supplements if you're anemic. See a healthcare provider to determine the best treatment for your specific cause.",
+    "follow_up": ["Have you tried any treatments?", "Do you know what's causing your heavy bleeding?", "Are you interested in hormonal options?"]
+  },
+  {
+    "id": 333,
+    "category": "blood_clots",
+    "question": "Why do my blood clots look like liver",
+    "alternate_questions": ["Liver-like clots", "Dark red clots", "Why do clots look like tissue", "Jelly clots period", "Gelatinous period clots"],
+    "keywords": ["liver-like", "dark clots", "gelatinous", "appearance", "normal"],
+    "answer": "Blood clots that look like liver or dark red jelly are simply larger collections of menstrual blood that have coagulated. The dark red color indicates fresh blood that clotted quickly. The liver-like appearance comes from the way blood cells and plasma separate and congeal. While they can look alarming, these clots are usually just a sign of heavy flow. However, if they're very large (quarter-sized or bigger) or frequent, see a healthcare provider.",
+    "follow_up": ["How large are these clots?", "How often do you pass them?", "Do you have heavy bleeding overall?"]
+  },
+  {
+    "id": 334,
+    "category": "blood_clots",
+    "question": "Can I prevent blood clots during my period",
+    "alternate_questions": ["Prevent period clots", "Stop menstrual clotting", "Avoid clots during menstruation", "Prevention of period clots", "How to not get clots"],
+    "keywords": ["prevent", "avoid", "blood clots", "period", "proactive"],
+    "answer": "You can't completely prevent normal small clots, but you can reduce large clots by treating the underlying heavy bleeding. Maintain a healthy weight, manage stress, exercise moderately, and eat an iron-rich diet. Medical prevention includes hormonal birth control, hormonal IUDs, or tranexamic acid. Staying hydrated and active during your period may help blood flow more freely. If clots are a significant problem, work with your healthcare provider on a treatment plan.",
+    "follow_up": ["What's causing your heavy bleeding?", "Have you discussed treatment options?", "Are you willing to try hormonal methods?"]
+  },
+  {
+    "id": 335,
+    "category": "blood_clots",
+    "question": "Can dehydration cause more blood clots",
+    "alternate_questions": ["Water and period clots", "Dehydration clotting", "Why does dehydration affect clots", "Fluid intake and menstrual clots", "Dryness blood clots"],
+    "keywords": ["dehydration", "blood clots", "water", "fluid", "concentration"],
+    "answer": "Dehydration can make your blood more concentrated, which might contribute to clotting, though it's not a primary cause of menstrual clots. When dehydrated, your blood volume decreases and blood becomes thicker. Staying well-hydrated during your period is important for overall health, cramp relief, and maintaining healthy blood flow. Drink plenty of water, especially during heavy flow days, but also address underlying causes of heavy bleeding if clots are large.",
+    "follow_up": ["Are you drinking enough water?", "How heavy is your bleeding?", "Do you have other dehydration symptoms?"]
+  },
+  {
+    "id": 336,
+    "category": "blood_clots",
+    "question": "Can iron deficiency cause blood clots",
+    "alternate_questions": ["Anemia and clots", "Low iron period clots", "Iron deficiency heavy bleeding", "Why does anemia affect periods", "Iron and menstrual clots"],
+    "keywords": ["iron deficiency", "anemia", "blood clots", "heavy bleeding", "nutrition"],
+    "answer": "Iron deficiency doesn't directly cause blood clots, but heavy bleeding that causes clots can lead to iron deficiency anemia. It's a vicious cycle: heavy bleeding causes iron loss, which can worsen fatigue and weakness. Treating the underlying cause of heavy bleeding helps prevent both clots and anemia. If you have heavy periods with clots, ask your doctor about iron testing and supplementation. Iron-rich foods and supplements help maintain healthy blood levels.",
+    "follow_up": ["Have you been tested for anemia?", "Do you take iron supplements?", "How heavy is your bleeding?"]
+  },
+  {
+    "id": 337,
+    "category": "blood_clots",
+    "question": "Can perimenopause cause blood clots",
+    "alternate_questions": ["Perimenopause clots", "Menopause transition large clots", "Why do clots increase in my 40s", "Aging and period clots", "Perimenopause heavy bleeding clots"],
+    "keywords": ["perimenopause", "blood clots", "aging", "heavy bleeding", "hormonal fluctuation"],
+    "answer": "Yes, perimenopause can cause changes in clotting. Hormonal fluctuations may lead to heavier, more irregular periods with larger clots in some people, while others experience lighter periods. The unpredictability of perimenopause means your flow can vary significantly from cycle to cycle. If you experience very heavy bleeding with large clots during perimenopause, see your doctor to rule out fibroids, polyps, or endometrial issues that become more common with age.",
+    "follow_up": ["How old are you?", "Are you having other perimenopause symptoms?", "How long have you noticed the clots?"]
+  },
+  {
+    "id": 338,
+    "category": "blood_clots",
+    "question": "Can a tilted uterus cause blood clots",
+    "alternate_questions": ["Retroverted uterus clots", "Tilted uterus heavy bleeding", "Why does uterus position affect clots", "Uterine position period clots", "Tilted womb clotting"],
+    "keywords": ["tilted uterus", "retroverted", "blood clots", "position", "anatomy"],
+    "answer": "A tilted (retroverted) uterus doesn't directly cause blood clots, but it can affect how menstrual blood flows out. In a tilted uterus, blood may pool slightly before exiting, potentially allowing more time for clotting. However, most people with tilted uteruses have normal periods. If you're experiencing significant clots, the cause is more likely hormonal imbalance, fibroids, or heavy bleeding rather than uterine position alone.",
+    "follow_up": ["Do you know if your uterus is tilted?", "How large are your clots?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 339,
+    "category": "blood_clots",
+    "question": "Can birth control pills reduce blood clots",
+    "alternate_questions": ["Pill fewer clots", "Birth control reduce clotting", "Hormonal contraception clots", "Pill heavy bleeding clots", "Regulate periods reduce clots"],
+    "keywords": ["birth control pills", "reduce", "blood clots", "hormonal", "regulation"],
+    "answer": "Yes, birth control pills are very effective at reducing period blood clots. They regulate hormones, prevent excessive uterine lining buildup, and make periods lighter and more predictable. With less overall bleeding, there's less opportunity for clots to form. Many people find their clots disappear entirely on the pill. If you're not trying to conceive and have issues with clots, discuss birth control options with your healthcare provider.",
+    "follow_up": ["Have you tried birth control before?", "Are you interested in hormonal options?", "Do you have contraindications to estrogen?"]
+  },
+  {
+    "id": 340,
+    "category": "blood_clots",
+    "question": "When should I see a doctor for period clots",
+    "alternate_questions": ["Doctor for period clots", "When are clots an emergency", "Medical attention blood clots", "See gynecologist clots", "Clot warning signs"],
+    "keywords": ["doctor", "medical attention", "emergency", "blood clots", "warning signs"],
+    "answer": "See a doctor if you: pass clots larger than a quarter regularly, soak through a pad or tampon in an hour for 2+ hours, have severe pain with clots, feel faint or dizzy, show signs of anemia (extreme fatigue, shortness of breath), or if large clots are a new development. Seek emergency care if you have heavy bleeding with clots plus signs of shock: rapid heartbeat, confusion, pale skin, or extreme weakness. Early evaluation prevents complications.",
+    "follow_up": ["How large are your clots?", "Do you have any of these warning signs?", "How long has this been happening?"]
+  }
+]

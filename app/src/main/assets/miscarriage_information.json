@@ -1,0 +1,137 @@
+[
+  {
+    "id": 456,
+    "category": "miscarriage_information",
+    "question": "What is a miscarriage",
+    "alternate_questions": ["Pregnancy loss definition", "What happens in a miscarriage", "Spontaneous abortion meaning", "Losing a baby early", "Miscarriage explained"],
+    "keywords": ["miscarriage", "pregnancy loss", "spontaneous abortion", "definition", "early loss"],
+    "answer": "A miscarriage is the spontaneous loss of a pregnancy before 20 weeks gestation. About 10-20% of known pregnancies end in miscarriage, but the actual rate is higher as many occur before a person realizes they're pregnant. Most miscarriages (about 80%) happen in the first trimester. The medical term is 'spontaneous abortion,' though this doesn't mean induced abortion. Miscarriage is emotionally devastating and physically challenging. It's important to know that most miscarriages are caused by chromosomal abnormalities and are not the parent's fault.",
+    "follow_up": ["Have you experienced a miscarriage?", "How are you coping?", "Do you need support resources?", "Are you trying to conceive again?"]
+  },
+  {
+    "id": 457,
+    "category": "miscarriage_information",
+    "question": "What causes miscarriage",
+    "alternate_questions": ["Why do miscarriages happen", "Miscarriage causes", "What leads to pregnancy loss", "Reasons for miscarriage", "Why did I miscarry"],
+    "keywords": ["miscarriage causes", "chromosomal abnormalities", "hormonal", "anatomical", "infection"],
+    "answer": "The most common cause of miscarriage (50-70%) is chromosomal abnormalities in the embryo, which are random events not caused by the parent. Other causes include: hormonal imbalances (low progesterone, thyroid issues, PCOS), uterine abnormalities (fibroids, septum, adhesions), cervical insufficiency, infections, chronic diseases (diabetes, autoimmune disorders), blood clotting disorders, and lifestyle factors (smoking, alcohol, drug use). Most miscarriages cannot be prevented. It's rarely caused by stress, exercise, or sex, and it's not the parent's fault.",
+    "follow_up": ["Have you had testing after your miscarriage?", "Do you have any known health conditions?", "Are you looking for answers about your specific situation?"]
+  },
+  {
+    "id": 458,
+    "category": "miscarriage_information",
+    "question": "What are miscarriage symptoms",
+    "alternate_questions": ["Signs of miscarriage", "How do I know if I'm miscarrying", "Miscarriage warning signs", "Pregnancy loss symptoms", "Threatened miscarriage"],
+    "keywords": ["miscarriage symptoms", "bleeding", "cramping", "tissue", "warning signs"],
+    "answer": "Miscarriage symptoms include: vaginal bleeding (light spotting to heavy bleeding, possibly with clots), severe cramping or abdominal pain (often worse than period cramps), lower back pain, passing fluid or tissue from the vagina, and sudden loss of pregnancy symptoms (breast tenderness, nausea). However, some bleeding in early pregnancy is common and doesn't always mean miscarriage. If you experience these symptoms, contact your healthcare provider immediately for evaluation with ultrasound and hCG testing.",
+    "follow_up": ["Are you experiencing any of these symptoms?", "How far along are you?", "Have you contacted your healthcare provider?", "How heavy is the bleeding?"]
+  },
+  {
+    "id": 459,
+    "category": "miscarriage_information",
+    "question": "What is a missed miscarriage",
+    "alternate_questions": ["Missed abortion", "Silent miscarriage", "Why no symptoms miscarriage", "Missed miscarriage explained", "Pregnancy stopped growing"],
+    "keywords": ["missed miscarriage", "silent", "no symptoms", "embryo stopped", "diagnosis"],
+    "answer": "A missed miscarriage (missed abortion) is when the embryo or fetus has died but the body hasn't recognized it yet, so there are no immediate symptoms like bleeding or cramping. The pregnancy symptoms may gradually fade. It's often discovered at a routine ultrasound when no heartbeat is found or the embryo hasn't grown appropriately. This can be emotionally devastating because you may not have suspected anything was wrong. Treatment options include waiting for natural miscarriage, medication (misoprostol), or a D&C procedure.",
+    "follow_up": ["Have you been diagnosed with a missed miscarriage?", "How far along were you?", "What treatment options are you considering?", "How are you coping emotionally?"]
+  },
+  {
+    "id": 460,
+    "category": "miscarriage_information",
+    "question": "What is a threatened miscarriage",
+    "alternate_questions": ["Threatened abortion", "Can threatened miscarriage be saved", "Bleeding but pregnancy continues", "Threatened miscarriage outcome", "Vaginal bleeding early pregnancy"],
+    "keywords": ["threatened miscarriage", "bleeding", "pregnancy continues", "prognosis", "bed rest"],
+    "answer": "A threatened miscarriage is when you have vaginal bleeding in early pregnancy but the cervix is closed and the pregnancy may still continue. About 50% of threatened miscarriages result in healthy pregnancies. Bed rest is not proven to prevent miscarriage. Your doctor will do an ultrasound to check for a heartbeat and may monitor hCG levels. If the embryo is developing normally and a heartbeat is present, the prognosis is good. Avoid strenuous activity and follow your doctor's advice, but know that the outcome is largely out of your control.",
+    "follow_up": ["Are you experiencing bleeding?", "How far along are you?", "Have you had an ultrasound?", "Is there a heartbeat?"]
+  },
+  {
+    "id": 461,
+    "category": "miscarriage_information",
+    "question": "What is an incomplete miscarriage",
+    "alternate_questions": ["Incomplete abortion", "Tissue remaining after miscarriage", "Why bleeding continues after miscarriage", "Incomplete miscarriage treatment", "Retained tissue pregnancy loss"],
+    "keywords": ["incomplete miscarriage", "retained tissue", "bleeding", "treatment", "D&C"],
+    "answer": "An incomplete miscarriage is when some pregnancy tissue remains in the uterus after a miscarriage has begun. Symptoms include ongoing bleeding, cramping, and passing tissue. The remaining tissue can cause infection or prolonged bleeding if not removed. Treatment options include: waiting to see if the body expels the rest naturally (with monitoring), medication (misoprostol) to help the uterus contract and expel tissue, or a D&C (dilation and curettage) procedure to surgically remove the tissue. Your doctor will recommend the best option based on your situation.",
+    "follow_up": ["Have you been diagnosed with incomplete miscarriage?", "Are you still bleeding?", "What treatment are you considering?", "Have you had an ultrasound?"]
+  },
+  {
+    "id": 462,
+    "category": "miscarriage_information",
+    "question": "What is a complete miscarriage",
+    "alternate_questions": ["Complete abortion", "All tissue passed", "Natural complete miscarriage", "Miscarriage finished", "Complete pregnancy loss"],
+    "keywords": ["complete miscarriage", "all tissue passed", "natural", "recovery", "no intervention"],
+    "answer": "A complete miscarriage is when all pregnancy tissue has been expelled from the uterus naturally. Symptoms include heavy bleeding and cramping that gradually subsides, followed by lighter bleeding similar to a period. An ultrasound confirms the uterus is empty. After a complete miscarriage, most people recover physically within a few weeks. Emotional recovery takes longer. Your doctor will monitor your hCG levels to ensure they return to zero, confirming the miscarriage is complete. Most people can try to conceive again after one normal cycle.",
+    "follow_up": ["Have you had an ultrasound to confirm?", "Are your symptoms improving?", "How are you feeling emotionally?", "Are you considering trying again?"]
+  },
+  {
+    "id": 463,
+    "category": "miscarriage_information",
+    "question": "What is a septic miscarriage",
+    "alternate_questions": ["Infected miscarriage", "Septic abortion", "Infection after miscarriage", "Septic miscarriage symptoms", "Dangerous miscarriage infection"],
+    "keywords": ["septic miscarriage", "infection", "fever", "dangerous", "emergency"],
+    "answer": "A septic miscarriage is a miscarriage complicated by infection in the uterus, which can spread to the bloodstream (sepsis) and become life-threatening. It's more common with incomplete miscarriages or unsafe abortion practices. Symptoms include: fever, chills, severe abdominal pain, foul-smelling vaginal discharge, and rapid heartbeat. This is a medical emergency requiring immediate hospitalization, IV antibiotics, and removal of infected tissue. Septic miscarriage is rare in areas with access to safe medical care, but requires urgent attention when it occurs.",
+    "follow_up": ["Do you have fever or chills?", "Is there foul-smelling discharge?", "Do you have severe pain?", "Have you sought emergency care?"]
+  },
+  {
+    "id": 464,
+    "category": "miscarriage_information",
+    "question": "How long does a miscarriage last",
+    "alternate_questions": ["Miscarriage duration", "How many days miscarriage", "Miscarriage timeline", "Pregnancy loss how long", "Miscarriage process length"],
+    "keywords": ["miscarriage duration", "days", "timeline", "process", "recovery"],
+    "answer": "The physical process of miscarriage varies: A complete miscarriage may take a few days to a week. Bleeding typically lasts 1-2 weeks, similar to a heavy period. Cramping is usually most intense for 1-3 days. If using medication (misoprostol), bleeding and cramping start within a few hours and may last several days. After a D&C, bleeding is usually lighter and shorter (about a week). Emotional recovery takes much longer and is different for everyone. Physical recovery is usually complete within 2-4 weeks, but hCG may take 4-6 weeks to return to zero.",
+    "follow_up": ["What type of miscarriage are you experiencing?", "How long have you been bleeding?", "Are you receiving medical care?", "How are you coping?"]
+  },
+  {
+    "id": 465,
+    "category": "miscarriage_information",
+    "question": "How do I know if my miscarriage is complete",
+    "alternate_questions": ["Complete miscarriage signs", "All tissue passed how to know", "Miscarriage finished signs", "Ultrasound after miscarriage", "hCG after miscarriage"],
+    "keywords": ["complete miscarriage", "signs", "ultrasound", "hCG", "bleeding stops"],
+    "answer": "Signs that a miscarriage may be complete include: bleeding significantly decreases and stops within 1-2 weeks, cramping subsides, pregnancy symptoms fade, and you pass tissue that appears to be the gestational sac or placenta. However, only an ultrasound can confirm the uterus is completely empty. Your doctor will also monitor hCG levels, which should drop steadily and return to zero within 4-6 weeks. If bleeding continues beyond 2 weeks, hCG doesn't drop, or you have fever or severe pain, see your doctor immediately.",
+    "follow_up": ["Are you still bleeding?", "Have you had an ultrasound?", "Are your hCG levels being monitored?", "Do you have fever or severe pain?"]
+  },
+  {
+    "id": 466,
+    "category": "miscarriage_information",
+    "question": "What is a D&C procedure",
+    "alternate_questions": ["Dilation and curettage", "D&C miscarriage", "Surgical miscarriage management", "What happens during D&C", "D&C recovery"],
+    "keywords": ["D&C", "dilation and curettage", "surgical", "miscarriage", "procedure"],
+    "answer": "A D&C (dilation and curettage) is a surgical procedure to remove pregnancy tissue from the uterus after a miscarriage. The cervix is dilated (opened) and the uterine lining is gently scraped or suctioned. It's usually done under anesthesia in a hospital or clinic. A D&C may be recommended for: incomplete miscarriage, heavy bleeding, infection risk, or patient preference. Risks include infection, uterine scarring (Asherman's syndrome), and perforation (rare). Recovery involves light bleeding for about a week and avoiding tampons and sex for 2 weeks.",
+    "follow_up": ["Have you been recommended a D&C?", "Are you considering this option?", "Do you have concerns about the procedure?", "What are your other options?"]
+  },
+  {
+    "id": 467,
+    "category": "miscarriage_information",
+    "question": "What is misoprostol for miscarriage",
+    "alternate_questions": ["Medication miscarriage management", "Misoprostol abortion pill", "Cytotec miscarriage", "Medical management miscarriage", "Pills for miscarriage"],
+    "keywords": ["misoprostol", "medication", "miscarriage management", "Cytotec", "medical"],
+    "answer": "Misoprostol (Cytotec) is a medication used to manage miscarriage by causing the uterus to contract and expel remaining pregnancy tissue. It's often used for incomplete or missed miscarriages as an alternative to surgery. You take it orally or vaginally, and bleeding and cramping typically start within a few hours. The process can take several days and may be painful. Side effects include nausea, diarrhea, fever, and chills. Your doctor will provide pain management and follow-up care, including ultrasound to confirm the uterus is empty.",
+    "follow_up": ["Have you been prescribed misoprostol?", "Are you considering medical vs surgical management?", "Do you have support at home?", "Do you understand the process?"]
+  },
+  {
+    "id": 468,
+    "category": "miscarriage_information",
+    "question": "When can I try to conceive after miscarriage",
+    "alternate_questions": ["Pregnancy after miscarriage", "How soon after miscarriage conceive", "Trying again after loss", "Fertility after miscarriage", "Conception timing after miscarriage"],
+    "keywords": ["conceive after miscarriage", "trying again", "timing", "fertility", "recovery"],
+    "answer": "You can try to conceive as soon as you feel physically and emotionally ready. Medically, there's no need to wait unless you had complications (infection, D&C with scarring concerns) or your doctor advises otherwise. Many doctors suggest waiting one menstrual cycle for dating purposes, but research shows no increased risk if you conceive immediately. Your fertility often returns quickly after miscarriage. However, ensure you're emotionally ready, grief doesn't follow a timeline. Most people who miscarry go on to have healthy pregnancies.",
+    "follow_up": ["How far along were you when you miscarried?", "Have you had one cycle since?", "How are you feeling emotionally?", "Are you ready to try again?"]
+  },
+  {
+    "id": 469,
+    "category": "miscarriage_information",
+    "question": "What is recurrent miscarriage",
+    "alternate_questions": ["Repeated pregnancy loss", "Multiple miscarriages", "Recurrent miscarriage causes", "Why do I keep miscarrying", "RPL recurrent pregnancy loss"],
+    "keywords": ["recurrent miscarriage", "RPL", "multiple losses", "evaluation", "causes"],
+    "answer": "Recurrent miscarriage (recurrent pregnancy loss, RPL) is defined as 2 or 3 consecutive miscarriages (definitions vary). It affects about 1-2% of couples. Causes include: chromosomal abnormalities (in parent or embryo), uterine abnormalities (septum, fibroids, adhesions), hormonal issues (thyroid, PCOS, low progesterone), blood clotting disorders (antiphospholipid syndrome), immune system issues, chronic diseases, and lifestyle factors. Evaluation includes: karyotyping both parents, hormone tests, ultrasound/HSG, blood clotting tests, and endometrial biopsy. Many causes are treatable.",
+    "follow_up": ["How many miscarriages have you had?", "Have you had RPL evaluation?", "What testing has been done?", "Are you working with a specialist?"]
+  },
+  {
+    "id": 470,
+    "category": "miscarriage_information",
+    "question": "How do I cope with miscarriage grief",
+    "alternate_questions": ["Miscarriage emotional support", "Dealing with pregnancy loss", "Grief after miscarriage", "Miscarriage counseling", "Healing after loss"],
+    "keywords": ["grief", "coping", "miscarriage", "emotional support", "healing"],
+    "answer": "Coping with miscarriage grief is deeply personal and takes time. Allow yourself to grieve, your loss is real regardless of how far along you were. Strategies include: talking to supportive people (partner, friends, family), joining support groups (in-person or online like Reddit's r/miscarriage or r/ttcafterloss), seeking counseling from a therapist specializing in pregnancy loss, honoring your loss in a meaningful way (memorial, planting a tree), taking time off work if needed, and being gentle with yourself. Grief doesn't follow a timeline. If you feel overwhelmed, depressed, or unable to function, seek professional help.",
+    "follow_up": ["How are you feeling emotionally?", "Do you have support?", "Have you considered counseling?", "What would help you most right now?"]
+  }
+]

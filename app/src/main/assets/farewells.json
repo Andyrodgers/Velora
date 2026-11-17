@@ -1,0 +1,272 @@
+[
+  {
+    "id": 101,
+    "category": "farewells",
+    "question": "Goodbye",
+    "alternate_questions": ["Bye", "See you", "See you later", "Catch you later", "Later"],
+    "keywords": ["goodbye", "farewell", "leaving", "end"],
+    "answer": "Goodbye! Take care of yourself. I'm here whenever you need me, day or night. Stay well!",
+    "follow_up": ["Come back anytime!", "Take care!", "I'll be here when you need me."]
+  },
+  {
+    "id": 102,
+    "category": "farewells",
+    "question": "Bye bye",
+    "alternate_questions": ["Bye for now", "Bye Vela", "Bye Velora", "Goodbye for now"],
+    "keywords": ["bye", "farewell", "casual", "leaving"],
+    "answer": "Bye bye! Remember to be kind to yourself today. I'll be right here when you come back!",
+    "follow_up": ["Take care of yourself!", "See you soon!", "Stay healthy!"]
+  },
+  {
+    "id": 103,
+    "category": "farewells",
+    "question": "See you tomorrow",
+    "alternate_questions": ["Talk tomorrow", "Until tomorrow", "See you then", "Tomorrow"],
+    "keywords": ["tomorrow", "farewell", "future", "leaving"],
+    "answer": "See you tomorrow! I hope you have a wonderful day and night. Sleep well and take care!",
+    "follow_up": ["Rest well tonight!", "Have a great day tomorrow!", "I'll be here waiting."]
+  },
+  {
+    "id": 104,
+    "category": "farewells",
+    "question": "Good night",
+    "alternate_questions": ["Night", "Goodnight", "Sweet dreams", "Sleep well", "Nighty night"],
+    "keywords": ["night", "sleep", "farewell", "evening"],
+    "answer": "Good night! Sleep well and take care of yourself. Quality sleep is so important for your health and cycle. Sweet dreams!",
+    "follow_up": ["Did you have a good day?", "Rest well!", "I'll be here when you wake up."]
+  },
+  {
+    "id": 105,
+    "category": "farewells",
+    "question": "Have a good day",
+    "alternate_questions": ["Have a great day", "Have a wonderful day", "Have an amazing day", "Enjoy your day"],
+    "keywords": ["good day", "positive", "farewell", "wishes"],
+    "answer": "Thank you! I hope you have a wonderful day too. Remember to listen to your body and take breaks when you need them. I'll be here if you need anything!",
+    "follow_up": ["Make it a great day!", "Take care of yourself!", "Come back anytime!"]
+  },
+  {
+    "id": 106,
+    "category": "farewells",
+    "question": "Take care",
+    "alternate_questions": ["Take care of yourself", "Careful", "Stay safe", "Be careful"],
+    "keywords": ["take care", "safety", "farewell", "concern"],
+    "answer": "You take care too! Your health and wellbeing matter. Don't forget to hydrate, rest, and be gentle with yourself. I'm always here when you need support.",
+    "follow_up": ["Stay healthy!", "Be kind to yourself!", "I'll be here if you need me."]
+  },
+  {
+    "id": 107,
+    "category": "farewells",
+    "question": "Thanks for your help",
+    "alternate_questions": ["Thank you for helping", "Thanks Vela", "Appreciate your help", "Thanks a lot"],
+    "keywords": ["thanks", "gratitude", "farewell", "appreciation"],
+    "answer": "You're so very welcome! I'm always happy to help. Remember, no question is too small, and I'm here whenever you need me. Take care!",
+    "follow_up": ["Anytime!", "Glad I could help!", "Come back whenever you need support."]
+  },
+  {
+    "id": 108,
+    "category": "farewells",
+    "question": "I have to go",
+    "alternate_questions": ["Gotta go", "I need to leave", "I should go now", "Time to go"],
+    "keywords": ["leave", "go", "farewell", "busy"],
+    "answer": "No problem at all! I'm glad we could chat. Take care of yourself, and don't hesitate to come back whenever you need me. I'll be here!",
+    "follow_up": ["Go take care of what you need to!", "I'll be here when you return!", "Stay well!"]
+  },
+  {
+    "id": 109,
+    "category": "farewells",
+    "question": "Talk to you later",
+    "alternate_questions": ["Chat later", "Speak soon", "Catch up later", "Until next time"],
+    "keywords": ["later", "talk", "farewell", "future"],
+    "answer": "Talk to you later! I'll be here whenever you're ready. Take care and be kind to yourself in the meantime!",
+    "follow_up": ["See you soon!", "Take care!", "I'm here whenever you need me."]
+  },
+  {
+    "id": 110,
+    "category": "farewells",
+    "question": "I'm going to sleep",
+    "alternate_questions": ["Going to bed", "Time for bed", "Off to sleep", "Sleep time"],
+    "keywords": ["sleep", "bed", "farewell", "night"],
+    "answer": "Sweet dreams! Sleep is so important for your health, especially during your cycle. A good night's rest can help with mood, energy, and even cramps. Rest well!",
+    "follow_up": ["Did you have a relaxing evening?", "Sleep tight!", "I'll be here when you wake up."]
+  },
+  {
+    "id": 111,
+    "category": "farewells",
+    "question": "Have a good weekend",
+    "alternate_questions": ["Enjoy your weekend", "Weekend wishes", "Good weekend", "Nice weekend"],
+    "keywords": ["weekend", "farewell", "wishes", "rest"],
+    "answer": "Have a wonderful weekend! Take time to rest, recharge, and do things that make you happy. Self-care is so important. I'll be here if you need anything!",
+    "follow_up": ["Enjoy your time off!", "Rest and recharge!", "Come back refreshed!"]
+  },
+  {
+    "id": 112,
+    "category": "farewells",
+    "question": "See you soon",
+    "alternate_questions": ["Soon", "Be back soon", "Back soon", "See you in a bit"],
+    "keywords": ["soon", "farewell", "return", "quick"],
+    "answer": "See you soon! I'll be right here waiting. Take care of yourself in the meantime!",
+    "follow_up": ["Don't be gone too long!", "Take care!", "I'll be here!"]
+  },
+  {
+    "id": 113,
+    "category": "farewells",
+    "question": "Thanks bye",
+    "alternate_questions": ["Thank you goodbye", "Thanks and bye", "Appreciate it bye", "Cheers bye"],
+    "keywords": ["thanks", "bye", "farewell", "gratitude"],
+    "answer": "You're welcome, and goodbye! I'm so glad I could help. Come back anytime you need support or information. Take care!",
+    "follow_up": ["Anytime!", "Stay well!", "See you around!"]
+  },
+  {
+    "id": 114,
+    "category": "farewells",
+    "question": "I'm done",
+    "alternate_questions": ["That's all", "I'm finished", "All done", "That's it for now"],
+    "keywords": ["done", "finished", "farewell", "complete"],
+    "answer": "Got it! I'm glad we could chat. If anything else comes up, you know where to find me. Take care and be well!",
+    "follow_up": ["Great chatting with you!", "Come back anytime!", "Take care of yourself!"]
+  },
+  {
+    "id": 115,
+    "category": "farewells",
+    "question": "Nice talking to you",
+    "alternate_questions": ["Good chat", "Nice chat", "Pleasant conversation", "Enjoyed talking"],
+    "keywords": ["talking", "conversation", "farewell", "positive"],
+    "answer": "Nice talking to you too! I really enjoy helping. Remember, I'm always here for your health questions, big or small. Take care!",
+    "follow_up": ["The pleasure was mine!", "Come back soon!", "Stay healthy!"]
+  },
+  {
+    "id": 116,
+    "category": "farewells",
+    "question": "Stay safe",
+    "alternate_questions": ["Be safe", "Keep safe", "Safety first", "Look after yourself"],
+    "keywords": ["safe", "safety", "farewell", "care"],
+    "answer": "You stay safe too! Your health and safety are important. If you experience any severe symptoms or health emergencies, please seek medical attention immediately. Take care!",
+    "follow_up": ["Take care of yourself!", "Be well!", "I'm here if you need urgent help."]
+  },
+  {
+    "id": 117,
+    "category": "farewells",
+    "question": "Until we meet again",
+    "alternate_questions": ["Until next time", "Till we meet again", "See you next time", "Next time"],
+    "keywords": ["until", "farewell", "future", "meeting"],
+    "answer": "Until we meet again! I'll be here, ready to help. Take good care of yourself, and remember that your health matters. See you soon!",
+    "follow_up": ["I'll be waiting!", "Take care!", "Stay well until then!"]
+  },
+  {
+    "id": 118,
+    "category": "farewells",
+    "question": "Cheers",
+    "alternate_questions": ["Cheers Vela", "Cheers for now", "Cheers mate", "Cheers thanks"],
+    "keywords": ["cheers", "casual", "farewell", "thanks"],
+    "answer": "Cheers! Thanks for chatting with me. I'm here whenever you need a health buddy. Take care!",
+    "follow_up": ["Stay well!", "See you around!", "Take care!"]
+  },
+  {
+    "id": 119,
+    "category": "farewells",
+    "question": "Peace out",
+    "alternate_questions": ["Peace", "Peace be with you", "Peace and love", "Out"],
+    "keywords": ["peace", "casual", "farewell", "slang"],
+    "answer": "Peace out! Stay calm, stay healthy, and remember I'm here whenever you need support. Take care!",
+    "follow_up": ["Stay peaceful!", "Take care!", "See you soon!"]
+  },
+  {
+    "id": 120,
+    "category": "farewells",
+    "question": "Ciao for now",
+    "alternate_questions": ["Ciao", "Arrivederci", "Adios", "Hasta luego"],
+    "keywords": ["ciao", "international", "farewell", "casual"],
+    "answer": "Ciao for now! I'm here whenever you need me. Take care of yourself and stay well!",
+    "follow_up": ["Take care!", "See you soon!", "Stay healthy!"]
+  },
+  {
+    "id": 121,
+    "category": "farewells",
+    "question": "Gotta run",
+    "alternate_questions": ["Got to go", "Running late", "In a hurry", "Must dash"],
+    "keywords": ["run", "hurry", "farewell", "busy"],
+    "answer": "No worries, go take care of what you need to! I'm here 24/7, so come back whenever you have a moment. Take care!",
+    "follow_up": ["Don't rush too much!", "Take care of yourself!", "I'll be here when you get back."]
+  },
+  {
+    "id": 122,
+    "category": "farewells",
+    "question": "Keep in touch",
+    "alternate_questions": ["Stay in touch", "Don't be a stranger", "Reach out anytime", "Contact me"],
+    "keywords": ["touch", "contact", "farewell", "connection"],
+    "answer": "I definitely will! I'm always here, so don't be a stranger. Come back anytime you have questions or just want to chat. Take care!",
+    "follow_up": ["I'll be waiting!", "Come back soon!", "Stay well!"]
+  },
+  {
+    "id": 123,
+    "category": "farewells",
+    "question": "Rest well",
+    "alternate_questions": ["Get some rest", "Rest up", "Take a break", "Relax now"],
+    "keywords": ["rest", "relax", "farewell", "self-care"],
+    "answer": "You rest well too! Rest is so important for your body, especially during your cycle. Your body does amazing work, and it deserves downtime. Take care!",
+    "follow_up": ["Sleep well!", "Take time for yourself!", "You deserve rest."]
+  },
+  {
+    "id": 124,
+    "category": "farewells",
+    "question": "Be well",
+    "alternate_questions": ["Stay well", "Well wishes", "Wishing you wellness", "Health and happiness"],
+    "keywords": ["well", "wellness", "farewell", "health"],
+    "answer": "Be well too! Your health is your greatest wealth. Remember to listen to your body, eat well, stay hydrated, and rest when needed. I'm here if you need me!",
+    "follow_up": ["Take care of your health!", "Stay strong!", "I'm here for support."]
+  },
+  {
+    "id": 125,
+    "category": "farewells",
+    "question": "Thanks for listening",
+    "alternate_questions": ["Thanks for being here", "Thanks for the chat", "Thanks for understanding", "Grateful for you"],
+    "keywords": ["thanks", "listening", "farewell", "gratitude"],
+    "answer": "Thank you for sharing with me! It's an honor to be part of your health journey. I'm always here to listen and help. Take care!",
+    "follow_up": ["Anytime!", "Come back whenever you need to talk!", "Stay well!"]
+  },
+  {
+    "id": 126,
+    "category": "farewells",
+    "question": "I'm logging off",
+    "alternate_questions": ["Logging out", "Signing off", "Off for now", "Disconnecting"],
+    "keywords": ["log off", "disconnect", "farewell", "digital"],
+    "answer": "No problem! Enjoy your time offline. Sometimes a digital break is great for mental health. I'll be here when you return. Take care!",
+    "follow_up": ["Enjoy your offline time!", "Come back refreshed!", "Take care!"]
+  },
+  {
+    "id": 127,
+    "category": "farewells",
+    "question": "Have a good evening",
+    "alternate_questions": ["Good evening to you", "Enjoy your evening", "Pleasant evening"],
+    "keywords": ["evening", "farewell", "night", "wishes"],
+    "answer": "Have a good evening too! I hope you can unwind and relax. Evening routines like gentle stretching or reading can really help with sleep quality. Take care!",
+    "follow_up": ["Relax this evening!", "Sleep well tonight!", "Take care of yourself!"]
+  },
+  {
+    "id": 128,
+    "category": "farewells",
+    "question": "Safe travels",
+    "alternate_questions": ["Travel safe", "Have a safe trip", "Drive safe", "Bon voyage"],
+    "keywords": ["travel", "safe", "farewell", "trip"],
+    "answer": "Safe travels to you too! Traveling can sometimes disrupt your cycle due to stress or time zone changes, so be kind to yourself. Take care and enjoy your journey!",
+    "follow_up": ["Enjoy your trip!", "Take care on the road!", "Come back and tell me about it!"]
+  },
+  {
+    "id": 129,
+    "category": "farewells",
+    "question": "See you next week",
+    "alternate_questions": ["Next week", "Until next week", "Week after", "Following week"],
+    "keywords": ["next week", "farewell", "future", "planning"],
+    "answer": "See you next week! I'll be here waiting. In the meantime, track your symptoms and take notes if anything changes. Take care!",
+    "follow_up": ["Have a great week!", "Track your health!", "Come back with updates!"]
+  },
+  {
+    "id": 130,
+    "category": "farewells",
+    "question": "Farewell",
+    "alternate_questions": ["Farewell Vela", "Farewell for now", "Parting words", "Adieu"],
+    "keywords": ["farewell", "formal", "goodbye", "parting"],
+    "answer": "Farewell! It was wonderful chatting with you. Remember, your health matters, and I'm always here to support you. Until next time, take care!",
+    "follow_up": ["Until we meet again!", "Stay well!", "Take care of yourself!"]
+  }
+]

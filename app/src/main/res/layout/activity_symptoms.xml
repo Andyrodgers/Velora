@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/appBackgroundColor">
+
+    <!-- Header -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="?attr/appPrimaryColor"
+        android:paddingHorizontal="16dp">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:src="@android:drawable/ic_menu_revert"
+            app:tint="#FFFFFF"
+            android:contentDescription="Back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Log Symptoms"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How are you feeling today?"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="?attr/appTextColor" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mood"
+                android:layout_marginTop="24dp"
+                android:textColor="?attr/appTextColor"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/moodSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="8dp"
+                android:background="?attr/appCardBackgroundColor" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select Symptoms"
+                android:layout_marginTop="24dp"
+                android:textColor="?attr/appTextColor"
+                android:textStyle="bold" />
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:layout_marginTop="8dp">
+
+                <CheckBox android:id="@+id/cbCramps" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Cramps" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbHeadache" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Headache" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbBloating" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Bloating" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbAcne" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Acne" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbBackache" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Backache" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbNausea" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Nausea" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbTiredness" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Tiredness" android:textColor="?attr/appTextColor"/>
+                <CheckBox android:id="@+id/cbTenderBreasts" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:text="Tender Breasts" android:textColor="?attr/appTextColor"/>
+
+            </GridLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Additional Notes"
+                android:layout_marginTop="24dp"
+                android:textColor="?attr/appTextColor"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/etNotes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Tell us more about how you feel..."
+                android:minLines="3"
+                android:gravity="top"
+                android:padding="16dp"
+                android:inputType="textMultiLine"
+                android:background="@drawable/dialog_circle_bg"
+                android:backgroundTint="?attr/appCardBackgroundColor"
+                android:textColor="?attr/appTextColor"
+                android:autofillHints="none" />
+
+            <Button
+                android:id="@+id/btnSaveLog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="SAVE LOG"
+                android:padding="12dp"
+                android:backgroundTint="?attr/appPrimaryColor"
+                android:textColor="#FFFFFF" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

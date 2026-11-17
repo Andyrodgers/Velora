@@ -1,0 +1,182 @@
+[
+  {
+    "id": 401,
+    "category": "fertile_window",
+    "question": "What is the fertile window",
+    "alternate_questions": ["Fertile window meaning", "When am I most fertile", "Fertile days explained", "Conception window", "Best days to get pregnant"],
+    "keywords": ["fertile window", "conception", "most fertile", "timing", "pregnancy"],
+    "answer": "Your fertile window is the period during your cycle when you're most likely to conceive. It includes the 5 days before ovulation and ovulation day itself, since sperm can survive up to 5 days in the female reproductive tract. The egg survives only 12-24 hours after ovulation. So while the total fertile window is about 6 days, the best chances are in the 2-3 days before ovulation. Tracking ovulation helps identify this window accurately.",
+    "follow_up": ["Are you trying to conceive?", "Do you know when you ovulate?", "How are you tracking your cycle?"]
+  },
+  {
+    "id": 402,
+    "category": "fertile_window",
+    "question": "How many days is the fertile window",
+    "alternate_questions": ["Length of fertile window", "How long am I fertile", "Fertile days count", "Number of fertile days", "Fertility window duration"],
+    "keywords": ["fertile window", "6 days", "duration", "sperm survival", "egg survival"],
+    "answer": "The fertile window is approximately 6 days long: the 5 days before ovulation (when sperm can survive waiting for the egg) plus ovulation day itself (when the egg is viable for 12-24 hours). However, conception probability varies within this window: it's highest (about 30%) in the 2 days before ovulation, moderate (about 10-15%) 3-5 days before, and very low (about 0-5%) on ovulation day and after. Sperm quality matters too, fresher sperm (2-3 days old) may be more fertile than 5-day-old sperm.",
+    "follow_up": ["Are you trying to conceive or avoid pregnancy?", "Do you know when you ovulate?", "How are you tracking fertility?"]
+  },
+  {
+    "id": 403,
+    "category": "fertile_window",
+    "question": "Can I get pregnant outside my fertile window",
+    "alternate_questions": ["Pregnancy outside fertile days", "Can I conceive any day", "Unlikely days pregnancy", "Safe days conception", "Pregnancy probability outside window"],
+    "keywords": ["pregnancy", "outside fertile window", "unlikely", "safe days", "probability"],
+    "answer": "Pregnancy outside the fertile window is very unlikely but not impossible. Sperm can survive up to 5 days, so sex up to 5 days before ovulation could result in pregnancy. If you ovulate earlier or later than expected, what you thought was a 'safe' day might actually be fertile. The egg only survives 12-24 hours, so the day after ovulation is very unlikely for conception. However, cycle variability makes 'safe days' unreliable for contraception unless using strict fertility awareness methods.",
+    "follow_up": ["Are you trying to conceive or avoid pregnancy?", "How regular are your cycles?", "Are you using contraception?"]
+  },
+  {
+    "id": 404,
+    "category": "fertile_window",
+    "question": "How do I calculate my fertile window",
+    "alternate_questions": ["Calculate fertile days", "Fertile window calculation", "When am I ovulating", "Predict fertile window", "Fertility calendar"],
+    "keywords": ["calculate", "fertile window", "ovulation prediction", "calendar", "tracking"],
+    "answer": "To calculate your fertile window: 1) Track your cycle length for several months. 2) Subtract 14 days from your expected period start (this estimates ovulation day, since the luteal phase is usually 12-14 days). 3) Count back 5 days from estimated ovulation, that's day 1 of your fertile window. 4) Include ovulation day. For a 28-day cycle: ovulation around day 14, fertile window days 9-14. Apps can do this automatically, but tracking ovulation signs (mucus, BBT, OPKs) is more accurate.",
+    "follow_up": ["How long is your typical cycle?", "Do you track ovulation signs?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 405,
+    "category": "fertile_window",
+    "question": "What is the best day to conceive",
+    "alternate_questions": ["Best day to get pregnant", "Peak fertility day", "Highest conception probability", "Optimal conception timing", "Best day for intercourse"],
+    "keywords": ["best day", "conceive", "peak fertility", "optimal", "intercourse timing"],
+    "answer": "The best day to conceive is the day before ovulation. Studies show this day has the highest pregnancy rate (about 30% per cycle). The second-best day is two days before ovulation. Having sex on these days ensures fresh, healthy sperm are waiting when the egg is released. Sperm can survive up to 5 days, but their quality decreases over time. The egg only lives 12-24 hours, so sex on ovulation day itself has lower odds than the days before.",
+    "follow_up": ["Do you know when you ovulate?", "Are you using OPKs or tracking BBT?", "How often are you having sex during the fertile window?"]
+  },
+  {
+    "id": 406,
+    "category": "fertile_window",
+    "question": "How often should we have sex during fertile window",
+    "alternate_questions": ["Sex frequency conception", "How much sex to get pregnant", "Intercourse timing fertile window", "Every day or every other day", "Optimal sex frequency fertility"],
+    "keywords": ["sex frequency", "conception", "intercourse", "every day", "every other day"],
+    "answer": "Having sex every day or every other day during your fertile window maximizes conception chances. Every other day is often recommended to allow sperm count to replenish, but daily sex is fine if sperm counts are normal. The key is covering the fertile window, especially the 2-3 days before ovulation. If you're tracking ovulation, having sex on the day of your LH surge and the following day is optimal. Don't stress about perfect timing, regular sex throughout the cycle works too.",
+    "follow_up": ["Are you tracking ovulation?", "How often are you currently having sex?", "Do you know your partner's sperm count?"]
+  },
+  {
+    "id": 407,
+    "category": "fertile_window",
+    "question": "Does position matter for conception",
+    "alternate_questions": ["Best position to get pregnant", "Sexual position conception", "Does position affect fertility", "Missionary position pregnancy", "Optimal position for conception"],
+    "keywords": ["position", "conception", "sexual position", "missionary", "sperm travel"],
+    "answer": "There's no scientific evidence that any sexual position significantly increases conception rates. However, positions that allow deep penetration (like missionary or doggy style) may deposit sperm closer to the cervix, theoretically helping. Lying flat for 15-30 minutes after sex might help sperm travel toward the cervix, though evidence is limited. What matters most is timing (fertile window) and frequency, not position. Focus on enjoying intimacy rather than optimizing mechanics.",
+    "follow_up": ["Are you stressing about conception logistics?", "How long have you been trying?", "Are you enjoying the process?"]
+  },
+  {
+    "id": 408,
+    "category": "fertile_window",
+    "question": "Should I lie down after sex to conceive",
+    "alternate_questions": ["Lying down after intercourse", "Stay in bed after sex pregnancy", "Elevation hips conception", "Pillow under hips fertility", "Post-coital position conception"],
+    "keywords": ["lying down", "after sex", "conception", "hips elevated", "sperm retention"],
+    "answer": "Lying down for 15-30 minutes after sex may help sperm reach the cervix, but scientific evidence is limited. Your cervix naturally acts as a reservoir for sperm, so most sperm that will make it to the egg do so regardless of position. Avoid getting up immediately if you want, but don't stress about it. Using a pillow under your hips is a common practice, though not proven to increase conception rates. What's more important is timing intercourse during your fertile window.",
+    "follow_up": ["Are you doing this currently?", "How long have you been trying?", "Are you tracking your fertile window accurately?"]
+  },
+  {
+    "id": 409,
+    "category": "fertile_window",
+    "question": "Can lubricant affect conception",
+    "alternate_questions": ["Lube and fertility", "Conception-friendly lubricant", "Does lubricant kill sperm", "Best lube for trying to conceive", "Sperm-friendly lubricant"],
+    "keywords": ["lubricant", "fertility", "sperm", "conception", "pre-seed"],
+    "answer": "Yes, many commercial lubricants can harm sperm or impede their movement. Avoid regular lubricants like KY Jelly, Astroglide, and even saliva when trying to conceive. Use sperm-friendly lubricants specifically designed for conception, such as Pre-Seed, Conceive Plus, or BabyDance. These have the right pH and consistency to support sperm. If you don't need lubricant, natural cervical mucus during your fertile window is the best environment for sperm.",
+    "follow_up": ["Are you using lubricant?", "What kind are you using?", "Are you willing to switch to sperm-friendly options?"]
+  },
+  {
+    "id": 410,
+    "category": "fertile_window",
+    "question": "Can orgasm affect conception",
+    "alternate_questions": ["Female orgasm fertility", "Does orgasm help conception", "Orgasm and sperm transport", "Sexual pleasure conception", "Climax and getting pregnant"],
+    "keywords": ["orgasm", "conception", "sperm transport", "female pleasure", "fertility"],
+    "answer": "Female orgasm may slightly aid conception through uterine contractions that could help sperm travel toward the egg, but the evidence is limited and not conclusive. Orgasm is not necessary for conception, many people conceive without it. What matters most is timing intercourse during the fertile window. However, enjoying sex and reducing stress through pleasure may indirectly support fertility by improving relationship quality and reducing cortisol. Focus on connection and enjoyment rather than orgasm as a fertility tool.",
+    "follow_up": ["Are you stressing about orgasm and conception?", "How is your sexual relationship?", "Are you enjoying intimacy?"]
+  },
+  {
+    "id": 411,
+    "category": "fertile_window",
+    "question": "What is sperm lifespan in the female body",
+    "alternate_questions": ["How long do sperm live", "Sperm survival female tract", "Sperm lifespan uterus", "How long can sperm wait for egg", "Sperm viability duration"],
+    "keywords": ["sperm lifespan", "5 days", "survival", "female tract", "viability"],
+    "answer": "Sperm can survive in the female reproductive tract for up to 5 days under optimal conditions. The cervical mucus during your fertile window creates a supportive environment for sperm, nourishing and protecting them. However, sperm quality and quantity decline over time. Fresh sperm (1-2 days old) are generally more viable than 5-day-old sperm. This is why your fertile window includes the 5 days before ovulation, sperm can wait for the egg to be released.",
+    "follow_up": ["Are you trying to conceive?", "Are you timing intercourse during the fertile window?", "Do you know your partner's sperm count?"]
+  },
+  {
+    "id": 412,
+    "category": "fertile_window",
+    "question": "What is egg lifespan after ovulation",
+    "alternate_questions": ["How long does egg survive", "Egg viability after release", "How long can egg be fertilized", "Egg lifespan ovulation", "Fertilization window egg"],
+    "keywords": ["egg lifespan", "12-24 hours", "ovulation", "fertilization", "viability"],
+    "answer": "After ovulation, the egg survives for only 12-24 hours. If not fertilized within this window, it disintegrates and is absorbed by the body. This short lifespan is why timing intercourse before ovulation is so important, sperm need to be waiting when the egg is released. The egg's viability decreases rapidly after the first 12 hours. This narrow window is one reason why conception can be challenging even with perfect timing.",
+    "follow_up": ["Are you trying to conceive?", "How are you tracking ovulation?", "Are you timing intercourse before ovulation?"]
+  },
+  {
+    "id": 413,
+    "category": "fertile_window",
+    "question": "Can I get pregnant on my period",
+    "alternate_questions": ["Pregnancy during menstruation", "Period sex conception", "Can you conceive while bleeding", "Fertile during period", "Pregnancy period possibility"],
+    "keywords": ["pregnant", "period", "menstruation", "conception", "unlikely"],
+    "answer": "Getting pregnant during your period is unlikely but possible, especially if you have short cycles (21 days or less) or long periods (7+ days). Sperm can survive up to 5 days, so if you have sex at the end of your period and ovulate early, conception could occur. If you're trying to avoid pregnancy, use protection during period sex. If trying to conceive, focus on your fertile window rather than period timing. Don't rely on period sex as a contraception method.",
+    "follow_up": ["Are you trying to conceive or avoid pregnancy?", "How long is your cycle?", "How long do your periods last?"]
+  },
+  {
+    "id": 414,
+    "category": "fertile_window",
+    "question": "Can I get pregnant right after my period",
+    "alternate_questions": ["Pregnancy after period ends", "Conception right after menstruation", "Fertile after period", "Can sperm survive after period", "Early cycle pregnancy"],
+    "keywords": ["pregnant", "after period", "early cycle", "sperm survival", "conception"],
+    "answer": "Yes, you can get pregnant right after your period, especially if you have short cycles (21-24 days) or ovulate early. Sperm can survive up to 5 days, so sex at the end of your period could result in pregnancy if you ovulate within the next 5 days. For someone with a 21-day cycle, ovulation might occur on day 7, making the days right after the period fertile. If you're trying to avoid pregnancy, use protection throughout your cycle, not just mid-cycle.",
+    "follow_up": ["How long is your cycle?", "When do you think you ovulate?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 415,
+    "category": "fertile_window",
+    "question": "Can I get pregnant before my period",
+    "alternate_questions": ["Pregnancy before period starts", "Conception late cycle", "Fertile before menstruation", "Can you ovulate before period", "Late cycle pregnancy"],
+    "keywords": ["pregnant", "before period", "late cycle", "ovulation timing", "conception"],
+    "answer": "Getting pregnant right before your period is unlikely because ovulation typically occurs 12-14 days before menstruation, and the egg only survives 12-24 hours. However, if you ovulated late in your cycle, conception could occur closer to your expected period. If your period is late and you suspect pregnancy, take a test. Don't rely on timing before your period as a contraception method, cycle variability means you can't be certain when ovulation occurred.",
+    "follow_up": ["Are you trying to conceive or avoid pregnancy?", "How regular are your cycles?", "Is your period late?"]
+  },
+  {
+    "id": 416,
+    "category": "fertile_window",
+    "question": "What is the two week wait",
+    "alternate_questions": ["TWW meaning", "Two week wait explained", "Luteal phase waiting", "Waiting to test pregnancy", "Post ovulation waiting period"],
+    "keywords": ["two week wait", "TWW", "luteal phase", "waiting", "pregnancy test"],
+    "answer": "The two week wait (TWW) is the period between ovulation and your expected period, when you might be pregnant but it's too early to test. It lasts approximately 14 days (the luteal phase). This waiting period can be emotionally challenging as you look for early pregnancy symptoms. The earliest you can test is about 10 days past ovulation, but waiting until your missed period gives more accurate results. Try to stay busy and avoid symptom-spotting, many early pregnancy signs are identical to PMS.",
+    "follow_up": ["Are you currently in the two week wait?", "How are you coping with the waiting?", "When do you plan to test?"]
+  },
+  {
+    "id": 417,
+    "category": "fertile_window",
+    "question": "What are early pregnancy symptoms before missed period",
+    "alternate_questions": ["Early pregnancy signs", "Symptoms before period due", "Pregnancy symptoms week 1", "Before missed period symptoms", "Very early pregnancy indicators"],
+    "keywords": ["early pregnancy symptoms", "before missed period", "implantation", "signs", "TWW"],
+    "answer": "Early pregnancy symptoms before a missed period can include: implantation bleeding/spotting (6-12 days after conception), mild cramping, breast tenderness/swelling, fatigue, nausea, heightened sense of smell, food aversions, bloating, mood swings, and frequent urination. However, these symptoms are very similar to PMS and can be caused by other factors. The only way to confirm pregnancy is a test. Try not to over-analyze symptoms during the two week wait, it causes unnecessary stress.",
+    "follow_up": ["Are you experiencing any of these symptoms?", "How many days past ovulation are you?", "Have you taken a pregnancy test?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 418,
+    "category": "fertile_window",
+    "question": "When can I take a pregnancy test after ovulation",
+    "alternate_questions": ["Pregnancy test timing after ovulation", "How many DPO to test", "Days past ovulation pregnancy test", "Early pregnancy testing", "When is pregnancy test accurate"],
+    "keywords": ["pregnancy test", "after ovulation", "DPO", "timing", "accuracy"],
+    "answer": "You can take a pregnancy test as early as 10 days past ovulation (DPO), but for the most accurate result, wait until 14 DPO or the day of your missed period. Testing too early can result in a false negative because hCG levels may not be high enough to detect. Use first morning urine for best results. If you get a negative but your period still doesn't come, retest in 3-5 days. Blood tests at a doctor's office can detect pregnancy earlier than home tests.",
+    "follow_up": ["How many days past ovulation are you?", "Have you tested already?", "Is your period late?", "Are you using first morning urine?"]
+  },
+  {
+    "id": 419,
+    "category": "fertile_window",
+    "question": "What is implantation bleeding",
+    "alternate_questions": ["Implantation spotting", "What does implantation bleeding look like", "Implantation bleeding vs period", "Early pregnancy bleeding", "Implantation signs"],
+    "keywords": ["implantation bleeding", "early pregnancy", "spotting", "6-12 days", "conception"],
+    "answer": "Implantation bleeding is light spotting that occurs 6-12 days after conception when the fertilized egg attaches to the uterine lining. It's usually very light, pink or brown, and lasts 1-2 days, much shorter and lighter than a period. Not everyone experiences it. It can be mistaken for a light period. If you suspect implantation bleeding, wait 3-4 days after the spotting stops and take a pregnancy test for accurate results. Heavy bleeding is not implantation bleeding and requires evaluation.",
+    "follow_up": ["When did the spotting occur relative to your expected period?", "How heavy was it?", "What color was it?", "Have you taken a pregnancy test?"]
+  },
+  {
+    "id": 420,
+    "category": "fertile_window",
+    "question": "What is basal body temperature during fertile window",
+    "alternate_questions": ["BBT fertile window", "Temperature before ovulation", "Basal temperature fertility", "BBT rise ovulation", "Temperature tracking conception"],
+    "keywords": ["basal body temperature", "fertile window", "temperature rise", "ovulation", "tracking"],
+    "answer": "Before ovulation, basal body temperature (BBT) is typically lower, around 97.0-97.5°F (36.1-36.4°C). After ovulation, progesterone causes a sustained rise of 0.5-1.0°F (0.3-0.6°C), usually to 97.6-98.6°F (36.4-37.0°C). This temperature shift confirms ovulation has occurred. For conception timing, you want to have sex before the temperature rise, since the rise happens after the egg is released. Track BBT for several months to identify your personal pattern.",
+    "follow_up": ["Are you tracking BBT?", "Have you noticed a temperature shift?", "How consistent are your temperatures?", "Are you trying to conceive?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 281,
+    "category": "nausea",
+    "question": "Why do I feel nauseous during my period?",
+    "alternate_questions": ["Period nausea causes", "Why do I feel sick to my stomach on my period?", "Nausea and menstruation"],
+    "keywords": ["nausea", "period", "sick", "stomach", "prostaglandins"],
+    "answer": "Nausea during your period is often caused by prostaglandins, the same hormone-like substances that cause uterine contractions. When prostaglandins enter the bloodstream, they can affect the digestive tract, leading to nausea.",
+    "follow_up": ["How to relieve period nausea?", "Can period cramps cause vomiting?", "Does diet affect period nausea?"]
+  },
+  {
+    "id": 282,
+    "category": "nausea",
+    "question": "How can I relieve period nausea?",
+    "alternate_questions": ["Ways to stop feeling sick on my period", "Natural remedies for period nausea", "How to calm my stomach during menstruation"],
+    "keywords": ["nausea", "relief", "remedies", "ginger", "period"],
+    "answer": "Relief for period nausea includes drinking ginger or peppermint tea, eating small and frequent meals, staying hydrated, and avoiding strong odors. Over-the-counter anti-nausea medications can also be helpful.",
+    "follow_up": ["Does ginger help with nausea?", "What foods are easy on the stomach?", "Can acupressure help with nausea?"]
+  },
+  {
+    "id": 283,
+    "category": "nausea",
+    "question": "Can PMS cause nausea?",
+    "alternate_questions": ["Feeling sick before my period starts", "Nausea as a PMS symptom", "Is nausea part of premenstrual syndrome?"],
+    "keywords": ["nausea", "pms", "sick", "before period", "hormones"],
+    "answer": "Yes, nausea can be a symptom of PMS for some people. It's usually linked to hormonal fluctuations that affect the digestive system and can also be triggered by severe PMS headaches or migraines.",
+    "follow_up": ["Is nausea a common PMS sign?", "How to manage PMS nausea?", "When does PMS nausea usually stop?"]
+  },
+  {
+    "id": 284,
+    "category": "nausea",
+    "question": "When is period nausea a concern?",
+    "alternate_questions": ["Severe nausea during menstruation", "When to see a doctor for feeling sick", "Is extreme period nausea normal?"],
+    "keywords": ["nausea", "severe", "concern", "doctor", "vomiting"],
+    "answer": "If your nausea is so severe that it leads to frequent vomiting, prevents you from eating or drinking, or is accompanied by intense pain, you should consult a healthcare professional as it could be a sign of an underlying condition.",
+    "follow_up": ["What are signs of dehydration?", "Can endometriosis cause nausea?", "How to talk to a doctor about severe symptoms?"]
+  },
+  {
+    "id": 285,
+    "category": "nausea",
+    "question": "Does ginger help with period nausea?",
+    "alternate_questions": ["Using ginger for sickness", "Is ginger ale good for period nausea?", "How to use ginger for an upset stomach"],
+    "keywords": ["ginger", "nausea", "remedy", "natural", "stomach"],
+    "answer": "Yes, ginger is a well-known natural remedy for nausea. It helps by speeding up the emptying of the stomach and can be consumed as tea, in lozenges, or even as fresh ginger in your food.",
+    "follow_up": ["How to make ginger tea?", "Are there other natural nausea remedies?", "Can peppermint help with nausea?"]
+  }
+]

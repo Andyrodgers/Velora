@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3001,
+    "category": "pelvic_inflammatory_disease",
+    "question": "What is Pelvic Inflammatory Disease (PID)?",
+    "alternate_questions": ["Define PID", "What causes PID?", "Tell me about pelvic inflammatory disease"],
+    "keywords": ["pid", "pelvic inflammatory disease", "infection", "reproductive organs", "uterus"],
+    "answer": "Pelvic Inflammatory Disease (PID) is an infection of the female reproductive organs. It usually occurs when sexually transmitted bacteria spread from your vagina to your uterus, fallopian tubes, or ovaries.",
+    "follow_up": ["What are the symptoms of PID?", "How is PID treated?", "Can PID cause infertility?"]
+  },
+  {
+    "id": 3002,
+    "category": "pelvic_inflammatory_disease",
+    "question": "What are the symptoms of PID?",
+    "alternate_questions": ["Signs of pelvic inflammatory disease", "How do I know if I have PID?", "PID pain symptoms"],
+    "keywords": ["symptoms", "pid", "pain", "fever", "discharge"],
+    "answer": "Symptoms can be mild or severe and include pain in your lower abdomen and pelvis, unusual or foul-smelling vaginal discharge, abnormal uterine bleeding, fever, and pain during intercourse or urination.",
+    "follow_up": ["Is PID pain constant?", "Can PID have no symptoms?", "When to see a doctor for pelvic pain?"]
+  },
+  {
+    "id": 3003,
+    "category": "pelvic_inflammatory_disease",
+    "question": "How is PID treated?",
+    "alternate_questions": ["PID cure", "Medication for PID", "Can PID go away without treatment?"],
+    "keywords": ["treatment", "pid", "antibiotics", "hospitalization", "infection"],
+    "answer": "PID is treated with antibiotics. It's crucial to finish the entire course of medication, even if symptoms improve. In severe cases, or if you are pregnant, hospitalization and intravenous (IV) antibiotics may be necessary.",
+    "follow_up": ["Should my partner be treated for PID?", "What happens if PID is left untreated?", "Can PID come back?"]
+  },
+  {
+    "id": 3004,
+    "category": "pelvic_inflammatory_disease",
+    "question": "What are the complications of untreated PID?",
+    "alternate_questions": ["Risks of PID", "Is PID dangerous?", "Long-term effects of pelvic infection"],
+    "keywords": ["complications", "untreated", "pid", "infertility", "ectopic pregnancy", "chronic pain"],
+    "answer": "If left untreated, PID can cause permanent damage to the reproductive organs, leading to chronic pelvic pain, infertility, and an increased risk of ectopic pregnancy (pregnancy outside the uterus).",
+    "follow_up": ["What is an ectopic pregnancy?", "How to prevent PID?", "Can PID damage be reversed?"]
+  },
+  {
+    "id": 3005,
+    "category": "pelvic_inflammatory_disease",
+    "question": "How can I prevent PID?",
+    "alternate_questions": ["Ways to avoid pelvic inflammatory disease", "PID prevention tips", "Safe sex and PID"],
+    "keywords": ["prevention", "pid", "safe sex", "condoms", "testing"],
+    "answer": "The best way to prevent PID is to practice safe sex by using condoms and getting regular STI screenings. Avoiding douching is also important, as it can push bacteria deeper into the reproductive tract.",
+    "follow_up": ["How often should I get tested for STIs?", "Does douching cause PID?", "Can I get PID without an STI?"]
+  }
+]

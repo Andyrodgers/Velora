@@ -1,0 +1,47 @@
+[
+  {
+    "id": 261,
+    "category": "fatigue",
+    "question": "Why do I feel so tired during my period?",
+    "alternate_questions": ["Period fatigue", "Why am I exhausted on my period?", "Extreme tiredness during menstruation"],
+    "keywords": ["fatigue", "tired", "exhausted", "period", "energy"],
+    "answer": "Period fatigue is very common and can be caused by hormonal shifts, blood loss (leading to lower iron levels), and the energy your body uses to shed the uterine lining. Changes in sleep quality during this time also play a role.",
+    "follow_up": ["How to boost energy during period?", "Is extreme fatigue a sign of anemia?", "Does iron help with period fatigue?"]
+  },
+  {
+    "id": 262,
+    "category": "fatigue",
+    "question": "How can I manage fatigue during my cycle?",
+    "alternate_questions": ["Ways to increase energy", "Coping with period tiredness", "Natural remedies for fatigue"],
+    "keywords": ["manage", "fatigue", "energy", "rest", "cycle"],
+    "answer": "Managing fatigue involves prioritizing rest, staying hydrated, eating iron-rich foods, and engaging in gentle movement like walking. Listening to your body and allowing yourself extra sleep can make a big difference.",
+    "follow_up": ["How much sleep do I need?", "What foods boost energy?", "Does exercise help with fatigue?"]
+  },
+  {
+    "id": 263,
+    "category": "fatigue",
+    "question": "Can iron deficiency cause fatigue?",
+    "alternate_questions": ["Anemia and tiredness", "Do I need iron if I'm always tired?", "Low iron symptoms"],
+    "keywords": ["iron", "deficiency", "fatigue", "anemia", "tired"],
+    "answer": "Yes, iron deficiency is a major cause of fatigue, especially if you have heavy periods. Iron is needed to carry oxygen in your blood; without enough of it, you can feel weak and exhausted.",
+    "follow_up": ["What are signs of iron deficiency?", "Iron-rich foods for my period?", "Should I take an iron supplement?"]
+  },
+  {
+    "id": 264,
+    "category": "fatigue",
+    "question": "Why am I tired before my period (PMS)?",
+    "alternate_questions": ["Fatigue during PMS", "Why do I lose energy before my period starts?", "Tiredness in the luteal phase"],
+    "keywords": ["fatigue", "pms", "tired", "luteal phase", "hormones"],
+    "answer": "Fatigue during PMS is often linked to the drop in estrogen and progesterone. These hormonal changes can also affect your brain's serotonin levels, which influences both mood and energy.",
+    "follow_up": ["What is the luteal phase?", "How to manage PMS symptoms?", "Can PMS affect my sleep?"]
+  },
+  {
+    "id": 265,
+    "category": "fatigue",
+    "question": "When should I see a doctor about fatigue?",
+    "alternate_questions": ["Is my tiredness normal?", "When is fatigue a health concern?", "Exhaustion that won't go away"],
+    "keywords": ["doctor", "fatigue", "tired", "concern", "health"],
+    "answer": "You should see a doctor if your fatigue is severe, prevents you from doing daily activities, or persists throughout your entire cycle. It could be a sign of anemia, thyroid issues, or other underlying conditions.",
+    "follow_up": ["What tests check for fatigue?", "Signs of thyroid problems?", "How to talk to my doctor about tiredness?"]
+  }
+]

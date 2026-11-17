@@ -1,0 +1,479 @@
+[
+  {
+    "id": 1001,
+    "category": "emotions",
+    "question": "What are common emotions during the menstrual cycle",
+    "alternate_questions": ["Period emotions", "Menstrual mood changes", "Cycle emotional shifts", "Hormonal emotions", "Monthly feelings"],
+    "keywords": ["emotions", "menstrual cycle", "hormonal", "mood", "feelings", "changes"],
+    "answer": "Emotions fluctuate throughout the menstrual cycle due to changing hormone levels. During menstruation (days 1-5), you may feel tired, introspective, or relieved. The follicular phase (days 6-14) often brings rising energy, optimism, and confidence as estrogen increases. Ovulation (mid-cycle) can enhance sociability and attraction. The luteal phase (days 15-28) may bring mood swings, irritability, anxiety, or sadness as progesterone rises and then falls. Premenstrual syndrome (PMS) affects up to 90% of women with emotional symptoms. These shifts are normal but can be challenging. Tracking your emotions alongside your cycle helps you understand patterns and prepare for difficult days.",
+    "follow_up": ["Which phase are you in now?", "Do you track your emotions?", "Are your emotional changes severe?", "What emotions are you experiencing?"]
+  },
+  {
+    "id": 1002,
+    "category": "emotions",
+    "question": "Why do I feel sad before my period",
+    "alternate_questions": ["Premenstrual sadness", "PMS depression", "Why cry before period", "Sad luteal phase", "Emotional before menstruation"],
+    "keywords": ["sad", "premenstrual", "PMS", "depression", "luteal phase", "crying", "hormones"],
+    "answer": "Feeling sad before your period is very common and usually caused by hormonal changes during the luteal phase. After ovulation, progesterone rises and then drops sharply before menstruation. This hormonal shift affects neurotransmitters like serotonin and GABA, which regulate mood. Low serotonin can cause sadness, irritability, and emotional sensitivity. These feelings typically improve within a day or two of starting your period. If sadness is severe, lasts beyond your period, or interferes with daily life, you may have premenstrual dysphoric disorder (PMDD), which affects 3-8% of women. Self-care, exercise, adequate sleep, and talking to someone can help. Seek professional help if symptoms are debilitating.",
+    "follow_up": ["How severe is your sadness?", "Does it improve when your period starts?", "Are you having thoughts of self-harm?", "Have you been diagnosed with PMDD?"]
+  },
+  {
+    "id": 1003,
+    "category": "emotions",
+    "question": "Why do I feel anxious before my period",
+    "alternate_questions": ["PMS anxiety", "Anxious luteal phase", "Nervous before period", "Premenstrual worry", "Period anxiety attacks"],
+    "keywords": ["anxiety", "anxious", "premenstrual", "worry", "nervous", "luteal phase", "panic"],
+    "answer": "Anxiety before your period is common due to hormonal fluctuations. During the luteal phase, progesterone rises and then falls, which can affect GABA receptors in the brain - GABA is a calming neurotransmitter. Lower GABA activity can increase anxiety and tension. Estrogen fluctuations also influence serotonin, which affects mood stability. Some women experience physical symptoms (bloating, breast tenderness) that increase worry. Caffeine, poor sleep, and stress can worsen premenstrual anxiety. Try relaxation techniques, reduce caffeine, exercise, and maintain sleep routines. If anxiety is severe, persistent, or includes panic attacks, consult a healthcare provider. PMDD can cause severe anxiety that requires treatment.",
+    "follow_up": ["How severe is your anxiety?", "Do you have panic attacks?", "Does it resolve with your period?", "What coping strategies have you tried?"]
+  },
+  {
+    "id": 1004,
+    "category": "emotions",
+    "question": "Why do I feel angry before my period",
+    "alternate_questions": ["PMS anger", "Irritable before period", "Rage luteal phase", "Short temper premenstrual", "Why so angry before menstruation"],
+    "keywords": ["anger", "irritable", "rage", "temper", "premenstrual", "luteal phase", "mood"],
+    "answer": "Feeling angry or irritable before your period is one of the most common PMS symptoms. Hormonal changes - specifically the rise and fall of progesterone and estrogen - affect brain chemicals that regulate mood and impulse control. Serotonin drops during the luteal phase, making it harder to manage frustration. Physical discomfort (pain, bloating, fatigue) can also lower your tolerance for stress. This is normal but can strain relationships. Try to recognize when it's cycle-related, communicate with loved ones, practice stress management, get enough sleep, and avoid alcohol which can worsen irritability. If anger is extreme, destructive, or affects relationships significantly, you may have PMDD and should seek professional support.",
+    "follow_up": ["How intense is your anger?", "Does it affect your relationships?", "Do you feel out of control?", "Have you discussed this with a provider?"]
+  },
+  {
+    "id": 1005,
+    "category": "emotions",
+    "question": "How to cope with emotional changes during my period",
+    "alternate_questions": ["Deal with period emotions", "Manage menstrual mood swings", "PMS emotional coping", "Handle hormonal feelings", "Period emotional self care"],
+    "keywords": ["cope", "emotional changes", "self care", "management", "PMS", "strategies", "tips"],
+    "answer": "Coping with menstrual emotional changes involves multiple strategies: 1) Track your cycle and emotions to anticipate difficult days. 2) Exercise regularly - even 20 minutes of walking boosts endorphins and serotonin. 3) Prioritize sleep - aim for 7-9 hours. 4) Eat balanced meals with complex carbs, protein, and omega-3s; limit caffeine, alcohol, and sugar. 5) Practice stress reduction: meditation, deep breathing, yoga, or journaling. 6) Maintain social connections - talk to trusted friends. 7) Schedule demanding tasks during your follicular phase when energy is higher. 8) Be gentle with yourself during luteal phase. 9) Consider supplements like calcium, magnesium, or vitamin B6 after consulting your provider. If symptoms are severe, professional treatment including therapy or medication may help.",
+    "follow_up": ["What coping strategies have you tried?", "Which phase is hardest for you?", "Do you have support people?", "Are symptoms affecting daily life?"]
+  },
+  {
+    "id": 1006,
+    "category": "emotions",
+    "question": "What is PMDD",
+    "alternate_questions": ["Premenstrual dysphoric disorder", "Severe PMS", "PMDD symptoms", "PMDD vs PMS", "Is PMDD real"],
+    "keywords": ["PMDD", "premenstrual dysphoric disorder", "severe", "diagnosis", "mental health", "treatment"],
+    "answer": "Premenstrual dysphoric disorder (PMDD) is a severe form of PMS affecting 3-8% of women. It causes significant emotional and physical symptoms during the luteal phase (1-2 weeks before period) that resolve within a few days of menstruation starting. Emotional symptoms include severe depression, anxiety, irritability, mood swings, feeling overwhelmed, and difficulty concentrating. Physical symptoms include fatigue, bloating, breast tenderness, and sleep disturbances. PMDD is diagnosed when symptoms severely impair work, relationships, or daily functioning for at least two cycles. It is a real medical condition caused by sensitivity to hormonal changes, not a character flaw. Treatment includes SSRIs (antidepressants), hormonal therapy, cognitive behavioral therapy, and lifestyle changes. Seek help if you suspect PMDD.",
+    "follow_up": ["Do your symptoms severely impair daily life?", "Do they resolve when your period starts?", "Have you been diagnosed with PMDD?", "Are you having suicidal thoughts?"]
+  },
+  {
+    "id": 1007,
+    "category": "emotions",
+    "question": "How is PMDD different from PMS",
+    "alternate_questions": ["PMDD vs PMS difference", "Severe PMS vs PMDD", "PMS PMDD comparison", "When is PMS PMDD", "PMDD diagnosis criteria"],
+    "keywords": ["PMDD", "PMS", "difference", "severity", "diagnosis", "impairment", "comparison"],
+    "answer": "PMS and PMDD both occur during the luteal phase, but PMDD is far more severe. PMS affects up to 90% of women with mild to moderate symptoms that may be uncomfortable but don't severely disrupt life. PMDD affects 3-8% of women and causes severe emotional symptoms that significantly impair daily functioning, relationships, and work. PMDD requires at least 5 symptoms including one core emotional symptom (depression, anxiety, irritability, mood swings). PMS symptoms are bothersome; PMDD symptoms are debilitating. PMDD is classified as a depressive disorder in the DSM-5. If your premenstrual symptoms cause you to miss work, damage relationships, or have thoughts of self-harm, you may have PMDD rather than PMS. Treatment is also more intensive for PMDD.",
+    "follow_up": ["How much do symptoms affect your daily life?", "Do you miss work or school due to symptoms?", "Have you been evaluated for PMDD?", "Do symptoms resolve completely after your period?"]
+  },
+  {
+    "id": 1008,
+    "category": "emotions",
+    "question": "How to treat PMDD",
+    "alternate_questions": ["PMDD treatment options", "PMDD medication", "PMDD therapy", "Severe PMS treatment", "PMDD management"],
+    "keywords": ["PMDD", "treatment", "SSRIs", "therapy", "hormonal", "lifestyle", "management"],
+    "answer": "PMDD treatment typically involves a combination approach: 1) SSRIs (antidepressants like fluoxetine, sertraline) are first-line treatment and can be taken daily or only during the luteal phase. 2) Hormonal treatments include birth control pills (especially those with drospirenone), GnRH agonists to suppress ovulation, or in severe cases, oophorectomy. 3) Cognitive behavioral therapy (CBT) helps manage emotional symptoms and coping strategies. 4) Lifestyle changes: regular exercise, stress management, adequate sleep, balanced diet, limiting caffeine and alcohol. 5) Supplements: calcium (1,200 mg/day), magnesium, vitamin B6, and omega-3 fatty acids may help. 6) Some find relief with acupuncture or light therapy. Work with a healthcare provider familiar with PMDD to create a personalized treatment plan. PMDD is treatable.",
+    "follow_up": ["Have you been diagnosed with PMDD?", "What treatments have you tried?", "Are you interested in medication or natural approaches?", "How severe are your symptoms?"]
+  },
+  {
+    "id": 1009,
+    "category": "emotions",
+    "question": "Why do I feel emotional during ovulation",
+    "alternate_questions": ["Ovulation emotions", "Mood mid cycle", "Emotional ovulation day", "Feelings around ovulation", "Hormonal shift ovulation"],
+    "keywords": ["ovulation", "emotional", "mid cycle", "estrogen peak", "feelings", "mood"],
+    "answer": "Some women feel more emotional or sensitive around ovulation due to the rapid hormonal shifts. Estrogen peaks just before ovulation, which can increase feelings of confidence, sociability, and attraction, but the sudden drop after ovulation can cause mood shifts. The luteinizing hormone (LH) surge may also affect emotions. Some women feel more vulnerable, weepy, or introspective during this transition. Others feel heightened sexuality and connection. These feelings are usually mild and brief. If ovulation emotions are intense or distressing, track them to identify patterns. Ensure you're getting enough sleep and managing stress. If symptoms are severe, consult a provider to rule out other conditions.",
+    "follow_up": ["What emotions do you feel during ovulation?", "Do they interfere with daily life?", "Are you tracking ovulation?", "How long do these feelings last?"]
+  },
+  {
+    "id": 1010,
+    "category": "emotions",
+    "question": "Why do I feel happy after my period starts",
+    "alternate_questions": ["Relief when period starts", "Better mood menstruation", "Period begins feel good", "Emotional relief menstruation", "Why feel better period day 1"],
+    "keywords": ["happy", "relief", "period starts", "menstruation", "mood improvement", "PMS relief"],
+    "answer": "Feeling happier or relieved when your period starts is very common. During the luteal phase, progesterone and estrogen drop, causing PMS symptoms including mood changes. Once menstruation begins, hormone levels stabilize at a low but consistent level, and PMS symptoms typically resolve within 24-48 hours. The relief of not being pregnant (if you were worried) also contributes to improved mood. Physical symptoms like bloating and breast tenderness may decrease. Some women feel a sense of renewal or fresh start. This emotional lift is a normal part of the cycle. However, if you feel euphoric or unusually energetic, this could be part of your natural cycle or, in rare cases, indicate bipolar patterns - consult a provider if mood swings are extreme.",
+    "follow_up": ["How quickly does your mood improve?", "Were you worried about pregnancy?", "Do you feel euphoric or just relieved?", "Do mood swings persist during your period?"]
+  },
+  {
+    "id": 1011,
+    "category": "emotions",
+    "question": "Can my period make me feel depressed",
+    "alternate_questions": ["Period depression", "Menstrual depression", "Depressed during period", "Sad menstruation", "Period blues"],
+    "keywords": ["depressed", "depression", "period", "menstruation", "sad", "blues", "emotional"],
+    "answer": "Yes, some women experience depressive symptoms during their period or in the days leading up to it. This is usually due to hormonal fluctuations affecting brain chemistry. During menstruation, both estrogen and progesterone are low, which can reduce serotonin levels and cause low mood, fatigue, and sadness. For most women, this is mild and temporary. However, if you feel severely depressed, hopeless, or have thoughts of self-harm during your period, this is not normal and requires immediate medical attention. If depressive symptoms occur consistently before periods and are severe, you may have PMDD. If depression persists beyond your period, you may have clinical depression unrelated to your cycle. Both are treatable - please reach out for help.",
+    "follow_up": ["How severe is your depression?", "Does it only occur around your period?", "Are you having thoughts of self-harm?", "Have you sought professional help?"]
+  },
+  {
+    "id": 1012,
+    "category": "emotions",
+    "question": "Why do I cry easily before my period",
+    "alternate_questions": ["Cry before period", "Tearful PMS", "Emotional luteal phase", "Weepy premenstrual", "Why so sensitive before menstruation"],
+    "keywords": ["cry", "tearful", "weepy", "sensitive", "emotional", "PMS", "luteal phase"],
+    "answer": "Crying easily before your period is a very common PMS symptom caused by hormonal changes affecting neurotransmitters. As progesterone rises and then falls during the luteal phase, serotonin levels drop. Serotonin regulates mood stability, and lower levels make you more emotionally sensitive and prone to tears. You may cry at things that normally wouldn't bother you, or feel overwhelmed by minor stress. This is temporary and usually improves within a day or two of starting your period. It's important to be gentle with yourself during this time. Let yourself feel emotions without judgment. If crying is accompanied by severe depression, hopelessness, or suicidal thoughts, seek help immediately as this may indicate PMDD or depression.",
+    "follow_up": ["How often do you cry before your period?", "Is it affecting your relationships?", "Do you feel out of control?", "Are there other severe symptoms?"]
+  },
+  {
+    "id": 1013,
+    "category": "emotions",
+    "question": "How does stress affect my menstrual emotions",
+    "alternate_questions": ["Stress period mood", "Anxiety cycle emotions", "Stress PMS worse", "Work stress menstrual mood", "Cortisol period feelings"],
+    "keywords": ["stress", "cortisol", "worsen", "PMS", "emotions", "anxiety", "impact"],
+    "answer": "Stress significantly worsens menstrual emotional symptoms. When you're stressed, your body produces cortisol, which can disrupt the delicate balance of reproductive hormones. High cortisol can worsen PMS and PMDD symptoms, making you more irritable, anxious, or depressed before your period. Stress can also delay ovulation or cause anovulatory cycles, leading to more unpredictable emotions. Chronic stress depletes serotonin and other mood-regulating neurotransmitters. Additionally, when you're stressed, you may sleep poorly, eat irregularly, and exercise less - all of which worsen PMS. Managing stress through relaxation techniques, adequate sleep, boundaries, and support is crucial for emotional wellbeing throughout your cycle. Consider therapy if stress is overwhelming.",
+    "follow_up": ["What are your main stressors?", "How do you currently manage stress?", "Is stress affecting your cycle regularity?", "Would you like stress management tips?"]
+  },
+  {
+    "id": 1014,
+    "category": "emotions",
+    "question": "Can birth control help with emotional symptoms",
+    "alternate_questions": ["Pill help PMS emotions", "Birth control mood swings", "Hormonal contraception emotions", "PMDD birth control treatment", "Contraception emotional stability"],
+    "keywords": ["birth control", "emotional symptoms", "PMS", "PMDD", "mood", "stability", "treatment"],
+    "answer": "Yes, hormonal birth control can help stabilize emotions for some women, though individual responses vary. Combined oral contraceptives that suppress ovulation can reduce PMS and PMDD symptoms by maintaining steady hormone levels instead of the natural fluctuations. Pills containing drospirenone (a progestin similar to natural progesterone) are particularly effective for PMDD and emotional symptoms. Continuous use (skipping placebo weeks) may provide even more stability. However, some women experience mood worsening on hormonal contraception, especially progestin-only methods. It may take trying a few different formulations to find what works for you. Non-hormonal methods like copper IUDs do not affect mood. Discuss your emotional symptoms with a provider to find the best contraceptive approach.",
+    "follow_up": ["Are you currently on birth control?", "Did it help or worsen emotions?", "Are you considering starting contraception?", "Do you have PMDD symptoms?"]
+  },
+  {
+    "id": 1015,
+    "category": "emotions",
+    "question": "Why do I feel more confident during my period",
+    "alternate_questions": ["Confident menstruation", "Strong period feelings", "Empowered during period", "Period confidence boost", "Menstrual empowerment"],
+    "keywords": ["confident", "empowered", "strong", "period", "menstruation", "positive", "feelings"],
+    "answer": "While many women experience negative emotions around their period, some feel more confident, empowered, or introspective during menstruation. This can happen for several reasons: 1) Relief from PMS symptoms once bleeding starts. 2) A sense of connection to your body and its natural rhythms. 3) Cultural or personal reframing of menstruation as a sign of health and fertility rather than something shameful. 4) Lower estrogen and progesterone can reduce social anxiety for some people. 5) The physical release of bleeding can feel cleansing or renewing. 6) Some women feel more intuitive or creative during this phase. These positive feelings are valid and worth celebrating. Menstruation is a natural, powerful biological process.",
+    "follow_up": ["What makes you feel confident during your period?", "Do others in your life share this perspective?", "How do you celebrate your cycle?", "Would you like to explore cycle positivity?"]
+  },
+  {
+    "id": 1016,
+    "category": "emotions",
+    "question": "How to support a friend with severe PMS emotions",
+    "alternate_questions": ["Help friend PMS", "Support partner period emotions", "Friend severe PMS", "Deal with someone PMDD", "Support menstrual mood swings"],
+    "keywords": ["support", "friend", "partner", "PMS", "severe", "help", "understanding"],
+    "answer": "Supporting someone with severe PMS or PMDD requires empathy and understanding: 1) Believe them - their symptoms are real and not exaggerated. 2) Learn about their cycle and when difficult days typically occur. 3) Be patient and don't take irritability personally - it's hormonal, not about you. 4) Offer practical help: take on extra tasks, bring comfort items, give space when needed. 5) Encourage professional help if symptoms are severe. 6) Avoid minimizing comments like 'it's just your period.' 7) Check in regularly, especially during luteal phase. 8) Encourage self-care activities together. 9) If they have PMDD, understand it is a serious medical condition. 10) Take care of your own emotional needs too - supporting someone with severe symptoms can be draining. Communication is key.",
+    "follow_up": ["Is your friend diagnosed with PMDD?", "How severe are their symptoms?", "What kind of support do they want?", "Are you feeling overwhelmed as a supporter?"]
+  },
+  {
+    "id": 1017,
+    "category": "emotions",
+    "question": "Can diet affect my menstrual emotions",
+    "alternate_questions": ["Food PMS mood", "Diet period emotions", "Nutrition menstrual mood", "Eating habits cycle feelings", "Sugar PMS emotions"],
+    "keywords": ["diet", "nutrition", "food", "sugar", "caffeine", "PMS", "emotions", "impact"],
+    "answer": "Yes, diet significantly affects menstrual emotions. Blood sugar fluctuations from high sugar intake can worsen mood swings and irritability. Complex carbohydrates (whole grains, vegetables) help stabilize blood sugar and may increase tryptophan availability for serotonin production. Omega-3 fatty acids (fatty fish, walnuts, flaxseed) have anti-inflammatory effects and may reduce depression symptoms. Calcium (1,200 mg/day) and vitamin D may reduce PMS emotional symptoms. Magnesium helps with anxiety and sleep. Limit caffeine and alcohol, which can worsen anxiety and disrupt sleep. Stay hydrated. Eat regular meals to avoid blood sugar crashes. Some women find reducing salt helps with bloating-related irritability. A balanced, Mediterranean-style diet supports both physical and emotional health throughout your cycle.",
+    "follow_up": ["What does your diet look like before your period?", "Do you crave certain foods?", "Have you noticed food-mood connections?", "Would you like nutritional guidance?"]
+  },
+  {
+    "id": 1018,
+    "category": "emotions",
+    "question": "Why do I feel lonely during my period",
+    "alternate_questions": ["Lonely menstruation", "Isolated period", "Want to be alone period", "Period solitude", "Menstrual loneliness"],
+    "keywords": ["lonely", "isolated", "alone", "solitude", "period", "menstruation", "withdrawal"],
+    "answer": "Feeling lonely or wanting solitude during your period is common and can have multiple causes. Hormonal changes affect neurotransmitters that influence social motivation. Lower estrogen and progesterone during menstruation can reduce the drive for social interaction that peaks at ovulation. Physical discomfort may make socializing unappealing. Cultural stigma around menstruation may make you feel you need to hide your period, creating isolation. Some women naturally become more introspective during menstruation, which is healthy if balanced with connection. However, if loneliness feels painful or is accompanied by severe depression, reach out to trusted people. You don't have to go through difficult periods alone. Consider whether you need rest or connection - both are valid needs.",
+    "follow_up": ["Do you want solitude or feel lonely?", "Is this every period or sometimes?", "Do you have people you can reach out to?", "Is loneliness accompanied by depression?"]
+  },
+  {
+    "id": 1019,
+    "category": "emotions",
+    "question": "How does sleep affect menstrual emotions",
+    "alternate_questions": ["Sleep PMS mood", "Tired period emotions", "Insomnia menstrual mood", "Sleep deprivation cycle feelings", "Rest period mental health"],
+    "keywords": ["sleep", "insomnia", "tired", "rest", "PMS", "emotions", "impact", "quality"],
+    "answer": "Sleep profoundly affects menstrual emotions. Poor sleep worsens irritability, anxiety, depression, and emotional regulation. During the luteal phase, progesterone can cause sleep disruptions including insomnia, restless sleep, or excessive sleepiness. Many women report vivid dreams or difficulty falling asleep before their period. Sleep deprivation reduces serotonin and increases cortisol, amplifying PMS symptoms. During menstruation, pain and discomfort can further disrupt sleep. Prioritize sleep hygiene: consistent bedtime, cool dark room, limit screens before bed, avoid caffeine after noon, and use pain relief if cramps wake you. If sleep disturbances are severe or persistent, consult a provider. Treating sleep issues can significantly improve emotional wellbeing throughout your cycle.",
+    "follow_up": ["How is your sleep before your period?", "Do you have insomnia or vivid dreams?", "How many hours do you sleep?", "Have you tried sleep hygiene strategies?"]
+  },
+  {
+    "id": 1020,
+    "category": "emotions",
+    "question": "Why do I feel overwhelmed before my period",
+    "alternate_questions": ["Overwhelmed PMS", "Can't cope before period", "Too much luteal phase", "Stressed premenstrual", "Period overwhelm"],
+    "keywords": ["overwhelmed", "can't cope", "too much", "stress", "PMS", "luteal phase", "capacity"],
+    "answer": "Feeling overwhelmed before your period is common as hormonal changes reduce your stress tolerance. During the luteal phase, dropping serotonin and fluctuating progesterone make it harder to manage demands that normally feel manageable. You may feel you have less capacity for work, social obligations, or decision-making. Physical symptoms (fatigue, pain, bloating) add to the burden. This is your body's signal to slow down and prioritize. It's okay to say no, delegate tasks, and simplify your schedule before your period. Practice self-compassion - you're not weak, your biology is demanding rest. If overwhelm is severe or persistent beyond your period, you may have underlying anxiety or depression that hormones are exacerbating. Seek support if needed.",
+    "follow_up": ["What feels overwhelming?", "Does this only happen before your period?", "Are you taking on too much?", "Do you allow yourself to rest?"]
+  },
+  {
+    "id": 1021,
+    "category": "emotions",
+    "question": "Can exercise improve my menstrual mood",
+    "alternate_questions": ["Workout PMS mood", "Exercise period emotions", "Fitness menstrual mental health", "Yoga PMS", "Running period mood"],
+    "keywords": ["exercise", "workout", "fitness", "yoga", "running", "PMS", "mood", "improvement"],
+    "answer": "Yes, exercise is one of the most effective ways to improve menstrual mood. Physical activity increases endorphins, serotonin, and dopamine - neurotransmitters that boost mood and reduce pain. Regular exercise reduces PMS severity including emotional symptoms. During your period, gentle movement like walking, yoga, or swimming can relieve cramps and improve mood. Before your period, moderate exercise helps manage stress and anxiety. However, excessive intense exercise can disrupt hormones and worsen symptoms, especially if you're underweight or overtraining. Find a balance that feels good. Even 20-30 minutes of moderate activity most days helps. Listen to your body - rest when needed, move when you can. Exercise is medicine for both body and mind.",
+    "follow_up": ["Do you currently exercise?", "What activities do you enjoy?", "Does exercise help your mood?", "Are you overtraining or underactive?"]
+  },
+  {
+    "id": 1022,
+    "category": "emotions",
+    "question": "Why do I feel insecure before my period",
+    "alternate_questions": ["Insecure PMS", "Self doubt luteal phase", "Body image period", "Not good enough before menstruation", "Confidence drop PMS"],
+    "keywords": ["insecure", "self doubt", "body image", "confidence", "self esteem", "PMS", "luteal phase"],
+    "answer": "Feeling insecure or self-doubting before your period is common due to hormonal effects on brain chemistry and perception. Lower serotonin during the luteal phase can increase negative self-talk and self-criticism. Physical bloating, acne, and breast tenderness may affect body image. You may be more sensitive to social cues and interpret them negatively. This is temporary and not reflective of reality. Try to recognize these thoughts as hormone-influenced rather than true. Practice self-compassion and positive self-talk. Avoid making major decisions or having difficult conversations during this time if possible. Surround yourself with supportive people. If body image issues persist beyond your period, consider talking to a therapist. Your worth does not change with your hormones.",
+    "follow_up": ["What specifically do you feel insecure about?", "Does this improve after your period?", "How is your body image generally?", "Do you have support for self-esteem?"]
+  },
+  {
+    "id": 1023,
+    "category": "emotions",
+    "question": "How to talk to my partner about my period emotions",
+    "alternate_questions": ["Explain PMS to boyfriend", "Partner doesn't understand period mood", "Communicate menstrual emotions", "Tell husband about PMS", "Partner support period"],
+    "keywords": ["partner", "boyfriend", "husband", "communicate", "explain", "support", "understanding"],
+    "answer": "Talking to your partner about period emotions requires honesty and education: 1) Choose a calm time, not during an argument. 2) Explain that PMS/PMDD is biological, not an excuse or exaggeration. 3) Share your specific symptoms and when they typically occur. 4) Tell them what support you need: space, comfort, help with tasks, or just listening. 5) Set boundaries about respectful communication - no dismissive comments. 6) Invite them to learn about the menstrual cycle. 7) Discuss how they can recognize when you're in a difficult phase. 8) Be open about your needs while also acknowledging their feelings. 9) Consider tracking your cycle together. 10) If they refuse to understand or belittles your experience, that is a red flag. A supportive partner will want to learn and help.",
+    "follow_up": ["Does your partner currently understand?", "What support do you need from them?", "Have they been dismissive?", "Are you comfortable being open with them?"]
+  },
+  {
+    "id": 1024,
+    "category": "emotions",
+    "question": "Why do I feel guilty about my period emotions",
+    "alternate_questions": ["Guilty PMS", "Ashamed period mood", "Feel bad about PMS", "Apologize for period emotions", "Period emotion guilt"],
+    "keywords": ["guilty", "ashamed", "bad", "apologize", "PMS", "emotions", "shame"],
+    "answer": "Feeling guilty about period emotions is common due to societal stigma and internalized shame about menstruation. Many women are taught that periods are dirty, embarrassing, or something to hide. When you act irritable or emotional, you may feel you're confirming negative stereotypes. You might apologize excessively or try to suppress your feelings. Remember: your emotions are valid biological responses to hormonal changes, not character flaws. You are not 'crazy' or 'too emotional.' It's okay to acknowledge when you're having a difficult time without over-apologizing. Set boundaries: 'I'm feeling sensitive today due to my cycle, I need some gentleness.' Self-compassion is key. If guilt is overwhelming, explore where these beliefs came from and consider therapy to unpack menstrual stigma.",
+    "follow_up": ["Where do you think this guilt comes from?", "Do others make you feel bad about your emotions?", "How do you usually handle these feelings?", "Would you like to explore menstrual stigma?"]
+  },
+  {
+    "id": 1025,
+    "category": "emotions",
+    "question": "Can meditation help with menstrual emotions",
+    "alternate_questions": ["Mindfulness PMS", "Meditation period mood", "Breathing exercises menstrual", "Relaxation cycle emotions", "Yoga Nidra period"],
+    "keywords": ["meditation", "mindfulness", "breathing", "relaxation", "PMS", "emotions", "mental health"],
+    "answer": "Yes, meditation and mindfulness are powerful tools for managing menstrual emotions. Regular meditation practice reduces stress, anxiety, and depression by lowering cortisol and increasing emotional regulation. During PMS, mindfulness helps you observe emotions without being controlled by them. Specific techniques include: 1) Body scan meditation to connect with physical sensations. 2) Breath awareness to calm the nervous system. 3) Loving-kindness meditation for self-compassion. 4) Mindful walking to ground yourself. 5) Guided imagery for relaxation. Even 5-10 minutes daily helps. Apps like Headspace, Calm, or Insight Timer offer period-specific meditations. During difficult days, practice 'urge surfing' - noticing emotional waves without acting on them. Meditation won't eliminate hormonal emotions but can change your relationship with them.",
+    "follow_up": ["Do you currently meditate?", "What type appeals to you?", "When do you need calm most?", "Would you like guided recommendations?"]
+  },
+  {
+    "id": 1026,
+    "category": "emotions",
+    "question": "Why do I feel more creative during my period",
+    "alternate_questions": ["Creative menstruation", "Artistic period", "Inspiration cycle", "Period creativity boost", "Menstrual creative energy"],
+    "keywords": ["creative", "artistic", "inspiration", "period", "menstruation", "energy", "flow"],
+    "answer": "Some women feel more creative during menstruation due to the unique brain state of this phase. With lower estrogen and progesterone, the brain may access different cognitive patterns, including increased right-brain activity associated with creativity and intuition. The introspective nature of menstruation can facilitate deep thinking and artistic expression. Historically, many cultures associated menstruation with mystical or creative powers. You may feel less concerned with external demands and more connected to inner wisdom. This is a great time for journaling, art, music, writing, or any creative pursuit. Honor this energy rather than seeing your period only as a nuisance. Track when you feel most creative to align projects with your cycle if possible.",
+    "follow_up": ["What creative activities do you enjoy?", "Do you notice cycle-creativity patterns?", "How do you channel this energy?", "Would you like to explore cycle creativity?"]
+  },
+  {
+    "id": 1027,
+    "category": "emotions",
+    "question": "How does social media affect period emotions",
+    "alternate_questions": ["Social media PMS", "Instagram period mood", "Comparison menstrual", "Online period stigma", "Social media body image period"],
+    "keywords": ["social media", "comparison", "stigma", "body image", "online", "PMS", "emotions"],
+    "answer": "Social media can worsen period emotions in several ways: 1) Comparison - seeing others appearing happy and productive while you feel low can increase inadequacy. 2) Unrealistic portrayals - most people don't post about PMS struggles, creating a false norm. 3) Body image pressure - filtered images during a time when you may feel bloated or acne-prone. 4) Period stigma - negative jokes or shame about menstruation. 5) Information overload - conflicting health advice causing anxiety. During difficult cycle days, consider a social media break or curate your feed to include body-positive, menstrual-aware accounts. Follow educators who normalize PMS and period experiences. Remember that social media is curated, not reality. Your difficult days are valid and shared by millions.",
+    "follow_up": ["How does social media make you feel?", "Do you compare yourself to others?", "Have you considered curating your feed?", "Would a break help?"]
+  },
+  {
+    "id": 1028,
+    "category": "emotions",
+    "question": "Why do I want to eat comfort food before my period",
+    "alternate_questions": ["Cravings PMS", "Comfort food period", "Hungry before menstruation", "Emotional eating luteal phase", "Chocolate cravings PMS"],
+    "keywords": ["cravings", "comfort food", "hungry", "emotional eating", "chocolate", "carbs", "PMS"],
+    "answer": "Craving comfort food before your period is biologically driven. During the luteal phase, progesterone increases appetite and metabolism slightly. Serotonin drops, and carbohydrate-rich foods temporarily boost serotonin production, explaining cravings for sweets, bread, and pasta. Your body may also need more calories. Chocolate cravings may relate to magnesium needs. While emotional eating is sometimes stigmatized, honoring cravings mindfully is okay. Choose healthier versions: dark chocolate, whole grain carbs, fruit. Eat protein with carbs to stabilize blood sugar. Avoid guilt - cravings are normal. If emotional eating feels out of control or causes distress, explore underlying emotions. Moderation and self-compassion are key. Your body is asking for comfort - find balance in how you provide it.",
+    "follow_up": ["What foods do you crave?", "Do you feel guilty about cravings?", "Are cravings manageable or overwhelming?", "Would you like healthy alternative ideas?"]
+  },
+  {
+    "id": 1029,
+    "category": "emotions",
+    "question": "How to handle emotional outbursts at work during PMS",
+    "alternate_questions": ["Cry at work PMS", "Emotional workplace period", "PMS professional setting", "Control emotions work menstrual", "Period emotions job"],
+    "keywords": ["work", "workplace", "professional", "emotional outburst", "cry", "PMS", "control"],
+    "answer": "Handling emotions at work during PMS requires preparation and self-compassion: 1) Track your cycle to anticipate difficult days. 2) Schedule demanding tasks, presentations, and difficult conversations for other phases when possible. 3) Have a private space to regroup if needed. 4) Practice deep breathing or brief walks to manage intense moments. 5) Keep comfort items: water, snacks, pain relief, tissues. 6) If you cry, it's okay - take a bathroom break, splash water on your face, and return when ready. 7) You don't need to disclose your period, but if you have a trusted colleague, letting them know you're having a difficult day can help. 8) Set boundaries - don't overcommit during luteal phase. 9) Remember that showing emotion is human, not unprofessional. 10) If PMS severely impacts work, seek medical help.",
+    "follow_up": ["How often does this happen?", "Do you have privacy at work?", "Have you tried scheduling around your cycle?", "Is your workplace supportive?"]
+  },
+  {
+    "id": 1030,
+    "category": "emotions",
+    "question": "Why do I feel more spiritual during my period",
+    "alternate_questions": ["Spiritual menstruation", "Intuitive period", "Connected cycle", "Menstrual spirituality", "Period inner wisdom"],
+    "keywords": ["spiritual", "intuitive", "connected", "wisdom", "inner", "period", "menstruation", "reflection"],
+    "answer": "Feeling more spiritual or intuitive during menstruation has roots in both biology and history. Lower hormone levels during menstruation may shift brain activity toward introspection and pattern recognition. Many cultures historically viewed menstruation as a time of heightened intuition and connection to spiritual realms. The physical act of shedding the uterine lining can symbolize release and renewal. You may feel more drawn to meditation, nature, journaling, or ritual during this time. This is a natural inclination toward inward focus when external demands feel heavier. Honor this by creating quiet time, practicing gratitude, or engaging in spiritual practices that resonate with you. Your period can be a monthly opportunity for reflection and reconnection with yourself.",
+    "follow_up": ["What spiritual practices appeal to you?", "Do you feel more intuitive during your period?", "How do you honor this time?", "Would you like to explore menstrual spirituality?"]
+  },
+  {
+    "id": 1031,
+    "category": "emotions",
+    "question": "Can journaling help with menstrual emotions",
+    "alternate_questions": ["Diary PMS", "Write feelings period", "Journaling cycle emotions", "Track emotions menstrual", "Period journal benefits"],
+    "keywords": ["journaling", "diary", "writing", "track", "emotions", "PMS", "reflection", "processing"],
+    "answer": "Journaling is an excellent tool for managing menstrual emotions. Writing helps process feelings, identify patterns, and release emotional tension. Benefits include: 1) Tracking emotional patterns across your cycle to anticipate difficult days. 2) Externalizing thoughts so they don't spiral internally. 3) Identifying triggers and coping strategies that work. 4) Creating a record to share with healthcare providers if needed. 5) Practicing gratitude to balance negative thoughts. 6) Exploring creativity and intuition. Try prompts like: 'What am I feeling today and why?' 'What do I need right now?' 'What will I let go of this cycle?' Write without judgment. Even 5 minutes helps. Combine with cycle tracking for powerful insights into your emotional landscape.",
+    "follow_up": ["Do you currently journal?", "What would you write about?", "Do you prefer structured prompts or free writing?", "Would you like journaling prompts?"]
+  },
+  {
+    "id": 1032,
+    "category": "emotions",
+    "question": "Why do I feel numb during my period",
+    "alternate_questions": ["Numb period", "Flat emotions menstruation", "Dissociated period", "Empty feelings menstrual", "No feelings period"],
+    "keywords": ["numb", "flat", "empty", "dissociated", "no feelings", "period", "emotional blunting"],
+    "answer": "Feeling emotionally numb or flat during your period can occur due to hormonal fluctuations, exhaustion, or underlying mental health conditions. Low estrogen and progesterone during menstruation affect neurotransmitters that regulate emotional range. If you've been emotionally intense during PMS, your brain may shift to numbness as a protective mechanism. Severe pain or heavy bleeding can also drain emotional energy. However, persistent emotional numbness, especially if it lasts beyond your period or includes disconnection from reality, may indicate depression, dissociation, or trauma responses. If numbness is distressing or frequent, consult a mental health professional. Self-care, rest, gentle reconnection with your body through movement or touch, and talking to someone you trust can help.",
+    "follow_up": ["Is numbness new or recurring?", "Does it last beyond your period?", "Are you also experiencing physical exhaustion?", "Have you felt this way before?"]
+  },
+  {
+    "id": 1033,
+    "category": "emotions",
+    "question": "How to deal with period emotions and school",
+    "alternate_questions": ["PMS school emotions", "Period feelings high school", "College menstrual mood", "Student period mental health", "School stress period"],
+    "keywords": ["school", "student", "high school", "college", "academic", "PMS", "stress", "coping"],
+    "answer": "Managing period emotions while in school requires planning and self-advocacy: 1) Track your cycle alongside your academic calendar to anticipate difficult days during exams or presentations. 2) Prepare a period kit with supplies, pain relief, snacks, and comfort items. 3) Know where bathrooms and private spaces are located. 4) If PMS is severe, talk to a school nurse or counselor about accommodations. 5) Don't schedule all-nighters before your period - sleep deprivation worsens symptoms. 6) Have a trusted friend who understands and can support you. 7) Use study techniques that work for your cycle phase - active learning during follicular phase, review during luteal phase. 8) Practice stress management: brief walks, breathing exercises between classes. 9) If symptoms are debilitating, seek medical evaluation for PMDD. Your education matters and your health matters.",
+    "follow_up": ["What grade or level are you in?", "How does school stress affect your cycle?", "Do you have supportive friends or teachers?", "Have you sought accommodations?"]
+  },
+  {
+    "id": 1034,
+    "category": "emotions",
+    "question": "Why do I feel rejected more easily before my period",
+    "alternate_questions": ["Sensitive rejection PMS", "Hurt feelings luteal phase", "Rejection sensitivity period", "Emotional sensitivity premenstrual", "Why so sensitive before menstruation"],
+    "keywords": ["rejected", "sensitive", "hurt feelings", "rejection", "PMS", "luteal phase", "emotional"],
+    "answer": "Increased rejection sensitivity before your period is linked to hormonal effects on brain regions processing social emotions. Lower serotonin during the luteal phase can amplify negative interpretations of social interactions. You may read neutral comments as criticism, feel excluded more acutely, or need more reassurance. This is temporary and not reflective of reality. Your relationships haven't actually changed - your perception has. Try to delay interpreting social interactions during difficult days. Ask for clarification before assuming negative intent. Communicate with close people: 'I'm feeling sensitive right now, I might need extra reassurance.' Avoid making relationship decisions during PMS. If rejection sensitivity is severe or persistent, it may indicate rejection sensitive dysphoria (RSD) or social anxiety that hormones exacerbate.",
+    "follow_up": ["Does this affect specific relationships?", "How do you usually interpret social cues?", "Do you communicate your needs?", "Is this only premenstrual?"]
+  },
+  {
+    "id": 1035,
+    "category": "emotions",
+    "question": "Can therapy help with menstrual emotional issues",
+    "alternate_questions": ["Therapist PMS", "Counseling period emotions", "Psychologist menstrual mood", "CBT PMDD", "Mental health period support"],
+    "keywords": ["therapy", "counseling", "psychologist", "CBT", "mental health", "support", "professional help"],
+    "answer": "Yes, therapy can be very helpful for menstrual emotional issues, especially if you have PMDD or severe PMS. Cognitive behavioral therapy (CBT) helps identify negative thought patterns that worsen during the luteal phase and develop coping strategies. Interpersonal therapy (IPT) addresses relationship difficulties exacerbated by cycle changes. Dialectical behavior therapy (DBT) teaches emotional regulation skills useful for intense mood swings. A therapist can help you: 1) Understand your cycle-emotion connections. 2) Develop personalized coping strategies. 3) Process any trauma or shame related to menstruation. 4) Improve communication with partners and family. 5) Address co-occurring anxiety or depression. 6) Advocate for medical treatment if needed. Look for therapists familiar with women's health or reproductive psychology. Therapy combined with medical treatment offers the best outcomes for severe symptoms.",
+    "follow_up": ["Have you considered therapy?", "What type appeals to you?", "Are your symptoms severe enough to warrant professional help?", "Do you have access to mental health services?"]
+  },
+  {
+    "id": 1036,
+    "category": "emotions",
+    "question": "Why do I feel more empathetic during my period",
+    "alternate_questions": ["Empathetic menstruation", "Sensitive to others period", "Caring menstrual phase", "Emotional connection period", "Period compassion"],
+    "keywords": ["empathetic", "empathy", "compassion", "sensitive", "caring", "period", "connection"],
+    "answer": "Some women feel more empathetic during their period due to the introspective nature of this phase. With lower external energy, you may turn inward and become more attuned to emotions - both yours and others'. The vulnerability of menstruation can increase understanding of others' struggles. Hormonal changes may enhance mirror neuron activity, which is linked to empathy. Historically, menstruation was associated with healing and caregiving roles in many cultures. This increased empathy can be a strength - you may be a better listener, more patient, or more understanding. However, heightened empathy without boundaries can lead to emotional exhaustion. Practice self-compassion first, then extend care to others. It's okay to protect your energy during this time.",
+    "follow_up": ["Do you notice increased empathy?", "Does it feel positive or draining?", "How do you set boundaries?", "Do others notice this change in you?"]
+  },
+  {
+    "id": 1037,
+    "category": "emotions",
+    "question": "How to explain period emotions to male colleagues",
+    "alternate_questions": ["Tell male coworkers PMS", "Workplace period explanation", "Male boss period emotions", "Professional period disclosure", "Men don't understand PMS"],
+    "keywords": ["male colleagues", "workplace", "explanation", "disclosure", "professional", "men", "understanding"],
+    "answer": "Disclosing period emotions to male colleagues is a personal choice and not required. If you choose to share, keep it professional and brief: 'I'm dealing with a health issue today that affects my energy/mood, I appreciate your patience.' You don't need to say 'period' or 'PMS' specifically. Most professional contexts don't require disclosure. If you need accommodations, speak to HR or a supervisor you trust, using medical language if preferred: 'I have a recurring medical condition that affects me monthly.' Focus on what you need: 'I may need to step away briefly today' or 'Can we reschedule this meeting?' You are not obligated to educate male colleagues about menstruation, though some may be supportive if informed. Protect your privacy and professional boundaries. Your health information is yours to share or not.",
+    "follow_up": ["Do you need accommodations at work?", "Is there someone you trust to tell?", "What is your workplace culture like?", "Are you comfortable being vague?"]
+  },
+  {
+    "id": 1038,
+    "category": "emotions",
+    "question": "Why do I feel nostalgic before my period",
+    "alternate_questions": ["Nostalgic PMS", "Remember past luteal phase", "Sentimental before period", "Old memories menstrual", "Emotional memories PMS"],
+    "keywords": ["nostalgic", "memories", "past", "sentimental", "reflective", "PMS", "luteal phase"],
+    "answer": "Feeling nostalgic or sentimental before your period is common as hormonal changes affect memory and emotional processing. The introspective nature of the luteal phase naturally leads to reflection on past experiences, relationships, and life events. Lower serotonin may make memories feel more emotionally charged. You might think about ex-partners, childhood, or past decisions more than usual. This is a normal part of the cycle's inward turn. However, be cautious about acting on nostalgic feelings - contacting exes or making major life decisions during PMS is usually unwise. Instead, channel nostalgia into journaling, creative projects, or gratitude practice. Recognize these thoughts as hormone-influenced rather than urgent signals. They usually pass as your period begins.",
+    "follow_up": ["What do you feel nostalgic about?", "Have you acted on these feelings?", "Do they pass after your period?", "How do you channel this energy?"]
+  },
+  {
+    "id": 1039,
+    "category": "emotions",
+    "question": "Can aromatherapy help with menstrual emotions",
+    "alternate_questions": ["Essential oils PMS", "Aromatherapy period mood", "Lavender menstrual emotions", "Scents help PMS", "Aromatherapy stress period"],
+    "keywords": ["aromatherapy", "essential oils", "lavender", "scents", "relaxation", "PMS", "mood"],
+    "answer": "Aromatherapy may help with menstrual emotions for some women, though evidence is limited. Certain scents affect the limbic system (emotional brain): 1) Lavender promotes relaxation and reduces anxiety. 2) Clary sage may balance hormones and reduce stress. 3) Bergamot uplifts mood and reduces depression symptoms. 4) Ylang-ylang promotes calm and reduces irritability. 5) Chamomile soothes anxiety. 6) Peppermint energizes and reduces fatigue. Use essential oils in diffusers, baths, or diluted for massage. Never ingest essential oils. Quality matters - use pure oils. While aromatherapy won't cure severe PMS or PMDD, it can be a soothing complement to other treatments. If you enjoy scents and find them calming, incorporate them into your self-care routine.",
+    "follow_up": ["Have you tried aromatherapy?", "What scents do you enjoy?", "Are you sensitive to smells?", "Would you like specific blend recommendations?"]
+  },
+  {
+    "id": 1040,
+    "category": "emotions",
+    "question": "Why do I feel more competitive before my period",
+    "alternate_questions": ["Competitive PMS", "Aggressive luteal phase", "Want to win period", "Driven premenstrual", "Period ambition"],
+    "keywords": ["competitive", "aggressive", "driven", "ambition", "PMS", "luteal phase", "motivation"],
+    "answer": "Feeling more competitive or driven before your period is less commonly discussed but can occur due to hormonal influences on motivation and assertiveness. As estrogen drops, some women experience increased testosterone relative to estrogen, which can boost competitiveness and directness. The premenstrual phase can also reduce tolerance for inefficiency or injustice, making you more likely to assert yourself. Some women channel PMS irritability into productive ambition. This can be positive if directed constructively. However, if competitiveness becomes aggression or damages relationships, it needs management. Channel this energy into sports, work projects, or advocacy. Be aware that your threshold for frustration is lower, so choose your battles. This assertiveness can be a hidden strength of the luteal phase.",
+    "follow_up": ["Is this competitiveness helpful or harmful?", "Where do you direct this energy?", "Does it affect relationships?", "Do you feel more assertive?"]
+  },
+  {
+    "id": 1041,
+    "category": "emotions",
+    "question": "How to practice self love during difficult cycle days",
+    "alternate_questions": ["Self care period", "Love yourself PMS", "Self compassion menstrual", "Be kind to yourself period", "Period self love"],
+    "keywords": ["self love", "self care", "self compassion", "kindness", "period", "PMS", "gentleness"],
+    "answer": "Practicing self-love during difficult cycle days is essential: 1) Speak to yourself as you would a dear friend - no harsh self-criticism. 2) Cancel non-essential obligations without guilt. 3) Create a comfort ritual: warm bath, favorite tea, cozy clothes, soothing music. 4) Nourish your body with foods that feel good, not just what you 'should' eat. 5) Move gently if you can - stretch, walk, or rest as needed. 6) Journal positive affirmations. 7) Surround yourself with softness: blankets, pillows, pleasant scents. 8) Watch or read things that uplift you. 9) Remind yourself: 'This is temporary, my body is doing something amazing, I am doing my best.' 10) Accept help from others. 11) Set boundaries with people who drain you. Your period is a time to receive care, including from yourself.",
+    "follow_up": ["What does self love look like for you?", "Do you struggle with self compassion?", "What comforts you most?", "How can you be gentler with yourself?"]
+  },
+  {
+    "id": 1042,
+    "category": "emotions",
+    "question": "Why do I feel more connected to nature during my period",
+    "alternate_questions": ["Nature period", "Outdoors menstruation", "Earth connection cycle", "Natural world period feelings", "Menstrual nature bond"],
+    "keywords": ["nature", "outdoors", "earth", "connected", "natural", "period", "cycle", "grounding"],
+    "answer": "Feeling more connected to nature during your period may stem from the grounding, earthy quality of menstruation. The physical experience of bleeding connects you to natural cycles - tides, moon phases, seasons. Many women feel drawn to water, trees, or earth during this time. This may be biologically driven: lower hormone levels increase sensitivity to natural environments. Historically, many cultures had menstrual huts or nature retreats during periods. Being in nature reduces cortisol and promotes calm. Even urban dwellers can connect through houseplants, natural light, or walking in parks. Honor this inclination - it's not weird or primitive, it's a natural human response. Nature offers non-judgmental space to simply be in your body.",
+    "follow_up": ["Do you feel drawn to nature during your period?", "What natural environments appeal to you?", "Can you access nature easily?", "How does being outside make you feel?"]
+  },
+  {
+    "id": 1043,
+    "category": "emotions",
+    "question": "Can music help with menstrual emotions",
+    "alternate_questions": ["Music PMS", "Songs period mood", "Playlist menstrual", "Music therapy period", "Listening to music luteal phase"],
+    "keywords": ["music", "songs", "playlist", "listening", "therapy", "PMS", "mood", "emotions"],
+    "answer": "Music is a powerful tool for managing menstrual emotions. It directly affects brain regions involved in emotion regulation, stress response, and pleasure. During difficult cycle days: 1) Upbeat music boosts dopamine and energy. 2) Calming music (classical, ambient, nature sounds) reduces anxiety and cortisol. 3) Sad music can provide emotional validation and cathartic release. 4) Familiar music provides comfort and nostalgia. 5) Creating a 'period playlist' gives you ready emotional support. 6) Singing or playing music engages creative expression. Research shows music reduces pain perception, which helps with cramps and emotional distress. Tailor your music to your needs: energizing for fatigue, soothing for anxiety, empowering for low confidence. Let music be medicine for your menstrual emotions.",
+    "follow_up": ["What music do you enjoy?", "Do you have a period playlist?", "What emotions do you want music to address?", "Do you play or sing music?"]
+  },
+  {
+    "id": 1044,
+    "category": "emotions",
+    "question": "Why do I feel like a different person before my period",
+    "alternate_questions": ["Personality change PMS", "Not myself before period", "Different person luteal phase", "Identity shift menstrual", "Who am I PMS"],
+    "keywords": ["different person", "personality change", "identity", "not myself", "PMS", "luteal phase", "shift"],
+    "answer": "Feeling like a different person before your period is a common and unsettling experience. Hormonal fluctuations during the luteal phase significantly alter brain chemistry, affecting mood, cognition, social preferences, and even sense of self. You may feel less confident, more introverted, more sensitive, or more pessimistic - almost like a temporary personality shift. This is biologically real, not imagined. The key is recognizing that both versions of you are valid: the energetic, social ovulatory self and the introspective, sensitive luteal self. Neither is 'the real you' - they are both aspects of your cyclical nature. Tracking these shifts helps you anticipate and accept them. If the difference is extreme or distressing, consult a provider about PMDD. Integration, not rejection, of your cyclical self is the goal.",
+    "follow_up": ["How extreme is this shift?", "Do you prefer one version of yourself?", "Does this distress you?", "Have you explored cyclical living?"]
+  },
+  {
+    "id": 1045,
+    "category": "emotions",
+    "question": "How to set boundaries during emotional cycle phases",
+    "alternate_questions": ["Boundaries PMS", "Say no period", "Limit obligations menstrual", "Protect energy luteal phase", "Period boundaries self care"],
+    "keywords": ["boundaries", "say no", "limits", "protect", "energy", "PMS", "self care", "obligations"],
+    "answer": "Setting boundaries during emotional cycle phases is crucial self-care: 1) Know your cycle - identify when you need more protection. 2) Preemptively decline invitations during known difficult days. 3) Communicate needs: 'I'm not available for intense conversations this week.' 4) Limit social media if comparison or negativity triggers you. 5) Reduce work commitments if possible - don't schedule presentations or major decisions. 6) Protect sleep - say no to late events. 7) Limit contact with draining people. 8) Ask for specific help rather than suffering silently. 9) Give yourself permission to rest without justification. 10) Remember: boundaries are not selfish, they are necessary for health. Saying no to others is saying yes to yourself. People who respect you will respect your boundaries.",
+    "follow_up": ["What boundaries do you need?", "Do you struggle saying no?", "Who drains your energy?", "How can you communicate boundaries clearly?"]
+  },
+  {
+    "id": 1046,
+    "category": "emotions",
+    "question": "Why do I feel more honest before my period",
+    "alternate_questions": ["Blunt PMS", "Honest luteal phase", "Speak truth period", "Filter off premenstrual", "Direct communication PMS"],
+    "keywords": ["honest", "blunt", "direct", "truth", "filter", "PMS", "communication", "authentic"],
+    "answer": "Feeling more honest or direct before your period is a recognized phenomenon. Lower estrogen and progesterone can reduce social inhibition and people-pleasing tendencies. You may feel less willing to tolerate dishonesty, inefficiency, or inauthenticity - in yourself and others. This can manifest as bluntness, confrontation of issues you've been avoiding, or sudden clarity about relationships and situations. While this honesty can be valuable and lead to necessary changes, timing matters. Premenstrual directness can be perceived as aggression if not tempered with compassion. Consider writing down truths without immediately acting on them. Review these insights after your period begins to see which still feel important. Your cycle offers different gifts: ovulatory charm, follicular clarity, menstrual wisdom, and luteal truth-telling.",
+    "follow_up": ["Is this honesty helpful or damaging?", "Do you act on these truths immediately?", "How do others receive your directness?", "Do you value this quality?"]
+  },
+  {
+    "id": 1047,
+    "category": "emotions",
+    "question": "Can my period affect my mental health diagnosis",
+    "alternate_questions": ["Bipolar period", "Depression menstrual cycle", "Anxiety disorder PMS", "Mental illness hormones", "Period worsens mental health"],
+    "keywords": ["mental health", "diagnosis", "bipolar", "depression", "anxiety", "disorder", "hormones", "worsen"],
+    "answer": "Yes, the menstrual cycle can significantly affect mental health conditions. Hormonal fluctuations can worsen depression, anxiety, bipolar disorder, OCD, and eating disorders during the luteal phase and menstruation. Some women experience menstrual exacerbation of existing conditions rather than separate PMDD. Bipolar disorder may show cycle patterns with manic phases during ovulation and depressive phases premenstrually. PTSD symptoms may intensify before periods. If you have a mental health diagnosis, track symptoms alongside your cycle to identify patterns. Share this data with your mental health provider. Treatment may need adjustment: timed medication increases, hormonal interventions, or specific cycle-phase therapy. Do not dismiss severe symptoms as 'just PMS' if you have an existing condition - integrated care addressing both hormonal and mental health is essential.",
+    "follow_up": ["Do you have a mental health diagnosis?", "Do symptoms worsen before your period?", "Are you tracking this pattern?", "Is your provider aware of cycle connections?"]
+  },
+  {
+    "id": 1048,
+    "category": "emotions",
+    "question": "Why do I feel more sensual during my period",
+    "alternate_questions": ["Sensual menstruation", "Sexual feelings period", "Body awareness menstrual", "Sensual cycle phase", "Period sexuality"],
+    "keywords": ["sensual", "sexual", "body awareness", "sensitivity", "period", "menstruation", "intimacy"],
+    "answer": "Feeling more sensual or sexually aware during your period is normal for some women, though it's less commonly discussed than libido changes at ovulation. Reasons include: 1) Increased blood flow to pelvic area heightening sensation. 2) Lower hormone levels reducing inhibition. 3) The primal, embodied nature of menstruation increasing body awareness. 4) Cultural taboos making period sexuality feel transgressive or exciting. 5) Relief from PMS tension creating relaxation. 6) Natural lubrication from menstrual blood. Some women find orgasm helps relieve cramps. Period sex is safe and natural if both partners are comfortable. Use protection if STI risk exists, as blood can transmit infections. Your sensuality is valid throughout your cycle, including during menstruation. Explore what feels right for you.",
+    "follow_up": ["Do you feel comfortable with period sensuality?", "Have you explored this?", "What feels right for you?", "Do you have a supportive partner?"]
+  },
+  {
+    "id": 1049,
+    "category": "emotions",
+    "question": "How to handle grief during my period",
+    "alternate_questions": ["Sad loss period", "Grief menstrual", "Mourning PMS", "Emotional pain period", "Period amplifies sadness"],
+    "keywords": ["grief", "loss", "sadness", "mourning", "period", "amplified", "emotional pain"],
+    "answer": "Grief can feel more intense during your period due to hormonal effects on emotional processing. Lower serotonin and the natural introspection of menstruation can amplify feelings of loss. You may cry more, feel the absence more acutely, or revisit memories. This is not weakness - your body is creating space for emotional processing. Allow yourself to grieve without judgment. Create a safe container for your feelings: journal, talk to a trusted person, visit a meaningful place. Be extra gentle with yourself: rest, nourish your body, avoid additional stressors. If grief becomes overwhelming or you have thoughts of self-harm, seek professional support immediately. Grief is not linear, and your cycle may create waves of intensity. Ride the waves knowing they will pass. You don't have to be 'over it' - ever.",
+    "follow_up": ["What loss are you grieving?", "Is this recent or ongoing?", "Do you have support?", "Are you having thoughts of self-harm?"]
+  },
+  {
+    "id": 1050,
+    "category": "emotions",
+    "question": "Why do I feel more organized after my period",
+    "alternate_questions": ["Organized follicular phase", "Productive after period", "Clear headed menstruation end", "Motivated post menstrual", "Period reset energy"],
+    "keywords": ["organized", "productive", "clear headed", "motivated", "follicular phase", "post menstrual", "energy"],
+    "answer": "Feeling more organized and productive after your period is due to the follicular phase hormone profile. As menstruation ends, estrogen begins to rise, boosting serotonin, dopamine, and energy. You may feel clearer, more motivated, and better able to focus and plan. This is an excellent time for: starting new projects, organizing spaces, having difficult conversations, socializing, and tackling complex tasks. Your brain literally functions differently - studies show improved verbal skills, spatial ability, and creativity during the follicular phase. Use this energy wisely by front-loading your month with demanding tasks. This is not about being 'better' during this phase, but about working with your biology. Celebrate this clarity while also honoring your need for rest during other phases.",
+    "follow_up": ["Do you notice this productivity boost?", "How do you use this phase?", "Do you plan around your cycle?", "What tasks do you save for this time?"]
+  },
+  {
+    "id": 1051,
+    "category": "emotions",
+    "question": "Can my period trigger trauma memories",
+    "alternate_questions": ["PTSD period", "Trauma menstrual trigger", "Flashbacks PMS", "Past abuse period emotions", "Period trauma response"],
+    "keywords": ["trauma", "PTSD", "flashbacks", "abuse", "trigger", "period", "memories", "past"],
+    "answer": "Yes, periods can trigger trauma memories for some women, especially those with histories of sexual abuse, assault, or medical trauma. The physical sensations of menstruation, pelvic exams, or gynecological procedures can activate the nervous system's trauma response. PMS-related emotional vulnerability may lower defenses against intrusive memories. The cyclical nature of periods can create predictable distress. If you experience flashbacks, dissociation, or severe anxiety related to your period, this is a real trauma response, not 'just PMS.' Trauma-informed care is essential: 1) Work with a trauma therapist. 2) Develop grounding techniques for difficult days. 3) Create safety plans. 4) Consider whether hormonal contraception (which can stop periods) might help. 5) Practice radical self-compassion. You deserve care that acknowledges your whole history. Healing is possible.",
+    "follow_up": ["Do you have a trauma history?", "Do periods trigger specific memories?", "Are you working with a trauma therapist?", "Do you have grounding techniques?"]
+  },
+  {
+    "id": 1052,
+    "category": "emotions",
+    "question": "Why do I feel more generous during ovulation",
+    "alternate_questions": ["Generous ovulation", "Giving mid cycle", "Helpful fertile window", "Social ovulation", "Ovulation altruism"],
+    "keywords": ["generous", "giving", "altruistic", "social", "ovulation", "mid cycle", "helpful"],
+    "answer": "Feeling more generous or socially oriented during ovulation is linked to peak estrogen levels. High estrogen increases oxytocin (the bonding hormone) and dopamine, enhancing social connection and caregiving behaviors. Evolutionarily, this may have facilitated pair bonding and social cooperation during the fertile window. You may feel more inclined to help others, host gatherings, give gifts, or volunteer. This is a beautiful aspect of your cycle's social rhythm. However, be mindful not to overextend yourself. Ovulatory generosity should be balanced with self-care. If you find yourself saying yes to everything and then crashing during luteal phase, practice awareness. Your cycle offers different social energies - use ovulatory warmth while respecting your need for solitude later.",
+    "follow_up": ["Do you notice increased generosity mid-cycle?", "Do you overextend yourself?", "How do you balance giving with self-care?", "Do you feel more social then?"]
+  },
+  {
+    "id": 1053,
+    "category": "emotions",
+    "question": "How to celebrate my menstrual cycle emotionally",
+    "alternate_questions": ["Honor period emotions", "Cycle celebration", "Menstrual positivity", "Embrace cycle feelings", "Period emotional ritual"],
+    "keywords": ["celebrate", "honor", "embrace", "positivity", "ritual", "cycle", "emotions", "acceptance"],
+    "answer": "Celebrating your menstrual cycle emotionally involves reframing it from burden to wisdom: 1) Track and name your emotional phases - create personal language for each. 2) Create rituals: light a candle on day 1, take a bath, journal intentions. 3) Practice cycle-syncing: match activities to your emotional energy. 4) Share cycle awareness with trusted friends - create community. 5) Read books on menstrual empowerment (e.g., 'Wild Power,' 'Period Power'). 6) Use red or meaningful colors during menstruation. 7) Thank your body for its wisdom rather than resenting it. 8) Rest without guilt during menstruation. 9) Set intentions during the follicular phase. 10) Release what no longer serves during menstruation. 11) Connect with historical and cultural menstrual traditions. Your cycle is not a flaw - it is a source of insight, rhythm, and power.",
+    "follow_up": ["How do you currently view your cycle?", "What would celebration look like for you?", "Are you interested in cycle syncing?", "What rituals appeal to you?"]
+  }
+  ]

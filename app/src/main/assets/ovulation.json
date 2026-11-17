@@ -1,0 +1,182 @@
+[
+  {
+    "id": 361,
+    "category": "ovulation",
+    "question": "What is ovulation",
+    "alternate_questions": ["Explain ovulation", "What happens during ovulation", "Ovulation meaning", "Egg release process", "When does ovulation occur"],
+    "keywords": ["ovulation", "egg release", "fertility", "LH surge", "follicle"],
+    "answer": "Ovulation is the release of a mature egg from one of your ovaries, typically occurring once per menstrual cycle. It's triggered by a surge in luteinizing hormone (LH). The egg travels down the fallopian tube where it can be fertilized by sperm for 12-24 hours. Ovulation usually happens around day 14 of a 28-day cycle but varies by person. It's the most fertile time in your cycle and is essential for conception.",
+    "follow_up": ["Do you track ovulation?", "Are you trying to conceive or avoid pregnancy?", "Do you notice ovulation signs?"]
+  },
+  {
+    "id": 362,
+    "category": "ovulation",
+    "question": "When do I ovulate in a 28 day cycle",
+    "alternate_questions": ["Ovulation day 28 cycle", "When is ovulation", "28 day cycle fertile window", "Day 14 ovulation", "Mid-cycle ovulation"],
+    "keywords": ["ovulation timing", "28 day cycle", "day 14", "fertile window", "mid-cycle"],
+    "answer": "In a 28-day cycle, ovulation typically occurs around day 14, counting from the first day of your period. However, this is an average, and many people ovulate earlier or later, even with a 28-day cycle. The fertile window is actually days 10-17, since sperm can survive up to 5 days. To pinpoint your exact ovulation day, track basal body temperature, cervical mucus, or use ovulation predictor kits (OPKs).",
+    "follow_up": ["Do you have a regular 28-day cycle?", "Are you tracking ovulation?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 363,
+    "category": "ovulation",
+    "question": "When do I ovulate in a 30 day cycle",
+    "alternate_questions": ["Ovulation day 30 cycle", "30 day cycle fertile window", "When do I ovulate if cycle is 30 days", "Longer cycle ovulation", "Day 16 ovulation"],
+    "keywords": ["ovulation timing", "30 day cycle", "day 16", "fertile window", "longer cycle"],
+    "answer": "In a 30-day cycle, ovulation typically occurs around day 16, counting from the first day of your period. The luteal phase (after ovulation) is usually consistent at 12-14 days, so you can estimate ovulation by subtracting 14 days from your cycle length. Your fertile window would be approximately days 12-19. However, this is an estimate. Tracking your personal signs or using OPKs gives more accurate information about your specific ovulation day.",
+    "follow_up": ["Is your cycle consistently 30 days?", "Do you track ovulation signs?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 364,
+    "category": "ovulation",
+    "question": "When do I ovulate in a 21 day cycle",
+    "alternate_questions": ["Ovulation day 21 cycle", "Short cycle ovulation", "When do I ovulate if cycle is 21 days", "21 day cycle fertile window", "Day 7 ovulation"],
+    "keywords": ["ovulation timing", "21 day cycle", "day 7", "short cycle", "fertile window"],
+    "answer": "In a 21-day cycle, ovulation typically occurs around day 7, counting from the first day of your period. Since the luteal phase is usually 12-14 days, ovulation happens earlier in short cycles. Your fertile window would be approximately days 3-10. Short cycles can make conception timing trickier. If your cycles are consistently 21 days or shorter, consult a healthcare provider to rule out hormonal issues, thyroid problems, or perimenopause.",
+    "follow_up": ["Are your cycles consistently 21 days?", "Do you have very light or heavy periods?", "Have you been evaluated for short cycles?"]
+  },
+  {
+    "id": 365,
+    "category": "ovulation",
+    "question": "When do I ovulate in a 35 day cycle",
+    "alternate_questions": ["Ovulation day 35 cycle", "Long cycle ovulation", "When do I ovulate if cycle is 35 days", "35 day cycle fertile window", "Day 21 ovulation"],
+    "keywords": ["ovulation timing", "35 day cycle", "day 21", "long cycle", "fertile window"],
+    "answer": "In a 35-day cycle, ovulation typically occurs around day 21, counting from the first day of your period. The luteal phase remains consistent at 12-14 days, so the follicular phase (before ovulation) is longer. Your fertile window would be approximately days 16-24. Longer cycles are normal for some people, but if this is a change from your usual pattern, or if you have other symptoms like acne or excess hair growth, see a healthcare provider to rule out PCOS or thyroid issues.",
+    "follow_up": ["Has your cycle always been 35 days?", "Do you have other symptoms?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 366,
+    "category": "ovulation",
+    "question": "How long does ovulation last",
+    "alternate_questions": ["Ovulation duration", "How many hours is ovulation", "Egg survival time", "How long is the egg viable", "Ovulation window length"],
+    "keywords": ["ovulation duration", "egg viability", "12-24 hours", "fertile window", "conception"],
+    "answer": "Ovulation itself, the release of the egg, lasts only a moment. However, the egg survives for 12-24 hours after release. Sperm can survive in the female reproductive tract for up to 5 days. This means your fertile window is actually about 5-6 days long: the 4-5 days before ovulation (when sperm can wait for the egg) plus the day of ovulation itself. Having sex in the 2-3 days before ovulation gives the best chance of conception.",
+    "follow_up": ["Are you trying to conceive?", "Do you know when you ovulate?", "How are you tracking fertility?"]
+  },
+  {
+    "id": 367,
+    "category": "ovulation",
+    "question": "What are the signs of ovulation",
+    "alternate_questions": ["Ovulation symptoms", "How do I know I'm ovulating", "Body signs ovulation", "Fertility signs", "Ovulation indicators"],
+    "keywords": ["ovulation signs", "symptoms", "cervical mucus", "basal temperature", "mittelschmerz"],
+    "answer": "Common ovulation signs include: 1) Cervical mucus becomes clear, stretchy, and egg-white consistency. 2) Mild pelvic pain on one side (mittelschmerz). 3) Slight increase in basal body temperature (0.5-1°F) after ovulation. 4) Increased libido. 5) Breast tenderness. 6) Bloating. 7) Heightened sense of smell. 8) Cervix becomes softer, higher, and more open. Not everyone notices these signs, and they can be subtle.",
+    "follow_up": ["Which signs do you notice?", "Do you track these symptoms?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 368,
+    "category": "ovulation",
+    "question": "What is mittelschmerz",
+    "alternate_questions": ["Ovulation pain", "Why do I get pain when ovulating", "Mittelschmerz meaning", "One sided pelvic pain ovulation", "Ovulation cramp"],
+    "keywords": ["mittelschmerz", "ovulation pain", "one-sided", "pelvic", "german"],
+    "answer": "Mittelschmerz is German for 'middle pain' and refers to the mild, one-sided pelvic pain some people feel during ovulation. It occurs when the egg is released from the ovary, sometimes causing minor bleeding or fluid release that irritates the abdominal lining. The pain typically lasts a few minutes to 48 hours and switches sides each month (whichever ovary is releasing the egg). It's normal and harmless, though uncomfortable. Over-the-counter pain relievers help.",
+    "follow_up": ["How severe is the pain?", "Which side does it occur on?", "How long does it last?", "Does it happen every cycle?"]
+  },
+  {
+    "id": 369,
+    "category": "ovulation",
+    "question": "What does ovulation discharge look like",
+    "alternate_questions": ["Cervical mucus ovulation", "Fertile discharge appearance", "Egg white cervical mucus", "Ovulation fluid", "Fertility mucus"],
+    "keywords": ["ovulation discharge", "cervical mucus", "egg white", "fertile", "stretchy"],
+    "answer": "During ovulation, cervical mucus becomes clear, stretchy, and similar to raw egg whites. It should be able to stretch between your fingers an inch or more without breaking. This fertile mucus helps sperm swim through the cervix to reach the egg. The amount increases, and you may feel wetter. After ovulation, mucus becomes thicker, cloudier, and stickier. Tracking these changes helps identify your fertile window.",
+    "follow_up": ["Have you noticed this type of mucus?", "Do you track cervical mucus changes?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 370,
+    "category": "ovulation",
+    "question": "Can I ovulate without noticing discharge changes",
+    "alternate_questions": ["Ovulation without cervical mucus", "No egg white mucus", "Can I ovulate without symptoms", "Silent ovulation", "Ovulation without signs"],
+    "keywords": ["ovulation", "without symptoms", "cervical mucus", "silent", "anovulatory signs"],
+    "answer": "Yes, you can ovulate without noticeable discharge changes. Not everyone produces abundant fertile cervical mucus, and some people don't pay close attention to these subtle changes. Factors like dehydration, hormonal imbalances, certain medications, and age can affect mucus production. If you're not noticing typical ovulation signs but want to confirm ovulation, use basal body temperature tracking or ovulation predictor kits (OPKs) for more objective data.",
+    "follow_up": ["Are you tracking other ovulation signs?", "Do you use OPKs or BBT?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 371,
+    "category": "ovulation",
+    "question": "Can I ovulate twice in one cycle",
+    "alternate_questions": ["Double ovulation", "Two eggs one cycle", "Hyperovulation", "Can I release two eggs", "Multiple ovulation"],
+    "keywords": ["double ovulation", "hyperovulation", "twins", "two eggs", "rare"],
+    "answer": "Yes, it's possible to ovulate twice in one cycle, though it's rare. This is called hyperovulation and is more common in people with a family history of twins, those over 35, or those who have recently stopped hormonal birth control. The two ovulations typically occur within 24 hours of each other. This is how fraternal (non-identical) twins are conceived. However, you cannot ovulate days apart in the same cycle; the second egg release happens almost simultaneously.",
+    "follow_up": ["Do you have twins in your family?", "Have you recently stopped birth control?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 372,
+    "category": "ovulation",
+    "question": "Can I feel when I ovulate",
+    "alternate_questions": ["Feeling ovulation", "Can you sense ovulation", "Ovulation awareness", "Body awareness ovulation", "Intuitive ovulation"],
+    "keywords": ["feel ovulation", "awareness", "body signals", "intuition", "sensations"],
+    "answer": "Some people can feel ovulation through subtle body sensations, while others don't notice anything. Common sensations include mild one-sided pelvic pain (mittelschmerz), a slight twinge or pinch, increased libido, breast tenderness, bloating, or feeling more energetic. Some report heightened senses or mood changes. However, not feeling ovulation doesn't mean it's not happening. Tracking multiple signs gives you the best picture of your fertility.",
+    "follow_up": ["Do you think you can feel ovulation?", "What sensations do you notice?", "Do you track other fertility signs?"]
+  },
+  {
+    "id": 373,
+    "category": "ovulation",
+    "question": "Does ovulation always happen on day 14",
+    "alternate_questions": ["Is ovulation always day 14", "Day 14 ovulation myth", "When does ovulation really happen", "Ovulation timing varies", "Not day 14 ovulation"],
+    "keywords": ["day 14", "myth", "ovulation timing", "varies", "cycle length"],
+    "answer": "No, ovulation does not always happen on day 14. This is a common myth. Ovulation timing varies significantly from person to person and even from cycle to cycle. In a 28-day cycle, it might be around day 14, but in a 35-day cycle, it's closer to day 21. In a 21-day cycle, it's around day 7. Stress, illness, travel, and lifestyle changes can shift ovulation. The luteal phase (after ovulation) is more consistent at 12-14 days, so you can estimate ovulation by counting back from your expected period.",
+    "follow_up": ["How long is your typical cycle?", "Do you track when you ovulate?", "Have you noticed variation in timing?"]
+  },
+  {
+    "id": 374,
+    "category": "ovulation",
+    "question": "Can stress delay ovulation",
+    "alternate_questions": ["Stress and ovulation", "Anxiety affecting ovulation", "Why did stress delay my ovulation", "Emotional stress fertile window", "Cortisol ovulation delay"],
+    "keywords": ["stress", "delay ovulation", "cortisol", "hormonal disruption", "fertility"],
+    "answer": "Yes, significant stress can delay or even prevent ovulation. Stress increases cortisol, which can interfere with the hypothalamus and pituitary gland's signals to the ovaries. Your body may delay ovulation during stressful times as a protective mechanism. This is why people often notice late periods after major stressors. Managing stress through exercise, meditation, therapy, and adequate sleep supports healthy ovulation. Chronic stress may require professional support.",
+    "follow_up": ["Are you under significant stress?", "How long has the stress been ongoing?", "Has your ovulation been delayed before?"]
+  },
+  {
+    "id": 375,
+    "category": "ovulation",
+    "question": "Can I ovulate during my period",
+    "alternate_questions": ["Ovulation while menstruating", "Can you ovulate on your period", "Period ovulation possible", "Early ovulation during bleeding", "Fertility during period"],
+    "keywords": ["ovulation during period", "early ovulation", "short cycle", "fertility", "rare"],
+    "answer": "Ovulation during your period is extremely rare but theoretically possible, especially if you have very short cycles (21 days or less) or long periods (7+ days). Sperm can survive up to 5 days, so if you ovulate very early after your period ends, sex during your period could result in pregnancy. However, for most people with typical cycles, ovulation occurs well after the period ends. Don't rely on period timing for contraception.",
+    "follow_up": ["How long is your cycle?", "How long do your periods last?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 376,
+    "category": "ovulation",
+    "question": "Can I ovulate right after my period",
+    "alternate_questions": ["Early ovulation", "Ovulation soon after period", "Can you ovulate early", "Fertile right after menstruation", "Short follicular phase"],
+    "keywords": ["early ovulation", "after period", "short follicular phase", "fertility", "timing"],
+    "answer": "Yes, some people ovulate very early in their cycle, sometimes just a few days after their period ends. This is more common in people with short cycles (21-24 days) or those who have recently stopped hormonal birth control. If you're trying to avoid pregnancy, don't assume you're safe right after your period. If you're trying to conceive, start tracking early in your cycle. Early ovulation is usually normal but mention it to your doctor if it's a sudden change.",
+    "follow_up": ["How long is your cycle?", "When do you think you ovulate?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 377,
+    "category": "ovulation",
+    "question": "What is anovulation",
+    "alternate_questions": ["Not ovulating", "Anovulatory cycle", "Why am I not ovulating", "Missing ovulation", "Can you have a cycle without ovulating"],
+    "keywords": ["anovulation", "no ovulation", "cycle without egg", "hormonal", "infertility"],
+    "answer": "Anovulation is when your body doesn't release an egg during a menstrual cycle. You can still have a period (an anovulatory bleed), but it's often lighter, irregular, or accompanied by breakthrough bleeding. Common causes include stress, PCOS, thyroid disorders, extreme exercise, low body weight, obesity, perimenopause, and breastfeeding. Occasional anovulatory cycles are normal, but frequent anovulation affects fertility and should be evaluated by a healthcare provider.",
+    "follow_up": ["Are you trying to conceive?", "Do you track ovulation?", "How often do you think this happens?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 378,
+    "category": "ovulation",
+    "question": "How do ovulation predictor kits work",
+    "alternate_questions": ["OPK how they work", "Ovulation test strips mechanism", "LH test function", "How do ovulation tests detect ovulation", "Ovulation kit science"],
+    "keywords": ["ovulation predictor kits", "OPK", "LH surge", "how they work", "detection"],
+    "answer": "Ovulation predictor kits (OPKs) detect the luteinizing hormone (LH) surge in your urine. LH rises 24-36 hours before ovulation, triggering the release of the egg. The test strip contains antibodies that react with LH. When your LH level reaches a threshold, the test line becomes as dark as or darker than the control line, indicating peak fertility. Test between 10am and 8pm, as LH surges often in the morning and appear in urine later. Don't use first morning urine, as it may be too concentrated.",
+    "follow_up": ["Are you using OPKs?", "Do you know when to start testing?", "Have you gotten positive results?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 379,
+    "category": "ovulation",
+    "question": "Can I use a fertility monitor",
+    "alternate_questions": ["Fertility monitor devices", "Electronic fertility tracking", "Clearblue fertility monitor", "Digital ovulation tracking", "Advanced ovulation detection"],
+    "keywords": ["fertility monitor", "electronic", "digital", "advanced tracking", "conception"],
+    "answer": "Yes, fertility monitors are electronic devices that track multiple hormones (estrogen and LH) to identify your fertile window. They typically use test sticks that you pee on, and the device reads hormone levels. Some monitors store months of data and adapt to your unique cycle. They're more expensive than basic OPKs but offer more comprehensive information. Popular brands include Clearblue. They're especially helpful for people with irregular cycles or those who want detailed fertility data.",
+    "follow_up": ["Are you considering a fertility monitor?", "What's your budget?", "Do you have regular or irregular cycles?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 380,
+    "category": "ovulation",
+    "question": "What is a false LH surge",
+    "alternate_questions": ["False positive ovulation test", "Why did I get positive OPK but no ovulation", "LH surge without ovulation", "Positive test no egg release", "OPK false positive"],
+    "keywords": ["false LH surge", "false positive", "OPK", "PCOS", "anovulation"],
+    "answer": "A false LH surge occurs when your body produces LH but doesn't actually release an egg. This is common in PCOS, where hormone imbalances cause multiple LH spikes. It's also more likely in perimenopause or with certain medications. You might get a positive ovulation test but not ovulate. To confirm ovulation actually happened, track basal body temperature (which rises after ovulation) or get a progesterone blood test 7 days after your suspected ovulation.",
+    "follow_up": ["Do you have PCOS or irregular cycles?", "Are you confirming ovulation with BBT?", "Have you had progesterone tested?"]
+  }
+]

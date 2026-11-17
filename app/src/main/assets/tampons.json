@@ -1,0 +1,47 @@
+[
+  {
+    "id": 481,
+    "category": "tampons",
+    "question": "How do I use a tampon?",
+    "alternate_questions": ["Tampon insertion guide", "First time using a tampon", "How to put in a tampon"],
+    "keywords": ["tampon", "insertion", "how to", "usage", "first time"],
+    "answer": "To use a tampon, wash your hands, find a comfortable position (like sitting on the toilet or standing with one leg up), hold the applicator, and gently insert it into your vaginal opening. Push the plunger to release the tampon and remove the applicator.",
+    "follow_up": ["How often to change a tampon?", "Can a tampon get lost?", "What is TSS?"]
+  },
+  {
+    "id": 482,
+    "category": "tampons",
+    "question": "How often should I change my tampon?",
+    "alternate_questions": ["How long can I wear a tampon?", "Tampon changing frequency", "When to replace a tampon"],
+    "keywords": ["tampon", "change", "frequency", "hours", "tss"],
+    "answer": "You should change your tampon every 4 to 8 hours. Never leave a tampon in for longer than 8 hours, as this increases the risk of Toxic Shock Syndrome (TSS).",
+    "follow_up": ["Can I wear a tampon overnight?", "What absorbency should I use?", "Signs of TSS?"]
+  },
+  {
+    "id": 483,
+    "category": "tampons",
+    "question": "Can I wear a tampon overnight?",
+    "alternate_questions": ["Is it safe to sleep with a tampon?", "Tampons and sleeping", "Overnight tampon use"],
+    "keywords": ["tampon", "overnight", "sleeping", "night", "safety"],
+    "answer": "Yes, you can wear a tampon overnight as long as you insert a fresh one right before bed and change it immediately when you wake up, ensuring it's not left in for more than 8 hours.",
+    "follow_up": ["Are pads better for overnight?", "What happens if I sleep longer than 8 hours?", "Overnight pad vs tampon?"]
+  },
+  {
+    "id": 484,
+    "category": "tampons",
+    "question": "What is Toxic Shock Syndrome (TSS)?",
+    "alternate_questions": ["TSS explained", "Is TSS dangerous?", "Tampon-related illness"],
+    "keywords": ["tss", "toxic shock syndrome", "tampon", "risk", "infection"],
+    "answer": "TSS is a rare but life-threatening complication of certain bacterial infections, often associated with leaving high-absorbency tampons in for too long. Symptoms include sudden high fever, low blood pressure, vomiting, and a rash.",
+    "follow_up": ["What are signs of TSS?", "How to prevent TSS?", "Is TSS only from tampons?"]
+  },
+  {
+    "id": 485,
+    "category": "tampons",
+    "question": "Can a tampon get lost inside me?",
+    "alternate_questions": ["Lost tampon concern", "Can a tampon go up to my stomach?", "What if I can't find the tampon string?"],
+    "keywords": ["lost", "tampon", "inside", "string", "cervix"],
+    "answer": "No, a tampon cannot get lost inside you. The opening of the cervix is too small for a tampon to pass through. If you can't find the string, you can usually reach the tampon with your fingers, or see a doctor for removal.",
+    "follow_up": ["How to remove a stuck tampon?", "What if the string breaks?", "Can I wear two tampons at once?"]
+  }
+]

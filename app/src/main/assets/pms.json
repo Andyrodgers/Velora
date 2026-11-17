@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "category": "pms",
+    "question": "What is PMS?",
+    "alternate_questions": ["What does PMS stand for?", "Tell me about premenstrual syndrome", "What is premenstrual syndrome?"],
+    "keywords": ["pms", "premenstrual", "syndrome", "definition"],
+    "answer": "PMS, or Premenstrual Syndrome, is a combination of physical and emotional symptoms that many people experience in the week or two before their period. Symptoms usually stop once the period starts.",
+    "follow_up": ["What are common PMS symptoms?", "How can I manage PMS?", "Why do I get PMS?"]
+  },
+  {
+    "id": 102,
+    "category": "pms",
+    "question": "What are the symptoms of PMS?",
+    "alternate_questions": ["Common PMS symptoms", "How do I know if I have PMS?", "PMS signs"],
+    "keywords": ["pms", "symptoms", "signs", "bloating", "mood swings"],
+    "answer": "Common symptoms include bloating, breast tenderness, mood swings, irritability, fatigue, food cravings, and acne. Everyone's experience is different!",
+    "follow_up": ["How to deal with mood swings?", "Why do my breasts hurt before my period?", "Can PMS cause headaches?"]
+  },
+  {
+    "id": 103,
+    "category": "pms",
+    "question": "How can I manage PMS symptoms?",
+    "alternate_questions": ["PMS relief", "Ways to reduce PMS", "How to feel better before my period"],
+    "keywords": ["manage", "relief", "reduce", "pms", "treatment"],
+    "answer": "Managing PMS can involve regular exercise, a balanced diet (low salt/caffeine), getting enough sleep, and stress reduction techniques like yoga or meditation. Over-the-counter pain relievers can also help.",
+    "follow_up": ["What foods help with PMS?", "Does exercise help PMS?", "Are there vitamins for PMS?"]
+  },
+  {
+    "id": 104,
+    "category": "pms",
+    "question": "Why do I get PMS?",
+    "alternate_questions": ["Causes of PMS", "What causes PMS?", "Why do hormones cause PMS?"],
+    "keywords": ["cause", "pms", "hormones", "estrogen", "progesterone"],
+    "answer": "The exact cause of PMS isn't fully understood, but it's linked to changing hormone levels (estrogen and progesterone) during the menstrual cycle, as well as changes in brain chemicals like serotonin.",
+    "follow_up": ["How do hormones affect mood?", "What is the luteal phase?", "Can PMS get worse with age?"]
+  },
+  {
+    "id": 105,
+    "category": "pms",
+    "question": "Does diet affect PMS?",
+    "alternate_questions": ["What should I eat for PMS?", "Foods to avoid during PMS", "Dietary tips for PMS"],
+    "keywords": ["diet", "food", "pms", "nutrition", "cravings"],
+    "answer": "Yes! Reducing salt, caffeine, and sugar can help reduce bloating and irritability. Increasing complex carbs, calcium, and magnesium might help improve mood and energy levels.",
+    "follow_up": ["What are magnesium-rich foods?", "Why do I crave chocolate during PMS?", "Should I avoid coffee before my period?"]
+  }
+]

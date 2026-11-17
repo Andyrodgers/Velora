@@ -1,0 +1,47 @@
+[
+  {
+    "id": 251,
+    "category": "libido",
+    "question": "Does my libido change during my cycle?",
+    "alternate_questions": ["Sex drive and menstrual cycle", "Why does my sex drive increase at certain times?", "Changes in sexual desire during the month"],
+    "keywords": ["libido", "sex drive", "cycle", "desire", "hormones"],
+    "answer": "Yes, it's very common for libido to fluctuate during your cycle. Many people experience a peak in sex drive around ovulation (mid-cycle) when estrogen and testosterone levels are highest.",
+    "follow_up": ["When is ovulation?", "Why does my libido drop before my period?", "How do hormones affect sex drive?"]
+  },
+  {
+    "id": 252,
+    "category": "libido",
+    "question": "Why does my sex drive drop before my period?",
+    "alternate_questions": ["Low libido during PMS", "Why don't I want sex before my period?", "Loss of sexual desire during luteal phase"],
+    "keywords": ["libido", "sex drive", "pms", "drop", "luteal phase"],
+    "answer": "A drop in libido before your period is common as estrogen and progesterone levels fall. PMS symptoms like bloating, fatigue, and mood swings can also contribute to a decreased interest in sex.",
+    "follow_up": ["How to manage low libido?", "Does birth control affect libido?", "What is the luteal phase?"]
+  },
+  {
+    "id": 253,
+    "category": "libido",
+    "question": "Can birth control affect my libido?",
+    "alternate_questions": ["Does the pill lower sex drive?", "Birth control and sexual desire", "Impact of hormonal contraception on libido"],
+    "keywords": ["birth control", "libido", "pill", "contraception", "sex drive"],
+    "answer": "Hormonal birth control can affect libido differently for everyone. Some people experience a decrease in sex drive, while others notice no change or even an increase. If you're concerned, talk to your doctor about different options.",
+    "follow_up": ["What are non-hormonal birth control options?", "How to talk to a doctor about sex drive?", "Side effects of birth control?"]
+  },
+  {
+    "id": 254,
+    "category": "libido",
+    "question": "Is it normal to have a high libido during my period?",
+    "alternate_questions": ["Increased sex drive while menstruating", "Why do I want sex during my period?", "Period and sexual arousal"],
+    "keywords": ["libido", "period", "menstruation", "high", "normal"],
+    "answer": "Yes, it's perfectly normal! Some people experience increased libido during their period due to hormonal shifts or pelvic congestion, which can increase sensitivity.",
+    "follow_up": ["Is period sex safe?", "How to manage period sex?", "Does sex help with period cramps?"]
+  },
+  {
+    "id": 255,
+    "category": "libido",
+    "question": "How can I boost a low libido?",
+    "alternate_questions": ["Increasing sex drive", "Ways to improve sexual desire", "Natural libido boosters"],
+    "keywords": ["boost", "libido", "improve", "desire", "natural"],
+    "answer": "Boosting libido can involve managing stress, getting enough sleep, regular exercise, and open communication with your partner. Sometimes addressing underlying issues like fatigue or relationship stress can help.",
+    "follow_up": ["How does stress affect libido?", "Foods that boost libido?", "When to see a doctor about low libido?"]
+  }
+]

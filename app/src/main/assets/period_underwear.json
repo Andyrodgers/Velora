@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3201,
+    "category": "period_underwear",
+    "question": "What is period underwear?",
+    "alternate_questions": ["How do period panties work?", "Tell me about absorbent underwear", "Period underwear vs pads"],
+    "keywords": ["period underwear", "panties", "absorbent", "reusable", "leak-proof"],
+    "answer": "Period underwear is reusable, absorbent underwear designed to replace or supplement pads, tampons, or cups. It has special layers that wick moisture, absorb fluid, and prevent leaks.",
+    "follow_up": ["How much can period underwear hold?", "How do I wash period underwear?", "Are period panties safe?"]
+  },
+  {
+    "id": 3202,
+    "category": "period_underwear",
+    "question": "How do I wash period underwear?",
+    "alternate_questions": ["Cleaning period panties", "Period underwear care instructions", "Can I put period underwear in the dryer?"],
+    "keywords": ["wash", "clean", "care", "laundry", "period underwear"],
+    "answer": "Rinse them in cold water until the water runs clear. Then, machine wash on a cold, gentle cycle. Avoid using fabric softener or bleach, as they can damage the absorbent layers. Most brands recommend air drying.",
+    "follow_up": ["Can I use regular detergent?", "Will they smell if I don't wash them immediately?", "How long do they take to dry?"]
+  },
+  {
+    "id": 3203,
+    "category": "period_underwear",
+    "question": "How much liquid can period underwear hold?",
+    "alternate_questions": ["Absorbency of period panties", "Can I wear period underwear on heavy days?", "How long can I wear them?"],
+    "keywords": ["absorbency", "heavy flow", "capacity", "wear time", "period underwear"],
+    "answer": "Absorbency varies by brand and style, ranging from light (equal to 1 tampon) to heavy (equal to 4-5 tampons). You can wear them alone on lighter days or as a backup to other products on heavy days.",
+    "follow_up": ["Which brands are best for heavy flow?", "Do they feel wet or bulky?", "How often should I change them?"]
+  },
+  {
+    "id": 3204,
+    "category": "period_underwear",
+    "question": "Are period panties hygienic?",
+    "alternate_questions": ["Do period underwear smell?", "Bacteria in period panties", "Health risks of period underwear"],
+    "keywords": ["hygiene", "smell", "odor", "bacteria", "safety"],
+    "answer": "Yes, they are designed with antimicrobial properties to prevent odor and bacteria growth. As long as you follow the washing instructions and change them regularly, they are a very hygienic and safe option.",
+    "follow_up": ["How often should I change them during the day?", "What if I have an infection?", "Are they better for vaginal health?"]
+  },
+  {
+    "id": 3205,
+    "category": "period_underwear",
+    "question": "How long does period underwear last?",
+    "alternate_questions": ["Lifetime of period panties", "When to replace period underwear", "Durability of absorbent underwear"],
+    "keywords": ["last", "durability", "replace", "lifetime", "years"],
+    "answer": "With proper care, a good pair of period underwear typically lasts for 2 to 5 years. They are a great sustainable and cost-effective alternative to disposable products.",
+    "follow_up": ["How do I know when they need replacing?", "Do they lose absorbency over time?", "Are they worth the initial cost?"]
+  }
+]

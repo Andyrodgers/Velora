@@ -1,0 +1,47 @@
+[
+  {
+    "id": 321,
+    "category": "back_pain",
+    "question": "Why does my lower back hurt during my period?",
+    "alternate_questions": ["Lower back pain and menstruation", "Why do I get backaches on my period?", "Is back pain a normal period symptom?"],
+    "keywords": ["back pain", "lower back", "period", "prostaglandins", "symptom"],
+    "answer": "Lower back pain during your period is very common and is typically caused by prostaglandins, the same hormone-like substances that cause uterine contractions. The pain can radiate from the uterus to the muscles in the lower back.",
+    "follow_up": ["How to relieve period back pain?", "Can yoga help with backaches?", "When is back pain a concern?"]
+  },
+  {
+    "id": 322,
+    "category": "back_pain",
+    "question": "How can I relieve back pain during my period?",
+    "alternate_questions": ["Ways to stop period backaches", "Home remedies for back pain during menstruation", "Relief for lower back pain on my period"],
+    "keywords": ["relief", "back pain", "period", "heat", "stretching"],
+    "answer": "Relief options include using a heating pad on your lower back, gentle stretching (like Cat-Cow or Child's Pose), taking a warm bath, and over-the-counter pain relievers like ibuprofen. Maintaining good posture also helps.",
+    "follow_up": ["What yoga poses help with back pain?", "Does heat work for backaches?", "Can exercise reduce back pain?"]
+  },
+  {
+    "id": 323,
+    "category": "back_pain",
+    "question": "Can exercise help with period back pain?",
+    "alternate_questions": ["Working out for back relief", "Does movement reduce backaches on my period?", "Best exercises for back pain during menstruation"],
+    "keywords": ["exercise", "back pain", "period", "movement", "relief"],
+    "answer": "Yes, light physical activity like walking or gentle yoga can improve circulation and release endorphins, which are natural pain relievers. Strengthening your core muscles over time can also help prevent severe back pain during your cycle.",
+    "follow_up": ["What are core-strengthening exercises?", "Is walking good for back pain?", "How much should I exercise?"]
+  },
+  {
+    "id": 324,
+    "category": "back_pain",
+    "question": "When should I see a doctor for back pain?",
+    "alternate_questions": ["Severe back pain during menstruation", "When is period backache a concern?", "Is extreme back pain normal?"],
+    "keywords": ["doctor", "back pain", "severe", "concern", "health"],
+    "answer": "You should see a doctor if your back pain is severe, doesn't respond to over-the-counter medication, or is accompanied by other concerning symptoms like numbness or weakness in your legs, as it could be a sign of endometriosis or other issues.",
+    "follow_up": ["What is endometriosis?", "Signs of nerve issues?", "How to talk to a doctor about pain?"]
+  },
+  {
+    "id": 325,
+    "category": "back_pain",
+    "question": "Does a heating pad help with back pain?",
+    "alternate_questions": ["Using heat for backaches", "Is heat good for period back pain?", "Heating pad for lower back relief"],
+    "keywords": ["heating pad", "heat", "back pain", "relief", "relaxation"],
+    "answer": "Yes, applying heat to your lower back can help relax the muscles and increase blood flow, which often provides significant relief from period-related backaches.",
+    "follow_up": ["How long should I use a heating pad?", "Are there portable heat patches?", "Can a warm bath help?"]
+  }
+]

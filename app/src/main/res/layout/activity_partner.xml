@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/appBackgroundColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="32dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Partner Connection"
+            android:textSize="28sp"
+            android:textColor="?attr/appPrimaryColor"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter your partner's email to link your accounts and share your journey together."
+            android:textSize="16sp"
+            android:textColor="?attr/appTextColor"
+            android:gravity="center"
+            android:layout_marginBottom="24dp"
+            tools:ignore="HardcodedText" />
+
+        <EditText
+            android:id="@+id/etPartnerSearchEmail"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:hint="Partner's Email"
+            android:background="@drawable/edit_text_rounded"
+            android:inputType="textEmailAddress"
+            android:padding="16dp"
+            android:layout_marginBottom="12dp"
+            android:textColor="?attr/appTextColor"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/btnSearchPartner"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="SEARCH AND LINK"
+            android:backgroundTint="?attr/appPrimaryColor"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="32dp"
+            tools:ignore="HardcodedText" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardPartnerResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="4dp"
+            app:strokeWidth="1dp"
+            app:strokeColor="?attr/appPrimaryColor"
+            tools:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:padding="24dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Partner Found!"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="?attr/appPrimaryColor"
+                    android:layout_marginBottom="16dp"
+                    tools:ignore="HardcodedText" />
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/ivPartnerPhoto"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:padding="2dp"
+                    android:src="@drawable/user_account_icon"
+                    android:scaleType="centerCrop"
+                    android:layout_marginBottom="12dp"
+                    app:shapeAppearanceOverlay="@style/CircleImage"
+                    app:strokeColor="?attr/appPrimaryColor"
+                    app:strokeWidth="2dp"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    android:id="@+id/tvPartnerName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Partner Name"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="?attr/appTextColor"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="You are now mutually linked."
+                    android:textSize="14sp"
+                    android:textColor="?attr/appTextColor"
+                    android:alpha="0.7"
+                    android:layout_marginTop="4dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+    </LinearLayout>
+</ScrollView>

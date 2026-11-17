@@ -1,0 +1,137 @@
+[
+  {
+    "id": 261,
+    "category": "light_periods",
+    "question": "What is considered a light period",
+    "alternate_questions": ["How light is too light", "Light period definition", "Hypomenorrhea meaning", "Very light menstruation", "Scanty period flow"],
+    "keywords": ["light period", "hypomenorrhea", "scanty", "minimal bleeding", "definition"],
+    "answer": "A light period (hypomenorrhea) is when bleeding is significantly less than your usual flow, lasting less than 2 days, or requiring only panty liners. Normal variation exists, but consistently light periods may indicate hormonal issues, thyroid problems, PCOS, excessive exercise, low body weight, stress, or perimenopause. If your period has suddenly become much lighter, or if you're trying to conceive, consult a healthcare provider.",
+    "follow_up": ["Has your flow always been light or is this new?", "How long does your period last?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 262,
+    "category": "light_periods",
+    "question": "Why is my period so light",
+    "alternate_questions": ["Causes of light bleeding", "Why do I barely bleed", "Very light period reasons", "Minimal flow causes", "Why is my menstruation light"],
+    "keywords": ["light", "causes", "hypomenorrhea", "reasons", "minimal"],
+    "answer": "Light periods can be caused by: hormonal imbalances (low estrogen), thyroid disorders, PCOS, being underweight or having low body fat, excessive exercise, stress, breastfeeding, perimenopause, certain medications (including hormonal birth control), Asherman's syndrome (uterine scarring), or pituitary issues. Sometimes it's just normal variation. If light periods are new or accompanied by other symptoms, see a healthcare provider.",
+    "follow_up": ["How long have your periods been light?", "Are you on any medications?", "Have you had recent weight or exercise changes?"]
+  },
+  {
+    "id": 263,
+    "category": "light_periods",
+    "question": "Can birth control make my period light",
+    "alternate_questions": ["Pill light period", "Hormonal contraception scanty flow", "IUD making periods lighter", "Implant and light bleeding", "Birth control reducing flow"],
+    "keywords": ["birth control", "hormonal", "light period", "contraception", "reduction"],
+    "answer": "Yes, hormonal birth control commonly makes periods lighter. Combined pills, progestin-only pills, hormonal IUDs, implants, and injections all thin the uterine lining, resulting in less bleeding. Some people on hormonal IUDs or implants eventually stop having periods altogether, which is medically safe. This is a normal effect of these contraceptives and not a health concern, though it can be surprising if you're not expecting it.",
+    "follow_up": ["What birth control are you using?", "How long have you been on it?", "Are you concerned about the light flow?"]
+  },
+  {
+    "id": 264,
+    "category": "light_periods",
+    "question": "Can stress cause light periods",
+    "alternate_questions": ["Stress and light bleeding", "Anxiety minimal flow", "Why does stress make periods lighter", "Emotional stress scanty period", "Cortisol light menstruation"],
+    "keywords": ["stress", "light period", "cortisol", "emotional", "hormonal disruption"],
+    "answer": "Yes, stress can cause lighter periods. High cortisol from chronic stress can suppress reproductive hormones, particularly estrogen, leading to a thinner uterine lining and less bleeding. This is your body's way of conserving energy during perceived threats. Light periods from stress are usually temporary and resolve when stress decreases. If light periods persist after stress management, consult a healthcare provider to rule out other causes.",
+    "follow_up": ["Are you under significant stress?", "How long has the stress been ongoing?", "Have you tried stress reduction techniques?"]
+  },
+  {
+    "id": 265,
+    "category": "light_periods",
+    "question": "Can low estrogen cause light periods",
+    "alternate_questions": ["Estrogen deficiency light bleeding", "Low estrogen menstruation", "Hormonal imbalance light period", "Why does low estrogen affect flow", "Estrogen and period flow"],
+    "keywords": ["low estrogen", "estrogen deficiency", "light period", "hormonal", "endocrine"],
+    "answer": "Yes, low estrogen commonly causes light periods. Estrogen is responsible for building up the uterine lining. When levels are low, less lining develops, resulting in lighter bleeding. Low estrogen can result from extreme exercise, eating disorders, low body weight, premature ovarian failure, pituitary issues, or perimenopause. If you suspect low estrogen, a healthcare provider can check your levels with blood tests and recommend treatment.",
+    "follow_up": ["Do you have other low estrogen symptoms (dryness, hot flashes)?", "Have you had hormone testing?", "Are you underweight or overexercising?"]
+  },
+  {
+    "id": 266,
+    "category": "light_periods",
+    "question": "Can I be pregnant if my period is light",
+    "alternate_questions": ["Light period pregnancy", "Could light bleeding mean pregnant", "Pregnant with light period", "Implantation bleeding vs period", "Light flow pregnant"],
+    "keywords": ["pregnancy", "light period", "implantation bleeding", "pregnant", "concern"],
+    "answer": "Yes, light bleeding can occur in early pregnancy. Some people experience implantation bleeding (light spotting when the embryo attaches to the uterus) around the time their period is due. This is usually lighter and shorter than a normal period. If your period is unusually light, especially if accompanied by other pregnancy symptoms (nausea, breast tenderness, fatigue), take a pregnancy test. If positive, see a healthcare provider to confirm.",
+    "follow_up": ["Have you had unprotected sex?", "Is this period different from usual?", "Do you have other pregnancy symptoms?"]
+  },
+  {
+    "id": 267,
+    "category": "light_periods",
+    "question": "Can perimenopause cause light periods",
+    "alternate_questions": ["Perimenopause light bleeding", "Menopause transition scanty flow", "Why are my periods getting lighter", "Aging and light periods", "Perimenopause flow changes"],
+    "keywords": ["perimenopause", "light period", "aging", "menopause transition", "hormonal changes"],
+    "answer": "Yes, perimenopause often causes changes in period flow, including lighter periods. As ovarian function declines, hormone levels fluctuate, sometimes resulting in less estrogen and therefore lighter bleeding. However, perimenopause can also cause heavier or irregular periods. Light periods in your 40s-50s are often a normal part of the transition, but any bleeding changes should be discussed with your doctor to rule out other conditions.",
+    "follow_up": ["How old are you?", "Are you having other perimenopause symptoms?", "How long have periods been light?"]
+  },
+  {
+    "id": 268,
+    "category": "light_periods",
+    "question": "Can thyroid issues cause light periods",
+    "alternate_questions": ["Hypothyroidism light period", "Hyperthyroidism scanty flow", "Thyroid disease light bleeding", "TSH and light menstruation", "Thyroid hormone light periods"],
+    "keywords": ["thyroid", "hypothyroidism", "hyperthyroidism", "light period", "endocrine"],
+    "answer": "Yes, both underactive and overactive thyroid can affect period flow. Hyperthyroidism (overactive thyroid) more commonly causes lighter periods, while hypothyroidism often causes heavier ones. Thyroid hormones interact with reproductive hormones, so imbalances disrupt your cycle. Other thyroid symptoms include weight changes, temperature sensitivity, hair loss, and fatigue. A simple blood test can check your thyroid function.",
+    "follow_up": ["Do you have other thyroid symptoms?", "Have you had thyroid tests?", "Are you on thyroid medication?"]
+  },
+  {
+    "id": 269,
+    "category": "light_periods",
+    "question": "Can being underweight cause light periods",
+    "alternate_questions": ["Low BMI light period", "Underweight and menstruation", "Why does low weight affect periods", "Eating disorder light bleeding", "Malnutrition and periods"],
+    "keywords": ["underweight", "low BMI", "malnutrition", "light period", "body fat"],
+    "answer": "Yes, being underweight (BMI under 18.5) or having very low body fat can cause light or absent periods. Your body needs adequate fat stores to produce estrogen. Without enough estrogen, the uterine lining doesn't build up properly, resulting in light or missed periods. This is common in eating disorders, extreme athletes, and those with malabsorption issues. Gaining weight healthily and ensuring adequate nutrition usually restores normal cycles.",
+    "follow_up": ["What is your current weight/BMI?", "Are you eating enough calories?", "Do you have a history of eating disorders?"]
+  },
+  {
+    "id": 270,
+    "category": "light_periods",
+    "question": "Can Asherman syndrome cause light periods",
+    "alternate_questions": ["Uterine scarring light period", "Asherman's syndrome symptoms", "Scar tissue uterus light bleeding", "After D&C light periods", "Intrauterine adhesions periods"],
+    "keywords": ["Asherman syndrome", "scarring", "adhesions", "light period", "uterine"],
+    "answer": "Yes, Asherman's syndrome (intrauterine adhesions or scar tissue in the uterus) can cause very light or absent periods. It often occurs after uterine procedures like D&C, cesarean section, or fibroid removal. The scar tissue prevents the uterine lining from building up normally. It's diagnosed with hysteroscopy or ultrasound. Treatment involves surgical removal of adhesions, sometimes followed by hormone therapy to prevent recurrence.",
+    "follow_up": ["Have you had uterine surgery or procedures?", "Did your periods change after a procedure?", "Have you been evaluated for scarring?"]
+  },
+  {
+    "id": 271,
+    "category": "light_periods",
+    "question": "Is a light period something to worry about",
+    "alternate_questions": ["Should I worry about light bleeding", "Light period concern", "When to see doctor light period", "Is hypomenorrhea dangerous", "Light flow medical attention"],
+    "keywords": ["worry", "concern", "medical attention", "light period", "when to see doctor"],
+    "answer": "A single light period is usually not concerning and can be due to stress, travel, or minor hormonal fluctuations. However, see a doctor if: your period suddenly becomes much lighter and stays that way for 3+ cycles, you were previously regular and now have significant changes, you're trying to conceive, you have other symptoms (hot flashes, vaginal dryness, headaches, vision changes), or you suspect pregnancy. Light periods can indicate underlying issues worth evaluating.",
+    "follow_up": ["How long have periods been light?", "Are you trying to conceive?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 272,
+    "category": "light_periods",
+    "question": "Can breastfeeding cause light periods",
+    "alternate_questions": ["Nursing and light period", "Lactation light bleeding", "Why are my periods light while breastfeeding", "Postpartum light menstruation", "Breastfeeding and cycle return"],
+    "keywords": ["breastfeeding", "lactation", "postpartum", "light period", "prolactin"],
+    "answer": "Yes, when periods return while breastfeeding, they are often lighter and more irregular at first. Prolactin, the milk-producing hormone, suppresses ovulation and affects estrogen levels. Your body is still adjusting hormonally. Early postpartum periods may be lighter or heavier than your pre-pregnancy norm. This usually normalizes after weaning or as breastfeeding frequency decreases. If you're concerned about the changes, mention them at your postpartum checkup.",
+    "follow_up": ["How often are you breastfeeding?", "How long postpartum are you?", "Are you using contraception?"]
+  },
+  {
+    "id": 273,
+    "category": "light_periods",
+    "question": "Can I have a light period and still ovulate",
+    "alternate_questions": ["Ovulation with light period", "Light flow and fertility", "Can I get pregnant with light periods", "Hypomenorrhea and ovulation", "Light period egg release"],
+    "keywords": ["ovulation", "fertility", "light period", "conception", "egg release"],
+    "answer": "Yes, you can ovulate with light periods. Light bleeding doesn't necessarily mean you're not ovulating. However, consistently light periods can sometimes indicate anovulatory cycles or low progesterone. If you're trying to conceive, tracking ovulation with BBT, OPKs, or cervical mucus observation helps confirm whether you're ovulating despite light flow. If you suspect ovulation issues, consult a fertility specialist.",
+    "follow_up": ["Are you trying to conceive?", "Do you track ovulation?", "Have you confirmed ovulation?"]
+  },
+  {
+    "id": 274,
+    "category": "light_periods",
+    "question": "What is a withdrawal bleed",
+    "alternate_questions": ["Pill period vs real period", "Hormonal withdrawal bleeding", "Birth control fake period", "Is my pill period real", "Withdrawal bleed explained"],
+    "keywords": ["withdrawal bleed", "birth control", "hormonal", "fake period", "pill"],
+    "answer": "A withdrawal bleed is bleeding that occurs during the placebo week of hormonal birth control pills. It's not a true period because no ovulation occurred. The bleed is caused by the sudden drop in hormones when you stop taking active pills. This bleed is usually lighter and shorter than a natural period. Some people choose to skip the placebo week and take active pills continuously to avoid bleeding altogether, which is medically safe.",
+    "follow_up": ["Are you on birth control pills?", "Do you take the placebo week?", "Have you considered continuous use?"]
+  },
+  {
+    "id": 275,
+    "category": "light_periods",
+    "question": "Can I make my period heavier",
+    "alternate_questions": ["How to increase period flow", "Make periods heavier naturally", "Why do I want heavier periods", "Light period treatment", "Increasing menstrual flow"],
+    "keywords": ["heavier period", "increase flow", "treatment", "light period", "remedy"],
+    "answer": "If your periods are unusually light due to a medical issue, treating the underlying cause (like thyroid problems, hormonal imbalances, or nutritional deficiencies) may restore normal flow. However, trying to artificially increase flow is not recommended. A healthy diet with adequate calories, healthy fats, and nutrients supports hormonal balance. If you're concerned about light periods, see a healthcare provider to determine if treatment is needed rather than self-treating.",
+    "follow_up": ["Why do you want heavier periods?", "Have you been evaluated for causes?", "Are you trying to conceive?"]
+  }
+]

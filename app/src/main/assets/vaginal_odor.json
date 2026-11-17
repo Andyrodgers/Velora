@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1101,
+    "category": "vaginal_odor",
+    "question": "Is vaginal odor normal?",
+    "alternate_questions": ["What should a vagina smell like?", "Is it normal for my vagina to have a smell?", "Common vaginal scents"],
+    "keywords": ["odor", "smell", "normal", "vagina", "scent"],
+    "answer": "Yes, it's completely normal for the vagina to have a mild, musky scent. This scent can change throughout your menstrual cycle, after exercise, or after sex. However, a strong, 'fishy', or foul odor is usually a sign of an issue.",
+    "follow_up": ["What causes a fishy odor?", "When should I be concerned about vaginal odor?", "How can I maintain a healthy vaginal scent?"]
+  },
+  {
+    "id": 1102,
+    "category": "vaginal_odor",
+    "question": "What causes a strong or foul vaginal odor?",
+    "alternate_questions": ["Why does my vagina smell bad?", "Causes of unpleasant vaginal odor", "What is a fishy smell a sign of?"],
+    "keywords": ["foul", "odor", "causes", "infection", "fishy"],
+    "answer": "The most common causes of a strong or foul odor are Bacterial Vaginosis (BV), Trichomoniasis, or a forgotten tampon. BV often causes a 'fishy' smell. Other factors can include poor hygiene, sweat, or dietary changes.",
+    "follow_up": ["What is Bacterial Vaginosis?", "How do I know if I left a tampon in?", "What are the symptoms of Trichomoniasis?"]
+  },
+  {
+    "id": 1103,
+    "category": "vaginal_odor",
+    "question": "How can I manage or prevent vaginal odor?",
+    "alternate_questions": ["Ways to keep fresh", "How to get rid of vaginal smell", "Hygiene tips for vaginal odor"],
+    "keywords": ["manage", "prevent", "hygiene", "fresh", "odor"],
+    "answer": "Maintain good hygiene by washing the external area (vulva) with mild, unscented soap and water. Avoid douching, as it disrupts the natural balance of bacteria. Wear cotton underwear, change out of wet workout clothes quickly, and change menstrual products frequently.",
+    "follow_up": ["Is douching bad?", "What kind of soap should I use for my vulva?", "How often should I change my pad or tampon?"]
+  },
+  {
+    "id": 1104,
+    "category": "vaginal_odor",
+    "question": "Can my diet affect my vaginal odor?",
+    "alternate_questions": ["Do certain foods change vaginal smell?", "Can what I eat make me smell down there?", "Foods that impact vaginal scent"],
+    "keywords": ["diet", "food", "odor", "scent", "impact"],
+    "answer": "Yes, some people find that foods with strong scents, like garlic, onions, asparagus, or certain spices, can temporarily change their vaginal odor. Staying hydrated can also help maintain a mild scent.",
+    "follow_up": ["Does pineapple make you smell better?", "How much water should I drink for health?", "What foods are good for vaginal health?"]
+  },
+  {
+    "id": 1105,
+    "category": "vaginal_odor",
+    "question": "When should I see a doctor about vaginal odor?",
+    "alternate_questions": ["When is vaginal smell a problem?", "Warning signs of odor-related issues", "Doctor for vaginal odor"],
+    "keywords": ["doctor", "concern", "warning", "signs", "odor"],
+    "answer": "You should see a doctor if the odor is strong, foul, or 'fishy', and is accompanied by itching, burning, redness, or unusual discharge (like grey, green, or thick white discharge). These are often signs of an infection that needs treatment.",
+    "follow_up": ["What will a doctor do for vaginal odor?", "What tests are done for infections?", "Are there over-the-counter treatments for odor?"]
+  }
+]

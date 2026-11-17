@@ -1,0 +1,272 @@
+[
+  {
+    "id": 11001,
+    "category": "yoga",
+    "question": "What is yoga",
+    "alternate_questions": ["Yoga explained", "Yoga meaning", "Types of yoga", "Yoga benefits", "Start yoga"],
+    "keywords": ["yoga", "explained", "meaning", "types", "benefits", "start"],
+    "answer": "Yoga is a mind-body practice combining physical postures, breathing exercises, and meditation. Originating in ancient India, it promotes flexibility, strength, relaxation, and mental clarity. Popular styles include Hatha (gentle), Vinyasa (flow), Ashtanga (rigorous), Yin (slow), and Restorative (relaxing). Yoga supports menstrual health by reducing stress, improving circulation, and easing cramps.",
+    "follow_up": ["Have you tried yoga before?", "What style interests you?", "What are your goals?"]
+  },
+  {
+    "id": 11002,
+    "category": "yoga",
+    "question": "Can yoga help period cramps",
+    "alternate_questions": ["Yoga cramps", "Period pain yoga", "Menstrual yoga poses", "Yoga relieve period pain", "Best yoga for periods"],
+    "keywords": ["yoga", "cramps", "period pain", "menstrual", "poses", "relieve", "periods"],
+    "answer": "Yes, yoga effectively reduces period cramps. Gentle poses relax the pelvic area, improve blood flow, and release endorphins. Best poses: Child's Pose, Cat-Cow, Supine Twist, Pigeon Pose, and Legs-Up-the-Wall. Avoid inversions during heavy flow if they feel uncomfortable. Practice gently and listen to your body.",
+    "follow_up": ["How severe are your cramps?", "Have you tried yoga for pain?", "Would you like pose instructions?"]
+  },
+  {
+    "id": 11003,
+    "category": "yoga",
+    "question": "What yoga poses for PMS",
+    "alternate_questions": ["PMS yoga", "Yoga mood swings", "Premenstrual yoga", "Yoga irritability", "Yoga bloating"],
+    "keywords": ["PMS", "yoga", "mood swings", "premenstrual", "irritability", "bloating", "poses"],
+    "answer": "Yoga helps PMS symptoms by reducing stress and balancing hormones. Helpful poses: Forward Fold (calming), Bridge Pose (energy), Gentle Backbends (mood boost), Reclined Bound Angle (hips), and Corpse Pose (relaxation). Practice slow, mindful movement with deep breathing.",
+    "follow_up": ["What PMS symptoms bother you most?", "Do you currently exercise?", "Would you like a PMS yoga sequence?"]
+  },
+  {
+    "id": 11004,
+    "category": "yoga",
+    "question": "Should I do yoga during my period",
+    "alternate_questions": ["Yoga menstruation", "Period yoga safe", "Invert period yoga", "Yoga heavy flow", "Menstrual yoga practice"],
+    "keywords": ["yoga", "menstruation", "period", "safe", "invert", "heavy flow", "practice"],
+    "answer": "Yes, gentle yoga during your period is safe and beneficial. It eases cramps, reduces bloating, and improves mood. Avoid inversions (headstands, shoulder stands) if they feel uncomfortable or increase flow. Focus on restorative poses, gentle twists, and hip openers. Listen to your body and rest when needed.",
+    "follow_up": ["Do you currently practice yoga?", "How do you feel about inversions?", "Would you like a period-friendly sequence?"]
+  },
+  {
+    "id": 11005,
+    "category": "yoga",
+    "question": "What is fertility yoga",
+    "alternate_questions": ["Yoga conceive", "Fertility yoga poses", "TTC yoga", "Yoga ovaries", "Reproductive yoga"],
+    "keywords": ["fertility", "yoga", "conceive", "poses", "TTC", "ovaries", "reproductive"],
+    "answer": "Fertility yoga focuses on poses that increase blood flow to reproductive organs, reduce stress, and balance hormones. Key poses: Butterfly, Legs-Up-the-Wall, Cobra, Bridge, and Gentle Twists. It also emphasizes relaxation and stress reduction. Practice 3-4 times weekly when TTC.",
+    "follow_up": ["Are you trying to conceive?", "How long have you been TTC?", "Would you like a fertility yoga routine?"]
+  },
+  {
+    "id": 11006,
+    "category": "yoga",
+    "question": "What yoga for stress relief",
+    "alternate_questions": ["Stress yoga", "Anxiety yoga", "Calming yoga", "Relaxation yoga", "Yoga mental health"],
+    "keywords": ["stress", "yoga", "anxiety", "calming", "relaxation", "mental health", "relief"],
+    "answer": "Yoga reduces stress through breathwork and gentle movement. Best styles: Restorative, Yin, Hatha, and Yoga Nidra. Effective poses: Child's Pose, Forward Fold, Legs-Up-the-Wall, and Corpse Pose. Focus on long exhales which activate the parasympathetic nervous system. Even 10 minutes helps.",
+    "follow_up": ["What is your stress level?", "Have you tried yoga for stress?", "How much time can you commit?"]
+  },
+  {
+    "id": 11007,
+    "category": "yoga",
+    "question": "Can yoga help with PCOS",
+    "alternate_questions": ["PCOS yoga", "Yoga polycystic", "Hormone balance yoga", "Yoga insulin resistance", "PCOS exercise yoga"],
+    "keywords": ["PCOS", "yoga", "polycystic", "hormone balance", "insulin resistance", "exercise"],
+    "answer": "Yoga helps PCOS by reducing stress hormones, improving insulin sensitivity, and supporting weight management. Beneficial poses: Butterfly, Cobra, Bow Pose, and Sun Salutations. Regular practice (3-5 times weekly) may improve menstrual regularity and reduce symptoms.",
+    "follow_up": ["Do you have PCOS?", "What are your main symptoms?", "Would you like a PCOS yoga sequence?"]
+  },
+  {
+    "id": 11008,
+    "category": "yoga",
+    "question": "What is prenatal yoga",
+    "alternate_questions": ["Yoga pregnant", "Pregnancy yoga", "Prenatal yoga benefits", "Safe yoga pregnancy", "Yoga classes pregnant"],
+    "keywords": ["prenatal", "yoga", "pregnant", "pregnancy", "benefits", "safe", "classes"],
+    "answer": "Prenatal yoga is modified for pregnancy safety and comfort. Benefits: reduces back pain, improves sleep, decreases stress, strengthens pelvic floor, and prepares for labor. Avoid: deep twists, backbends, inversions after first trimester, lying flat on back after 20 weeks, and hot yoga. Always inform instructor of pregnancy.",
+    "follow_up": ["Are you pregnant?", "How far along?", "Have you found a prenatal class?"]
+  },
+  {
+    "id": 11009,
+    "category": "yoga",
+    "question": "What yoga for endometriosis pain",
+    "alternate_questions": ["Endo yoga", "Endometriosis stretches", "Pelvic pain yoga", "Yoga chronic pelvic pain", "Gentle yoga endo"],
+    "keywords": ["endometriosis", "endo", "stretches", "pelvic pain", "chronic", "gentle", "yoga"],
+    "answer": "Gentle yoga helps endometriosis by releasing pelvic tension and reducing inflammation. Best poses: Reclined Butterfly, Supported Bridge, Gentle Twists, Legs-Up-the-Wall, and Child's Pose. Avoid deep hip openers or intense abdominal work during pain flares. Listen to your body and rest when needed.",
+    "follow_up": ["Do you have endometriosis?", "How severe is your pain?", "Would you like gentle pose guidance?"]
+  },
+  {
+    "id": 11010,
+    "category": "yoga",
+    "question": "What is yin yoga",
+    "alternate_questions": ["Yin yoga explained", "Slow yoga", "Hold poses long", "Yin vs yang yoga", "Yin yoga benefits"],
+    "keywords": ["yin yoga", "explained", "slow", "hold poses", "yang", "benefits", "long"],
+    "answer": "Yin yoga involves holding passive poses for 3-5 minutes to stretch connective tissues and fascia. It's slow, meditative, and deeply relaxing. Benefits: increased flexibility, stress reduction, improved joint mobility, and better sleep. Excellent for menstrual cramps, PMS, and recovery days.",
+    "follow_up": ["Have you tried yin yoga?", "Do you prefer slow or active practice?", "Would you like to start?"]
+  },
+  {
+    "id": 11011,
+    "category": "yoga",
+    "question": "What is hot yoga",
+    "alternate_questions": ["Bikram yoga", "Hot yoga benefits", "Yoga heated room", "Hot yoga risks", "Sweat yoga"],
+    "keywords": ["hot yoga", "bikram", "heated room", "benefits", "risks", "sweat", "yoga"],
+    "answer": "Hot yoga is practiced in a heated room (85-105F). Benefits: increased flexibility, detoxification through sweat, and calorie burn. Risks: dehydration, overheating, dizziness, and not safe during pregnancy or for certain conditions. Stay hydrated and listen to your body. Skip during heavy periods if you feel weak.",
+    "follow_up": ["Have you tried hot yoga?", "Do you tolerate heat well?", "Are you pregnant or have health conditions?"]
+  },
+  {
+    "id": 11012,
+    "category": "yoga",
+    "question": "What yoga poses for back pain",
+    "alternate_questions": ["Back pain yoga", "Lower back yoga", "Period back pain yoga", "Yoga spine health", "Yoga posture back"],
+    "keywords": ["back pain", "yoga", "lower back", "spine health", "posture", "period", "poses"],
+    "answer": "Yoga relieves back pain by strengthening core and improving flexibility. Best poses: Cat-Cow, Downward Dog, Child's Pose, Sphinx, Bridge, and Supine Twist. Avoid deep forward folds if you have disc issues. Practice regularly for prevention, not just when pain strikes.",
+    "follow_up": ["Where is your back pain?", "Is it related to your period?", "Have you tried yoga for back pain?"]
+  },
+  {
+    "id": 11013,
+    "category": "yoga",
+    "question": "What is yoga Nidra",
+    "alternate_questions": ["Yoga sleep", "Guided relaxation yoga", "Yoga Nidra benefits", "Conscious sleep", "Yoga meditation lying down"],
+    "keywords": ["yoga nidra", "sleep", "guided relaxation", "benefits", "conscious", "meditation", "lying down"],
+    "answer": "Yoga Nidra is guided meditation practiced lying down, often called 'yogic sleep.' It induces deep relaxation while maintaining awareness. Benefits: reduces stress and anxiety, improves sleep, decreases pain, and enhances mental clarity. Practice 20-45 minutes. Excellent for insomnia, PMS, and stress relief.",
+    "follow_up": ["Do you have trouble sleeping?", "Have you tried meditation?", "Would you like guided resources?"]
+  },
+  {
+    "id": 11014,
+    "category": "yoga",
+    "question": "Can yoga help with menopause symptoms",
+    "alternate_questions": ["Menopause yoga", "Hot flashes yoga", "Yoga hormonal balance", "Aging yoga women", "Yoga menopause relief"],
+    "keywords": ["menopause", "yoga", "hot flashes", "hormonal balance", "aging", "women", "relief"],
+    "answer": "Yoga helps menopause by reducing hot flashes, improving sleep, decreasing anxiety, and maintaining bone density. Beneficial practices: cooling poses, restorative yoga, pranayama (breathwork), and meditation. Avoid overly heated practices if hot flashes are severe.",
+    "follow_up": ["Are you menopausal?", "What symptoms bother you most?", "Would you like menopause-specific poses?"]
+  },
+  {
+    "id": 11015,
+    "category": "yoga",
+    "question": "What is pranayama",
+    "alternate_questions": ["Yoga breathing", "Pranayama techniques", "Breathwork yoga", "Alternate nostril breathing", "Breathing exercises yoga"],
+    "keywords": ["pranayama", "yoga breathing", "techniques", "breathwork", "alternate nostril", "exercises"],
+    "answer": "Pranayama is yogic breath control. Techniques include: Deep Belly Breathing (calming), Alternate Nostril Breathing (balancing), Ujjayi (ocean breath, warming), and Cooling Breath (for hot flashes). Pranayama reduces stress, improves focus, and balances energy. Practice 5-10 minutes daily.",
+    "follow_up": ["Have you tried breathwork?", "What is your goal?", "Would you like technique instructions?"]
+  },
+  {
+    "id": 11016,
+    "category": "yoga",
+    "question": "What yoga for beginners",
+    "alternate_questions": ["Start yoga", "Beginner yoga", "First yoga class", "Yoga at home", "Easy yoga poses"],
+    "keywords": ["beginners", "start", "beginner", "first class", "at home", "easy", "poses"],
+    "answer": "Begin with gentle styles: Hatha, Restorative, or Yin. Start at home with online classes or apps. Basic poses: Mountain Pose, Downward Dog, Child's Pose, Warrior I, and Tree Pose. Use props (blocks, straps) for support. Practice 10-20 minutes, 2-3 times weekly. No flexibility required.",
+    "follow_up": ["Are you completely new to yoga?", "Do you prefer classes or home practice?", "What is your fitness level?"]
+  },
+  {
+    "id": 11017,
+    "category": "yoga",
+    "question": "What is pelvic floor yoga",
+    "alternate_questions": ["Kegel yoga", "Pelvic floor exercises", "Yoga incontinence", "Postpartum pelvic floor", "Yoga pelvic health"],
+    "keywords": ["pelvic floor", "kegel", "exercises", "incontinence", "postpartum", "pelvic health", "yoga"],
+    "answer": "Pelvic floor yoga strengthens muscles supporting bladder, uterus, and bowels. Beneficial for: incontinence, prolapse, postpartum recovery, and sexual health. Poses: Bridge, Chair Pose, and Mula Bandha (root lock). Learn proper engagement to avoid over-tightening. Consider pelvic floor physical therapy for specific issues.",
+    "follow_up": ["Do you have pelvic floor concerns?", "Are you postpartum?", "Would you like pelvic floor guidance?"]
+  },
+  {
+    "id": 11018,
+    "category": "yoga",
+    "question": "Can yoga help with anxiety",
+    "alternate_questions": ["Yoga anxiety relief", "Yoga mental health", "Calming yoga poses", "Yoga panic attacks", "Yoga depression"],
+    "keywords": ["yoga", "anxiety", "relief", "mental health", "calming", "panic attacks", "depression"],
+    "answer": "Yoga reduces anxiety by activating the parasympathetic nervous system and lowering cortisol. Best practices: gentle flows, forward folds (calming), legs-up-the-wall, long exhales, and Yoga Nidra. Regular practice (3+ times weekly) shows significant anxiety reduction in research studies.",
+    "follow_up": ["Do you have anxiety?", "Have you tried yoga for it?", "What type of anxiety do you experience?"]
+  },
+  {
+    "id": 11019,
+    "category": "yoga",
+    "question": "What is sun salutation",
+    "alternate_questions": ["Surya namaskar", "Sun salute yoga", "Morning yoga routine", "Sun salutation steps", "Flow yoga sequence"],
+    "keywords": ["sun salutation", "surya namaskar", "sun salute", "morning", "routine", "steps", "flow", "sequence"],
+    "answer": "Sun Salutation (Surya Namaskar) is a flowing sequence of 12 poses warming up the entire body. Includes: Mountain Pose, Forward Fold, Plank, Cobra, and Downward Dog. Practice 3-10 rounds to build energy, flexibility, and strength. Great morning practice or workout warm-up.",
+    "follow_up": ["Have you tried Sun Salutations?", "Do you practice in the morning?", "Would you like step-by-step guidance?"]
+  },
+  {
+    "id": 11020,
+    "category": "yoga",
+    "question": "What props do I need for yoga",
+    "alternate_questions": ["Yoga equipment", "Yoga mat block", "Yoga strap bolster", "Home yoga setup", "Yoga props beginner"],
+    "keywords": ["props", "equipment", "yoga mat", "block", "strap", "bolster", "home setup", "beginner"],
+    "answer": "Essential props: yoga mat (grip and cushioning), blocks (support and extension), strap (flexibility aid), and bolster (restorative support). Optional: blanket, eye pillow, and yoga wheels. Start with a mat and add others as needed. Many household items substitute initially.",
+    "follow_up": ["Do you have any yoga props?", "Are you practicing at home?", "What is your budget?"]
+  },
+  {
+    "id": 11021,
+    "category": "yoga",
+    "question": "How often should I practice yoga",
+    "alternate_questions": ["Yoga frequency", "Daily yoga", "How much yoga", "Yoga schedule", "Yoga routine"],
+    "keywords": ["frequency", "daily", "how much", "schedule", "routine", "practice", "often"],
+    "answer": "For benefits, practice 2-3 times weekly minimum. Daily practice (even 10-20 minutes) yields best results. Consistency matters more than duration. Mix active practices (Vinyasa) with restorative (Yin) throughout the week. Listen to your body and rest when needed, especially during menstruation.",
+    "follow_up": ["How often do you currently exercise?", "How much time can you commit?", "What are your goals?"]
+  },
+  {
+    "id": 11022,
+    "category": "yoga",
+    "question": "What yoga for better sleep",
+    "alternate_questions": ["Sleep yoga", "Bedtime yoga", "Yoga insomnia", "Relaxing yoga night", "Yoga before bed"],
+    "keywords": ["sleep", "bedtime", "insomnia", "relaxing", "night", "before bed", "yoga"],
+    "answer": "Evening yoga prepares the body for sleep. Best poses: Legs-Up-the-Wall, Supine Twist, Reclined Butterfly, Forward Fold, and Corpse Pose. Practice 15-30 minutes before bed. Focus on slow movement and long exhales. Avoid energizing poses or vigorous flows near bedtime.",
+    "follow_up": ["Do you have trouble sleeping?", "What is your bedtime routine?", "Would you like a bedtime sequence?"]
+  },
+  {
+    "id": 11023,
+    "category": "yoga",
+    "question": "What is restorative yoga",
+    "alternate_questions": ["Restorative yoga explained", "Gentle yoga rest", "Props yoga relax", "Restorative poses", "Yoga stress relief gentle"],
+    "keywords": ["restorative", "explained", "gentle", "rest", "props", "relax", "poses", "stress relief"],
+    "answer": "Restorative yoga uses props to support the body in passive poses held 5-20 minutes. It triggers the relaxation response, reducing stress and promoting deep rest. Poses include: Supported Child's Pose, Supported Bridge, and Legs-Up-the-Wall. Excellent for fatigue, stress, PMS, and recovery.",
+    "follow_up": ["Do you feel constantly tired?", "Have you tried restorative yoga?", "Do you have props available?"]
+  },
+  {
+    "id": 11024,
+    "category": "yoga",
+    "question": "Can yoga help with digestion",
+    "alternate_questions": ["Yoga bloating", "Yoga constipation", "Digestive yoga", "Gut health yoga", "Yoga stomach issues"],
+    "keywords": ["digestion", "bloating", "constipation", "digestive", "gut health", "stomach", "yoga"],
+    "answer": "Yoga stimulates digestion through gentle compression and movement. Best poses: Wind-Relieving Pose, Cat-Cow, Seated Twist, Bridge, and Supine Twist. Practice on an empty stomach. Gentle movement helps gas, bloating, and sluggish digestion, especially during PMS.",
+    "follow_up": ["Do you have digestive issues?", "Are they related to your cycle?", "Would you like digestive poses?"]
+  },
+  {
+    "id": 11025,
+    "category": "yoga",
+    "question": "What is power yoga",
+    "alternate_questions": ["Power yoga explained", "Fitness yoga", "Athletic yoga", "Power yoga vs vinyasa", "Intense yoga workout"],
+    "keywords": ["power yoga", "explained", "fitness", "athletic", "vinyasa", "intense", "workout"],
+    "answer": "Power yoga is a vigorous, fitness-based approach emphasizing strength and flexibility. It's derived from Ashtanga but with varied sequences. Expect continuous movement, challenging poses, and minimal meditation. Good for building muscle, cardiovascular health, and weight management. Not ideal during menstruation or for beginners.",
+    "follow_up": ["Are you looking for a workout?", "What is your fitness level?", "Have you tried other yoga styles?"]
+  },
+  {
+    "id": 11026,
+    "category": "yoga",
+    "question": "What yoga for posture",
+    "alternate_questions": ["Posture yoga", "Desk job yoga", "Yoga back straight", "Yoga hunchback", "Yoga spine alignment"],
+    "keywords": ["posture", "desk job", "back straight", "hunchback", "spine alignment", "yoga"],
+    "answer": "Yoga corrects posture by strengthening core and opening chest/shoulders. Best poses: Mountain Pose, Cobra, Locust, Bridge, Camel, and Thread the Needle. Practice regularly to counteract desk work and phone use. Improved posture reduces back pain and boosts confidence.",
+    "follow_up": ["Do you sit at a desk?", "Do you have posture concerns?", "Would you like a desk-break sequence?"]
+  },
+  {
+    "id": 11027,
+    "category": "yoga",
+    "question": "What is Kundalini yoga",
+    "alternate_questions": ["Kundalini explained", "Spiritual yoga", "Chanting yoga", "Kundalini awakening", "Energy yoga"],
+    "keywords": ["kundalini", "explained", "spiritual", "chanting", "awakening", "energy", "yoga"],
+    "answer": "Kundalini yoga combines postures, breathing, chanting, and meditation to awaken energy at the base of the spine. It's spiritually focused and can be intense. Benefits: increased energy, emotional release, and mental clarity. May not suit everyone, especially those with certain mental health conditions. Try with an experienced teacher.",
+    "follow_up": ["Are you interested in spiritual practice?", "Have you tried meditation?", "Would you like to explore Kundalini?"]
+  },
+  {
+    "id": 11028,
+    "category": "yoga",
+    "question": "What yoga for hip flexibility",
+    "alternate_questions": ["Hip openers yoga", "Tight hips yoga", "Yoga hip pain", "Hip stretch yoga", "Yoga flexibility hips"],
+    "keywords": ["hip flexibility", "hip openers", "tight hips", "hip pain", "stretch", "flexibility", "yoga"],
+    "answer": "Yoga improves hip flexibility through targeted hip openers. Best poses: Pigeon, Lizard Lunge, Frog, Butterfly, Happy Baby, and Garland Pose. Tight hips are common from sitting and stress (hips store emotional tension). Practice gently and consistently, never forcing.",
+    "follow_up": ["Are your hips tight?", "Do you sit a lot?", "Would you like hip-opening sequences?"]
+  },
+  {
+    "id": 11029,
+    "category": "yoga",
+    "question": "Can yoga help with body image",
+    "alternate_questions": ["Yoga body positivity", "Yoga self esteem", "Yoga confidence", "Yoga eating disorder", "Yoga body acceptance"],
+    "keywords": ["body image", "positivity", "self esteem", "confidence", "eating disorder", "body acceptance", "yoga"],
+    "answer": "Yoga fosters body acceptance by shifting focus from appearance to function and sensation. It builds mind-body connection and appreciation for what your body can do. Choose non-competitive, body-positive environments. Avoid classes that feel shaming or overly focused on aesthetics.",
+    "follow_up": ["Do you struggle with body image?", "Have you had negative yoga experiences?", "Would you like body-positive resources?"]
+  },
+  {
+    "id": 11030,
+    "category": "yoga",
+    "question": "What is the best time for yoga",
+    "alternate_questions": ["Morning vs evening yoga", "Yoga time of day", "When practice yoga", "Yoga schedule best", "Yoga timing benefits"],
+    "keywords": ["best time", "morning", "evening", "time of day", "when", "schedule", "timing", "benefits"],
+    "answer": "Morning yoga energizes and sets intention for the day. Evening yoga unwinds and prepares for sleep. The best time is when you'll actually practice consistently. Some prefer midday for a break. Match style to time: active flows in morning, gentle/restorative in evening.",
+    "follow_up": ["When do you prefer to exercise?", "What is your schedule like?", "What is your goal for practice?"]
+  }
+]

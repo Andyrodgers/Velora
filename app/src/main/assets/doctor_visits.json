@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1401,
+    "category": "doctor_visits",
+    "question": "When should I see a gynecologist?",
+    "alternate_questions": ["When to book a gyno appointment", "Frequency of pelvic exams", "Signs I need to see a doctor for my period"],
+    "keywords": ["doctor", "gynecologist", "visit", "appointment", "exam"],
+    "answer": "You should see a gynecologist for annual wellness exams, or if you experience unusual symptoms like severe pain, heavy bleeding, irregular periods, unusual discharge, or if you have questions about birth control or sexual health.",
+    "follow_up": ["What happens during a pelvic exam?", "How to prepare for a gynecologist visit?", "What is a Pap smear?"]
+  },
+  {
+    "id": 1402,
+    "category": "doctor_visits",
+    "question": "How do I prepare for a gynecologist appointment?",
+    "alternate_questions": ["Preparing for pelvic exam", "What to bring to the gyno", "Tips for a doctor visit"],
+    "keywords": ["prepare", "appointment", "doctor", "questions", "history"],
+    "answer": "Prepare by tracking your cycle and symptoms, listing any medications you take, and writing down questions you have. It's often best to schedule your visit for a time when you don't have your period, unless you're specifically seeing the doctor for a period-related issue.",
+    "follow_up": ["What questions should I ask my gynecologist?", "Should I shave before my appointment?", "Can I see a gyno on my period?"]
+  },
+  {
+    "id": 1403,
+    "category": "doctor_visits",
+    "question": "What is a Pap smear?",
+    "alternate_questions": ["What happens during a Pap test?", "Why do I need a Pap smear?", "Pap smear frequency"],
+    "keywords": ["pap smear", "test", "cervical cancer", "screening", "exam"],
+    "answer": "A Pap smear is a screening test for cervical cancer. The doctor collects a small sample of cells from your cervix to check for any abnormalities. It's usually done during a pelvic exam starting at age 21.",
+    "follow_up": ["Does a Pap smear hurt?", "What do abnormal Pap results mean?", "How often do I need a Pap smear?"]
+  },
+  {
+    "id": 1404,
+    "category": "doctor_visits",
+    "question": "What questions should I ask my doctor about my cycle?",
+    "alternate_questions": ["Talking to doctor about periods", "Period concerns for doctor", "Cycle health questions"],
+    "keywords": ["questions", "doctor", "cycle", "period", "health"],
+    "answer": "Ask about anything that concerns you, such as: 'Is my pain level normal?', 'Is my flow too heavy?', 'Why is my cycle irregular?', 'Are my mood swings common?', and 'What birth control options are best for me?'",
+    "follow_up": ["How to track symptoms for a doctor?", "What is considered a normal period?", "Can I talk about mental health with my gyno?"]
+  },
+  {
+    "id": 1405,
+    "category": "doctor_visits",
+    "question": "Can I see a gynecologist if I'm on my period?",
+    "alternate_questions": ["Appointment during period", "Bleeding at the gyno", "Period and pelvic exam"],
+    "keywords": ["period", "gynecologist", "appointment", "bleeding", "exam"],
+    "answer": "Yes, you can! However, if you are having a Pap smear, it might be better to reschedule as blood can affect the results. If you're seeing the doctor *because* of heavy or painful periods, seeing them while you're bleeding can actually be helpful.",
+    "follow_up": ["Should I call to check before my visit?", "What if my period starts the day of my exam?", "Are there tests that can't be done during a period?"]
+  }
+]

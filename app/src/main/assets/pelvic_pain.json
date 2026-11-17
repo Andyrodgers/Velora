@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1501,
+    "category": "pelvic_pain",
+    "question": "What is pelvic pain?",
+    "alternate_questions": ["Where is pelvic pain located?", "Definition of pelvic pain", "Feeling pain in my lower stomach"],
+    "keywords": ["pelvic pain", "pelvis", "abdomen", "lower stomach", "pain"],
+    "answer": "Pelvic pain refers to discomfort or pain that occurs in the lowest part of your abdomen and pelvis. It can range from a dull ache to sharp stabs and can be related to the reproductive, urinary, or digestive systems.",
+    "follow_up": ["What causes pelvic pain during periods?", "When is pelvic pain an emergency?", "How can I relieve pelvic pain?"]
+  },
+  {
+    "id": 1502,
+    "category": "pelvic_pain",
+    "question": "What causes pelvic pain?",
+    "alternate_questions": ["Why does my pelvis hurt?", "Causes of lower abdominal pain", "Reasons for pelvic discomfort"],
+    "keywords": ["causes", "pelvic pain", "reasons", "cramps", "infection"],
+    "answer": "Common causes include menstrual cramps, ovulation, endometriosis, ovarian cysts, fibroids, UTIs, Pelvic Inflammatory Disease (PID), or even digestive issues like IBS. It's important to track when the pain happens to help identify the cause.",
+    "follow_up": ["Can ovulation cause pain?", "What is PID?", "How to track pelvic pain?"]
+  },
+  {
+    "id": 1503,
+    "category": "pelvic_pain",
+    "question": "Is pelvic pain during ovulation normal?",
+    "alternate_questions": ["What is Mittelschmerz?", "Pain in the middle of my cycle", "Why do I hurt when I ovulate?"],
+    "keywords": ["ovulation", "pain", "mittelschmerz", "mid-cycle", "normal"],
+    "answer": "Yes, some people experience one-sided lower abdominal pain during ovulation, known as Mittelschmerz. It's usually mild and lasts from a few minutes to a few hours.",
+    "follow_up": ["How do I know if I'm ovulating?", "Can ovulation pain be severe?", "Is Mittelschmerz common?"]
+  },
+  {
+    "id": 1504,
+    "category": "pelvic_pain",
+    "question": "When should I see a doctor for pelvic pain?",
+    "alternate_questions": ["Warning signs of pelvic pain", "Severe pelvic pain", "When to worry about lower belly pain"],
+    "keywords": ["doctor", "emergency", "severe", "warning", "signs"],
+    "answer": "You should see a doctor if pelvic pain is sudden and severe, accompanied by fever, nausea, vomiting, or if it disrupts your daily life. Chronic pain that lasts for months should also be evaluated.",
+    "follow_up": ["What will a doctor check for?", "Is chronic pelvic pain treatable?", "Can I wait for my next checkup?"]
+  },
+  {
+    "id": 1505,
+    "category": "pelvic_pain",
+    "question": "How can I relieve pelvic pain at home?",
+    "alternate_questions": ["Home remedies for pelvic discomfort", "Natural relief for pelvic pain", "How to stop my pelvis from hurting"],
+    "keywords": ["relief", "remedies", "home", "heating pad", "exercise"],
+    "answer": "Relief methods include using a heating pad on your lower abdomen, taking warm baths, practicing gentle stretching or yoga, and using over-the-counter pain relievers like ibuprofen. Reducing stress can also help.",
+    "follow_up": ["What yoga poses help with pelvic pain?", "Can diet help reduce pain?", "Does hydration help?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2801,
+    "category": "infections",
+    "question": "What are common vaginal infections?",
+    "alternate_questions": ["Types of vaginal infections", "Common causes of vaginal discomfort", "What infections can I get down there?"],
+    "keywords": ["infections", "vaginal", "yeast infection", "bv", "sti"],
+    "answer": "The most common vaginal infections are Yeast Infections (candidiasis), Bacterial Vaginosis (BV), and Sexually Transmitted Infections (STIs) like Trichomoniasis, Chlamydia, or Gonorrhea.",
+    "follow_up": ["What are the symptoms of a yeast infection?", "How to prevent vaginal infections?", "When should I see a doctor for an infection?"]
+  },
+  {
+    "id": 2802,
+    "category": "infections",
+    "question": "What is a yeast infection?",
+    "alternate_questions": ["Symptoms of a yeast infection", "How to treat a yeast infection", "What causes yeast infections?"],
+    "keywords": ["yeast infection", "itching", "discharge", "thrush", "fungal"],
+    "answer": "A yeast infection is a fungal infection that causes irritation, discharge, and intense itchiness of the vagina and the vulva. It's caused by an overgrowth of the fungus Candida.",
+    "follow_up": ["Is yeast infection discharge thick?", "Can I use OTC cream for yeast infection?", "Do yeast infections go away on their own?"]
+  },
+  {
+    "id": 2803,
+    "category": "infections",
+    "question": "How can I prevent vaginal infections?",
+    "alternate_questions": ["Ways to avoid infections", "Vaginal health tips", "Hygiene to prevent infections"],
+    "keywords": ["prevention", "hygiene", "vagina", "cotton underwear", "douching"],
+    "answer": "To prevent infections, wear breathable cotton underwear, avoid douching and scented products, wipe from front to back, and change out of wet swimsuits or workout clothes immediately. Using condoms during sex also reduces the risk of STIs.",
+    "follow_up": ["Why is douching bad?", "How does diet affect vaginal health?", "What soap is best for the vulva?"]
+  },
+  {
+    "id": 2804,
+    "category": "infections",
+    "question": "Are vaginal infections STIs?",
+    "alternate_questions": ["Is BV an STI?", "Is a yeast infection an STI?", "Can I get an infection without sex?"],
+    "keywords": ["sti", "sex", "transmitted", "yeast infection", "bv"],
+    "answer": "Not all vaginal infections are STIs. Yeast infections and Bacterial Vaginosis (BV) are common imbalances of the vagina's natural environment and can happen to anyone, regardless of sexual activity. However, some infections like Trichomoniasis are transmitted through sexual contact.",
+    "follow_up": ["What are the signs of an STI?", "Should my partner be treated for my infection?", "How often should I get tested for STIs?"]
+  },
+  {
+    "id": 2805,
+    "category": "infections",
+    "question": "When should I see a doctor for a suspected infection?",
+    "alternate_questions": ["Warning signs of vaginal infection", "Doctor for itching and discharge", "When to get tested for infections"],
+    "keywords": ["doctor", "symptoms", "warning", "signs", "testing"],
+    "answer": "You should see a doctor if you have unusual discharge (in color, smell, or consistency), persistent itching, burning during urination, or pain during sex. If you've never had a yeast infection before, it's especially important to get a professional diagnosis.",
+    "follow_up": ["What tests will the doctor do?", "Can I treat it at home first?", "What happens if an infection is left untreated?"]
+  }
+]

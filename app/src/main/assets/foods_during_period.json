@@ -1,0 +1,272 @@
+[
+  {
+    "id": 9001,
+    "category": "foods_during_period",
+    "question": "What foods help period cramps",
+    "alternate_questions": ["Eat for cramps", "Period pain food", "Cramp relief diet", "Menstrual cramp foods", "Foods reduce period pain"],
+    "keywords": ["foods", "cramps", "period pain", "diet", "relief", "reduce", "menstrual"],
+    "answer": "Foods that help cramps include: ginger (anti-inflammatory), fatty fish (omega-3s), leafy greens (magnesium), bananas (potassium), nuts and seeds (magnesium, vitamin E), dark chocolate (magnesium, mood boost), and turmeric (anti-inflammatory). Avoid salty, sugary, and processed foods which can worsen bloating and inflammation.",
+    "follow_up": ["How severe are your cramps?", "What foods do you crave during your period?", "Have you tried dietary changes?"]
+  },
+  {
+    "id": 9002,
+    "category": "foods_during_period",
+    "question": "Should I eat more during my period",
+    "alternate_questions": ["Hungry period", "Eat more menstruation", "Period appetite", "Calories period", "Metabolism menstruation"],
+    "keywords": ["eat more", "hungry", "appetite", "calories", "metabolism", "menstruation", "period"],
+    "answer": "Basal metabolic rate increases slightly during menstruation, so some extra hunger is normal. Listen to your body and eat nourishing foods. Focus on nutrient-dense options rather than restricting or overeating. Iron-rich foods are especially important to replace blood loss. Stay hydrated.",
+    "follow_up": ["Do you feel hungrier during your period?", "What do you typically eat?", "Are you trying to manage weight?"]
+  },
+  {
+    "id": 9003,
+    "category": "foods_during_period",
+    "question": "What foods reduce bloating",
+    "alternate_questions": ["Bloating period food", "Reduce water retention", "Anti bloating foods", "Period bloating diet", "Foods help puffiness"],
+    "keywords": ["bloating", "water retention", "anti bloating", "puffiness", "diet", "reduce", "period"],
+    "answer": "Foods that reduce bloating: potassium-rich bananas and avocados, cucumber, asparagus (natural diuretic), ginger, peppermint tea, yogurt with probiotics, and water. Avoid: salty foods, carbonated drinks, beans, cruciferous vegetables, and artificial sweeteners which can increase gas and bloating.",
+    "follow_up": ["Do you experience bloating?", "What foods seem to worsen it?", "Do you drink enough water?"]
+  },
+  {
+    "id": 9004,
+    "category": "foods_during_period",
+    "question": "Is it okay to eat chocolate during period",
+    "alternate_questions": ["Chocolate period", "Dark chocolate cramps", "Cocoa menstruation", "Chocolate cravings", "Chocolate mood period"],
+    "keywords": ["chocolate", "dark chocolate", "cocoa", "cravings", "mood", "period", "okay"],
+    "answer": "Yes, dark chocolate (70%+ cocoa) is beneficial during periods. It contains magnesium which helps cramps and mood, iron to replace blood loss, and antioxidants. It also satisfies cravings. Choose dark over milk chocolate for more benefits and less sugar. Moderation is key.",
+    "follow_up": ["What type of chocolate do you prefer?", "Do you crave chocolate during your period?", "How much do you typically eat?"]
+  },
+  {
+    "id": 9005,
+    "category": "foods_during_period",
+    "question": "What drinks help during period",
+    "alternate_questions": ["Tea period", "Water menstruation", "Herbal tea cramps", "Drinks period pain", "Best beverages period"],
+    "keywords": ["drinks", "tea", "water", "herbal", "beverages", "cramps", "period", "help"],
+    "answer": "Helpful drinks: warm water with lemon, ginger tea (anti-inflammatory), chamomile tea (relaxing), peppermint tea (digestion), green tea (antioxidants), and raspberry leaf tea (may ease cramps). Avoid excessive caffeine and alcohol which can worsen dehydration and cramps. Stay well-hydrated.",
+    "follow_up": ["What do you usually drink?", "Do you avoid caffeine?", "Have you tried herbal teas?"]
+  },
+  {
+    "id": 9006,
+    "category": "foods_during_period",
+    "question": "Should I avoid dairy during period",
+    "alternate_questions": ["Dairy period", "Milk cramps", "Cheese menstruation", "Lactose period", "Dairy inflammation period"],
+    "keywords": ["dairy", "avoid", "milk", "cheese", "lactose", "inflammation", "period", "menstruation"],
+    "answer": "Some women find dairy worsens cramps due to arachidonic acid which may increase inflammation. Others tolerate it fine. If you notice bloating or worse cramps with dairy, try reducing it during your period. Choose fermented options like yogurt which may be easier to digest. Listen to your body.",
+    "follow_up": ["Do you eat a lot of dairy?", "Does it seem to affect your cramps?", "Are you lactose intolerant?"]
+  },
+  {
+    "id": 9007,
+    "category": "foods_during_period",
+    "question": "What iron rich foods for period",
+    "alternate_questions": ["Iron period", "Anemia menstruation", "Iron sources blood loss", "Red meat period", "Plant iron period"],
+    "keywords": ["iron", "rich", "anemia", "blood loss", "sources", "red meat", "plant", "period"],
+    "answer": "Replace iron lost during menstruation with: red meat, chicken, lentils, beans, spinach, fortified cereals, pumpkin seeds, and quinoa. Pair plant iron with vitamin C (citrus, peppers) for better absorption. Consider cooking in cast iron. If you have heavy periods, ask your provider about iron supplements.",
+    "follow_up": ["Do you get enough iron?", "Are your periods heavy?", "Have you been tested for anemia?"]
+  },
+  {
+    "id": 9008,
+    "category": "foods_during_period",
+    "question": "Is caffeine bad during period",
+    "alternate_questions": ["Coffee period", "Caffeine cramps", "Tea menstruation", "Energy drinks period", "Caffeine breast tenderness"],
+    "keywords": ["caffeine", "coffee", "cramps", "tea", "energy drinks", "breast tenderness", "bad", "period"],
+    "answer": "Caffeine can worsen cramps, breast tenderness, anxiety, and sleep disruption for some women. Others find it helps headaches and fatigue. If sensitive, limit to one cup daily or switch to decaf or herbal tea during your period. Pay attention to how your body responds.",
+    "follow_up": ["How much caffeine do you drink?", "Does it seem to worsen symptoms?", "Would you consider reducing?"]
+  },
+  {
+    "id": 9009,
+    "category": "foods_during_period",
+    "question": "What foods worsen period symptoms",
+    "alternate_questions": ["Avoid period foods", "Bad foods menstruation", "Worsen cramps diet", "Period pain foods avoid", "Inflammatory foods period"],
+    "keywords": ["worsen", "avoid", "bad foods", "inflammatory", "diet", "symptoms", "period", "menstruation"],
+    "answer": "Foods to limit: salty snacks (bloating), sugary foods (mood swings, inflammation), processed foods, alcohol (worsens cramps and mood), excessive caffeine, and high-fat fried foods. These can increase inflammation, water retention, and discomfort during menstruation.",
+    "follow_up": ["Do you crave any of these?", "Have you noticed they worsen symptoms?", "Would you like healthy alternatives?"]
+  },
+  {
+    "id": 9010,
+    "category": "foods_during_period",
+    "question": "Should I eat spicy food during period",
+    "alternate_questions": ["Spicy food period", "Hot peppers menstruation", "Spice cramps", "Chili period", "Spicy food digestion period"],
+    "keywords": ["spicy", "hot peppers", "chili", "digestion", "cramps", "period", "menstruation"],
+    "answer": "Spicy food affects women differently. Some find it worsens cramps or digestive issues. Others tolerate it fine or find it comforting. If you have sensitive digestion or notice worsening symptoms, limit spice during your period. Otherwise, enjoy in moderation if it appeals to you.",
+    "follow_up": ["Do you eat spicy food?", "Does it affect your digestion or cramps?", "Do you crave it during your period?"]
+  },
+  {
+    "id": 9011,
+    "category": "foods_during_period",
+    "question": "What fruits help during period",
+    "alternate_questions": ["Best fruits period", "Fruit cramps", "Berries menstruation", "Banana period", "Citrus period"],
+    "keywords": ["fruits", "best", "berries", "banana", "citrus", "cramps", "period", "help"],
+    "answer": "Best fruits during period: berries (antioxidants), bananas (potassium, mood), oranges and kiwi (vitamin C, iron absorption), watermelon (hydration), pineapple (bromelain may help cramps), and apples (fiber). These provide vitamins, hydration, and natural sweetness to satisfy cravings.",
+    "follow_up": ["What fruits do you like?", "Do you eat enough fruit?", "Would you like snack ideas?"]
+  },
+  {
+    "id": 9012,
+    "category": "foods_during_period",
+    "question": "What vegetables help period symptoms",
+    "alternate_questions": ["Veggies period", "Leafy greens menstruation", "Broccoli period", "Vegetables cramps", "Salad period"],
+    "keywords": ["vegetables", "veggies", "leafy greens", "broccoli", "salad", "cramps", "period", "symptoms"],
+    "answer": "Helpful vegetables: leafy greens (iron, magnesium), sweet potatoes (complex carbs, vitamin A), broccoli and cauliflower (fiber, may help estrogen balance), carrots (beta-carotene), and bell peppers (vitamin C). These fight inflammation and provide nutrients lost during menstruation.",
+    "follow_up": ["Do you eat enough vegetables?", "Which do you enjoy?", "Would you like easy prep ideas?"]
+  },
+  {
+    "id": 9013,
+    "category": "foods_during_period",
+    "question": "Is it okay to fast during period",
+    "alternate_questions": ["Fasting period", "Skip meals menstruation", "Intermittent fasting period", "Not eat period", "Fast cramps"],
+    "keywords": ["fast", "fasting", "skip meals", "intermittent", "not eat", "cramps", "period", "menstruation"],
+    "answer": "Fasting during your period is generally not recommended. Your body needs nutrients and energy to manage blood loss and hormone shifts. Skipping meals can worsen fatigue, irritability, and cravings. If you practice intermittent fasting, consider a more flexible approach during menstruation. Prioritize nourishment.",
+    "follow_up": ["Do you currently fast?", "Have you tried fasting during your period?", "How did you feel?"]
+  },
+  {
+    "id": 9014,
+    "category": "foods_during_period",
+    "question": "What snacks are good for period cravings",
+    "alternate_questions": ["Healthy period snacks", "Craving alternatives", "Snack ideas menstruation", "Sweet salty period", "Period craving swaps"],
+    "keywords": ["snacks", "healthy", "craving", "alternatives", "sweet", "salty", "period", "swaps"],
+    "answer": "Healthy snack swaps: dark chocolate instead of candy, popcorn instead of chips, fruit with nut butter instead of cookies, yogurt with honey instead of ice cream, trail mix instead of chocolate bars, and hummus with veggies instead of crackers. These satisfy cravings with more nutrients.",
+    "follow_up": ["What do you crave most?", "Have you tried healthy swaps?", "Would you like more ideas?"]
+  },
+  {
+    "id": 9015,
+    "category": "foods_during_period",
+    "question": "Does alcohol worsen period symptoms",
+    "alternate_questions": ["Drink alcohol period", "Wine menstruation", "Alcohol cramps", "Period hangover", "Alcohol blood flow period"],
+    "keywords": ["alcohol", "drink", "wine", "cramps", "hangover", "blood flow", "worsen", "period"],
+    "answer": "Yes, alcohol can worsen period symptoms. It dehydrates, worsens bloating, disrupts sleep, increases inflammation, and may intensify mood swings. It can also increase blood flow. If you choose to drink, limit to one drink and stay hydrated. Many women feel better avoiding alcohol during their period.",
+    "follow_up": ["Do you drink during your period?", "Have you noticed it worsens symptoms?", "Would you consider abstaining?"]
+  },
+  {
+    "id": 9016,
+    "category": "foods_during_period",
+    "question": "What warm foods help period pain",
+    "alternate_questions": ["Hot food cramps", "Soup period", "Warm meals menstruation", "Comfort food period", "Heating food period"],
+    "keywords": ["warm", "hot food", "soup", "comfort", "heating", "cramps", "period", "pain"],
+    "answer": "Warm foods soothe cramps and provide comfort: soups and stews, oatmeal, herbal teas, warm milk with turmeric, rice porridge, and roasted vegetables. The warmth itself relaxes muscles. These foods are also easy to digest when you may feel nauseous or sluggish.",
+    "follow_up": ["Do you prefer warm foods during your period?", "What comfort foods do you like?", "Would you like recipe ideas?"]
+  },
+  {
+    "id": 9017,
+    "category": "foods_during_period",
+    "question": "Should I take supplements during period",
+    "alternate_questions": ["Vitamins period", "Magnesium cramps", "Iron supplement menstruation", "B6 PMS", "Supplement routine period"],
+    "keywords": ["supplements", "vitamins", "magnesium", "iron", "B6", "PMS", "routine", "period"],
+    "answer": "Helpful supplements during period: magnesium (cramps, mood), iron (if heavy bleeding), vitamin B6 (mood), omega-3s (inflammation), and vitamin D. Always check with your provider before starting supplements, especially if you take medications or have health conditions.",
+    "follow_up": ["Do you currently take supplements?", "Have you tried magnesium for cramps?", "Are your periods heavy?"]
+  },
+  {
+    "id": 9018,
+    "category": "foods_during_period",
+    "question": "What protein foods during period",
+    "alternate_questions": ["Protein period", "Meat menstruation", "Eggs period", "Beans period", "Protein energy period"],
+    "keywords": ["protein", "meat", "eggs", "beans", "energy", "period", "menstruation", "foods"],
+    "answer": "Protein supports energy and satiety during your period. Good sources: eggs, chicken, fish, lentils, beans, Greek yogurt, nuts, and tofu. Protein helps stabilize blood sugar, reducing mood swings and cravings. Include protein at each meal.",
+    "follow_up": ["Do you eat enough protein?", "What sources do you prefer?", "Do you feel more tired during your period?"]
+  },
+  {
+    "id": 9019,
+    "category": "foods_during_period",
+    "question": "Is it normal to crave junk food during period",
+    "alternate_questions": ["Junk food cravings", "Pizza period", "Ice cream menstruation", "Crave carbs period", "Why crave unhealthy period"],
+    "keywords": ["junk food", "cravings", "pizza", "ice cream", "carbs", "unhealthy", "normal", "period"],
+    "answer": "Yes, craving junk food during your period is normal. Hormonal changes increase appetite and desire for high-carb, high-fat comfort foods. Serotonin drops, and these foods temporarily boost mood. It's okay to indulge moderately. Try balancing treats with nutritious foods to avoid worsening symptoms.",
+    "follow_up": ["What do you crave most?", "Do you feel guilty about cravings?", "How do you balance treats?"]
+  },
+  {
+    "id": 9020,
+    "category": "foods_during_period",
+    "question": "What grains help during period",
+    "alternate_questions": ["Oats period", "Quinoa menstruation", "Brown rice period", "Whole grains cramps", "Carbs period energy"],
+    "keywords": ["grains", "oats", "quinoa", "brown rice", "whole grains", "cramps", "energy", "period"],
+    "answer": "Whole grains provide sustained energy and B vitamins: oats (comforting, fiber), quinoa (protein, iron), brown rice (magnesium), and whole grain bread (B vitamins). These stabilize blood sugar better than refined grains, reducing mood swings and fatigue.",
+    "follow_up": ["Do you eat whole grains?", "What are your favorites?", "Do you notice energy differences?"]
+  },
+  {
+    "id": 9021,
+    "category": "foods_during_period",
+    "question": "What nuts and seeds for period",
+    "alternate_questions": ["Pumpkin seeds period", "Flaxseed menstruation", "Chia seeds cramps", "Almonds period", "Nuts omega period"],
+    "keywords": ["nuts", "seeds", "pumpkin", "flaxseed", "chia", "almonds", "omega", "period", "cramps"],
+    "answer": "Nuts and seeds provide magnesium, zinc, and healthy fats: pumpkin seeds (magnesium, zinc), flaxseed (omega-3s, fiber), chia seeds (omega-3s), walnuts (omega-3s), and almonds (vitamin E, magnesium). Sprinkle on yogurt, oatmeal, or salads for easy nutrition.",
+    "follow_up": ["Do you eat nuts and seeds?", "Which do you like?", "Would you like ways to incorporate them?"]
+  },
+  {
+    "id": 9022,
+    "category": "foods_during_period",
+    "question": "Should I eat fermented foods during period",
+    "alternate_questions": ["Yogurt period", "Kefir menstruation", "Kombucha cramps", "Probiotics period", "Gut health period"],
+    "keywords": ["fermented", "yogurt", "kefir", "kombucha", "probiotics", "gut health", "period", "menstruation"],
+    "answer": "Fermented foods support gut health which may influence inflammation and mood. Yogurt with live cultures, kefir, sauerkraut, and kimchi provide probiotics. These may help digestion and bloating during your period. Include them if you enjoy them and they agree with your digestion.",
+    "follow_up": ["Do you eat fermented foods?", "Do they help your digestion?", "Do you take probiotic supplements?"]
+  },
+  {
+    "id": 9023,
+    "category": "foods_during_period",
+    "question": "What hydration during heavy periods",
+    "alternate_questions": ["Water heavy period", "Hydrate menstruation", "Electrolytes period", "Dehydration blood loss", "Drink more heavy flow"],
+    "keywords": ["hydration", "water", "heavy period", "electrolytes", "dehydration", "blood loss", "drink", "flow"],
+    "answer": "Heavy periods increase fluid needs. Drink at least 8-10 glasses of water daily. Consider electrolyte drinks if you feel weak or dizzy. Warm herbal teas count toward hydration. Limit caffeine and alcohol which dehydrate. Proper hydration reduces headaches, fatigue, and bloating.",
+    "follow_up": ["Are your periods heavy?", "Do you feel dizzy or weak?", "How much water do you drink?"]
+  },
+  {
+    "id": 9024,
+    "category": "foods_during_period",
+    "question": "What one meal helps period symptoms",
+    "alternate_questions": ["Best period meal", "Meal idea cramps", "Dinner period", "Lunch menstruation", "Simple period food"],
+    "keywords": ["one meal", "best", "meal idea", "dinner", "lunch", "simple", "food", "period", "cramps"],
+    "answer": "A nourishing period meal: salmon (omega-3s, vitamin D) with quinoa (complex carbs, magnesium) and roasted sweet potato (vitamin A, potassium) with steamed broccoli (fiber, calcium). This combination fights inflammation, stabilizes blood sugar, and replaces lost nutrients.",
+    "follow_up": ["Would you try this meal?", "What are your go-to period meals?", "Do you cook during your period?"]
+  },
+  {
+    "id": 9025,
+    "category": "foods_during_period",
+    "question": "Is it okay to eat a lot during period",
+    "alternate_questions": ["Overeat period", "Big appetite menstruation", "Eat tons period", "Period hunger normal", "Food intake period"],
+    "keywords": ["eat a lot", "overeat", "big appetite", "hunger", "normal", "food intake", "period", "menstruation"],
+    "answer": "It's normal to feel hungrier during your period due to increased metabolism and hormone shifts. Honor your hunger with nourishing foods rather than restricting. However, if you feel out of control or use food to cope with emotions, consider mindful eating practices. Balance is key.",
+    "follow_up": ["Do you feel out of control with eating?", "Are you eating emotionally?", "Would you like mindful eating tips?"]
+  },
+  {
+    "id": 9026,
+    "category": "foods_during_period",
+    "question": "What foods help period headaches",
+    "alternate_questions": ["Headache period food", "Migraine diet period", "Foods reduce menstrual headache", "Caffeine headache period", "Magnesium headache"],
+    "keywords": ["headache", "migraine", "reduce", "menstrual", "caffeine", "magnesium", "period", "food"],
+    "answer": "Foods for period headaches: magnesium-rich nuts and seeds, hydration, ginger (anti-inflammatory), fatty fish (omega-3s), and complex carbs for blood sugar stability. Some find caffeine helps; others find it worsens headaches. Identify and avoid personal trigger foods.",
+    "follow_up": ["Do you get period headaches?", "What triggers them?", "Have you tried magnesium?"]
+  },
+  {
+    "id": 9027,
+    "category": "foods_during_period",
+    "question": "What foods help period fatigue",
+    "alternate_questions": ["Tired period food", "Energy menstruation", "Fight fatigue period", "Iron energy period", "B12 period tired"],
+    "keywords": ["fatigue", "tired", "energy", "fight", "iron", "B12", "period", "menstruation", "food"],
+    "answer": "Fight period fatigue with: iron-rich foods (red meat, spinach), complex carbs (oats, quinoa), protein (eggs, chicken), B vitamins (whole grains, eggs), and hydration. Avoid sugar crashes from sweets. Small frequent meals may help maintain energy better than large meals.",
+    "follow_up": ["How tired do you feel?", "Are you sleeping enough?", "Do you eat regular meals?"]
+  },
+  {
+    "id": 9028,
+    "category": "foods_during_period",
+    "question": "What foods help mood during period",
+    "alternate_questions": ["Mood food period", "Depression diet menstruation", "Happy food period", "Serotonin foods period", "Omega-3 mood period"],
+    "keywords": ["mood", "depression", "happy", "serotonin", "omega-3", "diet", "period", "menstruation", "food"],
+    "answer": "Mood-boosting period foods: dark chocolate (phenylethylamine), fatty fish (omega-3s), bananas (tryptophan, B6), nuts (magnesium), berries (antioxidants), and complex carbs (serotonin support). Limit alcohol and excess sugar which worsen mood swings.",
+    "follow_up": ["Do you notice mood changes?", "What foods make you feel better?", "Do you eat enough omega-3s?"]
+  },
+  {
+    "id": 9029,
+    "category": "foods_during_period",
+    "question": "Should I eat sushi during period",
+    "alternate_questions": ["Raw fish period", "Sashimi menstruation", "Raw food period", "Sushi safety period", "Fish period diet"],
+    "keywords": ["sushi", "raw fish", "sashimi", "raw food", "safety", "fish", "period", "diet"],
+    "answer": "There's no medical reason to avoid sushi during your period. However, if you have digestive sensitivity or cramps, raw fish may be harder to digest. Choose reputable restaurants for food safety. If trying to conceive, avoid high-mercury fish. Otherwise, enjoy sushi if it appeals to you.",
+    "follow_up": ["Do you like sushi?", "Do you have digestive sensitivity?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 9030,
+    "category": "foods_during_period",
+    "question": "What is the best breakfast during period",
+    "alternate_questions": ["Period breakfast", "Morning meal menstruation", "Oatmeal period", "Eggs breakfast period", "Start day period food"],
+    "keywords": ["breakfast", "morning", "meal", "oatmeal", "eggs", "start day", "period", "food"],
+    "answer": "Best period breakfast: oatmeal with berries, nuts, and flaxseed (fiber, magnesium, omega-3s) or eggs with whole grain toast and avocado (protein, healthy fats, B vitamins). Both provide sustained energy and nutrients to start your day. Add ginger tea for extra cramp relief.",
+    "follow_up": ["What do you usually eat for breakfast?", "Would you try these options?", "Do you skip breakfast?"]
+  }
+]

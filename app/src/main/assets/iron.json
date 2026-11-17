@@ -1,0 +1,47 @@
+[
+  {
+    "id": 141,
+    "category": "iron",
+    "question": "Why is iron important during my period?",
+    "alternate_questions": ["Do I need more iron when menstruating?", "Iron and periods", "Loss of iron during menstruation"],
+    "keywords": ["iron", "period", "importance", "loss", "blood"],
+    "answer": "Iron is essential because you lose blood during your period, and iron is a key component of hemoglobin in red blood cells. Replacing this lost iron helps prevent fatigue and anemia.",
+    "follow_up": ["What are signs of iron deficiency?", "Which foods are high in iron?", "Should I take iron supplements?"]
+  },
+  {
+    "id": 142,
+    "category": "iron",
+    "question": "What are iron-rich foods?",
+    "alternate_questions": ["Foods high in iron", "Best sources of iron", "What to eat to increase iron levels?"],
+    "keywords": ["iron", "foods", "sources", "nutrition", "diet"],
+    "answer": "Excellent sources of iron include red meat, poultry, seafood, beans, dark leafy greens (like spinach), iron-fortified cereals, and lentils.",
+    "follow_up": ["Are there vegetarian sources of iron?", "Does vitamin C help with iron absorption?", "Can I get iron from snacks?"]
+  },
+  {
+    "id": 143,
+    "category": "iron",
+    "question": "What are the signs of iron deficiency?",
+    "alternate_questions": ["Symptoms of low iron", "How do I know if I'm iron deficient?", "Signs of anemia"],
+    "keywords": ["iron", "deficiency", "signs", "symptoms", "anemia", "fatigue"],
+    "answer": "Common signs include extreme fatigue, weakness, pale skin, cold hands and feet, dizziness or lightheadedness, and brittle nails.",
+    "follow_up": ["How is iron deficiency diagnosed?", "Can low iron cause hair loss?", "What should I do if I have these symptoms?"]
+  },
+  {
+    "id": 144,
+    "category": "iron",
+    "question": "Does Vitamin C help with iron absorption?",
+    "alternate_questions": ["What helps iron absorb better?", "Should I eat Vitamin C with iron?", "Improving iron absorption"],
+    "keywords": ["iron", "absorption", "vitamin c", "help", "nutrition"],
+    "answer": "Yes! Vitamin C helps your body absorb non-heme iron (the type found in plant-based foods). Try pairing iron-rich foods with things like oranges, bell peppers, or strawberries.",
+    "follow_up": ["What foods are high in Vitamin C?", "Do tea or coffee block iron absorption?", "Can I take iron with orange juice?"]
+  },
+  {
+    "id": 145,
+    "category": "iron",
+    "question": "Should I take an iron supplement?",
+    "alternate_questions": ["Do I need iron pills?", "Are iron supplements necessary during periods?", "Taking iron tablets"],
+    "keywords": ["iron", "supplement", "pills", "tablets", "necessity"],
+    "answer": "Many people get enough iron from their diet, but some may need supplements, especially if they have heavy periods. It's best to consult a doctor before starting supplements to check your levels and avoid side effects like constipation.",
+    "follow_up": ["What are the side effects of iron supplements?", "How much iron do I need daily?", "Can I take iron every day?"]
+  }
+]

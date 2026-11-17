@@ -1,0 +1,47 @@
+[
+  {
+    "id": 541,
+    "category": "headaches",
+    "question": "Why do I get headaches during my period?",
+    "alternate_questions": ["Hormonal headaches", "Period headaches cause", "Why does my head hurt on my period?"],
+    "keywords": ["headache", "period", "hormones", "estrogen", "pain"],
+    "answer": "Headaches during your period are often caused by the drop in estrogen levels just before your period starts. Dehydration, stress, and lack of sleep can also contribute to menstrual headaches.",
+    "follow_up": ["How to relieve period headaches?", "What is a menstrual migraine?", "Does hydration help with headaches?"]
+  },
+  {
+    "id": 542,
+    "category": "headaches",
+    "question": "How can I relieve headaches during my period?",
+    "alternate_questions": ["Ways to stop period headaches", "Natural remedies for menstrual headaches", "Relief for hormonal headaches"],
+    "keywords": ["relief", "headache", "period", "water", "rest"],
+    "answer": "Relief options include staying well-hydrated, resting in a quiet and dark room, using a cold compress on your forehead, and over-the-counter pain relievers like ibuprofen or paracetamol.",
+    "follow_up": ["Does caffeine help or hurt headaches?", "Can peppermint oil help?", "When should I see a doctor for headaches?"]
+  },
+  {
+    "id": 543,
+    "category": "headaches",
+    "question": "Does hydration help with period headaches?",
+    "alternate_questions": ["Can drinking water stop my headache?", "Is dehydration causing my period pain?", "Hydration and menstrual headaches"],
+    "keywords": ["water", "hydration", "headache", "period", "prevention"],
+    "answer": "Yes, staying hydrated is one of the best ways to prevent and reduce the severity of headaches. Dehydration can worsen hormonal headaches, so try to drink plenty of water throughout your cycle.",
+    "follow_up": ["How much water should I drink?", "What color should my urine be?", "Do electrolytes help?"]
+  },
+  {
+    "id": 544,
+    "category": "headaches",
+    "question": "When should I see a doctor about headaches?",
+    "alternate_questions": ["Are my period headaches normal?", "When is a headache a concern?", "Severe headaches on period"],
+    "keywords": ["doctor", "headache", "severe", "concern", "vision"],
+    "answer": "You should see a doctor if your headaches are severe, frequent, don't respond to over-the-counter medicine, or are accompanied by other symptoms like vision changes, confusion, or weakness.",
+    "follow_up": ["What is migraine with aura?", "How to track headache triggers?", "Can birth control cause headaches?"]
+  },
+  {
+    "id": 545,
+    "category": "headaches",
+    "question": "Can birth control cause or help headaches?",
+    "alternate_questions": ["Headaches and the pill", "Does contraception affect headaches?", "Hormonal birth control and head pain"],
+    "keywords": ["birth control", "headache", "hormones", "pill", "side effect"],
+    "answer": "Hormonal birth control can affect headaches differently for everyone. For some, it helps stabilize hormones and reduces headaches. For others, it can be a side effect. Talk to your doctor to find the best option for you.",
+    "follow_up": ["What are signs of pill-related headaches?", "Should I switch birth control if I get headaches?", "Are there non-hormonal options?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 231,
+    "category": "exercise",
+    "question": "Is it okay to exercise during my period?",
+    "alternate_questions": ["Can I work out on my period?", "Exercising while menstruating", "Should I skip the gym during my period?"],
+    "keywords": ["exercise", "period", "workout", "gym", "menstruation"],
+    "answer": "Yes, it's absolutely okay and often beneficial to exercise during your period! Light to moderate exercise can help reduce cramps, improve your mood, and boost your energy levels.",
+    "follow_up": ["What are the best exercises for period pain?", "Can exercise make my flow heavier?", "Should I avoid intense workouts?"]
+  },
+  {
+    "id": 232,
+    "category": "exercise",
+    "question": "What are the best exercises for period cramps?",
+    "alternate_questions": ["Exercises to relieve period pain", "Gentle workouts for cramps", "How to move when I have cramps?"],
+    "keywords": ["exercise", "cramps", "relief", "gentle", "yoga", "walking"],
+    "answer": "Gentle activities like walking, swimming, light aerobic exercise, and specific yoga poses (like Child's Pose or Cat-Cow) are excellent for relieving cramps by increasing blood flow and releasing endorphins.",
+    "follow_up": ["Does yoga help with periods?", "How long should I walk to help cramps?", "Can swimming help with period pain?"]
+  },
+  {
+    "id": 233,
+    "category": "exercise",
+    "question": "Should I avoid intense workouts during my period?",
+    "alternate_questions": ["Can I do HIIT on my period?", "Heavy lifting during menstruation", "Intense exercise and cycles"],
+    "keywords": ["intense", "workout", "hiit", "lifting", "period", "avoid"],
+    "answer": "If you feel up to it, intense workouts are generally fine. However, many people find their energy levels are lower during their period. It's important to listen to your body and scale back intensity if you're feeling particularly fatigued or experiencing severe cramps.",
+    "follow_up": ["Why do I feel weaker during my period?", "How to track energy levels?", "Does cycle phase affect athletic performance?"]
+  },
+  {
+    "id": 234,
+    "category": "exercise",
+    "question": "Can exercise affect my menstrual cycle?",
+    "alternate_questions": ["Can working out too much stop my period?", "Exercise and cycle regularity", "Does exercise change period flow?"],
+    "keywords": ["exercise", "cycle", "regularity", "amenorrhea", "impact"],
+    "answer": "Regular, moderate exercise is healthy for your cycle. However, excessive or extreme exercise combined with low calorie intake can lead to irregular periods or even cause them to stop (amenorrhea). Balance is key.",
+    "follow_up": ["What is amenorrhea?", "How much exercise is too much?", "Signs my workout is affecting my cycle?"]
+  },
+  {
+    "id": 235,
+    "category": "exercise",
+    "question": "Does my energy change throughout my cycle?",
+    "alternate_questions": ["Energy levels and cycle phases", "When will I feel strongest during my cycle?", "Tracking workout performance with my period"],
+    "keywords": ["energy", "cycle", "phases", "follicular", "luteal", "performance"],
+    "answer": "Yes! Many people feel more energetic during the follicular phase (after your period ends) due to rising estrogen. Energy levels may dip during the luteal phase (before your period) and during menstruation itself.",
+    "follow_up": ["What is the follicular phase?", "How to eat for energy during my cycle?", "Best time to set personal records in the gym?"]
+  }
+]

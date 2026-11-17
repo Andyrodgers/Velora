@@ -1,0 +1,47 @@
+[
+  {
+    "id": 161,
+    "category": "faqs",
+    "question": "What is Velora?",
+    "alternate_questions": ["What does this app do?", "Tell me about Velora", "How can Velora help me?"],
+    "keywords": ["velora", "app", "about", "purpose"],
+    "answer": "Velora is a comprehensive health assistant designed to help you track your menstrual cycle, understand your body, and provide support for your overall wellness journey.",
+    "follow_up": ["How do I track my cycle?", "What features does Velora have?", "Who is Vela?"]
+  },
+  {
+    "id": 162,
+    "category": "faqs",
+    "question": "How do I track my period?",
+    "alternate_questions": ["How to log my cycle?", "Where do I enter my period dates?", "Starting a new cycle log"],
+    "keywords": ["track", "period", "log", "cycle", "dates"],
+    "answer": "You can track your period by tapping the 'Log Period' button on the main dashboard. Enter the start and end dates, and you can also add symptoms, moods, and notes.",
+    "follow_up": ["Can I edit past cycles?", "How does the app predict my next period?", "What symptoms should I track?"]
+  },
+  {
+    "id": 163,
+    "category": "faqs",
+    "question": "Is my data private?",
+    "alternate_questions": ["How secure is my information?", "Who can see my health data?", "Data privacy policy"],
+    "keywords": ["privacy", "data", "security", "secure", "private"],
+    "answer": "Yes, your privacy is our priority. Your data is encrypted and stored securely. We do not share your personal health information with third parties without your explicit consent.",
+    "follow_up": ["How can I delete my data?", "Where is my data stored?", "Can I use the app anonymously?"]
+  },
+  {
+    "id": 164,
+    "category": "faqs",
+    "question": "How accurate are the predictions?",
+    "alternate_questions": ["How do you calculate my ovulation?", "Can I rely on the period predictions?", "Why is my prediction off?"],
+    "keywords": ["accurate", "predictions", "calculation", "cycle", "ovulation"],
+    "answer": "Predictions are based on the data you provide. The more cycles you log, the more accurate the predictions become. However, everyone's body is different, and factors like stress or illness can affect your cycle.",
+    "follow_up": ["What factors affect cycle regularity?", "How can I improve prediction accuracy?", "What should I do if my period is late?"]
+  },
+  {
+    "id": 165,
+    "category": "faqs",
+    "question": "Can I use Velora to prevent pregnancy?",
+    "alternate_questions": ["Is this a birth control app?", "Can I rely on Velora for contraception?", "Using the app for family planning"],
+    "keywords": ["pregnancy", "prevention", "birth control", "contraception", "planning"],
+    "answer": "Velora is a tracking and informational tool, not a method of contraception. It should not be used as the sole method to prevent pregnancy. Always consult with a healthcare professional regarding birth control.",
+    "follow_up": ["What are common birth control methods?", "How does the fertile window work?", "Where can I find more info on sexual health?"]
+  }
+]

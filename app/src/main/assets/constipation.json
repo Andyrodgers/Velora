@@ -1,0 +1,47 @@
+[
+  {
+    "id": 301,
+    "category": "constipation",
+    "question": "Why do I get constipated before my period?",
+    "alternate_questions": ["PMS constipation causes", "Why does my digestion slow down before my period?", "Constipation and the menstrual cycle"],
+    "keywords": ["constipation", "pms", "period", "progesterone", "digestion"],
+    "answer": "Constipation before your period is often due to rising levels of progesterone, which can slow down the movement of food through your digestive tract. This is a common part of the luteal phase of your cycle.",
+    "follow_up": ["How to relieve period constipation?", "Does diet help with constipation?", "When does period constipation usually end?"]
+  },
+  {
+    "id": 302,
+    "category": "constipation",
+    "question": "How can I relieve period-related constipation?",
+    "alternate_questions": ["Ways to treat constipation during PMS", "Natural remedies for period constipation", "How to improve digestion before my period"],
+    "keywords": ["constipation", "relief", "remedies", "fiber", "water", "exercise"],
+    "answer": "To relieve constipation, increase your fiber intake (fruits, vegetables, whole grains), drink plenty of water, and stay active with regular exercise. Gentle abdominal massage can also help stimulate bowel movements.",
+    "follow_up": ["What are high-fiber foods?", "Does exercise help with digestion?", "Should I use laxatives for period constipation?"]
+  },
+  {
+    "id": 303,
+    "category": "constipation",
+    "question": "Is constipation a common PMS symptom?",
+    "alternate_questions": ["Do many people get constipated before their period?", "Is it normal to be constipated during PMS?", "Frequency of constipation in the menstrual cycle"],
+    "keywords": ["constipation", "pms", "common", "normal", "symptom"],
+    "answer": "Yes, constipation is a very common premenstrual symptom. Many people notice a pattern where they become constipated in the week before their period and then experience 'period poops' or diarrhea once their period starts.",
+    "follow_up": ["Why do I get diarrhea once my period starts?", "How to track digestive symptoms?", "What are other common PMS signs?"]
+  },
+  {
+    "id": 304,
+    "category": "constipation",
+    "question": "Does hydration help with constipation?",
+    "alternate_questions": ["Will drinking more water help my digestion?", "Water intake and bowel movements", "Hydration for period constipation"],
+    "keywords": ["water", "hydration", "constipation", "digestion", "help"],
+    "answer": "Absolutely! Staying well-hydrated is crucial for preventing and relieving constipation. Water helps fiber work more effectively and keeps your stool soft and easier to pass.",
+    "follow_up": ["How much water should I drink daily?", "What are signs of dehydration?", "Does warm water help with constipation?"]
+  },
+  {
+    "id": 305,
+    "category": "constipation",
+    "question": "Can exercise improve constipation?",
+    "alternate_questions": ["Does working out help with bowel movements?", "Physical activity and digestion", "Moving to relieve constipation"],
+    "keywords": ["exercise", "constipation", "digestion", "movement", "relief"],
+    "answer": "Yes, regular physical activity helps stimulate the muscles in your intestines, which can speed up the passage of stool and help relieve constipation. Even a daily walk can make a significant difference.",
+    "follow_up": ["What's the best exercise for digestion?", "How long should I walk?", "Can yoga help with constipation?"]
+  }
+]

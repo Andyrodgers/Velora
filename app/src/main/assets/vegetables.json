@@ -1,0 +1,47 @@
+[
+  {
+    "id": 381,
+    "category": "vegetables",
+    "question": "Which vegetables are best for my period?",
+    "alternate_questions": ["Healthy vegetables for menstruation", "Best greens for my cycle", "Vegetables to help with period symptoms"],
+    "keywords": ["vegetables", "period", "greens", "spinach", "kale", "broccoli"],
+    "answer": "Leafy greens like spinach and kale are excellent because they are rich in iron and magnesium. Broccoli and cabbage are also great as they contain fiber and nutrients that help your body process hormones more effectively.",
+    "follow_up": ["Why is iron important during my period?", "How to cook vegetables to keep nutrients?", "Do vegetables help with bloating?"]
+  },
+  {
+    "id": 382,
+    "category": "vegetables",
+    "question": "Can vegetables help reduce period bloating?",
+    "alternate_questions": ["Eating veggies to stop water retention", "Best vegetables for a bloated stomach", "Low-sodium vegetables for PMS"],
+    "keywords": ["vegetables", "bloating", "pms", "water retention", "fiber"],
+    "answer": "Yes! High-fiber vegetables help with digestion, while vegetables with high water content like cucumbers and celery can act as natural diuretics to help reduce bloating and water retention.",
+    "follow_up": ["How much fiber should I eat?", "What are natural diuretics?", "Should I avoid any vegetables during my period?"]
+  },
+  {
+    "id": 383,
+    "category": "vegetables",
+    "question": "Are there vegetables I should avoid during my period?",
+    "alternate_questions": ["Veggies that cause gas on my period", "What vegetables make bloating worse?", "Should I eat raw or cooked vegetables?"],
+    "keywords": ["vegetables", "avoid", "gas", "bloating", "period"],
+    "answer": "Cruciferous vegetables like broccoli, cauliflower, and beans can cause gas and bloating for some people. If you're sensitive, try steaming or cooking these vegetables thoroughly to make them easier to digest.",
+    "follow_up": ["How to reduce gas from beans?", "Benefits of cooked vs raw veggies?", "What are easy-to-digest vegetables?"]
+  },
+  {
+    "id": 384,
+    "category": "vegetables",
+    "question": "How do leafy greens help with period fatigue?",
+    "alternate_questions": ["Spinach for energy during menstruation", "Kale benefits for my cycle", "Iron-rich greens for tiredness"],
+    "keywords": ["leafy greens", "fatigue", "iron", "energy", "spinach", "kale"],
+    "answer": "Leafy greens are high in iron, which is essential for transporting oxygen in your blood. Since you lose blood during your period, increasing your iron intake with greens can help prevent fatigue and anemia.",
+    "follow_up": ["What are signs of iron deficiency?", "How to add more greens to my diet?", "Does vitamin C help with iron absorption?"]
+  },
+  {
+    "id": 385,
+    "category": "vegetables",
+    "question": "Can vegetables help balance hormones?",
+    "alternate_questions": ["Vegetables for hormonal health", "How diet affects hormone levels", "Broccoli and estrogen"],
+    "keywords": ["vegetables", "hormones", "balance", "estrogen", "broccoli"],
+    "answer": "Cruciferous vegetables like broccoli and kale contain compounds that help your liver metabolize estrogen more efficiently, which can be helpful for maintaining a healthy hormonal balance throughout your cycle.",
+    "follow_up": ["What is estrogen dominance?", "How else can I balance my hormones?", "Benefits of a plant-based diet for cycles?"]
+  }
+]

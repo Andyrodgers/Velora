@@ -1,0 +1,272 @@
+[
+  {
+    "id": 3001,
+    "category": "stress",
+    "question": "What is stress",
+    "alternate_questions": ["Define stress", "Stress meaning", "What causes stress", "Stress explained", "Understanding stress"],
+    "keywords": ["stress", "definition", "causes", "explained", "understanding", "pressure"],
+    "answer": "Stress is your body's natural response to perceived threats or demands. When you encounter a stressor, your brain triggers the release of hormones like cortisol and adrenaline, preparing you for 'fight or flight.' Short-term (acute) stress can be helpful - it sharpens focus and energy for challenges like exams or deadlines. However, chronic stress - ongoing pressure without relief - damages physical and mental health. Symptoms include headaches, muscle tension, fatigue, sleep problems, irritability, anxiety, and difficulty concentrating. Women often experience stress differently due to hormonal fluctuations across the menstrual cycle, pregnancy, and menopause. Common stressors include work, relationships, finances, health concerns, and caregiving responsibilities. Understanding your stress response is the first step toward managing it effectively.",
+    "follow_up": ["What is stressing you right now?", "Is your stress short-term or ongoing?", "How does stress affect your body?", "Do you have coping strategies?"]
+  },
+  {
+    "id": 3002,
+    "category": "stress",
+    "question": "How does stress affect my period",
+    "alternate_questions": ["Stress delay period", "Can stress stop menstruation", "Stress menstrual cycle", "Anxiety period late", "Stress hormones period"],
+    "keywords": ["stress", "period", "menstrual cycle", "delay", "late", "hormones", "cortisol"],
+    "answer": "Stress can significantly affect your menstrual cycle. High cortisol levels from chronic stress interfere with the hypothalamic-pituitary-ovarian axis - the hormonal system regulating periods. Effects include: delayed ovulation, late or missed periods, lighter or heavier bleeding, more painful cramps, and worsened PMS symptoms. In extreme stress (trauma, eating disorders, overexercise), periods may stop entirely (amenorrhea). Stress can also make cycles irregular and unpredictable. This happens because your body prioritizes survival over reproduction when under threat. Managing stress through relaxation, exercise, sleep, and support often restores cycle regularity. If your period is late and you are sexually active, take a pregnancy test. If stress-related cycle changes persist for 3+ months, consult a healthcare provider.",
+    "follow_up": ["How late is your period?", "What stress are you experiencing?", "Are you sexually active?", "Has this happened before?"]
+  },
+  {
+    "id": 3003,
+    "category": "stress",
+    "question": "What are physical signs of stress",
+    "alternate_questions": ["Stress body symptoms", "Physical stress signs", "Stress affects body", "Body stress response", "Stress physical health"],
+    "keywords": ["physical", "signs", "symptoms", "body", "stress", "health", "response"],
+    "answer": "Stress manifests physically in numerous ways. Common signs include: headaches or migraines, muscle tension (especially neck, shoulders, jaw), fatigue despite adequate sleep, sleep disturbances (insomnia or oversleeping), digestive issues (nausea, diarrhea, constipation, IBS flare-ups), chest pain or rapid heartbeat, frequent colds or infections (stress weakens immunity), skin problems (acne, eczema, psoriasis), hair loss, teeth grinding, changes in appetite, and sexual dysfunction. Chronic stress increases risk for heart disease, diabetes, and autoimmune conditions. In women, stress can cause menstrual irregularities, worsened PMS, and fertility issues. Your body keeps score - physical symptoms are signals that stress needs attention. Don't dismiss bodily warnings as 'just stress' without addressing the underlying causes.",
+    "follow_up": ["What physical symptoms are you experiencing?", "How long have they lasted?", "Have you seen a doctor?", "What stressors are present?"]
+  },
+  {
+    "id": 3004,
+    "category": "stress",
+    "question": "How to reduce stress quickly",
+    "alternate_questions": ["Quick stress relief", "Calm down fast", "Immediate stress help", "Stress relief techniques", "Fast relaxation"],
+    "keywords": ["reduce", "quick", "fast", "relief", "calm", "immediate", "techniques"],
+    "answer": "For immediate stress relief, try these evidence-based techniques: 1) Box breathing - inhale 4 counts, hold 4, exhale 4, hold 4, repeat 4 cycles. 2) Cold water - splash cold water on your face or hold an ice cube to activate the dive reflex and calm your nervous system. 3) 5-4-3-2-1 grounding - name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste. 4) Progressive muscle relaxation - tense and release muscle groups from toes to head. 5) Move your body - shake out tension, stretch, or take a brisk walk. 6) Hum or sing - stimulates the vagus nerve. 7) Place hand on heart and belly - self-soothing touch. These techniques activate the parasympathetic nervous system, countering the stress response within minutes. Practice them regularly so they're available when needed.",
+    "follow_up": ["What is your current stress level?", "Do you have 5 minutes right now?", "Which technique appeals to you?", "What usually triggers your stress?"]
+  },
+  {
+    "id": 3005,
+    "category": "stress",
+    "question": "What is chronic stress",
+    "alternate_questions": ["Long term stress", "Chronic stress effects", "Ongoing stress health", "Chronic stress symptoms", "Stress over time"],
+    "keywords": ["chronic", "long term", "ongoing", "effects", "health", "symptoms", "time"],
+    "answer": "Chronic stress is prolonged, unrelenting pressure that keeps your body in a constant state of alert. Unlike acute stress (short-term, situation-specific), chronic stress persists for weeks, months, or years without adequate recovery. Sources include: ongoing financial strain, toxic work environments, caregiving burdens, abusive relationships, chronic illness, and unresolved trauma. Health effects are serious: increased risk of heart disease, stroke, diabetes, autoimmune disorders, depression, anxiety, cognitive decline, and accelerated cellular aging. In women, chronic stress disrupts hormones, causing irregular periods, infertility, worsened PMS, and early menopause. Your body cannot sustain high alert indefinitely. Addressing chronic stress requires systemic changes - not just relaxation techniques but boundary-setting, environment changes, and often professional support. Chronic stress is not a character flaw; it's a signal that your life needs change.",
+    "follow_up": ["How long have you been stressed?", "What are the main sources?", "Is this affecting your health?", "What changes are possible?"]
+  },
+  {
+    "id": 3006,
+    "category": "stress",
+    "question": "How does stress affect fertility",
+    "alternate_questions": ["Stress conceiving", "Can stress prevent pregnancy", "Anxiety fertility", "Stress hormones ovulation", "TTC stress"],
+    "keywords": ["stress", "fertility", "conceiving", "pregnancy", "ovulation", "TTC", "hormones"],
+    "answer": "Stress can affect fertility, though it's rarely the sole cause. High cortisol disrupts the hypothalamic-pituitary-ovarian axis, potentially delaying ovulation, shortening luteal phase, or causing anovulatory cycles. Stress may reduce libido and sexual frequency. However, the 'just relax and you'll get pregnant' advice is dismissive and often untrue. Infertility itself causes significant stress, creating a difficult cycle. Research shows stress reduction improves fertility treatment outcomes but does not cure underlying medical issues. Manage TTC stress by: limiting Dr. Google, setting boundaries around pregnancy talk, seeking support from others who understand, considering therapy, and practicing self-compassion. If trying to conceive for 12 months (under 35) or 6 months (35+), see a fertility specialist regardless of stress levels. Your stress is valid, and so is seeking medical help.",
+    "follow_up": ["How long have you been trying to conceive?", "What is your biggest stressor?", "Are you ovulating regularly?", "Have you seen a fertility specialist?"]
+  },
+  {
+    "id": 3007,
+    "category": "stress",
+    "question": "What is cortisol",
+    "alternate_questions": ["Cortisol hormone", "Stress hormone explained", "Cortisol effects", "High cortisol symptoms", "Cortisol and health"],
+    "keywords": ["cortisol", "stress hormone", "effects", "high", "symptoms", "health", "HPA axis"],
+    "answer": "Cortisol is your primary stress hormone, produced by the adrenal glands. In healthy amounts, it regulates metabolism, reduces inflammation, and helps you wake up alert. During stress, cortisol mobilizes energy, increases heart rate, and sharpens focus - helpful for immediate threats. Problems arise when cortisol stays elevated chronically. High cortisol symptoms include: weight gain (especially abdomen), fatigue, insomnia, anxiety, depression, impaired immunity, high blood pressure, blood sugar issues, brain fog, and menstrual irregularities. In women, chronic high cortisol can suppress reproductive hormones, affecting periods and fertility. Over time, the adrenal system can become dysregulated. Manage cortisol through: stress reduction, adequate sleep, regular exercise (not excessive), balanced nutrition, nature exposure, and social connection. If you suspect cortisol issues, a healthcare provider can test levels.",
+    "follow_up": ["Do you have high cortisol symptoms?", "How is your sleep?", "What is your stress level?", "Have you had cortisol tested?"]
+  },
+  {
+    "id": 3008,
+    "category": "stress",
+    "question": "How to manage work stress",
+    "alternate_questions": ["Job stress relief", "Workplace stress", "Overwhelmed at work", "Work life balance stress", "Career stress management"],
+    "keywords": ["work", "job", "workplace", "career", "balance", "overwhelmed", "management"],
+    "answer": "Managing work stress requires both immediate tactics and systemic changes: 1) Set boundaries - define work hours and protect personal time. 2) Prioritize ruthlessly - not everything is urgent; use Eisenhower matrix. 3) Take real breaks - step away from your desk, eat lunch, take walks. 4) Delegate and say no - you cannot do everything. 5) Improve time management - batch similar tasks, minimize multitasking. 6) Create a supportive environment - plants, natural light, ergonomic setup. 7) Address toxic dynamics - document issues, speak to HR if needed. 8) Disconnect after hours - turn off notifications. 9) Use vacation time - rest is productive. 10) Consider if the job aligns with your values - misalignment causes chronic stress. If work stress is causing health issues, consider whether the job is sustainable. Your wellbeing matters more than any position.",
+    "follow_up": ["What specifically stresses you at work?", "Do you have boundaries?", "Is the workload or culture the issue?", "Are you considering leaving?"]
+  },
+  {
+    "id": 3009,
+    "category": "stress",
+    "question": "How does stress affect sleep",
+    "alternate_questions": ["Can't sleep stress", "Stress insomnia", "Anxiety sleep problems", "Racing thoughts bedtime", "Stress sleep quality"],
+    "keywords": ["stress", "sleep", "insomnia", "racing thoughts", "quality", "bedtime", "anxiety"],
+    "answer": "Stress and sleep have a bidirectional relationship - stress disrupts sleep, and poor sleep worsens stress. When stressed, your mind races with worries, cortisol remains elevated, and your body stays alert. This causes difficulty falling asleep, frequent waking, early morning awakening, and non-restorative sleep. In women, hormonal fluctuations (PMS, perimenopause) compound stress-related sleep issues. Poor sleep then reduces emotional regulation, making you more reactive to stressors. Break the cycle by: establishing a consistent sleep schedule, creating a relaxing bedtime routine, keeping work and stress out of the bedroom, limiting screens 1 hour before bed, avoiding caffeine after noon, using relaxation techniques, and writing worries down before bed. If insomnia persists for 3+ months, consider CBT-I (cognitive behavioral therapy for insomnia), the gold standard treatment. Sleep is non-negotiable for stress resilience.",
+    "follow_up": ["How is your sleep currently?", "Do you have trouble falling or staying asleep?", "What time do you go to bed?", "Have you tried sleep hygiene?"]
+  },
+  {
+    "id": 3010,
+    "category": "stress",
+    "question": "What is burnout recovery",
+    "alternate_questions": ["Recover from burnout", "Burnout healing", "Overcome burnout", "Burnout treatment", "Burnout self care"],
+    "keywords": ["burnout", "recovery", "healing", "overcome", "treatment", "self care", "rest"],
+    "answer": "Recovering from burnout requires more than a vacation - it demands systemic life changes. Stages of recovery: 1) Acknowledgment - admit you're burned out, not lazy. 2) Rest - genuine rest, not just time off while still worrying. This may require medical leave. 3) Identify causes - what specifically led to burnout? Unsustainable workload? Lack of control? Toxic environment? Value misalignment? 4) Set boundaries - learn to say no, delegate, protect personal time. 5) Reconnect with meaning - what matters to you beyond productivity? 6) Rebuild gradually - return to activities slowly, monitoring energy. 7) Make structural changes - if the environment caused burnout, it won't heal you. Recovery takes months, not days. Be patient with yourself. Burnout is your body's wisdom forcing you to stop. Listen to it.",
+    "follow_up": ["Are you currently burned out?", "What caused it?", "Do you have time to rest?", "What changes are you willing to make?"]
+  },
+  {
+    "id": 3011,
+    "category": "stress",
+    "question": "How to set boundaries to reduce stress",
+    "alternate_questions": ["Boundaries stress relief", "Say no stress", "Limit obligations", "Protect time energy", "Boundary setting stress"],
+    "keywords": ["boundaries", "say no", "limits", "protect", "time", "energy", "obligations", "stress"],
+    "answer": "Boundaries are essential for stress management. They define what you will and won't accept in relationships, work, and life. To set boundaries: 1) Identify your limits - what drains you? What feels uncomfortable? 2) Communicate clearly and directly - 'I can't take on extra projects right now,' 'I need evenings free,' 'That doesn't work for me.' 3) Don't over-explain - no is a complete sentence. 4) Be consistent - enforce boundaries every time. 5) Accept discomfort - others may be disappointed, and that's okay. 6) Start small - practice with low-stakes situations. 7) Use 'I' statements - 'I feel overwhelmed when...' 8) Have consequences - if boundaries are violated, follow through. Boundaries reduce resentment, preserve energy, and improve relationships. People who respect you will respect your boundaries. Those who don't reveal their character.",
+    "follow_up": ["Where do you need boundaries?", "Do you struggle saying no?", "Who violates your boundaries?", "Are you ready to enforce them?"]
+  },
+  {
+    "id": 3012,
+    "category": "stress",
+    "question": "What is time management for stress",
+    "alternate_questions": ["Manage time stress", "Time stress relief", "Overwhelmed schedule", "Time management techniques", "Productivity stress"],
+    "keywords": ["time management", "schedule", "overwhelmed", "productivity", "techniques", "prioritize"],
+    "answer": "Effective time management reduces stress by creating control and space. Strategies include: 1) Time blocking - schedule specific tasks into calendar blocks. 2) Eisenhower matrix - categorize tasks as urgent/important, important/not urgent, urgent/not important, neither. Focus on important, not just urgent. 3) Two-minute rule - if something takes under 2 minutes, do it now. 4) Batch similar tasks - group emails, calls, errands. 5) Protect focus time - block uninterrupted periods for deep work. 6) Build in buffer time - things take longer than expected. 7) Learn to delegate - you don't have to do everything. 8) Review weekly - plan ahead, reflect on what worked. 9) Say no to non-essential commitments. 10) Accept imperfection - done is better than perfect. Time management isn't about doing more; it's about doing what matters without overwhelm.",
+    "follow_up": ["What time management system do you use?", "Where does time slip away?", "Are you overcommitted?", "Would you like specific tools?"]
+  },
+  {
+    "id": 3013,
+    "category": "stress",
+    "question": "How does exercise reduce stress",
+    "alternate_questions": ["Workout stress relief", "Exercise cortisol", "Fitness mental health", "Physical activity stress", "Movement stress"],
+    "keywords": ["exercise", "workout", "fitness", "movement", "physical activity", "stress relief", "cortisol"],
+    "answer": "Exercise is one of the most effective stress reducers. It works through multiple mechanisms: 1) Releases endorphins - natural mood elevators that create 'runner's high.' 2) Reduces cortisol and adrenaline - metabolizes stress hormones. 3) Improves sleep - better sleep equals better stress resilience. 4) Increases neurotransmitters - boosts serotonin, dopamine, and norepinephrine. 5) Provides mental break - shifts focus from stressors. 6) Builds confidence - mastery and physical capability improve self-efficacy. 7) Social connection - group exercise reduces isolation. For stress relief, aim for 150 minutes moderate exercise weekly. Best types: aerobic exercise (walking, running, swimming), yoga (combines movement with breathwork), and strength training. Even 10-minute walks help. During high-stress periods, avoid overtraining which increases cortisol. Move your body in ways you enjoy - consistency matters more than intensity.",
+    "follow_up": ["Do you currently exercise?", "What activities do you enjoy?", "How does exercise make you feel?", "Can you commit to 10 minutes daily?"]
+  },
+  {
+    "id": 3014,
+    "category": "stress",
+    "question": "What is mindfulness for stress",
+    "alternate_questions": ["Mindfulness stress relief", "Meditation stress", "Present moment stress", "Mindful stress management", "Mindfulness techniques"],
+    "keywords": ["mindfulness", "meditation", "present moment", "stress management", "awareness", "calm"],
+    "answer": "Mindfulness is the practice of paying attention to the present moment without judgment. For stress, it interrupts rumination about the past and anxiety about the future. Benefits include: reduced cortisol, lower blood pressure, improved emotional regulation, decreased rumination, and enhanced focus. Mindfulness techniques for stress: 1) Breath awareness - focus on breath sensations for 5 minutes. 2) Body scan - systematically notice sensations from head to toe. 3) Mindful walking - feel each step, notice surroundings. 4) RAIN technique - Recognize, Allow, Investigate, Nurture difficult emotions. 5) Mindful eating - savor each bite. 6) Urge surfing - observe cravings or stress urges without acting. Start with 5 minutes daily. Apps like Headspace, Calm, and Insight Timer offer guided practices. Mindfulness isn't about emptying your mind - it's about observing thoughts without being swept away by them.",
+    "follow_up": ["Have you tried mindfulness?", "What appeals to you?", "Do you struggle with racing thoughts?", "Can you start with 5 minutes?"]
+  },
+  {
+    "id": 3015,
+    "category": "stress",
+    "question": "How to handle family stress",
+    "alternate_questions": ["Family stress relief", "Toxic family stress", "Holiday family stress", "Parent stress", "Sibling stress"],
+    "keywords": ["family", "toxic", "holiday", "parent", "sibling", "relationships", "stress"],
+    "answer": "Family stress is unique because these relationships are often unavoidable and deeply emotional. Strategies: 1) Set boundaries - limit contact with toxic members, define acceptable behavior. 2) Manage expectations - family won't magically change; accept who they are. 3) Don't engage in drama - gray rock method (be boring and unresponsive to provocation). 4) Have an exit strategy - plan how to leave uncomfortable situations. 5) Create your own traditions - if family gatherings are stressful, build chosen family celebrations. 6) Don't try to fix anyone - focus on your own wellbeing. 7) Seek therapy - family dynamics often require professional unpacking. 8) Practice self-care before and after family interactions. 9) Limit alcohol - it lowers inhibitions and increases conflict. 10) Remember: you can love family from a distance. Your mental health is not selfish - it's necessary.",
+    "follow_up": ["What family situation stresses you?", "Are boundaries possible?", "Do you live with family or visit?", "Have you considered therapy?"]
+  },
+  {
+    "id": 3016,
+    "category": "stress",
+    "question": "What is financial stress",
+    "alternate_questions": ["Money stress", "Financial anxiety", "Debt stress", "Bills overwhelming", "Money worries health"],
+    "keywords": ["financial", "money", "debt", "bills", "anxiety", "worries", "health"],
+    "answer": "Financial stress is anxiety and worry related to money, debt, income, or financial security. It's one of the most common stressors and significantly impacts mental and physical health. Symptoms include: insomnia, headaches, digestive issues, relationship conflict, depression, and avoidance behaviors (not opening bills). Financial stress can feel shameful, but it's often due to systemic factors beyond individual control. Management steps: 1) Face reality - know exact numbers, avoidance worsens anxiety. 2) Create a budget - understanding cash flow reduces uncertainty. 3) Prioritize essentials - housing, food, utilities, healthcare. 4) Seek help - financial counselors, hardship programs, community resources. 5) Increase income if possible - side work, selling items, negotiating raise. 6) Address emotional aspects - money shame is common; therapy can help. 7) Focus on what you can control. Financial stress is real and valid - you deserve support, not judgment.",
+    "follow_up": ["What is your main financial concern?", "Have you faced the numbers?", "Do you have a budget?", "Have you sought financial counseling?"]
+  },
+  {
+    "id": 3017,
+    "category": "stress",
+    "question": "How does social media cause stress",
+    "alternate_questions": ["Social media anxiety", "Instagram stress", "Comparison social media", "Online stress", "Social media mental health"],
+    "keywords": ["social media", "comparison", "online", "Instagram", "anxiety", "mental health", "stress"],
+    "answer": "Social media causes stress through multiple mechanisms: 1) Social comparison - comparing your behind-the-scenes to others' highlight reels creates inadequacy. 2) FOMO (fear of missing out) - seeing others' activities creates anxiety about your own life. 3) Information overload - constant news and updates overwhelm. 4) Validation seeking - basing self-worth on likes and comments. 5) Cyberbullying and harassment. 6) Sleep disruption - blue light and bedtime scrolling. 7) Unrealistic standards - filtered beauty, perfect lifestyles. 8) Time drain - hours lost that could be spent on restorative activities. Research links heavy social media use to increased anxiety, depression, and body image issues, especially in young women. Manage by: setting time limits, curating your feed, unfollowing accounts that make you feel bad, turning off notifications, and taking regular breaks. Your wellbeing is more important than your feed.",
+    "follow_up": ["How much time do you spend on social media?", "How does it make you feel?", "Which platforms are worst for you?", "Would you consider a break?"]
+  },
+  {
+    "id": 3018,
+    "category": "stress",
+    "question": "What is caregiver stress",
+    "alternate_questions": ["Caregiver burnout", "Taking care of parent stress", "Childcare stress", "Sandwich generation", "Caregiving overwhelm"],
+    "keywords": ["caregiver", "burnout", "parent", "childcare", "sandwich generation", "overwhelm", "responsibility"],
+    "answer": "Caregiver stress is the physical, emotional, and financial strain of caring for others - children, elderly parents, ill partners, or disabled family members. Women disproportionately bear caregiving burdens. Signs include: exhaustion, irritability, depression, anxiety, health neglect, social isolation, and resentment. The 'sandwich generation' cares for both children and aging parents simultaneously. Caregiver stress is often invisible and undervalued - society expects women to nurture without complaint. Prevention and management: 1) Accept help - you cannot do this alone. 2) Respite care - schedule regular breaks. 3) Support groups - connect with others who understand. 4) Set realistic expectations - you cannot be perfect. 5) Maintain your own health - doctor visits, exercise, sleep. 6) Consider professional care options. 7) Address financial strain. Caregiving is noble but unsustainable without self-care. You matter too.",
+    "follow_up": ["Who are you caring for?", "Do you have help?", "When did you last take a break?", "Are your own needs being met?"]
+  },
+  {
+    "id": 3019,
+    "category": "stress",
+    "question": "How to practice self care under stress",
+    "alternate_questions": ["Self care stress", "Quick self care", "Self care busy", "Stress self compassion", "Basic self care stress"],
+    "keywords": ["self care", "stress", "busy", "compassion", "basic", "quick", "essential"],
+    "answer": "Self-care during stress must be simple and sustainable, not elaborate. Essential self-care under stress: 1) Sleep - prioritize 7-9 hours; everything else suffers without it. 2) Nutrition - eat regular meals, even if they're simple. 3) Hydration - dehydration worsens stress symptoms. 4) Movement - even 10-minute walks help. 5) Connection - brief check-ins with supportive people. 6) Micro-breaks - 2 minutes of breathing between tasks. 7) Nature - 5 minutes outside reduces cortisol. 8) Say no - protect your limited energy. 9) Basic hygiene - shower, brush teeth, change clothes. 10) Ask for help - self-care includes receiving care. During extreme stress, lower the bar. 'Good enough' is the goal, not perfect. Self-care is not selfish - it's maintenance. You cannot pour from an empty cup, and you deserve care regardless of productivity.",
+    "follow_up": ["What self care are you neglecting?", "What is one thing you can do today?", "Do you feel guilty about self care?", "What support do you need?"]
+  },
+  {
+    "id": 3020,
+    "category": "stress",
+    "question": "What is anticipatory stress",
+    "alternate_questions": ["Worry about future", "Anxiety upcoming events", "Anticipatory anxiety", "Future stress", "Dread stress"],
+    "keywords": ["anticipatory", "future", "worry", "upcoming", "dread", "anxiety", "events"],
+    "answer": "Anticipatory stress is anxiety about future events that haven't happened yet. You might spend days or weeks worrying about a presentation, medical test, confrontation, or change. The stress response activates as if the threat is immediate, causing physical and emotional suffering in advance. Often, the actual event is less stressful than the anticipation. Anticipatory stress wastes present moments on future worries. Manage it by: 1) Distinguishing preparation from worry - plan, then let go. 2) Worst-case scenario planning - if X happens, what would you do? Often reveals you could cope. 3) Mindfulness - return to present moment when mind jumps ahead. 4) Evidence gathering - how often have your worst fears actually happened? 5) Scheduled worry time - contain anxiety to 15 minutes daily. 6) Acceptance - some uncertainty is unavoidable. The future is not here yet. Don't suffer twice - once in imagination and once in reality.",
+    "follow_up": ["What are you anticipating?", "How far ahead do you worry?", "Has the reality ever matched your worry?", "What helps you stay present?"]
+  },
+  {
+    "id": 3021,
+    "category": "stress",
+    "question": "How to handle stress during pregnancy",
+    "alternate_questions": ["Pregnancy stress relief", "Anxious pregnant", "Prenatal stress", "Stress baby health", "Pregnancy worry"],
+    "keywords": ["pregnancy", "prenatal", "stress", "anxious", "baby", "health", "worry", "relief"],
+    "answer": "Stress during pregnancy is common but manageable. Some stress is normal; chronic severe stress may affect pregnancy outcomes. Management strategies: 1) Prenatal care - regular checkups reduce health anxiety. 2) Education - knowledge reduces fear of the unknown. 3) Childbirth classes - preparation reduces birth anxiety. 4) Support system - connect with other pregnant women, partners, family. 5) Rest - pregnancy demands extra energy; honor fatigue. 6) Gentle exercise - prenatal yoga, walking. 7) Limit information overload - not every horror story applies to you. 8) Financial planning - reduce money stress through budgeting. 9) Address relationship stress - counseling if needed. 10) Practice relaxation - breathing, meditation, massage. If anxiety is severe, consult your provider - some anxiety medications are safe in pregnancy. Your mental health matters for both you and baby.",
+    "follow_up": ["What is your main pregnancy stress?", "How far along are you?", "Do you have support?", "Have you discussed anxiety with your provider?"]
+  },
+  {
+    "id": 3022,
+    "category": "stress",
+    "question": "What is stress eating",
+    "alternate_questions": ["Emotional eating", "Eat when stressed", "Stress cravings", "Comfort food stress", "Binge stress"],
+    "keywords": ["stress eating", "emotional eating", "cravings", "comfort food", "binge", "coping", "food"],
+    "answer": "Stress eating is using food to cope with emotional distress rather than physical hunger. Stress increases cortisol, which boosts appetite and cravings for high-fat, high-sugar foods. These foods temporarily activate reward pathways, providing brief comfort. However, stress eating often leads to guilt, weight gain, and doesn't address underlying stress. Distinguish physical hunger (gradual, any food satisfies, stomach-based) from emotional hunger (sudden, specific cravings, mind-based). Alternatives to stress eating: pause and check hunger level, drink water, take 5 deep breaths, go for a walk, call a friend, journal, or engage hands (craft, puzzle). If you do stress eat, practice self-compassion rather than shame. Food is not the enemy; it's one coping mechanism among many. Addressing root stress is more effective than fighting cravings.",
+    "follow_up": ["Do you eat when stressed?", "What foods do you crave?", "Are you physically hungry or emotionally?", "What other coping strategies could you try?"]
+  },
+  {
+    "id": 3023,
+    "category": "stress",
+    "question": "How to handle relationship stress",
+    "alternate_questions": ["Partner stress", "Relationship anxiety", "Marriage stress", "Dating stress", "Conflict stress"],
+    "keywords": ["relationship", "partner", "marriage", "dating", "conflict", "anxiety", "stress"],
+    "answer": "Relationship stress affects overall wellbeing significantly. Common sources: communication breakdowns, unmet needs, financial strain, infidelity, differing values, and life transitions. Management: 1) Communicate directly - use 'I' statements, express needs clearly. 2) Choose timing - don't discuss heavy topics when exhausted or hungry. 3) Listen actively - understand before responding. 4) Take breaks during conflict - call timeout before flooding. 5) Address issues early - don't let resentment build. 6) Maintain individuality - don't lose yourself in the relationship. 7) Seek couples therapy - professional guidance helps. 8) Know when to leave - toxic relationships cause chronic stress that no amount of management fixes. Healthy relationships have conflict but also repair, respect, and growth. You deserve relationships that reduce stress, not create it.",
+    "follow_up": ["What is the main relationship stress?", "Have you tried communicating?", "Is this relationship healthy overall?", "Have you considered counseling?"]
+  },
+  {
+    "id": 3024,
+    "category": "stress",
+    "question": "What is exam stress",
+    "alternate_questions": ["Test anxiety", "Study stress", "School stress", "Exam pressure", "Academic stress"],
+    "keywords": ["exam", "test", "study", "school", "academic", "pressure", "anxiety", "student"],
+    "answer": "Exam stress is anxiety related to tests, grades, and academic performance. It affects students of all ages. Symptoms include: racing thoughts, inability to concentrate, procrastination, sleep disruption, headaches, stomach issues, and panic during exams. Some anxiety improves performance (optimal arousal), but excessive stress impairs memory and thinking. Management: 1) Preparation - consistent studying reduces uncertainty. 2) Study techniques - active recall, spaced repetition, practice tests. 3) Sleep - pulling all-nighters backfires. 4) Breaks - 50/10 or Pomodoro technique. 5) Physical care - exercise, nutrition, hydration. 6) Perspective - one exam doesn't define your worth. 7) Test-day strategies - arrive early, breathe, read carefully, skip hard questions. 8) Professional help if anxiety is debilitating. Your grades are not your value. You are worthy regardless of academic outcomes.",
+    "follow_up": ["What exams are coming up?", "How do you prepare?", "Is anxiety helping or hurting performance?", "Do you have test-taking strategies?"]
+  },
+  {
+    "id": 3025,
+    "category": "stress",
+    "question": "How to handle moving stress",
+    "alternate_questions": ["Relocation stress", "Moving anxiety", "New place stress", "Moving overwhelm", "Change stress"],
+    "keywords": ["moving", "relocation", "new place", "change", "overwhelm", "anxiety", "transition"],
+    "answer": "Moving is one of life's most stressful events, ranking alongside divorce and job loss. It involves physical exertion, financial strain, decision fatigue, social disruption, and identity adjustment. Management: 1) Start early - procrastination increases stress. 2) Declutter before packing - less stuff, less burden. 3) Create a checklist - break into small tasks. 4) Label boxes clearly - reduces chaos at destination. 5) Pack essentials separately - immediate needs box. 6) Accept help - friends, movers, meal delivery. 7) Say goodbye properly - closure matters. 8) Explore gradually - don't pressure yourself to love new place immediately. 9) Maintain routines - anchors during transition. 10) Be patient - adjustment takes 6-18 months. Moving stress is normal and temporary. You will settle in. Change is hard but also opens new possibilities.",
+    "follow_up": ["Are you moving soon?", "Local or long distance?", "What aspect stresses you most?", "Do you have help?"]
+  },
+  {
+    "id": 3026,
+    "category": "stress",
+    "question": "What is health anxiety",
+    "alternate_questions": ["Hypochondria", "Worried about illness", "Health anxiety symptoms", "Illness anxiety disorder", "Always think I'm sick"],
+    "keywords": ["health anxiety", "hypochondria", "illness", "worried", "symptoms", "disorder", "somatic"],
+    "answer": "Health anxiety (illness anxiety disorder, formerly hypochondria) is excessive worry about having a serious illness despite medical reassurance. You may misinterpret normal bodily sensations as signs of disease, constantly check your body, seek repeated medical tests, or avoid doctors entirely. The anxiety itself causes physical symptoms (racing heart, tension, digestive issues) that confirm fears. Health anxiety often worsens during stress and hormonal fluctuations. It differs from legitimate health concerns in being excessive, persistent, and resistant to reassurance. Management includes: CBT to challenge catastrophic thoughts, limiting body checking and Googling symptoms, mindfulness to tolerate uncertainty, and addressing underlying anxiety. If you have health anxiety, your fears feel real - but they are treatable. Seek mental health support rather than more medical tests.",
+    "follow_up": ["What health fears do you have?", "Have doctors reassured you?", "How much time do you spend checking symptoms?", "Does anxiety run in your family?"]
+  },
+  {
+    "id": 3027,
+    "category": "stress",
+    "question": "How to handle wedding stress",
+    "alternate_questions": ["Wedding planning stress", "Bride stress", "Engagement anxiety", "Wedding overwhelm", "Marriage preparation stress"],
+    "keywords": ["wedding", "bride", "planning", "engagement", "marriage", "overwhelm", "anxiety"],
+    "answer": "Wedding stress is common due to high expectations, costs, family dynamics, and life transition. Management: 1) Remember the purpose - it's about marriage, not performance. 2) Set a realistic budget - financial stress ruins joy. 3) Prioritize what matters - you can't perfect everything. 4) Delegate - bridesmaids, family, planner. 5) Limit opinions - 'Thank you, we've decided' is a complete response. 6) Schedule couple time - don't lose connection in planning. 7) Practice self-care - sleep, exercise, nutrition. 8) Have a day-of coordinator - so you're not managing logistics. 9) Accept imperfections - something will go wrong; it's okay. 10) Consider elopement or small wedding if planning is destroying your mental health. The wedding industry profits from your anxiety. Your marriage matters more than your wedding day.",
+    "follow_up": ["What aspect of wedding planning stresses you?", "Is family causing pressure?", "What is your budget?", "Have you considered simplifying?"]
+  },
+  {
+    "id": 3028,
+    "category": "stress",
+    "question": "What is decision fatigue",
+    "alternate_questions": ["Too many decisions", "Decision overwhelm", "Fatigue from choices", "Decision making stress", "Choice paralysis"],
+    "keywords": ["decision fatigue", "choices", "overwhelm", "fatigue", "decision making", "paralysis", "willpower"],
+    "answer": "Decision fatigue is the deteriorating quality of decisions after making many choices. Your mental energy for decision-making is finite. As it depletes, you make poorer choices, avoid decisions, or default to easiest options. This is why you might eat junk food after a day of hard work or impulse shop when tired. Women often face more decision fatigue due to managing households, careers, and caregiving simultaneously. Reduce decision fatigue by: 1) Routines - automate daily choices (same breakfast, planned outfits). 2) Limit options - too many choices paralyze. 3) Make important decisions in the morning when willpower is highest. 4) Delegate decisions when possible. 5) Reduce trivial decisions - use defaults and templates. 6) Rest and nourish - decision quality drops when hungry or tired. Protect your decision-making energy for what truly matters.",
+    "follow_up": ["Do you feel overwhelmed by choices?", "What decisions drain you most?", "Have you tried routines?", "When do you make your best decisions?"]
+  },
+  {
+    "id": 3029,
+    "category": "stress",
+    "question": "How to handle holiday stress",
+    "alternate_questions": ["Christmas stress", "Holiday overwhelm", "Family holiday anxiety", "Festive season stress", "Holiday expectations"],
+    "keywords": ["holiday", "christmas", "festive", "family", "expectations", "overwhelm", "season"],
+    "answer": "Holiday stress comes from expectations, family dynamics, financial pressure, and disrupted routines. Management: 1) Set realistic expectations - perfect holidays don't exist. 2) Budget - financial stress ruins joy. 3) Limit commitments - you don't have to attend everything. 4) Prepare for family tension - have exit strategies, set boundaries. 5) Maintain routines - sleep, exercise, nutrition. 6) Say no - to extra hosting, gifts, or events. 7) Create your own traditions - if family gatherings are toxic, build alternatives. 8) Volunteer - shifts focus from stress to giving. 9) Limit alcohol - it worsens mood and family conflict. 10) Remember: it's okay to have a quiet holiday. Commercials show idealized versions; real holidays are messy. Your peace matters more than tradition.",
+    "follow_up": ["Which holiday stresses you?", "Is it family, money, or expectations?", "What traditions do you want to keep or change?", "Have you set boundaries?"]
+  },
+  {
+    "id": 3030,
+    "category": "stress",
+    "question": "What is toxic stress",
+    "alternate_questions": ["Chronic toxic stress", "Adverse childhood experiences", "ACEs stress", "Toxic stress health", "Severe stress effects"],
+    "keywords": ["toxic stress", "chronic", "ACEs", "adverse childhood", "severe", "health", "development"],
+    "answer": "Toxic stress is prolonged activation of the stress response system without protective relationships. It differs from tolerable stress (challenging but buffered by support) and positive stress (brief, mild, growth-promoting). Toxic stress often results from adverse childhood experiences (ACEs): abuse, neglect, household dysfunction, violence, or parental substance abuse. It disrupts brain development, immune system, hormonal systems, and even DNA expression through epigenetics. Long-term effects include: increased risk of heart disease, diabetes, depression, substance abuse, and early death. In women, toxic stress affects reproductive health, pregnancy outcomes, and parenting capacity. Healing requires: safe relationships, therapy, stress reduction, and sometimes medical intervention. If you experienced childhood adversity, your struggles are not your fault. Healing is possible, and you deserve support.",
+    "follow_up": ["Did you experience childhood adversity?", "How does it affect you now?", "Are you in safe relationships?", "Have you sought trauma-informed care?"]
+  }
+]

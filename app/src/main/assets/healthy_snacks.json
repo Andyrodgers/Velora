@@ -1,0 +1,47 @@
+[
+  {
+    "id": 401,
+    "category": "healthy_snacks",
+    "question": "What are some healthy snacks for my period?",
+    "alternate_questions": ["Snack ideas for menstruation", "Best period snacks", "What to eat when I'm hungry between meals"],
+    "keywords": ["snacks", "healthy", "period", "nuts", "fruit", "yogurt"],
+    "answer": "Great period snacks include a handful of nuts (for magnesium), Greek yogurt with berries (for calcium and antioxidants), an apple with almond butter, or dark chocolate (in moderation).",
+    "follow_up": ["Why is dark chocolate good for periods?", "How many nuts should I eat?", "Are there snacks that help with cramps?"]
+  },
+  {
+    "id": 402,
+    "category": "healthy_snacks",
+    "question": "Can snacks help with period cravings?",
+    "alternate_questions": ["Satisfying a sweet tooth healthy", "Snacks to stop junk food cravings", "Managing PMS hunger with snacks"],
+    "keywords": ["snacks", "cravings", "pms", "hunger", "satisfying"],
+    "answer": "Yes, choosing snacks that combine fiber and protein (like carrots and hummus) can help you feel full longer and reduce the urge to reach for less healthy options like chips or candy.",
+    "follow_up": ["What are high-protein snacks?", "Does fiber reduce hunger?", "How to manage intense sugar cravings?"]
+  },
+  {
+    "id": 403,
+    "category": "healthy_snacks",
+    "question": "Is dark chocolate a healthy period snack?",
+    "alternate_questions": ["Benefits of dark chocolate during my cycle", "Why do I want chocolate on my period?", "Is chocolate good for cramps?"],
+    "keywords": ["dark chocolate", "snack", "magnesium", "cramps", "mood"],
+    "answer": "Yes, dark chocolate (at least 70% cocoa) is high in magnesium, which can help relax muscles and reduce cramps. It also contains compounds that can improve your mood.",
+    "follow_up": ["How much dark chocolate is okay?", "Does it have caffeine?", "What other snacks have magnesium?"]
+  },
+  {
+    "id": 404,
+    "category": "healthy_snacks",
+    "question": "What snacks help with bloating?",
+    "alternate_questions": ["Snacking to reduce water retention", "Best snacks for a bloated stomach during PMS", "Hydrating snacks for periods"],
+    "keywords": ["snacks", "bloating", "pms", "water retention", "cucumbers"],
+    "answer": "Hydrating snacks like cucumbers, celery, or watermelon can help reduce bloating. Avoid salty snacks like pretzels or processed chips, as they can cause you to retain more water.",
+    "follow_up": ["Why does salt cause bloating?", "Is watermelon a good snack for periods?", "What are other hydrating foods?"]
+  },
+  {
+    "id": 405,
+    "category": "healthy_snacks",
+    "question": "What are quick, high-energy snacks for period fatigue?",
+    "alternate_questions": ["Energy-boosting snacks for menstruation", "What to eat when I feel tired during my cycle", "Snacks for a quick energy lift"],
+    "keywords": ["energy", "snacks", "fatigue", "period", "nuts", "seeds"],
+    "answer": "A small amount of trail mix (nuts, seeds, and a bit of dried fruit) or a banana can provide a quick and sustained energy boost when you're feeling tired during your cycle.",
+    "follow_up": ["Why do bananas give energy?", "What nuts are best for fatigue?", "How to make healthy trail mix?"]
+  }
+]

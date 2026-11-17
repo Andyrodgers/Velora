@@ -1,0 +1,47 @@
+[
+  {
+    "id": 371,
+    "category": "meals",
+    "question": "What kind of meals are best during my period?",
+    "alternate_questions": ["Eating plan for menstruation", "Healthy meals for my cycle", "Meal planning for periods"],
+    "keywords": ["meals", "period", "healthy", "balanced", "nutrition"],
+    "answer": "Balanced meals containing protein, healthy fats, and fiber-rich carbohydrates are best. Think about 'whole' foods: lean meats or beans, plenty of vegetables, and grains like brown rice or quinoa. These help maintain energy and manage symptoms.",
+    "follow_up": ["What are healthy snacks?", "How to meal prep for periods?", "Should I avoid salt in my meals?"]
+  },
+  {
+    "id": 372,
+    "category": "meals",
+    "question": "Can meal timing affect my PMS?",
+    "alternate_questions": ["Should I eat smaller meals during PMS?", "Does when I eat matter for my cycle?", "Frequency of meals during period"],
+    "keywords": ["meals", "timing", "pms", "frequency", "blood sugar"],
+    "answer": "Yes, eating smaller, more frequent meals can help stabilize your blood sugar, which can reduce irritability, fatigue, and cravings often associated with PMS and your period.",
+    "follow_up": ["How many meals should I eat?", "What are good small meal ideas?", "Does missing breakfast affect my cycle?"]
+  },
+  {
+    "id": 373,
+    "category": "meals",
+    "question": "What are warm meal ideas for cramps?",
+    "alternate_questions": ["Comforting meals for period pain", "Warm foods to eat when I have cramps", "Soups and stews for menstruation"],
+    "keywords": ["meals", "warm", "cramps", "comfort", "soup", "stew"],
+    "answer": "Warm meals like vegetable soup, lentil stew, or a mild chicken curry can be very comforting and help relax the uterine muscles, potentially easing cramps.",
+    "follow_up": ["Why is warm food better for cramps?", "What are easy soup recipes?", "Can herbal tea help with cramps?"]
+  },
+  {
+    "id": 374,
+    "category": "meals",
+    "question": "How can I meal prep for my period?",
+    "alternate_questions": ["Preparing food before my period starts", "Period meal planning tips", "Easy meals to have ready for menstruation"],
+    "keywords": ["meal prep", "period", "planning", "easy", "prep"],
+    "answer": "Meal prepping involves cooking larger batches of grains, roasting vegetables, or preparing proteins like beans or chicken a few days before your period starts. This makes it easier to eat healthy when you have low energy.",
+    "follow_up": ["What foods are best for meal prep?", "How to store prepped meals?", "Quick assembly meal ideas?"]
+  },
+  {
+    "id": 375,
+    "category": "meals",
+    "question": "Should I eat more calories during my period?",
+    "alternate_questions": ["Does my metabolism increase on my period?", "Why am I hungrier during menstruation?", "Calories and my cycle"],
+    "keywords": ["calories", "period", "metabolism", "hunger", "nutrition"],
+    "answer": "Some research suggests your basal metabolic rate might slightly increase in the week before your period, which is why you might feel hungrier. It's important to listen to your body and focus on nutrient-dense foods.",
+    "follow_up": ["Why am I hungrier before my period?", "Healthy ways to satisfy hunger?", "Does metabolism change throughout the cycle?"]
+  }
+]

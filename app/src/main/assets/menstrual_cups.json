@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1201,
+    "category": "menstrual_cups",
+    "question": "What is a menstrual cup?",
+    "alternate_questions": ["How does a menstrual cup work?", "Tell me about menstrual cups", "Menstrual cup definition"],
+    "keywords": ["menstrual cup", "period cup", "reusable", "insertion", "suction"],
+    "answer": "A menstrual cup is a reusable, bell-shaped device made of medical-grade silicone or rubber that you insert into your vagina to collect period blood. Unlike tampons or pads, it collects the fluid rather than absorbing it.",
+    "follow_up": ["How do I insert a menstrual cup?", "How long can I wear a menstrual cup?", "Are menstrual cups better than tampons?"]
+  },
+  {
+    "id": 1202,
+    "category": "menstrual_cups",
+    "question": "How do I insert a menstrual cup?",
+    "alternate_questions": ["Putting in a menstrual cup", "Menstrual cup insertion tips", "How to fold a menstrual cup"],
+    "keywords": ["insert", "insertion", "fold", "vagina", "cup"],
+    "answer": "To insert a menstrual cup, wash your hands and the cup first. Fold the cup (using a C-fold or Punch-down fold), find a comfortable position, and insert it into the vagina. Once inside, it should pop open and create a light seal to prevent leaks.",
+    "follow_up": ["How do I know if it's in right?", "Does it hurt to put in a menstrual cup?", "What if it won't open?"]
+  },
+  {
+    "id": 1203,
+    "category": "menstrual_cups",
+    "question": "How long can I wear a menstrual cup?",
+    "alternate_questions": ["When should I empty my menstrual cup?", "Can I wear a cup overnight?", "Menstrual cup wear time"],
+    "keywords": ["wear", "time", "hours", "overnight", "empty"],
+    "answer": "You can wear a menstrual cup for up to 12 hours, depending on your flow. Many people find they only need to empty it twice a day—once in the morning and once at night.",
+    "follow_up": ["How do I empty a cup in a public restroom?", "Can a cup overflow?", "How do I clean it?"]
+  },
+  {
+    "id": 1204,
+    "category": "menstrual_cups",
+    "question": "How do I remove a menstrual cup?",
+    "alternate_questions": ["Taking out a menstrual cup", "Removing a period cup", "What if my cup is stuck?"],
+    "keywords": ["remove", "removal", "suction", "stem", "stuck"],
+    "answer": "To remove the cup, wash your hands and relax your muscles. Reach in, find the base of the cup (not just the stem), and pinch it to break the suction seal. Then, gently pull it out, empty the contents into the toilet, and rinse before reinserting.",
+    "follow_up": ["What if I can't reach it?", "Will it get lost inside me?", "Does it make a mess?"]
+  },
+  {
+    "id": 1205,
+    "category": "menstrual_cups",
+    "question": "How do I clean my menstrual cup?",
+    "alternate_questions": ["Menstrual cup care", "Sterilizing a period cup", "What soap to use for menstrual cup"],
+    "keywords": ["clean", "wash", "sterilize", "boil", "soap"],
+    "answer": "During your period, rinse the cup with cold water and wash it with a mild, unscented, oil-free soap. Between cycles, sterilize it by boiling it in water for 5-10 minutes. Store it in a breathable cotton bag.",
+    "follow_up": ["Can I use regular soap?", "How often should I boil it?", "When should I replace my cup?"]
+  }
+]

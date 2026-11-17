@@ -1,0 +1,182 @@
+[
+  {
+    "id": 481,
+    "category": "contraception",
+    "question": "What is contraception",
+    "alternate_questions": ["Define contraception", "What does contraception mean", "Contraception explained", "Birth control vs contraception", "Family planning definition"],
+    "keywords": ["contraception", "definition", "pregnancy prevention", "family planning", "birth control"],
+    "answer": "Contraception refers to methods and devices used to prevent pregnancy. It includes hormonal methods (pills, patches, rings, shots, implants, IUDs), barrier methods (condoms, diaphragms), intrauterine devices (copper and hormonal), permanent methods (tubal ligation, vasectomy), and natural methods (fertility awareness, withdrawal, abstinence). Effective contraception allows people to plan if and when to have children, supporting reproductive autonomy, health, and economic stability. The best method depends on individual health, lifestyle, and preferences.",
+    "follow_up": ["Are you looking for contraception information?", "What are your family planning goals?", "Do you have health considerations?", "Are you currently using contraception?"]
+  },
+  {
+    "id": 482,
+    "category": "contraception",
+    "question": "What is the most effective contraception",
+    "alternate_questions": ["Best contraception method", "Most effective birth control", "Highest success rate contraception", "Most reliable pregnancy prevention", "Best method to avoid pregnancy"],
+    "keywords": ["most effective", "LARC", "IUD", "implant", "sterilization"],
+    "answer": "The most effective reversible contraceptives are long-acting reversible contraceptives (LARCs): hormonal IUDs (99.8% effective), copper IUDs (99.2% effective), and implants (99.9% effective). These are 'set it and forget it' methods that don't require daily action. Permanent sterilization (tubal ligation, vasectomy) is nearly 100% effective but not reversible. The key to effectiveness is consistency, LARCs work so well because they eliminate user error. Choose a method that fits your lifestyle and that you'll use correctly and consistently.",
+    "follow_up": ["What method are you considering?", "How important is effectiveness to you?", "Do you want children in the future?", "Are you good at daily routines?"]
+  },
+  {
+    "id": 483,
+    "category": "contraception",
+    "question": "What is long-acting reversible contraception",
+    "alternate_questions": ["LARC methods", "Long acting reversible contraception explained", "IUD implant LARC", "Long term birth control reversible", "Set it and forget it contraception"],
+    "keywords": ["LARC", "long-acting", "reversible", "IUD", "implant", "contraception"],
+    "answer": "Long-acting reversible contraception (LARC) includes methods that provide pregnancy prevention for years without requiring daily action, but are reversible when removed. LARCs include: hormonal IUDs (3-7 years), copper IUDs (up to 12 years), and contraceptive implants (3 years). They are the most effective reversible methods because they eliminate user error. Fertility returns quickly after removal. LARCs are recommended as first-line contraception by major medical organizations because of their effectiveness, safety, and convenience.",
+    "follow_up": ["Are you considering a LARC method?", "How long do you want contraception?", "Do you want hormone-free options?", "Are you comfortable with insertion procedures?"]
+  },
+  {
+    "id": 484,
+    "category": "contraception",
+    "question": "What is permanent contraception",
+    "alternate_questions": ["Sterilization", "Permanent birth control", "Tubal ligation", "Vasectomy", "Permanent family planning"],
+    "keywords": ["permanent contraception", "sterilization", "tubal ligation", "vasectomy", "irreversible"],
+    "answer": "Permanent contraception (sterilization) involves surgical procedures to permanently prevent pregnancy. For people with ovaries: tubal ligation ('getting tubes tied') blocks or cuts the fallopian tubes to prevent eggs from meeting sperm. For people with testes: vasectomy cuts or blocks the vas deferens to prevent sperm from entering semen. Both are over 99% effective and considered permanent, though reversal surgeries exist with varying success rates. These are appropriate for people who are certain they don't want future children. Consider carefully, as regret is possible.",
+    "follow_up": ["Are you considering permanent contraception?", "Are you certain about not wanting future children?", "Have you discussed this with your partner?", "Have you considered less permanent options?"]
+  },
+  {
+    "id": 485,
+    "category": "contraception",
+    "question": "What is natural family planning",
+    "alternate_questions": ["Fertility awareness method", "Natural contraception", "Rhythm method", "Calendar method", "Natural birth control"],
+    "keywords": ["natural family planning", "fertility awareness", "rhythm method", "natural", "no hormones"],
+    "answer": "Natural family planning (fertility awareness-based methods) involves tracking your cycle to identify fertile days and either abstaining from sex or using barrier methods during that window. Methods include: calendar/rhythm method (counting cycle days), basal body temperature method, cervical mucus method (Billings), and symptothermal method (combining multiple signs). When practiced perfectly, effectiveness ranges from 76-99%, but typical use is less effective due to human error. Requires daily commitment, regular cycles, and training. No side effects, but requires discipline and doesn't protect against STIs.",
+    "follow_up": ["Are you considering natural methods?", "How regular are your cycles?", "Are you willing to track daily?", "Do you need STI protection?"]
+  },
+  {
+    "id": 486,
+    "category": "contraception",
+    "question": "What is withdrawal method",
+    "alternate_questions": ["Pull out method", "Coitus interruptus", "Withdrawal contraception", "Pulling out effectiveness", "Withdrawal before ejaculation"],
+    "keywords": ["withdrawal", "pull out", "coitus interruptus", "effectiveness", "risk"],
+    "answer": "The withdrawal method (pulling out before ejaculation) is a natural contraception method where the penis is removed from the vagina before ejaculation. It's about 78% effective with typical use and 96% with perfect use. However, it's difficult to use perfectly because pre-ejaculate (pre-cum) can contain sperm, and timing withdrawal is challenging. It offers no STI protection. While better than nothing, it's one of the least reliable methods. If using withdrawal, consider combining with another method like fertility awareness or condoms for better protection.",
+    "follow_up": ["Are you currently using withdrawal?", "How important is pregnancy prevention?", "Do you need STI protection?", "Are you considering more reliable methods?"]
+  },
+  {
+    "id": 487,
+    "category": "contraception",
+    "question": "What is abstinence",
+    "alternate_questions": ["No sex contraception", "Abstinence only", "Celibacy birth control", "Not having sex prevention", "Abstinence effectiveness"],
+    "keywords": ["abstinence", "no sex", "celibacy", "100% effective", "choice"],
+    "answer": "Abstinence (not having sexual intercourse) is the only 100% effective method of preventing pregnancy and STIs. It can mean different things to different people, from no sexual contact at all to no penis-in-vagina sex while engaging in other activities. Abstinence is a valid personal choice that may be temporary or permanent. If choosing abstinence, it's important to have a plan for contraception if you decide to become sexually active. Abstinence-only education that doesn't provide information about other methods has been shown to be less effective at preventing teen pregnancy.",
+    "follow_up": ["Is abstinence your choice?", "Is it temporary or permanent?", "Do you have information about other methods if needed?", "Do you feel supported in your choice?"]
+  },
+  {
+    "id": 488,
+    "category": "contraception",
+    "question": "What is lactational amenorrhea method",
+    "alternate_questions": ["Breastfeeding contraception", "LAM method", "Nursing as birth control", "Breastfeeding fertility", "Lactational amenorrhea effectiveness"],
+    "keywords": ["lactational amenorrhea", "LAM", "breastfeeding", "contraception", "postpartum"],
+    "answer": "The Lactational Amenorrhea Method (LAM) is a temporary natural contraception method used after childbirth. It's 98% effective when all three conditions are met: 1) Baby is under 6 months old. 2) You have not had a period since giving birth. 3) You are exclusively or nearly exclusively breastfeeding (day and night, with no long gaps). Breastfeeding suppresses ovulation through prolactin. If any condition changes, use backup contraception. LAM is free, has no side effects, and supports infant nutrition, but it's temporary and requires strict breastfeeding patterns.",
+    "follow_up": ["How old is your baby?", "Are you exclusively breastfeeding?", "Have you had a period yet?", "Are you considering backup contraception?"]
+  },
+  {
+    "id": 489,
+    "category": "contraception",
+    "question": "Can contraception cause weight gain",
+    "alternate_questions": ["Birth control weight gain", "Does the pill make you fat", "IUD weight gain", "Implant weight gain", "Hormonal contraception and weight"],
+    "keywords": ["weight gain", "contraception", "hormonal", "side effect", "myth"],
+    "answer": "Some contraceptive methods may cause modest weight gain, but it's often overstated. The birth control shot (Depo-Provera) is most associated with weight gain (average 5-10 lbs over a year). The pill, patch, and ring may cause slight water retention initially, but studies show minimal long-term weight gain. Hormonal IUDs and implants affect weight minimally because hormones are localized. Copper IUDs don't affect weight. Individual responses vary. If you're concerned about weight, discuss options with your provider. Focus on overall lifestyle for weight management rather than blaming contraception alone.",
+    "follow_up": ["What method are you considering?", "Have you experienced weight changes with contraception?", "Is weight gain a major concern for you?", "What is your current lifestyle like?"]
+  },
+  {
+    "id": 490,
+    "category": "contraception",
+    "question": "Can contraception affect mood",
+    "alternate_questions": ["Birth control depression", "Does the pill affect mood", "IUD mood changes", "Hormonal contraception mental health", "Contraception anxiety"],
+    "keywords": ["mood", "depression", "anxiety", "contraception", "hormonal", "mental health"],
+    "answer": "Hormonal contraception can affect mood in some people. Some experience improved mood due to reduced PMS, while others experience depression, anxiety, or irritability. Progestin-only methods and lower-dose pills may have less mood impact. The relationship is complex and individual, some people are more sensitive to hormonal changes. If you notice mood changes after starting contraception, talk to your provider about switching formulations or methods. Non-hormonal options (copper IUD, barrier methods, fertility awareness) don't affect mood. Your mental health matters, find a method that works for you.",
+    "follow_up": ["Have you experienced mood changes with contraception?", "Do you have a history of depression or anxiety?", "What method are you using or considering?", "Are you willing to try different formulations?"]
+  },
+  {
+    "id": 491,
+    "category": "contraception",
+    "question": "Can contraception cause acne",
+    "alternate_questions": ["Birth control acne", "Does the pill cause pimples", "IUD acne", "Implant skin breakouts", "Hormonal contraception skin"],
+    "keywords": ["acne", "contraception", "skin", "hormonal", "side effect"],
+    "answer": "Hormonal contraception can either improve or worsen acne depending on the formulation. Combined pills with certain progestins (like norgestimate, drospirenone) often improve acne by reducing androgens. However, progestin-only methods (mini-pill, implant, some IUDs) may worsen acne in some people because they lack the acne-fighting estrogen. The copper IUD doesn't affect acne. If you develop acne after starting contraception, talk to your provider about switching to a combined method or one with anti-androgenic progestin. Everyone's skin response is different.",
+    "follow_up": ["Do you have acne concerns?", "What method are you using?", "Are you willing to switch formulations?", "Have you noticed skin changes?"]
+  },
+  {
+    "id": 492,
+    "category": "contraception",
+    "question": "Can contraception affect fertility",
+    "alternate_questions": ["Birth control fertility", "Does the pill affect future fertility", "IUD and getting pregnant after", "How long after contraception can I conceive", "Contraception and infertility myth"],
+    "keywords": ["fertility", "contraception", "future pregnancy", "return to fertility", "myth"],
+    "answer": "Most contraception does NOT cause long-term infertility. Fertility typically returns quickly after stopping: immediately for barrier methods and copper IUDs; within weeks for pills, patch, and ring; within months for the shot (average 10 months); immediately upon removal for implants and hormonal IUDs. The pill does not 'build up' in your system. Some people conceive in their first cycle after stopping contraception. If fertility doesn't return within a year (or 6 months if over 35), see a fertility specialist, the issue is likely unrelated to past contraception use.",
+    "follow_up": ["What method are you using or did you use?", "When did you stop?", "How long have you been trying to conceive?", "Are you concerned about fertility?"]
+  },
+  {
+    "id": 493,
+    "category": "contraception",
+    "question": "Can I use contraception while breastfeeding",
+    "alternate_questions": ["Birth control nursing", "Contraception postpartum", "Safe contraception breastfeeding", "Pill while breastfeeding", "IUD after baby"],
+    "keywords": ["breastfeeding", "contraception", "postpartum", "safe", "progestin-only"],
+    "answer": "Yes, many contraceptive methods are safe while breastfeeding. Progestin-only methods (mini-pill, implant, hormonal IUD) are preferred because estrogen can reduce milk supply. The copper IUD is also safe and hormone-free. Barrier methods (condoms, diaphragm) are safe but less convenient. The Lactational Amenorrhea Method (LAM) works for the first 6 months if exclusively breastfeeding. Avoid combined estrogen pills in the first 3-6 weeks postpartum, and possibly longer if milk supply is a concern. Discuss timing with your provider, as some methods can be started immediately after delivery.",
+    "follow_up": ["How old is your baby?", "Are you exclusively breastfeeding?", "Is milk supply a concern?", "What method are you considering?"]
+  },
+  {
+    "id": 494,
+    "category": "contraception",
+    "question": "What contraception is best for me",
+    "alternate_questions": ["Choose birth control", "Best contraception for my situation", "How to pick birth control", "Contraception decision", "Right birth control method"],
+    "keywords": ["best contraception", "choice", "personalized", "lifestyle", "health"],
+    "answer": "The best contraception depends on your individual needs: Consider: effectiveness importance, convenience (daily vs. long-term), hormone preference, future fertility plans, menstrual changes desired, side effect tolerance, STI protection needs, health conditions, and cost. Talk to a healthcare provider who can review your medical history and preferences. Use decision tools or apps that compare methods. You may need to try a few methods before finding the right fit. Your needs may also change over time. There's no one 'best' method for everyone.",
+    "follow_up": ["What are your priorities?", "Do you want children in the future?", "Do you have health conditions?", "What's your lifestyle like?", "Have you tried methods before?"]
+  },
+  {
+    "id": 495,
+    "category": "contraception",
+    "question": "Can I switch contraception methods",
+    "alternate_questions": ["Change birth control", "Switching contraception", "How to change birth control methods", "Transition between methods", "Switching pills"],
+    "keywords": ["switch", "change", "transition", "contraception", "methods"],
+    "answer": "Yes, you can switch contraception methods, but do it carefully to maintain protection. When switching: use backup protection (condoms) during the transition period as directed by your provider. Some switches have no gap (pill to patch), while others require a few days of backup (shot to pill). Your provider will give specific instructions based on your current and new methods. Your body may need 2-3 months to adjust to new hormones, during which you might experience irregular bleeding or other side effects. Don't stop your current method until you have your new method ready.",
+    "follow_up": ["What method are you currently on?", "What method do you want to switch to?", "Have you discussed the transition with your provider?", "Are you prepared for adjustment symptoms?"]
+  },
+  {
+    "id": 496,
+    "category": "contraception",
+    "question": "What if I miss a birth control pill",
+    "alternate_questions": ["Missed pill what to do", "Forgot birth control pill", "Late pill pregnancy risk", "Missed contraceptive pill instructions", "Pill missed dose"],
+    "keywords": ["missed pill", "late pill", "backup protection", "instructions", "pregnancy risk"],
+    "answer": "If you miss a combined pill: Take it as soon as you remember, even if it means taking two in one day. If you miss one pill, you're still protected. If you miss two or more pills in the first two weeks of the pack, take the most recent missed pill, continue the pack, and use backup protection for 7 days. If you miss pills in the third week, skip the placebo week and start a new pack. If you miss progestin-only pills, take it as soon as possible, and use backup for 48 hours if you're more than 3 hours late. Check your specific pill instructions or call your pharmacist.",
+    "follow_up": ["How many pills did you miss?", "What week of the pack are you in?", "What type of pill are you on?", "Have you had unprotected sex?"]
+  },
+  {
+    "id": 497,
+    "category": "contraception",
+    "question": "Can antibiotics affect contraception",
+    "alternate_questions": ["Antibiotics birth control", "Do antibiotics reduce pill effectiveness", "Medication affecting contraception", "Rifampin and birth control", "Antibiotics pregnancy risk"],
+    "keywords": ["antibiotics", "contraception", "effectiveness", "rifampin", "enzyme inducers"],
+    "answer": "Most antibiotics do NOT affect hormonal contraception. The only antibiotic proven to reduce effectiveness is rifampin (used for tuberculosis and some infections), which is an enzyme inducer. Other enzyme-inducing medications (some anti-seizure drugs, St. John's Wort) can also reduce effectiveness. Most common antibiotics (amoxicillin, doxycycline, etc.) don't interact with birth control. However, if antibiotics cause vomiting or severe diarrhea, pills may not be absorbed properly. If concerned, use backup protection while on antibiotics and for 7 days after. Always tell your provider what contraception you use.",
+    "follow_up": ["What antibiotic are you taking?", "What contraception are you using?", "Are you experiencing vomiting or diarrhea?", "Have you discussed with your provider?"]
+  },
+  {
+    "id": 498,
+    "category": "contraception",
+    "question": "Can I get pregnant while on contraception",
+    "alternate_questions": ["Pregnancy on birth control", "Contraception failure", "Why did I get pregnant on the pill", "Birth control didn't work", "Contraception mistake pregnancy"],
+    "keywords": ["pregnancy", "contraception", "failure", "user error", "effectiveness"],
+    "answer": "Yes, you can get pregnant while using contraception, though it's rare with perfect use. Most 'contraceptive failures' are actually user errors: missed pills, late patch changes, incorrect condom use, timing mistakes with fertility awareness. Even with perfect use, no method is 100% effective except abstinence. If you think you might be pregnant while on contraception, take a test. If pregnant on the pill, stop taking it and see your provider, though exposure in early pregnancy is generally not harmful. Consider a more reliable method if you're having trouble with consistency.",
+    "follow_up": ["What method were you using?", "Do you think there was user error?", "Have you taken a pregnancy test?", "Are you considering a different method?"]
+  },
+  {
+    "id": 499,
+    "category": "contraception",
+    "question": "Does contraception protect against STIs",
+    "alternate_questions": ["Birth control STI protection", "Contraception and STDs", "Do pills protect against infections", "IUD STI prevention", "STI protection methods"],
+    "keywords": ["STI protection", "STD prevention", "contraception", "barrier methods", "condoms"],
+    "answer": "Most contraception does NOT protect against sexually transmitted infections (STIs). Only barrier methods, specifically male and female condoms, provide STI protection by blocking bodily fluids. Hormonal methods (pill, IUD, implant, shot), permanent methods, and natural methods offer no STI protection. If you have multiple partners or a partner whose STI status is unknown, use condoms in addition to your primary contraception method. Regular STI testing is important for sexually active people. PrEP is available for HIV prevention in high-risk individuals.",
+    "follow_up": ["Do you need STI protection?", "Are you in a monogamous relationship?", "When were you last tested for STIs?", "Are you using condoms?"]
+  },
+  {
+    "id": 500,
+    "category": "contraception",
+    "question": "What is contraceptive counseling",
+    "alternate_questions": ["Birth control counseling", "Contraception consultation", "Family planning counseling", "Contraceptive advice", "Birth control education"],
+    "keywords": ["contraceptive counseling", "education", "consultation", "healthcare provider", "informed choice"],
+    "answer": "Contraceptive counseling is a discussion with a healthcare provider about your contraception options, health history, lifestyle, and preferences to find the best method for you. A good counselor will: review all available methods, discuss effectiveness rates and side effects, consider your health conditions and medications, address your concerns and myths, respect your autonomy and cultural preferences, and ensure you understand how to use your chosen method. Counseling should be non-judgmental and patient-centered. You have the right to change methods if your first choice doesn't work out.",
+    "follow_up": ["Have you had contraceptive counseling?", "Do you feel informed about your options?", "Do you have specific concerns to discuss?", "Are you satisfied with your current method?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 351,
+    "category": "dinner",
+    "question": "What's a good dinner for period cramps?",
+    "alternate_questions": ["Dinner ideas during menstruation", "Relieving cramps with dinner", "Healthy period dinner"],
+    "keywords": ["dinner", "period", "cramps", "relief", "turmeric", "ginger"],
+    "answer": "A warm, anti-inflammatory dinner like a chickpea and vegetable curry with turmeric and ginger is excellent for period cramps. Turmeric and ginger have natural pain-relieving properties, and fiber from the vegetables helps with digestion.",
+    "follow_up": ["Does turmeric help with pain?", "What other spices are good for periods?", "Why is warm food better for cramps?"]
+  },
+  {
+    "id": 352,
+    "category": "dinner",
+    "question": "Should I eat a light or heavy dinner during my period?",
+    "alternate_questions": ["Best dinner size for menstruation", "Dinner and sleep quality during cycle", "What to eat at night on my period"],
+    "keywords": ["dinner", "period", "light", "heavy", "sleep"],
+    "answer": "A moderately light dinner is often best to avoid discomfort and improve sleep quality, which can be disrupted during your period. Focus on easy-to-digest proteins and plenty of vegetables.",
+    "follow_up": ["How does dinner affect sleep?", "What are easy-to-digest proteins?", "Should I avoid eating late during my period?"]
+  },
+  {
+    "id": 353,
+    "category": "dinner",
+    "question": "Are there dinner foods that help with period-related insomnia?",
+    "alternate_questions": ["What to eat for dinner to sleep better on my period", "Dinner for better rest during PMS", "Foods that promote sleep at night"],
+    "keywords": ["dinner", "sleep", "insomnia", "pms", "magnesium", "tryptophan"],
+    "answer": "Dinners containing magnesium (like spinach or almonds) and tryptophan (like turkey or seeds) can help promote better sleep. A small serving of complex carbs can also help your brain use these nutrients more effectively.",
+    "follow_up": ["What is tryptophan?", "Does magnesium help you sleep?", "Which seeds are best for dinner?"]
+  },
+  {
+    "id": 354,
+    "category": "dinner",
+    "question": "Can I eat spicy food for dinner during my period?",
+    "alternate_questions": ["Is spicy dinner okay on my period?", "Does spicy food worsen cramps?", "Spicy food and period digestion"],
+    "keywords": ["spicy", "dinner", "period", "digestion", "cramps"],
+    "answer": "Some people find that spicy food can worsen digestive issues like diarrhea or bloating during their period. If you're sensitive to spices, it's best to stick to milder flavors until your period ends.",
+    "follow_up": ["Does spicy food cause bloating?", "Can spices trigger hot flashes?", "What are good mild dinner ideas?"]
+  },
+  {
+    "id": 355,
+    "category": "dinner",
+    "question": "What's a quick and healthy period dinner?",
+    "alternate_questions": ["Easy dinner for when I have no energy on my period", "Fast period meal ideas", "Low-effort healthy dinner"],
+    "keywords": ["quick", "healthy", "dinner", "period", "low-effort"],
+    "answer": "A quick and healthy option is a 'power bowl' with pre-cooked quinoa or brown rice, canned beans (rinsed), steamed frozen vegetables, and a drizzle of olive oil or tahini. It's nutrient-dense and requires minimal cooking.",
+    "follow_up": ["What are other quick meal ideas?", "Are frozen vegetables healthy?", "How to meal prep for your period?"]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 471,
+    "category": "birth_control",
+    "question": "What are the types of birth control",
+    "alternate_questions": ["Contraception methods", "Birth control options", "Types of contraception", "What birth control is available", "Family planning methods"],
+    "keywords": ["birth control", "contraception", "types", "methods", "options"],
+    "answer": "Birth control methods include: 1) Hormonal: pill, patch, ring, shot, implant, hormonal IUD. 2) Barrier: condoms (male and female), diaphragm, cervical cap, sponge. 3) Intrauterine: copper IUD, hormonal IUD. 4) Permanent: tubal ligation, vasectomy. 5) Natural: fertility awareness, withdrawal, lactational amenorrhea. 6) Emergency: morning after pill, copper IUD. Each has different effectiveness rates, side effects, and convenience levels. The best method depends on your health, lifestyle, and family planning goals.",
+    "follow_up": ["What are your priorities (effectiveness, convenience, reversibility)?", "Do you have health conditions to consider?", "Are you currently using any method?"]
+  },
+  {
+    "id": 472,
+    "category": "birth_control",
+    "question": "What is the birth control pill",
+    "alternate_questions": ["Oral contraceptive", "The pill explained", "How do birth control pills work", "Contraceptive pill types", "Hormonal pill contraception"],
+    "keywords": ["birth control pill", "oral contraceptive", "combined pill", "progestin-only", "hormonal"],
+    "answer": "Birth control pills are oral contraceptives containing hormones that prevent pregnancy. Combined pills contain estrogen and progestin, preventing ovulation, thickening cervical mucus, and thinning the uterine lining. Progestin-only pills (mini-pills) mainly work by thickening cervical mucus and thinning the lining, and sometimes suppress ovulation. When taken correctly, pills are 99% effective. They require daily consistency, offer cycle regulation, and may reduce acne and cramps. Side effects can include nausea, breast tenderness, mood changes, and breakthrough bleeding, especially initially.",
+    "follow_up": ["Are you considering the pill?", "Have you used it before?", "Do you prefer combined or progestin-only?", "Are you good at daily routines?"]
+  },
+  {
+    "id": 473,
+    "category": "birth_control",
+    "question": "What is a hormonal IUD",
+    "alternate_questions": ["Mirena IUD", "Kyleena IUD", "Hormonal intrauterine device", "IUD with hormones", "Levonorgestrel IUD"],
+    "keywords": ["hormonal IUD", "Mirena", "Kyleena", "Liletta", "Skyla", "intrauterine"],
+    "answer": "A hormonal IUD is a small T-shaped device inserted into the uterus that releases progestin (levonorgestrel) locally. It thickens cervical mucus, thins the uterine lining, and may suppress ovulation. It's over 99% effective and lasts 3-7 years depending on the brand (Skyla 3 years, Kyleena 5 years, Mirena/Liletta 7 years). Periods often become lighter and may stop entirely, which is safe. Side effects include irregular bleeding initially, cramping during insertion, and rare risks of expulsion or perforation. It's reversible upon removal.",
+    "follow_up": ["Are you considering an IUD?", "Do you want lighter or no periods?", "Are you comfortable with insertion?", "How long do you want contraception?"]
+  },
+  {
+    "id": 474,
+    "category": "birth_control",
+    "question": "What is a copper IUD",
+    "alternate_questions": ["Paragard IUD", "Copper intrauterine device", "Non hormonal IUD", "Copper T IUD", "Copper contraception"],
+    "keywords": ["copper IUD", "Paragard", "non-hormonal", "intrauterine", "copper"],
+    "answer": "A copper IUD (Paragard) is a non-hormonal T-shaped device wrapped in copper wire that's inserted into the uterus. Copper is toxic to sperm, preventing fertilization. It's over 99% effective and lasts up to 12 years, the longest-lasting reversible contraceptive. It can be used as emergency contraception if inserted within 5 days of unprotected sex. Side effects include heavier, longer, and more painful periods, especially in the first 6-12 months. It doesn't affect hormones, so your natural cycle continues. It's ideal for those who want hormone-free, long-term contraception.",
+    "follow_up": ["Are you considering a copper IUD?", "Do you have heavy periods already?", "Do you want hormone-free contraception?", "Are you comfortable with insertion?"]
+  },
+  {
+    "id": 475,
+    "category": "birth_control",
+    "question": "What is the birth control implant",
+    "alternate_questions": ["Nexplanon implant", "Arm implant contraception", "Contraceptive implant", "Hormonal rod birth control", "Implanon birth control"],
+    "keywords": ["birth control implant", "Nexplanon", "etonogestrel", "arm implant", "rod"],
+    "answer": "The birth control implant (Nexplanon) is a small, flexible plastic rod about the size of a matchstick that's inserted under the skin of your upper arm. It releases progestin (etonogestrel) and is over 99% effective for up to 3 years. It works by suppressing ovulation, thickening cervical mucus, and thinning the uterine lining. Periods often become irregular, lighter, or stop. Side effects include irregular bleeding, headaches, acne, mood changes, and weight gain. Insertion and removal are quick office procedures with local anesthetic.",
+    "follow_up": ["Are you considering the implant?", "Are you comfortable with arm insertion?", "Do irregular periods bother you?", "How long do you want contraception?"]
+  },
+  {
+    "id": 476,
+    "category": "birth_control",
+    "question": "What is the birth control shot",
+    "alternate_questions": ["Depo Provera", "Contraceptive injection", "Birth control injection", "Depo shot", "Three month birth control"],
+    "keywords": ["birth control shot", "Depo Provera", "injection", "medroxyprogesterone", "quarterly"],
+    "answer": "The birth control shot (Depo-Provera) is an injection of medroxyprogesterone given every 3 months. It's over 99% effective when given on schedule. It works by suppressing ovulation and thickening cervical mucus. Many people experience lighter periods or no periods after several injections. Side effects include irregular bleeding initially, weight gain, mood changes, decreased bone density (reversible after stopping), and delayed return to fertility (average 10 months after last shot). It's convenient for those who don't want daily or weekly maintenance.",
+    "follow_up": ["Are you considering the shot?", "Are you okay with quarterly doctor visits?", "Do you plan to conceive in the next year?", "Are you concerned about bone density?"]
+  },
+  {
+    "id": 477,
+    "category": "birth_control",
+    "question": "What is the birth control patch",
+    "alternate_questions": ["Xulane patch", "Twirla patch", "Contraceptive patch", "Hormonal patch birth control", "Weekly birth control patch"],
+    "keywords": ["birth control patch", "Xulane", "Twirla", "transdermal", "weekly"],
+    "answer": "The birth control patch is a transdermal patch worn on the skin that releases estrogen and progestin. You wear one patch per week for 3 weeks, then have a patch-free week for your period. It's 91-99% effective depending on correct use. It works like the combined pill but without daily pills. Side effects are similar to the pill: nausea, breast tenderness, mood changes, and skin irritation at the patch site. It's less effective in people weighing over 198 lbs (90 kg). The patch must be changed on the same day each week.",
+    "follow_up": ["Are you considering the patch?", "Do you prefer weekly over daily?", "Are you over 198 lbs?", "Do you have skin sensitivities?"]
+  },
+  {
+    "id": 478,
+    "category": "birth_control",
+    "question": "What is the vaginal ring",
+    "alternate_questions": ["NuvaRing", "Annovera ring", "Contraceptive ring", "Vaginal birth control ring", "Hormonal ring contraception"],
+    "keywords": ["vaginal ring", "NuvaRing", "Annovera", "etonogestrel", "ethinyl estradiol"],
+    "answer": "The vaginal ring (NuvaRing, Annovera) is a flexible plastic ring inserted into the vagina that releases estrogen and progestin. NuvaRing is replaced monthly, while Annovera lasts a full year. You wear it for 3 weeks, remove for 1 week for your period, then insert a new one (or reinsert Annovera after washing). It's 91-99% effective. Side effects are similar to the pill. It offers the convenience of monthly rather than daily maintenance. The ring can be removed for up to 3 hours during sex if preferred, without losing effectiveness.",
+    "follow_up": ["Are you considering the ring?", "Do you prefer monthly maintenance?", "Are you comfortable with vaginal insertion?", "Would you remove it during sex?"]
+  },
+  {
+    "id": 479,
+    "category": "birth_control",
+    "question": "What is emergency contraception",
+    "alternate_questions": ["Morning after pill", "Plan B", "Ella emergency contraception", "Post-coital contraception", "Emergency birth control"],
+    "keywords": ["emergency contraception", "morning after pill", "Plan B", "Ella", "post-coital"],
+    "answer": "Emergency contraception (EC) prevents pregnancy after unprotected sex. Options include: 1) Levonorgestrel pills (Plan B One-Step, Take Action) - available over-the-counter, effective up to 72 hours after sex (less effective after, but can work up to 5 days). 2) Ulipristal acetate (Ella) - prescription only, effective up to 5 days and maintains effectiveness better over time. 3) Copper IUD - most effective EC, can be inserted up to 5 days after sex and provides ongoing contraception. EC works by delaying ovulation, not by aborting an existing pregnancy.",
+    "follow_up": ["When did you have unprotected sex?", "Are you within 72 hours or 5 days?", "Do you want ongoing contraception too?", "Have you used EC before?"]
+  },
+  {
+    "id": 480,
+    "category": "birth_control",
+    "question": "How effective is birth control",
+    "alternate_questions": ["Birth control effectiveness rates", "Contraception success rates", "How well does birth control work", "Failure rates contraception", "Most effective birth control"],
+    "keywords": ["effectiveness", "failure rate", "perfect use", "typical use", "contraception"],
+    "answer": "Birth control effectiveness varies by method and use: Perfect use (used exactly as directed): Implants/IUDs 99%+ effective. Pill/patch/ring 99% effective. Shot 99% effective. Condoms 98% effective. Typical use (real-world, including human error): Implants/IUDs 99%+ effective. Shot 94% effective. Pill/patch/ring 91% effective. Condoms 85% effective. Withdrawal 78% effective. Fertility awareness 76-88% effective. The most effective reversible methods are long-acting reversible contraceptives (LARCs): implants and IUDs, because they don't require user action after insertion.",
+    "follow_up": ["What method are you considering?", "How important is effectiveness to you?", "Are you good at daily routines?", "Do you want a 'set it and forget it' method?"]
+  }
+]

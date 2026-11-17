@@ -1,0 +1,47 @@
+[
+  {
+    "id": 151,
+    "category": "cramps",
+    "question": "What causes period cramps?",
+    "alternate_questions": ["Why do I get cramps?", "What are menstrual cramps?", "What causes dysmenorrhea?"],
+    "keywords": ["cramps", "cause", "pain", "prostaglandins", "dysmenorrhea"],
+    "answer": "Period cramps are caused by the contraction of the uterus as it sheds its lining. These contractions are triggered by hormone-like substances called prostaglandins. Higher levels of prostaglandins are associated with more severe menstrual cramps.",
+    "follow_up": ["How can I relieve period cramps?", "Are severe cramps normal?", "What are prostaglandins?"]
+  },
+  {
+    "id": 152,
+    "category": "cramps",
+    "question": "How can I relieve period cramps?",
+    "alternate_questions": ["Ways to stop period pain", "Cramp relief tips", "Home remedies for cramps"],
+    "keywords": ["relief", "cramps", "pain", "remedies", "heat"],
+    "answer": "Relief options include using a heating pad on your lower abdomen, taking over-the-counter pain relievers (like ibuprofen), gentle exercise, staying hydrated, and practicing relaxation techniques like yoga or deep breathing.",
+    "follow_up": ["Does exercise help with cramps?", "What foods help with period pain?", "Can a hot bath help cramps?"]
+  },
+  {
+    "id": 153,
+    "category": "cramps",
+    "question": "Are severe period cramps normal?",
+    "alternate_questions": ["When are cramps too much?", "Should I worry about my period pain?", "What is secondary dysmenorrhea?"],
+    "keywords": ["severe", "cramps", "normal", "worry", "doctor"],
+    "answer": "While mild to moderate cramping is common, severe pain that interferes with your daily activities or doesn't respond to over-the-counter medication may not be normal. It could be a sign of an underlying condition like endometriosis or fibroids. If your pain is severe, it's best to consult a doctor.",
+    "follow_up": ["What is endometriosis?", "What are uterine fibroids?", "How to talk to my doctor about period pain?"]
+  },
+  {
+    "id": 154,
+    "category": "cramps",
+    "question": "Does exercise help with period cramps?",
+    "alternate_questions": ["Should I work out with cramps?", "Can physical activity reduce period pain?", "Best exercises for cramps"],
+    "keywords": ["exercise", "cramps", "relief", "activity", "workout"],
+    "answer": "Yes! Light physical activity like walking, swimming, or gentle yoga can increase blood flow and release endorphins, which are natural pain relievers that can help reduce the severity of cramps.",
+    "follow_up": ["What yoga poses are good for cramps?", "Is it okay to do intense exercise during my period?", "How long should I exercise to help with pain?"]
+  },
+  {
+    "id": 155,
+    "category": "cramps",
+    "question": "Can diet affect period cramps?",
+    "alternate_questions": ["Foods that help with cramps", "What to avoid for less period pain", "Nutrition and menstrual pain"],
+    "keywords": ["diet", "food", "cramps", "nutrition", "inflammation"],
+    "answer": "A diet rich in anti-inflammatory foods (like fatty fish, nuts, and leafy greens) and magnesium may help reduce cramping. Reducing caffeine, salt, and highly processed foods can also help by decreasing bloating and inflammation.",
+    "follow_up": ["What are magnesium-rich foods?", "Does dark chocolate help with cramps?", "Why should I avoid salt during my period?"]
+  }
+]

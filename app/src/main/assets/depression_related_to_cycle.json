@@ -1,0 +1,272 @@
+[
+  {
+    "id": 5001,
+    "category": "depression_related_to_cycle",
+    "question": "What is premenstrual dysphoric disorder",
+    "alternate_questions": ["PMDD explained", "Severe PMS depression", "PMDD vs depression", "Premenstrual dysphoric disorder symptoms", "Is PMDD real"],
+    "keywords": ["PMDD", "premenstrual dysphoric disorder", "severe", "depression", "PMS", "diagnosis", "real"],
+    "answer": "Premenstrual Dysphoric Disorder (PMDD) is a severe, chronic form of PMS affecting 3-8% of women in their reproductive years. It causes debilitating emotional and physical symptoms during the luteal phase (1-2 weeks before menstruation) that resolve within a few days of bleeding starting. Core symptoms include severe depression, anxiety, irritability, mood swings, feeling overwhelmed, difficulty concentrating, and anger outbursts. Physical symptoms include fatigue, bloating, breast tenderness, and sleep disturbances. PMDD is diagnosed when symptoms severely impair work, relationships, or daily functioning for at least two consecutive cycles. It is a real, serious medical condition caused by abnormal sensitivity to normal hormonal fluctuations, not a character flaw or weakness. PMDD is classified as a depressive disorder in the DSM-5. Treatment includes SSRIs, hormonal therapy, and lifestyle changes. If you suspect PMDD, seek help immediately.",
+    "follow_up": ["Do your symptoms severely impair daily life?", "Do they resolve when your period starts?", "Have you tracked symptoms across cycles?", "Are you having suicidal thoughts?"]
+  },
+  {
+    "id": 5002,
+    "category": "depression_related_to_cycle",
+    "question": "How is PMDD different from regular depression",
+    "alternate_questions": ["PMDD vs depression", "Cycle depression vs clinical", "Premenstrual depression different", "PMDD or depression", "Hormonal vs regular depression"],
+    "keywords": ["PMDD", "depression", "difference", "clinical", "hormonal", "cycle", "timing"],
+    "answer": "PMDD and clinical depression differ primarily in timing and pattern. PMDD symptoms occur exclusively during the luteal phase (after ovulation, before period) and resolve completely within a few days of menstruation starting. Clinical depression persists regardless of cycle phase, though it may worsen premenstrually. PMDD requires at least 5 symptoms including one core emotional symptom (depression, anxiety, irritability, mood swings). Major depression requires 5+ symptoms including depressed mood or anhedonia lasting 2+ weeks without cycle correlation. Some women have both - depression that worsens premenstrually. Tracking symptoms for 2-3 cycles reveals the pattern. Treatment differs: PMDD may respond to luteal-phase SSRIs or hormonal suppression, while clinical depression typically requires ongoing treatment. Accurate diagnosis matters because it guides effective treatment. Both conditions are serious and treatable.",
+    "follow_up": ["Do symptoms follow your cycle?", "Do they resolve with menstruation?", "Have you tracked for multiple cycles?", "Have you been diagnosed with either?"]
+  },
+  {
+    "id": 5003,
+    "category": "depression_related_to_cycle",
+    "question": "Why do I feel suicidal before my period",
+    "alternate_questions": ["Suicidal thoughts PMS", "Want to die before period", "PMDD suicidal ideation", "Period suicidal", "Premenstrual suicide risk"],
+    "keywords": ["suicidal", "suicide", "PMS", "PMDD", "ideation", "risk", "before period", "emergency"],
+    "answer": "Suicidal thoughts before your period are a medical emergency and a hallmark of severe PMDD. Hormonal fluctuations during the luteal phase can trigger severe depression, hopelessness, and suicidal ideation in susceptible women. This is not your fault, not weakness, and not something to hide. If you are having suicidal thoughts: seek immediate help - call emergency services, a suicide hotline, or go to the nearest emergency room. In the US: call or text 988. You need urgent medical attention. PMDD-related suicidality is treatable with SSRIs, hormonal interventions, and sometimes hospitalization for safety. Do not wait for your period to start - get help now. After the crisis, work with a knowledgeable provider on long-term PMDD management. Your life matters. These thoughts are caused by a treatable biological condition, not by who you are.",
+    "follow_up": ["Are you having suicidal thoughts right now?", "Do you have a plan?", "Are you safe right now?", "Who can stay with you?"]
+  },
+  {
+    "id": 5004,
+    "category": "depression_related_to_cycle",
+    "question": "What causes PMDD depression",
+    "alternate_questions": ["Why PMDD happens", "PMDD cause hormones", "Premenstrual depression cause", "PMDD brain chemistry", "Why severe PMS depression"],
+    "keywords": ["cause", "PMDD", "hormones", "brain chemistry", "serotonin", "genetics", "why"],
+    "answer": "PMDD is caused by abnormal sensitivity to normal hormonal fluctuations, not by abnormal hormone levels. Research shows women with PMDD have altered serotonin neurotransmission and GABA receptor sensitivity in response to changing estrogen and progesterone. Genetic factors play a role - PMDD runs in families. The interaction between sex hormones and brain chemicals creates the severe emotional symptoms. Specifically, allopregnanolone (a progesterone metabolite) affects GABA-A receptors differently in PMDD sufferers, causing paradoxical anxiety and depression rather than calm. Inflammation may also contribute. PMDD is not caused by stress, personality, or attitude - it is a biological condition. Understanding the biological basis reduces stigma and validates the need for medical treatment. Research continues to uncover the precise mechanisms.",
+    "follow_up": ["Do you have family history of PMDD?", "When did symptoms start?", "Have you had hormone testing?", "Does understanding the biology help?"]
+  },
+  {
+    "id": 5005,
+    "category": "depression_related_to_cycle",
+    "question": "How to treat PMDD depression",
+    "alternate_questions": ["PMDD treatment options", "PMDD medication", "PMDD therapy", "Severe PMS treatment", "PMDD management plan"],
+    "keywords": ["treatment", "PMDD", "medication", "therapy", "SSRIs", "hormonal", "management"],
+    "answer": "PMDD treatment is multifaceted and effective: 1) SSRIs (fluoxetine, sertraline) are first-line treatment. They can be taken daily or only during the luteal phase (symptom-onset dosing). 2) Hormonal treatments: birth control pills (especially drospirenone-containing), GnRH agonists to suppress ovulation, or in severe cases, oophorectomy with hysterectomy. 3) Cognitive behavioral therapy helps manage emotional symptoms and coping. 4) Lifestyle changes: regular exercise, stress reduction, sleep hygiene, and limiting caffeine/alcohol. 5) Supplements: calcium (1,200 mg/day), magnesium, vitamin B6, and omega-3s may help. 6) Some find relief with acupuncture or light therapy. Treatment is individualized - what works varies. Work with a provider knowledgeable about PMDD. Track symptoms to evaluate treatment effectiveness. PMDD is treatable, and most women find significant relief with proper care.",
+    "follow_up": ["Have you been diagnosed with PMDD?", "What treatments have you tried?", "Are symptoms severe enough for medication?", "Do you have a knowledgeable provider?"]
+  },
+  {
+    "id": 5006,
+    "category": "depression_related_to_cycle",
+    "question": "Can birth control help PMDD depression",
+    "alternate_questions": ["Pill for PMDD", "Birth control PMDD treatment", "Contraception premenstrual depression", "Yaz PMDD", "Hormonal treatment PMDD"],
+    "keywords": ["birth control", "pill", "contraception", "PMDD", "treatment", "hormonal", "Yaz"],
+    "answer": "Yes, certain birth control pills can help PMDD by suppressing ovulation and stabilizing hormones. Pills containing drospirenone (a progestin with anti-androgenic properties similar to natural progesterone) are particularly effective. Yaz and Yasmin are FDA-approved for PMDD treatment. Continuous use (skipping placebo weeks) may provide even more stability by preventing hormone withdrawal. However, not all women respond well to hormonal contraception - some find it worsens mood. It may take trying different formulations. Non-pill options like the hormonal IUD or implant may help some but not others. The patch and ring are alternatives. If birth control doesn't help or worsens symptoms, other options include SSRIs or GnRH agonists. Work with your provider to find the right hormonal approach. Tracking symptoms helps determine effectiveness.",
+    "follow_up": ["Are you currently on birth control?", "Did it help or worsen symptoms?", "Which formulation have you tried?", "Are you considering hormonal treatment?"]
+  },
+  {
+    "id": 5007,
+    "category": "depression_related_to_cycle",
+    "question": "What is postpartum depression",
+    "alternate_questions": ["PPD explained", "After birth depression", "Baby blues vs depression", "Postnatal depression", "Depression after baby"],
+    "keywords": ["postpartum", "PPD", "after birth", "baby blues", "postnatal", "depression", "new mother"],
+    "answer": "Postpartum depression (PPD) is depression occurring after childbirth, affecting up to 1 in 7 women. Unlike 'baby blues' (mild mood swings lasting 1-2 weeks), PPD is severe and persistent. Symptoms include: persistent sadness, hopelessness, excessive crying, difficulty bonding with baby, withdrawal from loved ones, appetite changes, sleep problems beyond normal newborn care, fatigue, worthlessness, guilt, anxiety, panic attacks, intrusive thoughts, and in severe cases, thoughts of harming yourself or baby. PPD can develop anytime in the first year. It's caused by hormonal changes, sleep deprivation, physical recovery, and psychosocial factors. PPD is not your fault, not weakness, and not something you can just 'snap out of.' It is a treatable medical condition. Treatment includes therapy, medication safe for breastfeeding, support groups, and practical help. Seek help immediately.",
+    "follow_up": ["Are you postpartum?", "How long have symptoms lasted?", "Are you having thoughts of self-harm?", "Do you have support at home?"]
+  },
+  {
+    "id": 5008,
+    "category": "depression_related_to_cycle",
+    "question": "How is postpartum depression different from baby blues",
+    "alternate_questions": ["PPD vs baby blues", "Baby blues or depression", "Postpartum sadness normal", "When baby blues become depression", "Postpartum mood differences"],
+    "keywords": ["postpartum", "baby blues", "difference", "PPD", "normal", "depression", "timing"],
+    "answer": "Baby blues and postpartum depression differ in severity, duration, and impact. Baby blues affect up to 80% of new mothers: mild mood swings, tearfulness, anxiety, irritability, and overwhelm starting 2-3 days after delivery and resolving within 2 weeks. You can still function and care for baby. Postpartum depression affects 10-15%: severe, persistent symptoms lasting beyond 2 weeks that impair functioning. You may feel unable to care for yourself or baby, have no interest in the baby, or have harmful thoughts. Baby blues don't require treatment; PPD does. Postpartum psychosis is a rare emergency involving delusions, hallucinations, and confusion - requires immediate hospitalization. If symptoms last beyond 2 weeks, worsen, or include thoughts of harm, seek help immediately. Early treatment leads to faster recovery.",
+    "follow_up": ["How long have you felt this way?", "Can you care for yourself and baby?", "Are symptoms worsening?", "Have you told your provider?"]
+  },
+  {
+    "id": 5009,
+    "category": "depression_related_to_cycle",
+    "question": "What is perimenopausal depression",
+    "alternate_questions": ["Menopause depression", "Perimenopause mood", "Hormonal depression menopause", "Depression before menopause", "Midlife depression women"],
+    "keywords": ["perimenopause", "menopause", "depression", "mood", "hormonal", "midlife", "estrogen"],
+    "answer": "Perimenopausal depression is depression occurring during the transition to menopause (typically ages 45-55). Hormonal fluctuations - particularly erratic estrogen levels - affect serotonin and other neurotransmitters, triggering or worsening depression. Symptoms include: persistent sadness, irritability, anxiety, sleep disturbances, fatigue, difficulty concentrating, and loss of interest. These may be mistaken for normal aging or life stress. Women with prior depression, PMDD, or postpartum depression are at higher risk. Perimenopausal depression differs from major depression in its hormonal trigger and may respond to hormone therapy. Treatment options include: antidepressants, hormone replacement therapy (HRT), therapy, and lifestyle changes. If you're in your 40s-50s and experiencing new or worsening depression, consider hormonal factors. This is treatable, not an inevitable part of aging.",
+    "follow_up": ["Are you perimenopausal?", "When did depression start?", "Have you had prior hormone-related depression?", "Have you discussed HRT with your provider?"]
+  },
+  {
+    "id": 5010,
+    "category": "depression_related_to_cycle",
+    "question": "Can the pill cause depression",
+    "alternate_questions": ["Birth control depression", "Contraception mood changes", "Pill makes me sad", "Hormonal contraception depression", "Depression from birth control"],
+    "keywords": ["pill", "birth control", "depression", "mood", "contraception", "hormonal", "side effect"],
+    "answer": "Some women experience depression or mood changes from hormonal contraception, though research findings are mixed. Progestin-only methods (mini pill, implant, shot) may have higher risk than combined pills. A large Danish study found association between hormonal contraception and first depression diagnosis, especially among adolescents. However, many women experience improved mood on birth control, particularly if they had severe PMS or PMDD. Individual response varies greatly. If you notice new or worsening depression after starting contraception: track symptoms, consider switching formulations or methods, and discuss with your provider. Don't stop suddenly without backup contraception if pregnancy is not desired. Non-hormonal options (copper IUD, condoms) don't affect mood. Your experience is valid - if contraception affects your mental health, advocate for alternatives.",
+    "follow_up": ["Which contraception are you using?", "When did depression start relative to starting it?", "Have you tried different formulations?", "Are you considering non-hormonal options?"]
+  },
+  {
+    "id": 5011,
+    "category": "depression_related_to_cycle",
+    "question": "What is menstrual psychosis",
+    "alternate_questions": ["Period psychosis", "Catamenial psychosis", "Menstrual cycle psychosis", "Hormonal psychosis", "Rare menstrual mental illness"],
+    "keywords": ["menstrual", "psychosis", "catamenial", "rare", "hormonal", "severe", "mental illness"],
+    "answer": "Menstrual (catamenial) psychosis is a rare condition where psychotic episodes occur in relation to the menstrual cycle, typically during menstruation or the luteal phase. Symptoms include: delusions, hallucinations, disorganized thinking, and severe behavioral changes that resolve when hormones stabilize. It is distinct from PMDD and postpartum psychosis. The exact cause is unknown but likely involves extreme hormonal sensitivity affecting brain function. This condition is extremely rare but serious. If you or someone you know experiences psychotic symptoms related to menstruation, immediate psychiatric evaluation is essential. Treatment may include hormonal therapy, antipsychotic medication, and mood stabilizers. Hospitalization may be necessary during episodes. This is a medical emergency requiring specialized care. Do not attempt to manage this without professional help.",
+    "follow_up": ["Are psychotic symptoms present?", "Do they correlate with your cycle?", "Have you received psychiatric evaluation?", "Are you safe right now?"]
+  },
+  {
+    "id": 5012,
+    "category": "depression_related_to_cycle",
+    "question": "How to track cycle related depression",
+    "alternate_questions": ["Track PMDD", "Menstrual mood diary", "Cycle depression tracking", "Period mood tracker", "Hormonal depression monitor"],
+    "keywords": ["track", "tracking", "diary", "mood", "cycle", "PMDD", "monitor", "patterns"],
+    "answer": "Tracking cycle-related depression is crucial for diagnosis and treatment. Use a daily rating system (0-10) for: mood, anxiety, irritability, energy, sleep, physical symptoms, and any suicidal thoughts. Note cycle day, ovulation (if known), and menstruation. Track for at least 2-3 cycles to identify patterns. Useful tools: period tracking apps with mood features (Clue, Flo, Me v PMDD), paper journals, or the Daily Record of Severity of Problems (DRSP) - a validated PMDD tracking tool. Look for: symptoms worsening after ovulation, peaking before menstruation, and resolving within a few days of bleeding. Share tracking data with your healthcare provider - it significantly aids diagnosis. Be honest and consistent. Tracking also helps you anticipate difficult days and implement coping strategies proactively. Knowledge is power in managing cycle-related depression.",
+    "follow_up": ["Do you currently track your cycle?", "Which symptoms are most distressing?", "Have you noticed patterns?", "Would you like tracking recommendations?"]
+  },
+  {
+    "id": 5013,
+    "category": "depression_related_to_cycle",
+    "question": "What is the luteal phase depression",
+    "alternate_questions": ["Depressed after ovulation", "Luteal phase sad", "Post ovulation depression", "Two weeks before period depressed", "Luteal mood crash"],
+    "keywords": ["luteal phase", "depression", "after ovulation", "post ovulation", "two weeks", "before period"],
+    "answer": "Luteal phase depression refers to depressive symptoms occurring during the second half of the menstrual cycle, between ovulation and menstruation. After ovulation, progesterone rises and then falls, while estrogen drops. These hormonal changes affect serotonin, dopamine, and GABA, potentially triggering depression in susceptible women. Symptoms include: low mood, hopelessness, irritability, fatigue, social withdrawal, and difficulty concentrating. For some, this is mild PMS; for others, it's severe PMDD. The depression typically lifts within days of menstruation starting. If luteal phase depression significantly impairs functioning, seek evaluation for PMDD. Treatment options include luteal-phase SSRIs, hormonal contraception, or ovulation suppression. Tracking confirms the pattern. You don't have to accept two weeks of depression every month - effective treatments exist.",
+    "follow_up": ["When does your depression start each cycle?", "How severe is it?", "Does it resolve with menstruation?", "Have you been evaluated for PMDD?"]
+  },
+  {
+    "id": 5014,
+    "category": "depression_related_to_cycle",
+    "question": "Can stopping birth control cause depression",
+    "alternate_questions": ["Post pill depression", "Birth control withdrawal depression", "Coming off pill mood", "Hormonal crash stopping contraception", "After stopping birth control sad"],
+    "keywords": ["stopping", "birth control", "post pill", "withdrawal", "coming off", "mood", "depression"],
+    "answer": "Some women experience depression or mood changes after stopping hormonal contraception. This may be due to: hormonal adjustment as your body resumes natural cycles, underlying conditions (like PMDD) that were suppressed by birth control re-emerging, or postpartum-like hormonal shifts. The 'post-birth control syndrome' is not officially recognized but reported anecdotally. Symptoms may include: mood swings, depression, anxiety, acne, irregular periods, and hair loss. These usually resolve within 3-6 months as hormones stabilize. If symptoms persist, evaluate for underlying conditions. If you stopped birth control to conceive, preconception mental health care is important. If stopping due to side effects, consider non-hormonal alternatives. Track your symptoms and cycle after stopping. Consult your provider if depression is severe or prolonged. Your body needs time to recalibrate.",
+    "follow_up": ["When did you stop birth control?", "What symptoms are you experiencing?", "How long since stopping?", "Were you on it for PMDD or contraception?"]
+  },
+  {
+    "id": 5015,
+    "category": "depression_related_to_cycle",
+    "question": "What is postpartum anxiety",
+    "alternate_questions": ["Anxiety after baby", "Postpartum worry", "New mom anxiety", "Postnatal anxiety", "PPA symptoms"],
+    "keywords": ["postpartum", "anxiety", "after baby", "worry", "new mom", "postnatal", "PPA"],
+    "answer": "Postpartum anxiety (PPA) is excessive worry and anxiety after childbirth, often co-occurring with or instead of postpartum depression. Symptoms include: constant worry about baby's health and safety, racing thoughts, inability to relax, sleep disturbances beyond normal newborn care, physical symptoms (racing heart, nausea, dizziness), intrusive thoughts about harm coming to baby, avoidance behaviors, and need for constant reassurance. PPA affects up to 10% of new mothers but is less recognized than PPD. Risk factors include: history of anxiety, traumatic birth, lack of support, and perfectionism. PPA is treatable with therapy (CBT), SSRIs safe for breastfeeding, support groups, and practical help. Intrusive thoughts are common and distressing but don't mean you will act on them. Seek help - anxiety doesn't make you a bad mother, and treatment allows you to enjoy motherhood.",
+    "follow_up": ["Are you postpartum?", "What are you most worried about?", "Are you having intrusive thoughts?", "Do you have help with baby?"]
+  },
+  {
+    "id": 5016,
+    "category": "depression_related_to_cycle",
+    "question": "How does infertility affect mental health",
+    "alternate_questions": ["Infertility depression", "TTC mental health", "Can't conceive sad", "Fertility treatment stress", "Infertility grief"],
+    "keywords": ["infertility", "depression", "TTC", "mental health", "grief", "fertility", "treatment"],
+    "answer": "Infertility profoundly affects mental health. The grief of unfulfilled hopes, month after month of disappointment, and invasive treatments create significant psychological burden. Common effects include: depression, anxiety, grief, shame, guilt, social isolation, relationship strain, and identity crisis. Society's emphasis on motherhood can make infertility feel like personal failure. Fertility treatments add physical, financial, and emotional stress. Each cycle brings hope and potential devastation. Coping strategies: allow yourself to grieve, seek support from others who understand (infertility support groups), consider therapy, set boundaries around pregnancy announcements, communicate with your partner, and explore all options without pressure. Your worth is not determined by fertility. If depression or anxiety becomes severe, seek professional help. Mental health care is an essential part of fertility treatment.",
+    "follow_up": ["How long have you been trying?", "Are you in fertility treatment?", "How is this affecting your mental health?", "Do you have support?"]
+  },
+  {
+    "id": 5017,
+    "category": "depression_related_to_cycle",
+    "question": "What is premenstrual exacerbation",
+    "alternate_questions": ["PMS worsens depression", "Period worsens mental illness", "Premenstrual worsening", "Cycle mood disorder", "Hormones worsen existing depression"],
+    "keywords": ["premenstrual exacerbation", "worsen", "existing", "depression", "mental illness", "cycle", "hormones"],
+    "answer": "Premenstrual exacerbation refers to worsening of existing mental health conditions during the luteal phase. Depression, anxiety, bipolar disorder, OCD, PTSD, and eating disorders may all intensify premenstrually due to hormonal effects on neurotransmitters. This is different from PMDD, which is a distinct condition. If you have a diagnosed mental health condition that worsens before your period, this is premenstrual exacerbation. Management involves: tracking to confirm the pattern, adjusting medication timing (some benefit from increased doses premenstrually), hormonal interventions, and targeted coping strategies during high-risk days. Inform your mental health provider about cycle patterns - they may adjust treatment. Don't dismiss worsening symptoms as 'just PMS' if you have an underlying condition. Integrated care addressing both hormonal and mental health factors provides best outcomes.",
+    "follow_up": ["Do you have a diagnosed mental health condition?", "Does it worsen before your period?", "Have you tracked this pattern?", "Is your provider aware?"]
+  },
+  {
+    "id": 5018,
+    "category": "depression_related_to_cycle",
+    "question": "Can pregnancy cause depression",
+    "alternate_questions": ["Depressed while pregnant", "Antenatal depression", "Prenatal depression", "Pregnancy sadness", "Depressed expecting baby"],
+    "keywords": ["pregnancy", "depressed", "antenatal", "prenatal", "sadness", "expecting", "mood"],
+    "answer": "Yes, depression during pregnancy (antenatal or prenatal depression) affects 7-20% of women. It's often underdiagnosed because symptoms are attributed to normal pregnancy changes. Signs include: persistent sadness, loss of interest, excessive worry about pregnancy, difficulty bonding with baby, sleep problems beyond normal pregnancy discomfort, appetite changes, feelings of worthlessness, and thoughts of self-harm. Risk factors include: history of depression, lack of support, unintended pregnancy, relationship problems, and financial stress. Untreated antenatal depression affects both mother and baby (low birth weight, preterm birth, developmental issues). Treatment includes: therapy, support groups, lifestyle changes, and in moderate to severe cases, antidepressants considered safe in pregnancy. Don't suffer in silence - depression during pregnancy is common, real, and treatable. Seeking help is the best thing for you and your baby.",
+    "follow_up": ["Are you currently pregnant?", "How long have you felt depressed?", "Are you having thoughts of self-harm?", "Do you have prenatal care?"]
+  },
+  {
+    "id": 5019,
+    "category": "depression_related_to_cycle",
+    "question": "What is postmenstrual depression",
+    "alternate_questions": ["Depressed after period", "Sad menstruation ends", "Post menstrual low", "Period ends depression", "Menstrual cycle depression follicular"],
+    "keywords": ["postmenstrual", "after period", "depression", "sad", "menstruation ends", "follicular", "low"],
+    "answer": "While less commonly discussed than premenstrual depression, some women experience low mood during or immediately after menstruation. During menstruation, estrogen and progesterone are at their lowest, which can affect serotonin. For some, the physical exhaustion, pain, and inconvenience of periods contribute to low mood. Others may feel disappointment if not pregnant (for those trying to conceive) or simply drained. Typically, mood improves as estrogen rises during the follicular phase. If postmenstrual depression is severe or persistent, evaluate for underlying depression rather than cycle-related mood changes. Self-care during menstruation - rest, nourishment, gentle movement, and self-compassion - helps. If low mood continues beyond a few days after your period, consult a provider to rule out clinical depression.",
+    "follow_up": ["When does your low mood occur?", "How long does it last?", "Is it severe or mild?", "Have you tracked the pattern?"]
+  },
+  {
+    "id": 5020,
+    "category": "depression_related_to_cycle",
+    "question": "How to support someone with PMDD",
+    "alternate_questions": ["Help friend PMDD", "Support partner PMDD", "PMDD family support", "Living with PMDD", "PMDD relationship help"],
+    "keywords": ["support", "PMDD", "friend", "partner", "family", "relationship", "help", "understanding"],
+    "answer": "Supporting someone with PMDD requires education, patience, and boundaries: 1) Learn about PMDD - it's a real medical condition, not moodiness or manipulation. 2) Track their cycle together - anticipate difficult days and plan accordingly. 3) Don't take irritability personally - it's hormonal, not about you. 4) Offer practical help during luteal phase - take on tasks, give space, provide comfort. 5) Encourage treatment - PMDD requires medical management. 6) Maintain your own support - supporting someone with severe PMDD is draining. 7) Communicate openly about needs and boundaries. 8) Don't dismiss their experience or suggest they 'just relax.' 9) Celebrate good days - the person you love is still there. 10) Consider couples therapy if PMDD strains the relationship. PMDD is challenging for everyone involved, but support makes a significant difference.",
+    "follow_up": ["Who are you supporting?", "How severe are their symptoms?", "Are they in treatment?", "How are you coping as a supporter?"]
+  },
+  {
+    "id": 5021,
+    "category": "depression_related_to_cycle",
+    "question": "What is ovulation depression",
+    "alternate_questions": ["Sad mid cycle", "Depressed ovulating", "Ovulation mood drop", "Fertile window depression", "Hormonal crash ovulation"],
+    "keywords": ["ovulation", "depression", "mid cycle", "sad", "mood drop", "fertile window", "hormonal"],
+    "answer": "Some women experience mood changes around ovulation, though it's less common than luteal phase symptoms. Around ovulation, estrogen peaks and then drops sharply, while progesterone begins to rise. For sensitive individuals, this rapid hormonal shift can trigger low mood, irritability, or anxiety. Some report feeling emotionally raw, weepy, or introspective during this transition. Ovulation depression is not well-studied but is reported anecdotally. It may be confused with other conditions if not tracked alongside the cycle. If you notice consistent low mood around mid-cycle, track symptoms for 2-3 cycles to confirm the pattern. Management includes: self-care during the fertile window, stress reduction, and if severe, discussing hormonal options with your provider. Understanding your unique cycle pattern empowers you to anticipate and manage difficult days.",
+    "follow_up": ["Do you notice mood changes around ovulation?", "How severe are they?", "Have you tracked this pattern?", "What helps during this time?"]
+  },
+  {
+    "id": 5022,
+    "category": "depression_related_to_cycle",
+    "question": "Can miscarriage cause depression",
+    "alternate_questions": ["Depressed after miscarriage", "Grief miscarriage", "Pregnancy loss mental health", "Miscarriage sadness", "Loss depression"],
+    "keywords": ["miscarriage", "depression", "grief", "pregnancy loss", "sadness", "loss", "mental health"],
+    "answer": "Yes, miscarriage commonly causes depression, grief, and trauma. Up to 20% of known pregnancies end in miscarriage, yet it's often minimized or hidden, leaving women to grieve alone. Symptoms include: deep sadness, guilt, shame, anger, anxiety about future pregnancies, social withdrawal, and trauma symptoms (flashbacks, nightmares). Depression after miscarriage may be complicated by hormonal changes as pregnancy hormones drop rapidly. Society often fails to recognize miscarriage as a real loss, dismissing it with 'you can try again' or 'it wasn't meant to be.' This invalidation worsens grief. Healing involves: acknowledging the loss, allowing grief without timeline, seeking support from those who understand, considering therapy, and honoring the loss in meaningful ways. If depression persists beyond a few months or includes suicidal thoughts, seek professional help. Your grief is valid, and healing takes time.",
+    "follow_up": ["Have you experienced miscarriage?", "How are you coping?", "Do you have support?", "Are you having thoughts of self-harm?"]
+  },
+  {
+    "id": 5023,
+    "category": "depression_related_to_cycle",
+    "question": "What is cycle related suicidal ideation",
+    "alternate_questions": ["Suicidal thoughts cycle", "Period suicide risk", "Hormonal suicidal ideation", "PMDD suicide", "Cycle mood suicide"],
+    "keywords": ["suicidal ideation", "cycle", "suicide", "risk", "hormonal", "PMDD", "period", "emergency"],
+    "answer": "Cycle-related suicidal ideation is a medical emergency most commonly associated with severe PMDD. The hormonal fluctuations of the luteal phase can trigger intense depression, hopelessness, and suicidal thoughts that resolve after menstruation begins. This pattern is dangerous because the predictability may lead to dismissal or delayed help. If you experience suicidal thoughts related to your cycle: seek immediate help during every episode, don't wait for your period to start. Call emergency services or 988 in the US. Long-term management requires treating the underlying PMDD with SSRIs, hormonal suppression, or in severe cases, surgical options. Keep a safety plan: identify warning signs, remove means, list supportive contacts, and know emergency resources. Suicidal ideation caused by PMDD is treatable, but it requires aggressive intervention. Your life matters every day of your cycle.",
+    "follow_up": ["Are you having suicidal thoughts now?", "Do they follow your cycle?", "Do you have a safety plan?", "Are you in treatment for PMDD?"]
+  },
+  {
+    "id": 5024,
+    "category": "depression_related_to_cycle",
+    "question": "How does PCOS affect mental health",
+    "alternate_questions": ["PCOS depression", "Polycystic ovary syndrome mood", "PCOS anxiety", "Hormonal imbalance mental health", "PCOS emotional effects"],
+    "keywords": ["PCOS", "polycystic ovary syndrome", "depression", "anxiety", "mood", "mental health", "hormonal"],
+    "answer": "PCOS significantly affects mental health. Women with PCOS have higher rates of depression, anxiety, and eating disorders than the general population. Contributing factors include: hormonal imbalances (elevated androgens, insulin resistance), body image concerns (weight gain, acne, hirsutism), fertility struggles, and chronic physical symptoms. Insulin resistance and inflammation may directly affect brain function and mood. The psychological burden of managing a chronic condition adds stress. Additionally, PCOS is often misdiagnosed or dismissed, leading to frustration and helplessness. Treatment should address both physical and mental health: lifestyle changes, medication for PCOS symptoms, therapy for body image and coping, and psychiatric treatment if depression or anxiety is severe. Don't neglect your mental health while managing PCOS - they are interconnected.",
+    "follow_up": ["Do you have PCOS?", "How does it affect your mood?", "Are you receiving comprehensive care?", "What symptoms are most distressing?"]
+  },
+  {
+    "id": 5025,
+    "category": "depression_related_to_cycle",
+    "question": "What is endometriosis depression",
+    "alternate_questions": ["Endo depression", "Endometriosis mental health", "Chronic pain depression", "Endometriosis sadness", "Endo emotional toll"],
+    "keywords": ["endometriosis", "depression", "endo", "chronic pain", "mental health", "emotional", "toll"],
+    "answer": "Endometriosis commonly causes depression due to chronic pain, fatigue, fertility challenges, and the burden of navigating a poorly understood condition. The physical pain of endometriosis directly affects mental health through neuroinflammatory pathways and reduced quality of life. Many women experience delayed diagnosis (average 7-10 years), during which symptoms are dismissed as 'normal periods,' leading to invalidation and distress. Treatment side effects, surgical recovery, and fertility struggles add emotional burden. Management requires holistic care: pain management, hormonal treatment or surgery for endometriosis, therapy for coping with chronic illness, antidepressants if needed, and support groups. Addressing mental health improves pain tolerance and treatment adherence. You are not weak for struggling emotionally with endometriosis - it is a demanding condition that affects your whole life.",
+    "follow_up": ["Do you have endometriosis?", "How does it affect your mental health?", "Have you found effective pain management?", "Do you have support?"]
+  },
+  {
+    "id": 5026,
+    "category": "depression_related_to_cycle",
+    "question": "Can thyroid problems cause depression",
+    "alternate_questions": ["Hypothyroidism depression", "Thyroid mood", "TSH depression", "Thyroid anxiety", "Hormonal thyroid mental health"],
+    "keywords": ["thyroid", "hypothyroidism", "depression", "mood", "TSH", "hormonal", "mental health"],
+    "answer": "Yes, thyroid dysfunction significantly affects mood. Hypothyroidism (underactive thyroid) commonly causes depression-like symptoms: fatigue, low mood, brain fog, weight gain, and apathy. Hyperthyroidism (overactive thyroid) causes anxiety, irritability, and mood swings. Thyroid hormones regulate metabolism and interact with neurotransmitters. Because symptoms overlap with depression and anxiety, thyroid issues are often missed. Women are 5-8 times more likely to have thyroid disorders, and they often emerge during hormonal transitions (postpartum, perimenopause). If you have depression or anxiety, especially with fatigue, weight changes, or temperature intolerance, request thyroid testing (TSH, free T4, possibly T3 and antibodies). Thyroid-related mood symptoms often resolve with proper thyroid treatment. Don't accept a mental health diagnosis without ruling out physical causes.",
+    "follow_up": ["Have you had thyroid testing?", "Do you have thyroid symptoms?", "Is depression treatment not working?", "Would you like testing recommendations?"]
+  },
+  {
+    "id": 5027,
+    "category": "depression_related_to_cycle",
+    "question": "What is postpartum OCD",
+    "alternate_questions": ["OCD after baby", "Intrusive thoughts postpartum", "Postnatal OCD", "Scary thoughts new mom", "Postpartum intrusive thoughts"],
+    "keywords": ["postpartum", "OCD", "intrusive thoughts", "after baby", "new mom", "scary thoughts", "postnatal"],
+    "answer": "Postpartum OCD affects 3-5% of new mothers and involves intrusive, unwanted thoughts about harm coming to the baby - often thoughts of accidental or intentional harm. These thoughts are terrifying and ego-dystonic (opposite of your true desires). You may also have compulsions: excessive checking, cleaning, or avoiding certain activities. Unlike postpartum psychosis, women with postpartum OCD know these thoughts are wrong and are horrified by them. They do not pose risk to the baby. However, the shame prevents many from seeking help. Postpartum OCD is treatable with CBT (especially ERP), SSRIs safe for breastfeeding, and support. If you have these thoughts, you are not dangerous or bad - you have a treatable anxiety condition. Please tell a healthcare provider. Secrecy perpetuates suffering.",
+    "follow_up": ["Are you postpartum?", "What intrusive thoughts are you having?", "Are you horrified by them?", "Have you told anyone?"]
+  },
+  {
+    "id": 5028,
+    "category": "depression_related_to_cycle",
+    "question": "How to cope with PMDD at work",
+    "alternate_questions": ["PMDD workplace", "Work with PMDD", "PMDD job performance", "Severe PMS work", "PMDD accommodations work"],
+    "keywords": ["PMDD", "work", "workplace", "job", "performance", "accommodations", "cope"],
+    "answer": "Managing PMDD at work requires planning and advocacy: 1) Track your cycle to anticipate difficult days. 2) Schedule demanding tasks, presentations, and meetings for non-luteal phases when possible. 3) Use sick days or PTO during severe days - PMDD is a medical condition. 4) Request accommodations if comfortable: flexible hours, remote work during luteal phase, reduced meetings. 5) Have a private space to regroup if overwhelmed. 6) Communicate with trusted colleagues or HR using medical language if needed. 7) Keep comfort items: water, snacks, pain relief, heating pad. 8) Practice stress management during work hours. 9) Consider FMLA or disability leave if PMDD severely impairs functioning. 10) Remember: you are not obligated to disclose, but accommodations can help. PMDD is a disability under the ADA in some cases. Protect your health and livelihood.",
+    "follow_up": ["How does PMDD affect your work?", "Have you requested accommodations?", "Is your workplace supportive?", "Are you considering disability leave?"]
+  },
+  {
+    "id": 5029,
+    "category": "depression_related_to_cycle",
+    "question": "What is reproductive depression",
+    "alternate_questions": ["Hormonal depression", "Reproductive mental health", "Cycle mood disorder", "Hormone sensitive depression", "Women depression hormones"],
+    "keywords": ["reproductive", "depression", "hormonal", "mental health", "cycle", "hormone sensitive", "women"],
+    "answer": "Reproductive depression refers to depressive episodes linked to reproductive hormone fluctuations: premenstrual depression (PMDD), antenatal depression (during pregnancy), postpartum depression, and perimenopausal depression. Some women have hormone-sensitive depression that manifests across multiple reproductive transitions. This suggests a biological vulnerability to hormonal changes rather than separate conditions. Women with reproductive depression in one phase are at higher risk in others. Recognition of this pattern is growing, with some researchers proposing 'reproductive subtype of depression.' Treatment approaches may differ from non-hormonal depression, with hormonal interventions playing a larger role. If you've experienced depression related to menstruation, pregnancy, or menopause, inform all your providers. This pattern guides preventive strategies for future transitions (e.g., postpartum planning if you had PMDD). Your hormonal history matters for mental health care.",
+    "follow_up": ["Have you had depression across multiple reproductive phases?", "Do hormones trigger your depression?", "Have providers connected these?", "Are you planning pregnancy?"]
+  },
+  {
+    "id": 5030,
+    "category": "depression_related_to_cycle",
+    "question": "How to find PMDD specialist",
+    "alternate_questions": ["PMDD doctor", "Specialist premenstrual dysphoric disorder", "Find PMDD treatment", "PMDD knowledgeable provider", "Expert PMDD care"],
+    "keywords": ["PMDD", "specialist", "doctor", "provider", "treatment", "expert", "knowledgeable", "find"],
+    "answer": "Finding a PMDD-knowledgeable provider can be challenging but is essential for proper treatment. Look for: reproductive psychiatrists, gynecologists with mental health training, or mental health providers specializing in women's health. Resources: IAPMD (International Association for Premenstrual Disorders) provider directory, Vicious Cycle PMDD directory, Postpartum Support International referrals, and academic medical centers with women's mental health programs. When contacting providers, ask directly: 'Do you treat PMDD?' 'What is your approach?' 'Do you use luteal-phase dosing?' Prepare your symptom tracking data. If local options are limited, consider telehealth. Some providers are learning about PMDD - be prepared to educate or advocate. Don't settle for providers who dismiss your symptoms as 'normal PMS.' PMDD is a serious, treatable condition that requires knowledgeable care. You deserve a provider who takes your suffering seriously.",
+    "follow_up": ["Have you found a knowledgeable provider?", "What barriers exist in your area?", "Are you comfortable advocating?", "Would you like directory recommendations?"]
+  }
+]

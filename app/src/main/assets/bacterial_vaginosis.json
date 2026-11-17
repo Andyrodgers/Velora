@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1601,
+    "category": "bacterial_vaginosis",
+    "question": "What is Bacterial Vaginosis (BV)?",
+    "alternate_questions": ["Define BV", "What causes BV?", "Tell me about bacterial vaginosis"],
+    "keywords": ["bv", "bacterial vaginosis", "infection", "bacteria", "vagina"],
+    "answer": "Bacterial Vaginosis (BV) is a common, treatable vaginal infection caused by an overgrowth of certain types of bacteria that naturally live in the vagina. It's an imbalance, not necessarily a sign of poor hygiene.",
+    "follow_up": ["What are the symptoms of BV?", "How is BV treated?", "Is BV an STI?"]
+  },
+  {
+    "id": 1602,
+    "category": "bacterial_vaginosis",
+    "question": "What are the symptoms of BV?",
+    "alternate_questions": ["How do I know if I have BV?", "BV signs", "Fishy smell symptoms"],
+    "keywords": ["symptoms", "bv", "fishy odor", "discharge", "thin grey"],
+    "answer": "Common symptoms include a thin, grey or white vaginal discharge, a strong 'fishy' odor (especially after sex), and sometimes itching or burning during urination. Many people with BV have no symptoms at all.",
+    "follow_up": ["What does BV discharge look like?", "Can BV cause itching?", "Why does it smell fishy?"]
+  },
+  {
+    "id": 1603,
+    "category": "bacterial_vaginosis",
+    "question": "How is BV treated?",
+    "alternate_questions": ["BV cure", "Medication for BV", "Can BV go away on its own?"],
+    "keywords": ["treatment", "bv", "antibiotics", "metronidazole", "clindamycin"],
+    "answer": "BV is usually treated with antibiotics, such as metronidazole or clindamycin, which can be taken as pills or applied as a cream or gel inside the vagina. It's important to finish the entire course of medication.",
+    "follow_up": ["Can I treat BV at home?", "Do I need a prescription for BV?", "What happens if BV is left untreated?"]
+  },
+  {
+    "id": 1604,
+    "category": "bacterial_vaginosis",
+    "question": "Is BV an STI?",
+    "alternate_questions": ["Can I get BV from sex?", "Is bacterial vaginosis sexually transmitted?", "BV and partners"],
+    "keywords": ["sti", "sex", "transmitted", "partners", "contagious"],
+    "answer": "BV is not classified as a Sexually Transmitted Infection (STI), but having a new sex partner or multiple partners can increase your risk. Male partners usually don't need treatment, but female partners might.",
+    "follow_up": ["How to prevent BV?", "Can I have sex while I have BV?", "Why does sex increase BV risk?"]
+  },
+  {
+    "id": 1605,
+    "category": "bacterial_vaginosis",
+    "question": "How can I prevent BV?",
+    "alternate_questions": ["Ways to avoid BV", "Preventing bacterial vaginosis", "Reducing BV risk"],
+    "keywords": ["prevention", "bv", "hygiene", "douching", "safe sex"],
+    "answer": "Prevention tips include avoiding douching, using mild unscented soap for the external area only, wearing cotton underwear, and using condoms during sex to maintain the natural pH balance of the vagina.",
+    "follow_up": ["Is douching bad for BV?", "What kind of underwear is best?", "Does diet help prevent BV?"]
+  }
+]

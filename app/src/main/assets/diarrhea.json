@@ -1,0 +1,47 @@
+[
+  {
+    "id": 291,
+    "category": "diarrhea",
+    "question": "Why do I get diarrhea during my period?",
+    "alternate_questions": ["Period poops explained", "Why does my digestion change on my period?", "Diarrhea and menstruation"],
+    "keywords": ["diarrhea", "period", "digestion", "prostaglandins", "stomach"],
+    "answer": "Diarrhea during your period is primarily caused by prostaglandins. These chemicals cause your uterus to contract, but they can also cause the muscles in your intestines to contract, leading to more frequent bowel movements or diarrhea.",
+    "follow_up": ["How to manage period diarrhea?", "Can period cramps cause stomach issues?", "Does diet affect period digestion?"]
+  },
+  {
+    "id": 292,
+    "category": "diarrhea",
+    "question": "How can I manage period-related diarrhea?",
+    "alternate_questions": ["Ways to stop diarrhea during my period", "Diet for period diarrhea", "Relief for digestive issues during menstruation"],
+    "keywords": ["manage", "diarrhea", "relief", "diet", "period"],
+    "answer": "Managing period diarrhea involves staying well-hydrated, eating bland foods (like the BRAT diet: bananas, rice, applesauce, toast), and avoiding caffeine, spicy foods, and high-fiber foods that can worsen symptoms.",
+    "follow_up": ["What is the BRAT diet?", "Does water help with diarrhea?", "Should I avoid coffee during my period?"]
+  },
+  {
+    "id": 293,
+    "category": "diarrhea",
+    "question": "Is it normal to have 'period poops'?",
+    "alternate_questions": ["Are changes in bowel movements common during periods?", "Why is my stool different on my period?", "Bowel habits and menstruation"],
+    "keywords": ["period poops", "normal", "bowel movements", "stool", "menstruation"],
+    "answer": "Yes, 'period poops'—changes in bowel habits like diarrhea or more frequent movements—are very common. They are usually caused by the hormonal shifts (prostaglandins) that occur just before and during your period.",
+    "follow_up": ["Why do I get constipated before my period?", "How long do period poops last?", "Can period pain make me feel like I need to go?"]
+  },
+  {
+    "id": 294,
+    "category": "diarrhea",
+    "question": "Can I take medication for period diarrhea?",
+    "alternate_questions": ["Is Imodium safe for period diarrhea?", "Anti-diarrheal meds during menstruation", "Medication for stomach issues on period"],
+    "keywords": ["medication", "diarrhea", "imodium", "period", "relief"],
+    "answer": "Over-the-counter anti-diarrheal medications can be used, but it's often best to manage it through diet and hydration first. If the diarrhea is severe or persistent, you should consult a doctor.",
+    "follow_up": ["When to see a doctor for diarrhea?", "What are natural ways to stop diarrhea?", "Can painkillers help with stomach issues?"]
+  },
+  {
+    "id": 295,
+    "category": "diarrhea",
+    "question": "Does stress make period diarrhea worse?",
+    "alternate_questions": ["Anxiety and period digestion", "Can stress cause stomach issues during menstruation?", "Link between emotions and period poops"],
+    "keywords": ["stress", "diarrhea", "period", "digestion", "anxiety"],
+    "answer": "Yes, stress and anxiety can definitely exacerbate digestive issues during your period. The gut and brain are closely linked, and stress can increase muscle contractions in the intestines, making diarrhea more likely.",
+    "follow_up": ["How to reduce stress during my period?", "Does relaxation help with digestion?", "Can PMS cause both anxiety and diarrhea?"]
+  }
+]

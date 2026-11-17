@@ -1,0 +1,47 @@
+[
+  {
+    "id": 801,
+    "category": "encouragement",
+    "question": "I'm having a hard time",
+    "alternate_questions": ["I feel down", "Today is rough", "I need some encouragement", "I'm struggling"],
+    "keywords": ["hard time", "down", "rough", "struggling", "encouragement"],
+    "answer": "I'm so sorry to hear you're having a hard time. Remember, it's okay to have days like this. You are strong and resilient, and this feeling is temporary. Be extra kind to yourself today.",
+    "follow_up": ["Would you like to talk about what's on your mind?", "Can I suggest some self-care ideas?", "Remember, I'm here for you."]
+  },
+  {
+    "id": 802,
+    "category": "encouragement",
+    "question": "Give me a positive quote",
+    "alternate_questions": ["I need inspiration", "Motivational quote", "Something positive"],
+    "keywords": ["quote", "positive", "inspiration", "motivation"],
+    "answer": "Here's something to remember: 'Your current situation is not your final destination.' You're doing the best you can, and that is more than enough. Keep going!",
+    "follow_up": ["Do you want another quote?", "How are you feeling now?", "What's one small thing you're proud of today?"]
+  },
+  {
+    "id": 803,
+    "category": "encouragement",
+    "question": "I feel like I'm failing",
+    "alternate_questions": ["I'm not doing enough", "I'm a failure", "I can't get anything right"],
+    "keywords": ["failing", "failure", "not enough", "struggle"],
+    "answer": "You are not a failure. Everyone faces challenges and setbacks. What matters is that you're showing up and trying. Progress isn't always linear, and you're doing better than you think.",
+    "follow_up": ["What's one small win you had today?", "Can we talk about what's making you feel this way?", "You're doing great, really."]
+  },
+  {
+    "id": 804,
+    "category": "encouragement",
+    "question": "I'm tired of my cycle",
+    "alternate_questions": ["Periods are exhausting", "I hate dealing with this every month", "Cycle is too much"],
+    "keywords": ["tired", "cycle", "exhausting", "period"],
+    "answer": "It's completely valid to feel exhausted by your cycle. It's a lot for your body and mind to handle every month. You're a warrior for managing it all. Make sure to prioritize rest and comfort right now.",
+    "follow_up": ["How can I help make things easier today?", "Do you need some relaxation tips?", "You're doing an amazing job."]
+  },
+  {
+    "id": 805,
+    "category": "encouragement",
+    "question": "Tell me something good",
+    "alternate_questions": ["I need good news", "Say something nice", "Positive thoughts"],
+    "keywords": ["good", "nice", "positive", "thoughts"],
+    "answer": "You are a unique and valuable person. You have strengths and talents that the world needs. Even on your quietest days, you are making a difference just by being you.",
+    "follow_up": ["What's something you like about yourself?", "Want to hear another positive thought?", "I'm glad we're chatting!"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3301,
+    "category": "adenomyosis",
+    "question": "What is adenomyosis?",
+    "alternate_questions": ["Define adenomyosis", "What causes adenomyosis?", "Adenomyosis vs endometriosis"],
+    "keywords": ["adenomyosis", "uterus", "lining", "muscle", "pain"],
+    "answer": "Adenomyosis is a condition where the tissue that normally lines the uterus (endometrium) grows into the muscular wall of the uterus. This causes the uterus to thicken and enlarge, leading to painful and heavy periods.",
+    "follow_up": ["What are the symptoms of adenomyosis?", "How is adenomyosis diagnosed?", "Is adenomyosis the same as endometriosis?"]
+  },
+  {
+    "id": 3302,
+    "category": "adenomyosis",
+    "question": "What are the symptoms of adenomyosis?",
+    "alternate_questions": ["Signs of adenomyosis", "Adenomyosis pain", "Heavy bleeding adenomyosis"],
+    "keywords": ["symptoms", "adenomyosis", "heavy periods", "cramps", "enlarged uterus"],
+    "answer": "Common symptoms include heavy or prolonged menstrual bleeding, severe cramping or sharp pelvic pain during menstruation (dysmenorrhea), chronic pelvic pain, and an enlarged or tender uterus.",
+    "follow_up": ["How heavy is too heavy for a period?", "Can adenomyosis cause bloating?", "Does adenomyosis cause pain during sex?"]
+  },
+  {
+    "id": 3303,
+    "category": "adenomyosis",
+    "question": "How is adenomyosis diagnosed?",
+    "alternate_questions": ["Adenomyosis test", "Imaging for adenomyosis", "Doctor for enlarged uterus"],
+    "keywords": ["diagnosis", "ultrasound", "mri", "pelvic exam", "adenomyosis"],
+    "answer": "Adenomyosis is typically suspected during a pelvic exam if the uterus feels enlarged or tender. Diagnosis is often supported by imaging tests like a pelvic ultrasound or an MRI. A definitive diagnosis is usually only confirmed after a hysterectomy.",
+    "follow_up": ["What happens during a pelvic exam?", "Can an ultrasound miss adenomyosis?", "When is an MRI needed for pelvic pain?"]
+  },
+  {
+    "id": 3304,
+    "category": "adenomyosis",
+    "question": "What are the treatment options for adenomyosis?",
+    "alternate_questions": ["Managing adenomyosis", "Adenomyosis relief", "Hormones for adenomyosis"],
+    "keywords": ["treatment", "adenomyosis", "hormone therapy", "hysterectomy", "pain relief"],
+    "answer": "Treatment options include anti-inflammatory medications (like ibuprofen), hormone therapy (such as birth control pills or progestin-releasing IUDs), and in severe cases where childbearing is complete, a hysterectomy.",
+    "follow_up": ["Does an IUD help with adenomyosis?", "What are the surgical options for adenomyosis?", "Are there non-surgical treatments?"]
+  },
+  {
+    "id": 3305,
+    "category": "adenomyosis",
+    "question": "Can adenomyosis affect fertility?",
+    "alternate_questions": ["Getting pregnant with adenomyosis", "Adenomyosis and miscarriage risk", "Adenomyosis impact on conception"],
+    "keywords": ["fertility", "pregnancy", "adenomyosis", "conception", "miscarriage"],
+    "answer": "While many people with adenomyosis can conceive, some studies suggest it may be linked to infertility or a higher risk of miscarriage. If you have concerns about fertility, it's best to consult with a specialist.",
+    "follow_up": ["How does adenomyosis impact pregnancy?", "Should I see a fertility specialist?", "What are the success rates for pregnancy with adenomyosis?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1701,
+    "category": "medical_dictionary",
+    "question": "What is the cervix?",
+    "alternate_questions": ["Define cervix", "Where is the cervix?", "Cervix function"],
+    "keywords": ["cervix", "uterus", "vagina", "reproduction", "anatomy"],
+    "answer": "The cervix is the lower, narrow part of the uterus (womb) that opens into the vagina. It acts as a gateway, allowing sperm to enter and menstrual blood to exit, and it stays tightly closed during pregnancy.",
+    "follow_up": ["What is a Pap smear?", "Where is the uterus located?", "How does the cervix change during ovulation?"]
+  },
+  {
+    "id": 1702,
+    "category": "medical_dictionary",
+    "question": "What are ovaries?",
+    "alternate_questions": ["Define ovaries", "Function of ovaries", "Where are ovaries located?"],
+    "keywords": ["ovaries", "eggs", "estrogen", "progesterone", "hormones"],
+    "answer": "The ovaries are two small, oval-shaped organs located on either side of the uterus. They produce and store eggs (ova) and make the hormones estrogen and progesterone, which control the menstrual cycle.",
+    "follow_up": ["What is ovulation?", "How many eggs do ovaries have?", "What are ovarian cysts?"]
+  },
+  {
+    "id": 1703,
+    "category": "medical_dictionary",
+    "question": "What is the endometrium?",
+    "alternate_questions": ["Define endometrium", "Uterine lining", "What sheds during a period?"],
+    "keywords": ["endometrium", "lining", "uterus", "menstruation", "shedding"],
+    "answer": "The endometrium is the mucous membrane lining the uterus. It thickens each month in preparation for a potential pregnancy and is shed during menstruation if pregnancy does not occur.",
+    "follow_up": ["What is endometriosis?", "Why does the lining thicken?", "What causes heavy periods?"]
+  },
+  {
+    "id": 1704,
+    "category": "medical_dictionary",
+    "question": "What are fallopian tubes?",
+    "alternate_questions": ["Define fallopian tubes", "Tubes in the reproductive system", "Where does fertilization happen?"],
+    "keywords": ["fallopian tubes", "fertilization", "uterus", "ovaries", "conception"],
+    "answer": "Fallopian tubes are two thin tubes that connect the ovaries to the uterus. They are the site where fertilization (when an egg meets sperm) typically occurs before the embryo travels to the uterus.",
+    "follow_up": ["What is an ectopic pregnancy?", "Can tubes be blocked?", "How does an egg move through the tube?"]
+  },
+  {
+    "id": 1705,
+    "category": "medical_dictionary",
+    "question": "What is the vulva?",
+    "alternate_questions": ["Define vulva", "Difference between vulva and vagina", "External female anatomy"],
+    "keywords": ["vulva", "anatomy", "external", "vagina", "labia"],
+    "answer": "The vulva is the collective term for the external parts of the female genitalia, including the labia majora, labia minora, clitoris, and the openings to the urethra and vagina. It is different from the vagina, which is the internal canal.",
+    "follow_up": ["How to clean the vulva?", "What is the clitoris?", "Common vulvar health issues"]
+  }
+]

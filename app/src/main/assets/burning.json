@@ -1,0 +1,47 @@
+[
+  {
+    "id": 421,
+    "category": "burning",
+    "question": "Why do I feel a burning sensation when I pee?",
+    "alternate_questions": ["Burning during urination", "Painful urination", "Why does it sting when I urinate?"],
+    "keywords": ["burning", "urination", "stinging", "pain", "uti"],
+    "answer": "A burning sensation during urination is a common symptom of a Urinary Tract Infection (UTI). It can also be caused by irritation, certain soaps, or yeast infections. If the burning persists, you should see a doctor.",
+    "follow_up": ["What are other signs of a UTI?", "Can a yeast infection cause burning?", "When should I see a doctor for painful urination?"]
+  },
+  {
+    "id": 422,
+    "category": "burning",
+    "question": "Can a yeast infection cause burning?",
+    "alternate_questions": ["Is vaginal burning a sign of a yeast infection?", "Burning and itching down there", "Vaginal discomfort and burning"],
+    "keywords": ["burning", "yeast infection", "vaginal", "itching", "discomfort"],
+    "answer": "Yes, a yeast infection often causes burning, especially during urination or sexual intercourse, along with intense itching and a thick, white discharge.",
+    "follow_up": ["How to treat a yeast infection?", "What does yeast infection discharge look like?", "Can I get a yeast infection during my period?"]
+  },
+  {
+    "id": 423,
+    "category": "burning",
+    "question": "Why do I have external vaginal burning?",
+    "alternate_questions": ["Burning on the vulva", "External irritation and burning", "Skin burning in the genital area"],
+    "keywords": ["burning", "external", "vulva", "irritation", "contact dermatitis"],
+    "answer": "External burning can be caused by irritation from laundry detergents, scented soaps, pads, or tight clothing (contact dermatitis). It could also be due to a skin condition or an infection.",
+    "follow_up": ["How to soothe external burning?", "What soaps are safe for the vaginal area?", "Can pads cause irritation?"]
+  },
+  {
+    "id": 424,
+    "category": "burning",
+    "question": "Does burning always mean an infection?",
+    "alternate_questions": ["Can I have burning without a UTI?", "Non-infectious causes of burning", "Why else would I feel a burning sensation?"],
+    "keywords": ["burning", "infection", "causes", "irritation", "allergy"],
+    "answer": "Not always. While burning is often a sign of infection (like a UTI or yeast infection), it can also be caused by physical irritation, allergic reactions to products, or hormonal changes causing dryness.",
+    "follow_up": ["What causes vaginal dryness?", "How to tell the difference between irritation and infection?", "When to seek medical advice?"]
+  },
+  {
+    "id": 425,
+    "category": "burning",
+    "question": "Can dehydration cause burning when I pee?",
+    "alternate_questions": ["Does not drinking enough water make it burn when I urinate?", "Concentrated urine and burning", "Link between hydration and painful urination"],
+    "keywords": ["burning", "dehydration", "urine", "concentration", "water"],
+    "answer": "Yes, if you are dehydrated, your urine becomes more concentrated and acidic, which can irritate the urethra and cause a mild burning or stinging sensation during urination.",
+    "follow_up": ["How much water should I drink?", "What color should my urine be?", "Can drinking water stop the burning?"]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 221,
+    "category": "period_delay",
+    "question": "Why is my period 5 days late",
+    "alternate_questions": ["5 days late period", "Period delayed by 5 days", "Should I worry about 5 day delay", "Five days overdue", "Late by almost a week"],
+    "keywords": ["5 days late", "delay", "overdue", "worry", "pregnancy"],
+    "answer": "A 5-day delay can be caused by stress, illness, travel, weight changes, intense exercise, or pregnancy. If you've had unprotected sex, take a pregnancy test. If not, consider recent lifestyle changes. A single late period is usually not concerning, but if delays become frequent or you have other symptoms like severe pain or unusual discharge, consult a healthcare provider.",
+    "follow_up": ["Have you taken a pregnancy test?", "Have you been under unusual stress?", "Is this normal for you or unusual?"]
+  },
+  {
+    "id": 222,
+    "category": "period_delay",
+    "question": "Why is my period 10 days late",
+    "alternate_questions": ["10 days late period", "Period delayed by 10 days", "Over a week late", "Should I worry about 10 day delay", "Ten days overdue menstruation"],
+    "keywords": ["10 days late", "delay", "overdue", "concern", "pregnancy"],
+    "answer": "A 10-day delay warrants attention. If pregnancy is possible, take a test immediately. If negative and you have no other symptoms, wait a few more days and retest. Common non-pregnancy causes include significant stress, recent illness, travel across time zones, starting or stopping birth control, weight changes, PCOS, thyroid issues, or perimenopause. If your period doesn't arrive within 2 weeks or you have concerning symptoms, see a doctor.",
+    "follow_up": ["Have you taken a pregnancy test?", "Are you on any birth control?", "Have you had recent lifestyle changes?"]
+  },
+  {
+    "id": 223,
+    "category": "period_delay",
+    "question": "Why is my period 2 weeks late",
+    "alternate_questions": ["2 weeks late period", "14 days overdue", "Period delayed by two weeks", "Very late menstruation", "Two weeks and no period"],
+    "keywords": ["2 weeks late", "14 days", "significant delay", "medical attention", "pregnancy"],
+    "answer": "A 2-week delay is significant. Take a pregnancy test if there's any possibility of pregnancy. If negative, consider: recent stress or trauma, significant weight loss or gain, excessive exercise, illness, medication changes, thyroid problems, PCOS, elevated prolactin, or perimenopause. If you're not pregnant and your period hasn't arrived, schedule a healthcare appointment. They may do blood tests, ultrasound, or hormone panels.",
+    "follow_up": ["Have you taken multiple pregnancy tests?", "Are you experiencing other symptoms?", "Have you had major life changes recently?"]
+  },
+  {
+    "id": 224,
+    "category": "period_delay",
+    "question": "Can stress delay my period",
+    "alternate_questions": ["Stress and late period", "Anxiety delaying menstruation", "Why does stress stop periods", "Emotional stress period delay", "Can worry make me miss my period"],
+    "keywords": ["stress", "delay", "cortisol", "hormonal disruption", "anxiety"],
+    "answer": "Yes, significant stress can absolutely delay or even stop your period. Stress increases cortisol, which can interfere with the hypothalamus-pituitary-ovary axis that regulates your cycle. Acute stress (exams, work deadline, breakup) might delay by a few days. Chronic stress can cause longer delays. Managing stress through exercise, meditation, therapy, or lifestyle changes usually helps your cycle return to normal.",
+    "follow_up": ["What kind of stress are you under?", "How long has the stress been going on?", "Have you tried stress management techniques?"]
+  },
+  {
+    "id": 225,
+    "category": "period_delay",
+    "question": "Can travel delay my period",
+    "alternate_questions": ["Jet lag and period", "Travel affecting menstruation", "Why did my period come late after vacation", "Time zone change period delay", "Flying and late period"],
+    "keywords": ["travel", "jet lag", "time zones", "delay", "circadian rhythm"],
+    "answer": "Yes, travel can delay your period. Crossing time zones disrupts your circadian rhythm, which affects hormone production. Jet lag, changes in sleep patterns, dehydration from flying, and travel stress can all contribute. The delay is usually temporary, and your cycle should normalize within a month or two after returning home. Stay hydrated, try to adjust to local time quickly, and maintain healthy habits while traveling.",
+    "follow_up": ["Where did you travel to?", "How long were you away?", "Have your cycles returned to normal?"]
+  },
+  {
+    "id": 226,
+    "category": "period_delay",
+    "question": "Can weight loss delay my period",
+    "alternate_questions": ["Losing weight late period", "Diet affecting menstruation", "Why did my period stop when I lost weight", "Weight loss and missed period", "Underweight and no period"],
+    "keywords": ["weight loss", "underweight", "delay", "amenorrhea", "nutrition"],
+    "answer": "Yes, significant weight loss can delay or stop your period. Your body needs adequate fat stores to produce estrogen. Losing more than 10% of your body weight quickly, being underweight (BMI under 18.5), or having very low body fat can cause hypothalamic amenorrhea. This is your body's way of conserving energy when it thinks food is scarce. Gradual, healthy weight loss and adequate nutrition help maintain regular cycles.",
+    "follow_up": ["How much weight did you lose?", "How quickly did you lose it?", "Are you eating enough calories and nutrients?"]
+  },
+  {
+    "id": 227,
+    "category": "period_delay",
+    "question": "Can weight gain delay my period",
+    "alternate_questions": ["Gaining weight late period", "Obesity and menstruation", "Why did my period change when I gained weight", "Overweight and irregular periods", "Weight gain affecting cycle"],
+    "keywords": ["weight gain", "overweight", "obesity", "delay", "hormonal"],
+    "answer": "Yes, significant weight gain can delay or disrupt your period. Excess body fat increases estrogen production, which can disrupt the normal hormonal balance. Obesity is associated with irregular cycles, heavier periods, and conditions like PCOS. Losing even 5-10% of body weight can help regulate cycles. If weight gain is sudden or unexplained, consult a healthcare provider to rule out thyroid issues or other conditions.",
+    "follow_up": ["How much weight did you gain?", "Was the gain sudden or gradual?", "Are you having other symptoms?"]
+  },
+  {
+    "id": 228,
+    "category": "period_delay",
+    "question": "Can exercise delay my period",
+    "alternate_questions": ["Working out late period", "Athlete amenorrhea", "Why did my period stop with exercise", "Too much exercise no period", "Fitness and missed period"],
+    "keywords": ["exercise", "athletic", "amenorrhea", "delay", "overtraining"],
+    "answer": "Yes, excessive exercise can delay or stop your period. This is called exercise-induced amenorrhea and is common in elite athletes or those with very intense training regimens. It happens because your body redirects energy from reproduction to physical activity. Moderate exercise is healthy, but if you're exercising intensely and have missed 3+ periods, see a healthcare provider. Reducing intensity and ensuring adequate calorie intake usually helps.",
+    "follow_up": ["How intense is your exercise routine?", "Are you eating enough for your activity level?", "Have you missed multiple periods?"]
+  },
+  {
+    "id": 229,
+    "category": "period_delay",
+    "question": "Can illness delay my period",
+    "alternate_questions": ["Sick and late period", "Flu delaying menstruation", "Why did being sick delay my period", "Infection and missed period", "COVID and period delay"],
+    "keywords": ["illness", "sick", "infection", "delay", "immune system"],
+    "answer": "Yes, illness can delay your period. When your body is fighting infection, it prioritizes immune function over reproduction. Fever, significant illness, or recovery from surgery can all disrupt your cycle. COVID-19 has been reported to cause cycle changes in some people. The delay is usually temporary, and your cycle should return to normal within 1-2 months after recovery.",
+    "follow_up": ["What illness did you have?", "How severe was it?", "Have you fully recovered?"]
+  },
+  {
+    "id": 230,
+    "category": "period_delay",
+    "question": "Can medication delay my period",
+    "alternate_questions": ["Drugs affecting period", "Medication and late menstruation", "Why did my medicine delay my period", "Antibiotics and period", "New medication missed period"],
+    "keywords": ["medication", "drugs", "delay", "side effects", "prescription"],
+    "answer": "Yes, certain medications can delay your period. Common culprits include: emergency contraception, hormonal birth control changes, antidepressants (especially SSRIs), antipsychotics, thyroid medications, chemotherapy, and some herbal supplements. Antibiotics don't typically affect periods directly, but the illness they're treating might. If you started a new medication and your period is late, check the side effects or ask your prescribing doctor.",
+    "follow_up": ["What medications are you taking?", "When did you start them?", "Did the delay coincide with starting medication?"]
+  },
+  {
+    "id": 231,
+    "category": "period_delay",
+    "question": "Can birth control delay my period",
+    "alternate_questions": ["Pill late period", "Starting birth control delay", "Stopping contraception no period", "IUD and late period", "Implant period delay"],
+    "keywords": ["birth control", "contraception", "delay", "hormonal", "adjustment"],
+    "answer": "Yes, starting, stopping, or changing birth control can delay your period. It takes time for your body to adjust to new hormone levels. Some methods like the hormonal IUD or implant can make periods very light or stop altogether, which is normal. Emergency contraception can delay your next period by up to a week. If you've missed pills, your period might be irregular. If concerned, take a pregnancy test and consult your provider.",
+    "follow_up": ["What birth control are you using?", "Did you recently start, stop, or change methods?", "Are you taking pills consistently?"]
+  },
+  {
+    "id": 232,
+    "category": "period_delay",
+    "question": "Can breastfeeding delay my period",
+    "alternate_questions": ["Nursing and no period", "Breastfeeding amenorrhea", "Why no period while breastfeeding", "Lactation and menstruation", "Postpartum period delay"],
+    "keywords": ["breastfeeding", "lactation", "amenorrhea", "postpartum", "prolactin"],
+    "answer": "Yes, breastfeeding commonly delays the return of your period. This is called lactational amenorrhea. Prolactin, the hormone that produces milk, suppresses ovulation. The more frequently you nurse, the more likely your period will stay away. This is nature's way of spacing pregnancies. However, you can still ovulate before your first postpartum period, so contraception is needed if you want to avoid pregnancy.",
+    "follow_up": ["How often are you breastfeeding?", "Are you exclusively breastfeeding?", "Are you using contraception?"]
+  },
+  {
+    "id": 233,
+    "category": "period_delay",
+    "question": "Can PCOS delay my period",
+    "alternate_questions": ["PCOS and late period", "Polycystic ovaries missed period", "Why does PCOS stop periods", "PCOS irregular menstruation", "No period with PCOS"],
+    "keywords": ["PCOS", "polycystic", "delay", "irregular", "androgens"],
+    "answer": "Yes, PCOS is a common cause of delayed or absent periods. In PCOS, hormonal imbalances (high androgens, irregular LH/FSH ratios) prevent regular ovulation. Without ovulation, there's no trigger for the luteal phase and subsequent period. Some people with PCOS have very irregular cycles, while others may go months without a period. If you suspect PCOS, look for other symptoms like acne, excess hair growth, and weight gain, and see a healthcare provider.",
+    "follow_up": ["Do you have other PCOS symptoms?", "How irregular are your cycles?", "Have you been diagnosed with PCOS?"]
+  },
+  {
+    "id": 234,
+    "category": "period_delay",
+    "question": "Can thyroid problems delay my period",
+    "alternate_questions": ["Hypothyroidism late period", "Hyperthyroidism and menstruation", "Thyroid disease period delay", "TSH and irregular periods", "Thyroid hormone cycle"],
+    "keywords": ["thyroid", "hypothyroidism", "hyperthyroidism", "delay", "hormonal"],
+    "answer": "Yes, both underactive (hypothyroidism) and overactive (hyperthyroidism) thyroid can delay or disrupt your period. Thyroid hormones interact closely with reproductive hormones. Hypothyroidism often causes heavier, more frequent, or irregular periods, while hyperthyroidism may cause lighter or less frequent periods. A simple blood test (TSH, T3, T4) can check your thyroid function. Treatment usually restores normal cycles.",
+    "follow_up": ["Do you have other thyroid symptoms?", "Have you had thyroid tests?", "Are you on thyroid medication?"]
+  },
+  {
+    "id": 235,
+    "category": "period_delay",
+    "question": "Can perimenopause delay my period",
+    "alternate_questions": ["Perimenopause late period", "Menopause transition missed period", "Why are my periods getting further apart", "Aging and period delays", "Perimenopause irregular cycles"],
+    "keywords": ["perimenopause", "menopause transition", "delay", "aging", "irregular"],
+    "answer": "Yes, perimenopause (the transition to menopause, typically ages 40-55) commonly causes delayed or irregular periods. As ovarian function declines, ovulation becomes less predictable, leading to longer cycles, skipped periods, or changes in flow. This is a normal part of aging. However, any bleeding changes after 45 should be discussed with a doctor to rule out other conditions like fibroids or endometrial issues.",
+    "follow_up": ["How old are you?", "Are you having other perimenopause symptoms?", "How long have cycles been irregular?"]
+  },
+  {
+    "id": 236,
+    "category": "period_delay",
+    "question": "When should I take a pregnancy test",
+    "alternate_questions": ["Best time pregnancy test", "How late before testing", "When to test for pregnancy", "Pregnancy test timing", "How soon can I test"],
+    "keywords": ["pregnancy test", "timing", "late period", "hCG", "accuracy"],
+    "answer": "Take a pregnancy test on the first day of your missed period for the most accurate result. Testing earlier may give a false negative because hCG levels aren't high enough yet. If your cycles are irregular, wait at least 21 days after unprotected sex. Use first morning urine for best results. If negative but your period still doesn't come, retest in 3-7 days. Blood tests at a doctor's office can detect pregnancy even earlier.",
+    "follow_up": ["How late is your period?", "When did you last have unprotected sex?", "Have you tested already?"]
+  },
+  {
+    "id": 237,
+    "category": "period_delay",
+    "question": "Can I delay my period on purpose",
+    "alternate_questions": ["How to postpone period", "Delaying menstruation for event", "Can I skip my period", "Period delay methods", "Stopping period for vacation"],
+    "keywords": ["delay period", "postpone", "skip", "intentional", "event"],
+    "answer": "Yes, you can delay your period using hormonal birth control. If you're on the combined pill, you can skip the placebo week and start the next pack immediately. Some doctors prescribe norethisterone (a progesterone pill) to delay periods for special events. These methods should be discussed with a healthcare provider first. Natural methods like stress management or extreme exercise are not recommended and can be harmful.",
+    "follow_up": ["Why do you want to delay your period?", "Are you currently on birth control?", "Have you discussed this with a doctor?"]
+  },
+  {
+    "id": 238,
+    "category": "period_delay",
+    "question": "Why did my period come early after being late",
+    "alternate_questions": ["Late then early period", "Irregular timing", "Why is my cycle so unpredictable", "Period came after delay", "Erratic period timing"],
+    "keywords": ["unpredictable", "erratic", "early after late", "hormonal fluctuation", "stress"],
+    "answer": "Having a late period followed by an early one often indicates hormonal fluctuations, commonly caused by stress, lifestyle changes, or the aftermath of a previous cycle disruption. Your body may be trying to recalibrate. This pattern can also occur with perimenopause, thyroid issues, or PCOS. If this happens occasionally, it's usually not concerning. If it becomes a pattern over 3+ months, consult a healthcare provider.",
+    "follow_up": ["How often does this happen?", "What was happening in your life during the delay?", "Are your cycles usually regular?"]
+  },
+  {
+    "id": 239,
+    "category": "period_delay",
+    "question": "Can emotional trauma delay my period",
+    "alternate_questions": ["Trauma and missed period", "Grief affecting menstruation", "Bereavement and period delay", "Emotional shock no period", "Psychological stress period"],
+    "keywords": ["trauma", "grief", "emotional shock", "delay", "psychological"],
+    "answer": "Yes, significant emotional trauma, grief, or shock can delay or stop your period. The brain-ovary connection is sensitive to emotional states. Severe stress triggers cortisol release, which can suppress reproductive hormones. This is a protective mechanism. Your period usually returns once you've processed the trauma or as your emotional state stabilizes. If your period hasn't returned after 2-3 months, see a healthcare provider.",
+    "follow_up": ["What emotional event occurred?", "How are you coping?", "Have you sought emotional support?"]
+  },
+  {
+    "id": 240,
+    "category": "period_delay",
+    "question": "Can diet changes delay my period",
+    "alternate_questions": ["New diet late period", "Vegan diet and period", "Keto diet missed period", "Fasting and menstruation", "Diet affecting cycle"],
+    "keywords": ["diet", "nutrition", "fasting", "vegan", "keto", "delay"],
+    "answer": "Yes, significant diet changes can delay your period. Very low-calorie diets, extreme fasting, or sudden elimination of food groups can cause nutritional deficiencies that affect hormones. Vegan diets may lack B12 and iron if not well-planned. Keto diets sometimes cause initial cycle disruption. Your body needs adequate calories, protein, and healthy fats to maintain regular cycles. Gradual dietary changes and proper nutrition help prevent delays.",
+    "follow_up": ["What diet changes did you make?", "Are you getting enough calories?", "Are you taking supplements?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 441,
+    "category": "hygiene",
+    "question": "How should I maintain hygiene during my period?",
+    "alternate_questions": ["Period hygiene tips", "Staying clean during menstruation", "Vaginal care during my period"],
+    "keywords": ["hygiene", "clean", "period", "wash", "care"],
+    "answer": "Maintain hygiene by changing your pads or tampons every 4-8 hours, washing your external genital area with mild, unscented soap and water, and wearing breathable cotton underwear.",
+    "follow_up": ["How often to change pads?", "Is douching safe?", "Best soap for vaginal area?"]
+  },
+  {
+    "id": 442,
+    "category": "hygiene",
+    "question": "Is douching safe during my period?",
+    "alternate_questions": ["Should I douche to stay clean?", "Vaginal douching risks", "Cleaning inside the vagina"],
+    "keywords": ["douching", "clean", "inside", "safe", "vagina"],
+    "answer": "No, douching is not recommended. Your vagina is self-cleaning, and douching can disrupt the natural balance of bacteria and yeast, potentially leading to infections like BV or yeast infections.",
+    "follow_up": ["How does the vagina clean itself?", "What are signs of an infection?", "How to wash externally?"]
+  },
+  {
+    "id": 443,
+    "category": "hygiene",
+    "question": "What is the best type of underwear for my period?",
+    "alternate_questions": ["Should I wear cotton underwear?", "Best fabrics for menstruation", "Breathable underwear for period hygiene"],
+    "keywords": ["underwear", "cotton", "fabric", "hygiene", "breathable"],
+    "answer": "Cotton underwear is best because it's breathable and helps prevent moisture buildup, which can reduce the risk of irritation and infections.",
+    "follow_up": ["Can synthetic fabrics cause irritation?", "How often to change underwear during period?", "What is period underwear?"]
+  },
+  {
+    "id": 444,
+    "category": "hygiene",
+    "question": "How do I avoid odors during my period?",
+    "alternate_questions": ["Dealing with period smell", "Preventing menstrual odor", "Is period odor normal?"],
+    "keywords": ["odor", "smell", "hygiene", "period", "fresh"],
+    "answer": "Mild odor is normal. To minimize it, change your menstrual products regularly, wash the external area daily with water, and avoid scented products which can cause irritation.",
+    "follow_up": ["When is odor a sign of infection?", "Are scented pads okay?", "How to stay fresh during my cycle?"]
+  },
+  {
+    "id": 445,
+    "category": "hygiene",
+    "question": "How often should I wash during my period?",
+    "alternate_questions": ["Showering during menstruation", "Daily washing on my period", "Cleaning the genital area during cycle"],
+    "keywords": ["wash", "shower", "clean", "period", "frequency"],
+    "answer": "Washing the external genital area once or twice a day with warm water is sufficient. You don't need to wash every time you change your pad or tampon unless you feel the need to.",
+    "follow_up": ["Should I use soap every time?", "Is a bidet good for period hygiene?", "Can I take a bath on my period?"]
+  }
+]

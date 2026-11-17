@@ -1,0 +1,452 @@
+[
+  {
+    "id": 2001,
+    "category": "mental_health",
+    "question": "What is mental health",
+    "alternate_questions": ["Define mental health", "Mental wellness meaning", "What does mental health mean", "Mental health basics", "Understanding mental health"],
+    "keywords": ["mental health", "wellness", "definition", "basics", "understanding", "wellbeing"],
+    "answer": "Mental health refers to your emotional, psychological, and social wellbeing. It affects how you think, feel, act, handle stress, relate to others, and make choices. Good mental health doesn't mean being happy all the time - it means having the resilience to cope with life's challenges, maintaining fulfilling relationships, and functioning effectively in daily life. Mental health exists on a spectrum and can change over time. Factors affecting mental health include biology, life experiences, family history, and hormones. Your menstrual cycle, pregnancy, and menopause can all impact mental health due to hormonal fluctuations. Taking care of your mental health is just as important as physical health. Seeking help is a sign of strength, not weakness.",
+    "follow_up": ["How would you describe your current mental health?", "Are you experiencing any specific challenges?", "Do you have support systems?", "Have you considered speaking with a professional?"]
+  },
+  {
+    "id": 2002,
+    "category": "mental_health",
+    "question": "How does the menstrual cycle affect mental health",
+    "alternate_questions": ["Period mental health", "Hormones mood cycle", "Menstruation depression", "Cycle anxiety", "PMS mental health impact"],
+    "keywords": ["menstrual cycle", "mental health", "hormones", "mood", "PMS", "anxiety", "depression"],
+    "answer": "The menstrual cycle significantly affects mental health through hormonal fluctuations. Estrogen and progesterone influence neurotransmitters like serotonin, dopamine, and GABA that regulate mood. During the follicular phase (after period), rising estrogen often improves mood and energy. Ovulation may boost confidence and sociability. The luteal phase (before period) can bring PMS symptoms: irritability, anxiety, sadness, and mood swings due to progesterone rise and subsequent drop. For 3-8% of women, this becomes PMDD - severe depression, anxiety, and irritability. Menstruation itself can bring relief or continued low mood. Tracking your cycle helps identify patterns. If symptoms severely impact life, seek help - treatments including SSRIs, hormonal therapy, and lifestyle changes are effective.",
+    "follow_up": ["Do you notice mental health changes across your cycle?", "Which phase is hardest for you?", "Are symptoms severe?", "Have you discussed this with a provider?"]
+  },
+  {
+    "id": 2003,
+    "category": "mental_health",
+    "question": "What is postpartum depression",
+    "alternate_questions": ["Postpartum depression symptoms", "Baby blues vs depression", "After birth depression", "PPD explained", "Postnatal depression"],
+    "keywords": ["postpartum depression", "PPD", "after birth", "baby blues", "postnatal", "new mother"],
+    "answer": "Postpartum depression (PPD) is a serious mental health condition affecting up to 1 in 7 women after childbirth. Unlike 'baby blues' (mild mood swings lasting 1-2 weeks), PPD lasts longer and severely impacts functioning. Symptoms include: persistent sadness, hopelessness, excessive crying, difficulty bonding with baby, withdrawal from family, appetite changes, sleep problems beyond normal newborn care, fatigue, worthlessness, guilt, anxiety, panic attacks, intrusive thoughts, and in severe cases, thoughts of harming yourself or baby. PPD can develop anytime in the first year. Risk factors include history of depression, lack of support, traumatic birth, and hormonal changes. PPD is not your fault and is treatable with therapy, medication, and support. Seek help immediately - you deserve care, and recovery is possible.",
+    "follow_up": ["Are you postpartum?", "How long have symptoms lasted?", "Are you having thoughts of self-harm?", "Do you have support at home?"]
+  },
+  {
+    "id": 2004,
+    "category": "mental_health",
+    "question": "What are signs of anxiety",
+    "alternate_questions": ["Anxiety symptoms", "Do I have anxiety", "Anxiety signs women", "Recognizing anxiety", "Anxiety disorder symptoms"],
+    "keywords": ["anxiety", "symptoms", "signs", "worry", "panic", "nervous", "disorder"],
+    "answer": "Anxiety involves more than everyday worry. Common signs include: excessive worry that's hard to control, restlessness or feeling on edge, irritability, muscle tension, fatigue, difficulty concentrating, sleep problems, racing thoughts, rapid heartbeat, sweating, trembling, shortness of breath, nausea, and avoidance of feared situations. In women, anxiety may show up as perfectionism, people-pleasing, overthinking, physical symptoms without medical cause, or difficulty saying no. Hormonal changes (PMS, pregnancy, menopause) can worsen anxiety. If anxiety interferes with work, relationships, or daily activities for more than 6 months, you may have generalized anxiety disorder. Other types include panic disorder, social anxiety, and phobias. Anxiety is treatable with therapy, medication, and lifestyle changes. You don't have to live with constant worry.",
+    "follow_up": ["What symptoms are you experiencing?", "How long have they lasted?", "Are they affecting daily life?", "Have you sought help before?"]
+  },
+  {
+    "id": 2005,
+    "category": "mental_health",
+    "question": "What is depression",
+    "alternate_questions": ["Depression symptoms", "Am I depressed", "Clinical depression signs", "Major depression", "Depression in women"],
+    "keywords": ["depression", "depressed", "symptoms", "sadness", "clinical", "major depression", "women"],
+    "answer": "Depression is a serious mental health condition affecting mood, thoughts, and daily functioning. Symptoms include: persistent sadness, emptiness, or hopelessness; loss of interest in activities once enjoyed; significant appetite or weight changes; sleep disturbances; fatigue or loss of energy; feelings of worthlessness or excessive guilt; difficulty concentrating; restlessness or slowed movements; and thoughts of death or suicide. In women, depression may present as irritability, physical complaints, or increased sensitivity. Hormonal factors (PMS, PMDD, postpartum, perimenopause) can trigger or worsen depression. Depression is not weakness or laziness - it's a medical condition involving brain chemistry, genetics, and life circumstances. It is treatable with therapy, medication, lifestyle changes, and support. If you have thoughts of self-harm, seek immediate help.",
+    "follow_up": ["How long have you felt this way?", "Are you having thoughts of self-harm?", "Is this affecting daily functioning?", "Do you have support?"]
+  },
+  {
+    "id": 2006,
+    "category": "mental_health",
+    "question": "When should I see a therapist",
+    "alternate_questions": ["Need therapy", "See a counselor", "When to get mental health help", "Therapist vs friend", "Professional mental health support"],
+    "keywords": ["therapist", "counselor", "professional help", "when", "therapy", "mental health support"],
+    "answer": "Consider seeing a therapist if you experience: persistent sadness, anxiety, or hopelessness lasting more than 2 weeks; difficulty functioning at work, school, or in relationships; significant sleep or appetite changes; withdrawal from activities and people; thoughts of self-harm or suicide; overwhelming grief; trauma symptoms; eating disorder behaviors; substance use as coping; or if you simply want support navigating life challenges. You don't need to be in crisis to benefit from therapy. Think of it as mental health maintenance, not just emergency care. Therapists provide objective, confidential support and evidence-based tools that friends cannot. If cost is a concern, look for sliding-scale clinics, university training centers, online therapy platforms, or community mental health centers. Taking the first step to seek help is courageous.",
+    "follow_up": ["What challenges are you facing?", "Have you considered therapy before?", "What barriers exist?", "Are you in immediate distress?"]
+  },
+  {
+    "id": 2007,
+    "category": "mental_health",
+    "question": "What is cognitive behavioral therapy",
+    "alternate_questions": ["CBT explained", "Cognitive therapy", "Behavioral therapy", "CBT for anxiety", "How does CBT work"],
+    "keywords": ["CBT", "cognitive behavioral therapy", "therapy type", "thoughts", "behaviors", "treatment"],
+    "answer": "Cognitive Behavioral Therapy (CBT) is a widely-used, evidence-based therapy that helps you identify and change negative thought patterns and behaviors. It operates on the principle that thoughts, feelings, and behaviors are interconnected. CBT teaches you to recognize distorted thinking (like catastrophizing, all-or-nothing thinking, or negative self-talk), challenge those thoughts with evidence, and replace them with more balanced perspectives. You'll also learn behavioral strategies like exposure, activity scheduling, and relaxation techniques. CBT is structured, goal-oriented, and typically shorter-term (12-20 sessions). It's effective for depression, anxiety, PMDD, PTSD, eating disorders, and more. CBT can be done individually or in groups, in-person or online. It equips you with practical skills you can use throughout life. Many people see significant improvement.",
+    "follow_up": ["Are you interested in trying CBT?", "What issues would you want to address?", "Do you prefer individual or group?", "Have you tried therapy before?"]
+  },
+  {
+    "id": 2008,
+    "category": "mental_health",
+    "question": "How to find a good therapist",
+    "alternate_questions": ["Choose therapist", "Find mental health provider", "Good therapist qualities", "Therapist search tips", "Mental health professional find"],
+    "keywords": ["find", "therapist", "choose", "mental health provider", "search", "tips", "qualifications"],
+    "answer": "Finding a good therapist involves several steps: 1) Identify your needs - anxiety, depression, trauma, relationship issues, PMDD, etc. 2) Check credentials - licensed psychologists, social workers, counselors, or psychiatrists. 3) Consider specialization - look for experience with your specific concerns. 4) Ask for referrals from your doctor, friends, or insurance. 5) Use directories: Psychology Today, TherapyDen, or Open Path for sliding scale. 6) Consider logistics - location, virtual options, cost, insurance coverage. 7) Schedule consultations - many offer brief phone calls to assess fit. 8) Trust your gut - you should feel safe, heard, and respected. 9) Ask about their approach - CBT, psychodynamic, EMDR, etc. 10) Give it 3-4 sessions before deciding. A good therapist is collaborative, non-judgmental, and helps you feel empowered. Don't settle for a poor fit.",
+    "follow_up": ["What are you looking for help with?", "Do you have insurance?", "Do you prefer in-person or virtual?", "What qualities matter most to you?"]
+  },
+  {
+    "id": 2009,
+    "category": "mental_health",
+    "question": "What are antidepressants",
+    "alternate_questions": ["Antidepressant medications", "SSRIs explained", "Depression medication", "Antidepressants work how", "Mental health medication"],
+    "keywords": ["antidepressants", "SSRIs", "medication", "depression", "anxiety", "treatment", "prescription"],
+    "answer": "Antidepressants are medications that treat depression, anxiety, and related conditions by affecting brain chemicals (neurotransmitters) like serotonin, norepinephrine, and dopamine. Common types include: SSRIs (sertraline, fluoxetine, escitalopram) - most commonly prescribed, increase serotonin. SNRIs (venlafaxine, duloxetine) - affect serotonin and norepinephrine. Tricyclics and MAOIs - older classes with more side effects. Atypical antidepressants - work differently. Antidepressants are not addictive but may cause withdrawal if stopped suddenly. They typically take 4-6 weeks to show full effect. Side effects may include nausea, weight changes, sexual dysfunction, or sleep changes - often temporary. For PMDD, SSRIs can be taken only during the luteal phase. Medication works best combined with therapy. Work closely with a prescriber to find the right medication and dose.",
+    "follow_up": ["Are you considering medication?", "Have you tried antidepressants before?", "What are your concerns?", "Are you working with a psychiatrist?"]
+  },
+  {
+    "id": 2010,
+    "category": "mental_health",
+    "question": "What is perinatal mental health",
+    "alternate_questions": ["Pregnancy mental health", "Mental health during pregnancy", "Antenatal depression", "Prenatal anxiety", "Mental health motherhood"],
+    "keywords": ["perinatal", "pregnancy", "mental health", "antenatal", "prenatal", "motherhood", "depression"],
+    "answer": "Perinatal mental health refers to mental health during pregnancy and the first year after birth. It's a vulnerable time due to hormonal changes, physical demands, sleep deprivation, identity shifts, and stress. Conditions include: antenatal depression/anxiety (during pregnancy), postpartum depression, postpartum anxiety, postpartum OCD, postpartum PTSD (after traumatic birth), and postpartum psychosis (rare but emergency). Up to 1 in 5 women experience perinatal mood disorders. Symptoms may be dismissed as 'normal' pregnancy or new mom stress, but they are treatable medical conditions. Risk factors include history of mental illness, lack of support, traumatic birth, and hormonal sensitivity. Treatment includes therapy, safe medications, support groups, and practical help. Seeking help is crucial for both mother and baby's wellbeing.",
+    "follow_up": ["Are you pregnant or postpartum?", "What symptoms are you experiencing?", "Do you have support?", "How long have symptoms lasted?"]
+  },
+  {
+    "id": 2011,
+    "category": "mental_health",
+    "question": "What is body dysmorphia",
+    "alternate_questions": ["Body dysmorphic disorder", "BDD symptoms", "Hate my appearance", "Obsessed with flaws", "Body image disorder"],
+    "keywords": ["body dysmorphia", "BDD", "appearance", "flaws", "obsession", "body image", "disorder"],
+    "answer": "Body Dysmorphic Disorder (BDD) is a mental health condition where you obsess over perceived flaws in your appearance that are minor or unnoticeable to others. You may spend hours checking mirrors, seeking reassurance, comparing yourself to others, or avoiding mirrors entirely. BDD causes significant distress and interferes with daily life. It's not vanity - it's a serious condition related to OCD. BDD often develops in adolescence and affects men and women. It can lead to depression, social isolation, and suicidal thoughts. Treatment includes CBT and SSRIs. BDD is different from normal insecurity - the preoccupation is excessive and causes major life impairment. If you spend hours daily worrying about your appearance, avoid social situations, or have considered cosmetic procedures to fix perceived flaws, seek professional evaluation.",
+    "follow_up": ["How much time do you spend on appearance concerns?", "Do others see the flaws you see?", "Is this affecting daily life?", "Have you sought help?"]
+  },
+  {
+    "id": 2012,
+    "category": "mental_health",
+    "question": "What is eating disorder",
+    "alternate_questions": ["Anorexia bulimia", "Eating disorder types", "Disordered eating", "Food obsession", "Eating disorder symptoms"],
+    "keywords": ["eating disorder", "anorexia", "bulimia", "binge eating", "disordered eating", "food", "body"],
+    "answer": "Eating disorders are serious mental health conditions involving disturbed eating behaviors and distress about body weight or shape. Main types include: Anorexia Nervosa - restriction, fear of weight gain, distorted body image, dangerous weight loss. Bulimia Nervosa - binge eating followed by purging (vomiting, laxatives, excessive exercise). Binge Eating Disorder - recurrent binge eating without purging, causing distress. Other types include ARFID (avoidant/restrictive) and OSFED (other specified). Eating disorders affect physical health (heart, bones, hormones, fertility) and mental health. They have the highest mortality rate of any mental illness. Causes include genetics, trauma, perfectionism, and societal pressures. Treatment involves therapy, medical monitoring, and nutritional rehabilitation. Recovery is possible with professional help. If you struggle with food or body image, please reach out - you deserve support and healing.",
+    "follow_up": ["What eating behaviors concern you?", "How long has this been happening?", "Are you experiencing physical symptoms?", "Have you told anyone?"]
+  },
+  {
+    "id": 2013,
+    "category": "mental_health",
+    "question": "What is trauma",
+    "alternate_questions": ["Define trauma", "Trauma symptoms", "PTSD explained", "Traumatic experience", "Emotional trauma"],
+    "keywords": ["trauma", "PTSD", "traumatic", "experience", "symptoms", "emotional", "psychological"],
+    "answer": "Trauma is an emotional response to a distressing or life-threatening event that overwhelms your ability to cope. Traumatic events include: abuse (physical, sexual, emotional), assault, accidents, natural disasters, war, medical trauma, sudden loss, or witnessing violence. Trauma affects the nervous system, causing the body to remain in a state of hypervigilance. Symptoms include: flashbacks, nightmares, intrusive memories, avoidance of reminders, negative mood changes, hypervigilance, exaggerated startle response, emotional numbness, and difficulty concentrating. PTSD develops when symptoms persist for over a month and impair functioning. Complex PTSD results from prolonged or repeated trauma. Trauma is not about weakness - it's about how the nervous system processes overwhelming experiences. Healing involves safety, processing, and integrating the experience. Trauma-informed therapy (EMDR, somatic therapy, CBT) can help.",
+    "follow_up": ["Have you experienced trauma?", "Are you having flashbacks or nightmares?", "Is this affecting daily life?", "Are you in a safe environment now?"]
+  },
+  {
+    "id": 2014,
+    "category": "mental_health",
+    "question": "What is self harm",
+    "alternate_questions": ["Cutting myself", "Self injury", "Self harm reasons", "Why self harm", "Self harm help"],
+    "keywords": ["self harm", "self injury", "cutting", "burning", "self destructive", "coping", "help"],
+    "answer": "Self-harm is intentionally hurting your body as a way to cope with emotional pain, stress, or overwhelming feelings. Common methods include cutting, burning, hitting, or scratching. Self-harm is not a suicide attempt, though it indicates significant distress and increases suicide risk. People self-harm to: release tension, feel something when numb, punish themselves, express pain, or regain control. It's a maladaptive coping mechanism that provides temporary relief but causes more harm. Self-harm is often hidden due to shame. If you self-harm, you are not attention-seeking or crazy - you are struggling and need support. Help includes: therapy (DBT is particularly effective), finding healthier coping strategies (ice, rubber bands, exercise, art), addressing underlying issues, and building a support network. Reach out to a trusted person or professional. You deserve help, not judgment.",
+    "follow_up": ["Are you currently self-harming?", "What triggers the urge?", "Do you have someone you can talk to?", "Are you having thoughts of suicide?"]
+  },
+  {
+    "id": 2015,
+    "category": "mental_health",
+    "question": "What are panic attacks",
+    "alternate_questions": ["Panic attack symptoms", "Anxiety attack", "Panic disorder", "Sudden fear", "Panic attack help"],
+    "keywords": ["panic attack", "panic disorder", "sudden fear", "anxiety attack", "symptoms", "help"],
+    "answer": "A panic attack is a sudden episode of intense fear that triggers severe physical reactions without actual danger. Symptoms peak within minutes and include: racing heartbeat, chest pain, shortness of breath, dizziness, trembling, sweating, nausea, feeling of choking, derealization (feeling unreal), depersonalization (feeling detached), fear of losing control, and fear of dying. Panic attacks are terrifying but not life-threatening. They can occur unexpectedly or in response to triggers. If you have recurrent panic attacks and worry about future attacks, you may have panic disorder. Panic attacks can mimic heart attacks - if unsure, seek emergency care. Management includes: deep breathing, grounding techniques (5-4-3-2-1 method), CBT, and medication. Learning that panic attacks are uncomfortable but not dangerous is key to recovery.",
+    "follow_up": ["Have you had a panic attack?", "What symptoms did you experience?", "How often do they occur?", "Do you avoid places due to fear of attacks?"]
+  },
+  {
+    "id": 2016,
+    "category": "mental_health",
+    "question": "What is bipolar disorder",
+    "alternate_questions": ["Bipolar symptoms", "Manic depression", "Bipolar 1 vs 2", "Mood swings bipolar", "Bipolar disorder women"],
+    "keywords": ["bipolar disorder", "manic depression", "mania", "depression", "mood swings", "women"],
+    "answer": "Bipolar disorder is a mental health condition causing extreme mood swings between emotional highs (mania or hypomania) and lows (depression). Bipolar I involves full manic episodes (at least 1 week of elevated, expansive, or irritable mood with increased energy, reduced need for sleep, racing thoughts, impulsivity, risky behavior). Bipolar II involves hypomania (less severe) and major depression. Cyclothymic disorder involves milder mood swings. In women, bipolar may be misdiagnosed as depression or PMDD because mood shifts can align with menstrual cycles. Hormonal changes (pregnancy, postpartum, menopause) can trigger or worsen episodes. Bipolar requires lifelong management with mood stabilizers, therapy, and lifestyle regulation. It's not just moodiness - it's a serious medical condition. Accurate diagnosis and treatment are essential for stability and wellbeing.",
+    "follow_up": ["Are you experiencing extreme mood swings?", "Do you have periods of very high energy?", "Have you been diagnosed?", "Is there family history?"]
+  },
+  {
+    "id": 2017,
+    "category": "mental_health",
+    "question": "What is OCD",
+    "alternate_questions": ["Obsessive compulsive disorder", "OCD symptoms", "Intrusive thoughts", "Compulsions", "OCD in women"],
+    "keywords": ["OCD", "obsessive compulsive", "intrusive thoughts", "compulsions", "obsessions", "anxiety"],
+    "answer": "Obsessive-Compulsive Disorder (OCD) involves unwanted, intrusive thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) performed to reduce anxiety. Obsessions may include: fear of contamination, harm coming to loved ones, religious doubts, or unwanted violent or sexual thoughts. Compulsions include: excessive hand washing, checking, counting, arranging, or mental rituals. People with OCD know these thoughts and behaviors are irrational but feel unable to stop. OCD causes significant distress and time consumption. In women, OCD may worsen during hormonal shifts (PMS, pregnancy, postpartum). Postpartum OCD specifically involves intrusive thoughts about harming the baby - these are terrifying but do not mean you will act on them. Treatment includes Exposure and Response Prevention (ERP) therapy and SSRIs. OCD is treatable, though managing it is ongoing.",
+    "follow_up": ["What obsessions or compulsions do you have?", "How much time do they take?", "Do they interfere with daily life?", "Have you sought treatment?"]
+  },
+  {
+    "id": 2018,
+    "category": "mental_health",
+    "question": "What is burnout",
+    "alternate_questions": ["Work burnout", "Emotional exhaustion", "Burnout symptoms", "Overwhelmed stress", "Burnout vs depression"],
+    "keywords": ["burnout", "exhaustion", "work", "stress", "overwhelmed", "emotional", "depletion"],
+    "answer": "Burnout is a state of emotional, physical, and mental exhaustion caused by prolonged stress, often work-related but also from caregiving or other demands. Symptoms include: overwhelming exhaustion, cynicism or detachment from work/activities, reduced sense of accomplishment, irritability, difficulty concentrating, physical symptoms (headaches, stomach issues), insomnia, and using food/alcohol to cope. Burnout differs from depression in being situation-specific and improving with rest and boundary-setting, though severe burnout can lead to depression. Women are at higher risk due to juggling multiple roles. Recovery requires: identifying causes, setting boundaries, delegating, taking real breaks, reconnecting with meaning, and sometimes changing your situation. Burnout is not laziness - it's your body's signal that something needs to change. Rest is productive.",
+    "follow_up": ["What demands are overwhelming you?", "Are you able to take breaks?", "Is this work-related or broader?", "Have you considered changes?"]
+  },
+  {
+    "id": 2019,
+    "category": "mental_health",
+    "question": "What is imposter syndrome",
+    "alternate_questions": ["Feel like a fraud", "Imposter syndrome women", "Not good enough", "Faking it", "Imposter phenomenon"],
+    "keywords": ["imposter syndrome", "fraud", "not good enough", "inadequacy", "self doubt", "achievement"],
+    "answer": "Imposter syndrome is the persistent belief that you're not as competent as others perceive you, despite evidence of success. You feel like a fraud who will be 'found out.' Common thoughts: 'I got lucky,' 'They'll realize I don't belong here,' 'I don't deserve this.' It affects high-achieving people across genders but is particularly common among women and minorities in male-dominated fields. Causes include perfectionism, family expectations, new roles, and systemic bias. Imposter syndrome can lead to overworking, procrastination, anxiety, and burnout. Strategies to overcome it: recognize it's common, separate feelings from facts, track achievements, stop comparing, talk about it, accept compliments, and reframe failure as learning. You are not an imposter - you earned your place. Your achievements are real and valid.",
+    "follow_up": ["In what areas do you feel like an imposter?", "What evidence contradicts this feeling?", "How does this affect your behavior?", "Have you talked about this?"]
+  },
+  {
+    "id": 2020,
+    "category": "mental_health",
+    "question": "What is seasonal affective disorder",
+    "alternate_questions": ["SAD depression", "Winter depression", "Seasonal mood changes", "SAD symptoms", "Seasonal affective disorder women"],
+    "keywords": ["seasonal affective disorder", "SAD", "winter depression", "seasonal", "mood", "light"],
+    "answer": "Seasonal Affective Disorder (SAD) is depression that occurs at specific times of year, usually fall and winter when daylight decreases. Symptoms include: low energy, oversleeping, overeating (especially carbs), weight gain, social withdrawal, sadness, and loss of interest. Less commonly, some experience summer SAD with anxiety and insomnia. SAD is linked to reduced sunlight affecting circadian rhythms and serotonin levels. It's more common in women, young adults, and those living far from the equator. Treatment includes: light therapy (10,000 lux light box for 20-30 minutes daily), psychotherapy, vitamin D supplementation, and antidepressants. Lifestyle changes like morning walks, keeping curtains open, and maintaining social connections help. If you dread winter every year, you may have SAD - it's treatable, not just 'winter blues.'",
+    "follow_up": ["Do symptoms follow a seasonal pattern?", "Which season is hardest?", "Have you tried light therapy?", "How severe are symptoms?"]
+  },
+  {
+    "id": 2021,
+    "category": "mental_health",
+    "question": "How to practice self compassion",
+    "alternate_questions": ["Be kind to yourself", "Self compassion exercises", "Stop self criticism", "Self kindness", "Self compassion therapy"],
+    "keywords": ["self compassion", "kindness", "self criticism", "gentleness", "exercises", "practice"],
+    "answer": "Self-compassion means treating yourself with the same kindness you'd offer a good friend. It involves three elements: 1) Self-kindness vs self-judgment - speak gently to yourself, especially during failure or suffering. 2) Common humanity vs isolation - recognize that struggle is part of being human, you're not alone. 3) Mindfulness vs over-identification - acknowledge pain without being consumed by it. Practices include: writing a letter to yourself as a caring friend, placing a hand on your heart during distress, using compassionate self-talk ('This is hard, I'm doing my best'), and meditation focused on sending kindness inward. Self-compassion isn't self-indulgence or lowering standards - it's creating a supportive internal environment for growth. Research shows self-compassion reduces anxiety, depression, and stress while improving resilience and motivation.",
+    "follow_up": ["How do you currently treat yourself?", "Is your inner voice harsh or kind?", "What situations trigger self-criticism?", "Would you like specific exercises?"]
+  },
+  {
+    "id": 2022,
+    "category": "mental_health",
+    "question": "What is gaslighting",
+    "alternate_questions": ["Gaslighting meaning", "Emotional manipulation", "Gaslighting abuse", "Am I being gaslit", "Gaslighting signs"],
+    "keywords": ["gaslighting", "manipulation", "abuse", "reality", "doubt", "emotional", "control"],
+    "answer": "Gaslighting is a form of psychological manipulation where someone makes you doubt your own perceptions, memories, or sanity. The term comes from a 1944 film where a husband manipulates his wife by dimming gaslights and denying it. Signs include: denying things you know happened, dismissing your feelings as 'crazy' or 'too sensitive,' twisting your words, isolating you from others, making you apologize for their behavior, and causing you to constantly second-guess yourself. Gaslighting is common in abusive relationships but can occur in families, workplaces, and friendships. It erodes self-trust and mental health. If you experience gaslighting: document events, trust your gut, seek outside perspectives, set boundaries, and consider leaving the relationship. Therapy can help rebuild self-trust. You are not crazy - your perceptions are valid.",
+    "follow_up": ["Are you experiencing gaslighting?", "Who is doing this?", "Do you have outside support?", "Are you safe?"]
+  },
+  {
+    "id": 2023,
+    "category": "mental_health",
+    "question": "What is toxic positivity",
+    "alternate_questions": ["Toxic positivity meaning", "Good vibes only harmful", "Invalidating emotions", "Positive thinking toxic", "Suppressing feelings"],
+    "keywords": ["toxic positivity", "positivity", "invalidating", "suppressing", "emotions", "harmful", "good vibes"],
+    "answer": "Toxic positivity is the excessive and ineffective overgeneralization of a happy, optimistic state across all situations. It involves dismissing genuine emotional experiences with phrases like 'just think positive,' 'good vibes only,' 'everything happens for a reason,' or 'others have it worse.' While positivity can be helpful, toxic positivity: invalidates real suffering, suppresses authentic emotions, creates shame for feeling bad, prevents necessary processing, and isolates people in pain. It's particularly harmful when directed at those grieving, depressed, or traumatized. Healthy emotional processing involves allowing all feelings - positive and negative - without judgment. Better responses: 'This is really hard,' 'I'm here for you,' 'Your feelings make sense,' 'What do you need?' Emotions are information, not problems to fix. You don't have to be positive all the time to be worthy.",
+    "follow_up": ["Has someone used toxic positivity on you?", "Do you suppress your own emotions?", "What would real support look like?", "How do you process difficult feelings?"]
+  },
+  {
+    "id": 2024,
+    "category": "mental_health",
+    "question": "What is emotional regulation",
+    "alternate_questions": ["Regulate emotions", "Emotional control", "Manage feelings", "Emotional regulation skills", "DBT emotions"],
+    "keywords": ["emotional regulation", "regulate", "manage", "control", "feelings", "skills", "DBT"],
+    "answer": "Emotional regulation is the ability to manage and respond to emotional experiences in healthy ways. It doesn't mean suppressing emotions but rather understanding, accepting, and expressing them appropriately. Skills include: 1) Identifying and naming emotions accurately. 2) Understanding triggers and patterns. 3) Using distress tolerance techniques (TIPP: Temperature, Intense exercise, Paced breathing, Paired muscle relaxation). 4) Opposite action - doing the opposite of what the emotion urges when it's unhelpful. 5) Checking the facts - is your emotion proportional to the situation? 6) Self-soothing through senses. 7) Mindfulness - observing emotions without judgment. 8) Problem-solving when emotions signal real issues. Poor emotional regulation is common in ADHD, trauma, mood disorders, and during hormonal fluctuations. DBT (Dialectical Behavior Therapy) specifically teaches these skills. With practice, emotional regulation improves.",
+    "follow_up": ["Do you struggle with intense emotions?", "What triggers emotional overwhelm?", "Have you learned regulation skills?", "Are you interested in DBT?"]
+  },
+  {
+    "id": 2025,
+    "category": "mental_health",
+    "question": "What is attachment style",
+    "alternate_questions": ["Attachment theory", "Anxious attachment", "Avoidant attachment", "Secure attachment", "Attachment relationships"],
+    "keywords": ["attachment", "attachment style", "anxious", "avoidant", "secure", "relationships", "theory"],
+    "answer": "Attachment styles describe patterns of relating in relationships based on early caregiver experiences. Secure attachment: comfortable with intimacy and independence, trusts others, communicates needs well. Anxious-preoccupied: fears abandonment, seeks constant reassurance, may be clingy or jealous. Avoidant-dismissive: values independence, uncomfortable with closeness, suppresses needs, emotionally distant. Fearful-avoidant (disorganized): desires closeness but fears it, inconsistent, often from trauma. Your attachment style affects romantic relationships, friendships, and how you handle conflict. It's not destiny - styles can shift with self-awareness and secure relationships. Hormonal changes and PMS may amplify attachment anxieties. Understanding your style helps you choose healthier partners and communicate needs. If you have insecure attachment, therapy can help develop more secure patterns. You can learn to love and be loved in healthy ways.",
+    "follow_up": ["Which attachment style resonates with you?", "How do you behave in relationships?", "Were early caregivers reliable?", "Would you like to work on attachment?"]
+  },
+  {
+    "id": 2026,
+    "category": "mental_health",
+    "question": "What is people pleasing",
+    "alternate_questions": ["People pleaser", "Can't say no", "Approval seeking", "Overcommitting", "People pleasing trauma"],
+    "keywords": ["people pleasing", "approval", "say no", "overcommit", "boundaries", "self worth"],
+    "answer": "People pleasing is the pattern of prioritizing others' needs and approval over your own, often at the expense of your wellbeing. Signs include: difficulty saying no, apologizing excessively, suppressing your opinions, overcommitting, feeling responsible for others' emotions, and resentment from unmet needs. It often stems from childhood experiences where love was conditional, trauma, low self-worth, or cultural expectations placed on women. People pleasing may seem kind but is actually a form of self-abandonment that leads to burnout, resentment, and lost identity. Recovery involves: recognizing the pattern, understanding its roots, practicing saying no in low-stakes situations, identifying your own needs, setting boundaries, and tolerating discomfort when others are disappointed. You are not responsible for managing others' emotions. Your needs matter as much as anyone's.",
+    "follow_up": ["Do you identify as a people pleaser?", "What happens when you say no?", "Where do you think this pattern comes from?", "Are you ready to set boundaries?"]
+  },
+  {
+    "id": 2027,
+    "category": "mental_health",
+    "question": "What is emotional labor",
+    "alternate_questions": ["Emotional labor meaning", "Managing others emotions", "Invisible work women", "Emotional burden", "Relationship labor"],
+    "keywords": ["emotional labor", "invisible work", "managing emotions", "burden", "women", "relationships"],
+    "answer": "Emotional labor is the unpaid, often invisible work of managing emotions and relationships. It includes: remembering birthdays and events, maintaining social connections, soothing others' feelings, managing household moods, performing cheerfulness, and anticipating others' needs. Women disproportionately perform emotional labor at home, work, and in society. This labor is exhausting because it's constant, undervalued, and unpaid. At work, it includes being expected to be nurturing, mediating conflicts, or doing office 'housework.' At home, it includes managing children's emotions, maintaining family harmony, and supporting partners. Recognizing emotional labor is the first step. Solutions include: naming the labor, delegating, refusing to manage others' emotions, and demanding equitable distribution. Your emotional energy is finite and valuable - protect it.",
+    "follow_up": ["Where do you perform emotional labor?", "Is it equally distributed?", "How does it affect your energy?", "Have you discussed this with others?"]
+  },
+  {
+    "id": 2028,
+    "category": "mental_health",
+    "question": "How to build resilience",
+    "alternate_questions": ["Become resilient", "Bounce back", "Resilience skills", "Mental toughness", "Overcome adversity"],
+    "keywords": ["resilience", "bounce back", "adversity", "coping", "strength", "recovery", "skills"],
+    "answer": "Resilience is the ability to adapt and recover from adversity, trauma, and stress. It's not about avoiding difficulties but navigating them effectively. Building resilience involves: 1) Developing strong relationships - social support is the strongest resilience factor. 2) Accepting change as part of life rather than resisting it. 3) Setting realistic goals and taking steps toward them. 4) Learning from past challenges - what helped before? 5) Maintaining hope and optimism while acknowledging reality. 6) Taking care of your physical health - sleep, nutrition, exercise. 7) Practicing self-compassion rather than self-criticism. 8) Finding meaning and purpose. 9) Developing problem-solving skills. 10) Seeking help when needed. Resilience is not innate - it's built through experience and intentional practice. You are likely more resilient than you realize. Every challenge you've overcome has strengthened you.",
+    "follow_up": ["What challenges have you overcome?", "What support systems do you have?", "Where do you want to build resilience?", "What coping strategies work for you?"]
+  },
+  {
+    "id": 2029,
+    "category": "mental_health",
+    "question": "What is mindfulness",
+    "alternate_questions": ["Mindfulness meditation", "Be present", "Mindfulness practice", "Mindful living", "Mindfulness benefits"],
+    "keywords": ["mindfulness", "present", "meditation", "awareness", "practice", "benefits", "stress"],
+    "answer": "Mindfulness is the practice of paying attention to the present moment with openness, curiosity, and without judgment. It involves observing your thoughts, feelings, bodily sensations, and surroundings rather than being caught in autopilot or rumination. Mindfulness can be practiced through formal meditation or informally during daily activities - eating, walking, showering. Benefits include: reduced stress and anxiety, improved focus, better emotional regulation, reduced rumination, lower blood pressure, and enhanced wellbeing. For menstrual health, mindfulness helps manage PMS emotions, period pain (through body awareness), and body image concerns. Start with just 5 minutes daily: focus on breath, notice when mind wanders, gently return attention. Apps like Headspace, Calm, and Insight Timer offer guided practices. Mindfulness is a skill that deepens with practice - be patient with yourself.",
+    "follow_up": ["Have you tried mindfulness?", "What appeals to you about it?", "Do you struggle with racing thoughts?", "Would you like beginner guidance?"]
+  },
+  {
+    "id": 2030,
+    "category": "mental_health",
+    "question": "What is inner child work",
+    "alternate_questions": ["Heal inner child", "Childhood wounds", "Inner child therapy", "Reparenting", "Childhood trauma healing"],
+    "keywords": ["inner child", "childhood", "healing", "wounds", "reparenting", "therapy", "past"],
+    "answer": "Inner child work is a therapeutic approach that addresses unmet childhood needs and heals emotional wounds from the past. The 'inner child' represents the child you once were - with their needs, fears, joys, and hurts. When childhood needs for safety, love, validation, or autonomy were unmet, those wounded parts remain active in adulthood, influencing reactions, relationships, and self-worth. Inner child work involves: recognizing when your wounded child is triggered, dialoguing with that part, providing the nurturing you needed, setting boundaries with internalized critical voices, and reparenting yourself with compassion. This work can be done in therapy or through journaling, visualization, and self-care. It's particularly helpful for those with childhood trauma, neglect, or emotional abuse. Healing your inner child allows you to respond to present situations as an adult rather than a wounded child.",
+    "follow_up": ["What was your childhood like?", "Do you notice childlike reactions in stress?", "Are you working with a therapist?", "What childhood needs feel unmet?"]
+  },
+  {
+    "id": 2031,
+    "category": "mental_health",
+    "question": "What is somatic therapy",
+    "alternate_questions": ["Somatic experiencing", "Body based therapy", "Somatic healing", "Trauma body", "Somatic symptoms"],
+    "keywords": ["somatic", "body", "therapy", "trauma", "healing", "physical", "sensations"],
+    "answer": "Somatic therapy is a body-centered approach to treating trauma and mental health issues. It recognizes that trauma is stored in the body, not just the mind, and uses physical awareness to release tension and process experiences. Techniques include: tracking bodily sensations, breathwork, movement, touch (with consent), grounding exercises, and pendulation (moving between tension and relaxation). Somatic Experiencing, developed by Peter Levine, specifically addresses trauma by completing defensive responses (fight/flight/freeze) that were interrupted. Sensorimotor Psychotherapy integrates body awareness with talk therapy. Somatic therapy is especially helpful for: PTSD, chronic pain, anxiety, dissociation, and when talk therapy alone hasn't worked. Your body holds wisdom that words cannot always access. By listening to your body's signals, you can release stored trauma and restore nervous system regulation.",
+    "follow_up": ["Do you feel disconnected from your body?", "Do you have physical symptoms without medical cause?", "Have you tried talk therapy?", "Are you interested in body-based approaches?"]
+  },
+  {
+    "id": 2032,
+    "category": "mental_health",
+    "question": "What is EMDR therapy",
+    "alternate_questions": ["EMDR explained", "Eye movement therapy", "EMDR trauma", "EMDR sessions", "Does EMDR work"],
+    "keywords": ["EMDR", "eye movement", "desensitization", "reprocessing", "trauma", "therapy"],
+    "answer": "EMDR (Eye Movement Desensitization and Reprocessing) is a structured therapy for trauma and PTSD. During sessions, you recall distressing memories while engaging in bilateral stimulation - typically following the therapist's finger movements with your eyes, though tapping or auditory tones may also be used. This bilateral stimulation appears to help the brain reprocess traumatic memories, reducing their emotional intensity and integrating them into normal memory networks. EMDR doesn't require detailed verbal processing of trauma, which can be helpful if talking is difficult. It's effective for: PTSD, single-incident trauma, complex trauma, anxiety, phobias, and grief. Sessions typically last 60-90 minutes. Some experience rapid improvement; others need more sessions. Side effects may include vivid dreams or temporary increased distress between sessions. EMDR should be done by a trained, certified therapist.",
+    "follow_up": ["Have you experienced trauma?", "Have you tried other therapies?", "Are you comfortable with eye movements?", "Do you have a trauma-informed therapist?"]
+  },
+  {
+    "id": 2033,
+    "category": "mental_health",
+    "question": "What is the window of tolerance",
+    "alternate_questions": ["Window tolerance explained", "Hyperarousal hypoarousal", "Nervous system regulation", "Emotional window", "Trauma window tolerance"],
+    "keywords": ["window of tolerance", "hyperarousal", "hypoarousal", "nervous system", "regulation", "trauma"],
+    "answer": "The window of tolerance, developed by Dan Siegel, describes the zone of arousal where you can function effectively. Within this window, you can process information, regulate emotions, and respond adaptively. When stressed or triggered, you may move outside this window into: Hyperarousal (fight/flight) - anxiety, panic, anger, racing thoughts, feeling overwhelmed. Hypoarousal (freeze/collapse) - numbness, dissociation, depression, shut-down, inability to act. Trauma often narrows the window, making it easier to get dysregulated. The goal of therapy is to widen your window of tolerance. Strategies include: grounding techniques, breathwork, somatic awareness, mindfulness, and gradual exposure to triggers. Understanding your window helps you recognize when you're dysregulated and use tools to return to balance. Your window can expand with healing and practice.",
+    "follow_up": ["Where do you usually operate?", "Do you experience hyperarousal or hypoarousal?", "What helps you regulate?", "Have you learned grounding techniques?"]
+  },
+  {
+    "id": 2034,
+    "category": "mental_health",
+    "question": "What is nervous system regulation",
+    "alternate_questions": ["Regulate nervous system", "Parasympathetic activation", "Calm nervous system", "Vagus nerve", "Nervous system healing"],
+    "keywords": ["nervous system", "regulation", "parasympathetic", "vagus nerve", "calm", "healing", "stress"],
+    "answer": "Nervous system regulation refers to balancing your autonomic nervous system between sympathetic activation (fight/flight) and parasympathetic rest (rest/digest). Chronic stress, trauma, and anxiety can keep you stuck in sympathetic overdrive or parasympathetic shutdown. Signs of dysregulation include: chronic tension, digestive issues, sleep problems, emotional reactivity, fatigue, and difficulty relaxing. Regulation techniques include: deep diaphragmatic breathing (especially extended exhales), cold water on face, humming or singing (stimulates vagus nerve), gentle movement, grounding exercises, social connection, and safe touch. The vagus nerve, running from brain to gut, is key to parasympathetic activation. Regular practice of regulation techniques widens your window of tolerance and builds resilience. Your nervous system can heal - it's designed to regulate when given the right conditions.",
+    "follow_up": ["Do you feel constantly activated or shut down?", "What physical symptoms do you notice?", "Have you tried regulation techniques?", "Would you like specific exercises?"]
+  },
+  {
+    "id": 2035,
+    "category": "mental_health",
+    "question": "What is dissociation",
+    "alternate_questions": ["Dissociation symptoms", "Feel unreal", "Out of body experience", "Dissociative disorder", "Zoning out dissociation"],
+    "keywords": ["dissociation", "unreal", "out of body", "disconnected", "zoning out", "depersonalization", "derealization"],
+    "answer": "Dissociation is a disconnection between your thoughts, memories, feelings, actions, or sense of identity. It's a protective mechanism that occurs when experiences are too overwhelming to process. Types include: depersonalization (feeling detached from yourself, like watching from outside), derealization (feeling the world is unreal or dreamlike), dissociative amnesia (gaps in memory), and identity alteration (distinct personality states in DID). Mild dissociation (daydreaming, highway hypnosis) is common. Pathological dissociation results from trauma, especially childhood abuse, and can significantly impair functioning. During PMS or stress, dissociation may increase. Grounding techniques help: 5-4-3-2-1 senses exercise, cold water, movement, naming objects, and strong tastes. If dissociation is frequent or distressing, seek trauma-informed therapy. You are not 'crazy' - dissociation is your brain's attempt to protect you, and healing is possible.",
+    "follow_up": ["Do you experience dissociation?", "What triggers it?", "How often does it happen?", "Do you have grounding strategies?"]
+  },
+  {
+    "id": 2036,
+    "category": "mental_health",
+    "question": "What is codependency",
+    "alternate_questions": ["Codependent relationship", "Lose myself relationship", "Codependency signs", "Enmeshment", "Codependency recovery"],
+    "keywords": ["codependency", "relationship", "enmeshment", "lose self", "dependent", "recovery", "boundaries"],
+    "answer": "Codependency is a pattern of excessive emotional reliance on others for self-worth, identity, and validation. Signs include: difficulty identifying your own feelings and needs, basing self-esteem on others' approval, excessive caretaking, difficulty saying no, fear of abandonment, controlling behaviors disguised as helping, neglecting your own needs, and staying in unhealthy relationships. Codependency often develops in families with addiction, mental illness, or dysfunction where you learned to prioritize others' needs to survive. It differs from healthy interdependence. Recovery involves: developing self-awareness, identifying your own needs and feelings, setting boundaries, building self-esteem independent of others, allowing others to experience consequences, and often therapy. Healthy relationships involve two whole people choosing connection, not two halves completing each other. You are complete on your own.",
+    "follow_up": ["Do you identify with codependency?", "What relationships feel enmeshed?", "Can you identify your own needs?", "Are you ready to prioritize yourself?"]
+  },
+  {
+    "id": 2037,
+    "category": "mental_health",
+    "question": "What is rejection sensitive dysphoria",
+    "alternate_questions": ["RSD explained", "Rejection sensitivity", "Fear of rejection", "RSD ADHD", "Rejection emotional pain"],
+    "keywords": ["rejection sensitive dysphoria", "RSD", "rejection", "sensitivity", "dysphoria", "ADHD", "emotional pain"],
+    "answer": "Rejection Sensitive Dysphoria (RSD) is intense emotional pain triggered by perceived or real rejection, criticism, or failure. It's not officially in the DSM but is recognized in ADHD and autism communities. People with RSD experience rejection as physically painful and may react with: sudden rage, overwhelming sadness, people-pleasing to avoid rejection, perfectionism, social withdrawal, or assuming others dislike them without evidence. RSD differs from normal sensitivity in its intensity and impact. It may be linked to dopamine dysregulation and early experiences of rejection. Management includes: medication (alpha-agonists, stimulants for ADHD), CBT to challenge rejection assumptions, self-compassion, and understanding that perceived rejection often isn't personal. If you have ADHD and intense emotional reactions to criticism, you may have RSD. Treatment can significantly improve quality of life.",
+    "follow_up": ["Do you have ADHD?", "How do you react to criticism?", "Is rejection physically painful for you?", "Have you discussed this with a provider?"]
+  },
+  {
+    "id": 2038,
+    "category": "mental_health",
+    "question": "What is emotional intelligence",
+    "alternate_questions": ["EQ explained", "Emotional intelligence skills", "Emotional awareness", "Emotional quotient", "Emotional intelligence women"],
+    "keywords": ["emotional intelligence", "EQ", "awareness", "skills", "emotions", "understanding", "social"],
+    "answer": "Emotional intelligence (EQ) is the ability to understand, use, and manage your own emotions in positive ways. It includes: 1) Self-awareness - recognizing your emotions and their effects. 2) Self-regulation - managing disruptive emotions and impulses. 3) Motivation - using emotions to pursue goals. 4) Empathy - understanding others' emotions. 5) Social skills - managing relationships and building networks. High EQ improves relationships, work performance, leadership, and mental health. Women are often socialized to be emotionally aware but may struggle with self-regulation if taught to prioritize others' feelings. EQ can be developed at any age through: mindfulness, journaling, seeking feedback, active listening, and reflecting on emotional experiences. In the context of your cycle, EQ helps you recognize hormone-influenced emotions without being controlled by them. Emotional intelligence is a skill, not a fixed trait.",
+    "follow_up": ["How would you rate your EQ?", "Which area needs development?", "Do emotions control you or inform you?", "Would you like to develop specific skills?"]
+  },
+  {
+    "id": 2039,
+    "category": "mental_health",
+    "question": "What is radical acceptance",
+    "alternate_questions": ["Accept what is", "Radical acceptance DBT", "Stop fighting reality", "Acceptance therapy", "Radical acceptance explained"],
+    "keywords": ["radical acceptance", "acceptance", "DBT", "reality", "surrender", "peace", "suffering"],
+    "answer": "Radical acceptance is a DBT skill meaning complete acceptance of reality as it is, without fighting against it. It doesn't mean approving of or liking the situation - it means acknowledging that fighting reality creates additional suffering. As Tara Brach says, 'Pain is inevitable, suffering is optional.' Radical acceptance involves: acknowledging the facts of the situation, recognizing that fighting reality doesn't change it, understanding that acceptance reduces suffering, and choosing to respond effectively rather than reactively. Examples: accepting a diagnosis so you can seek treatment, accepting a breakup so you can heal, accepting your body as it is. It's not resignation or passivity - it's the foundation for change. Practice by noticing when you're fighting reality ('This shouldn't be happening') and shifting to acceptance ('This is happening, now what?').",
+    "follow_up": ["What are you currently fighting?", "How does resistance create suffering?", "What would acceptance look like?", "Are you ready to practice this?"]
+  },
+  {
+    "id": 2040,
+    "category": "mental_health",
+    "question": "What is languishing",
+    "alternate_questions": ["Languishing meaning", "Not thriving", "Empty mental health", "Languishing vs depression", "Stuck mental health"],
+    "keywords": ["languishing", "empty", "stuck", "not thriving", "mental health", "void", "blah"],
+    "answer": "Languishing is a state of emptiness, stagnation, and muffled wellbeing - not depressed, but not thriving either. You function adequately but feel joyless, aimless, and disconnected. The term gained attention during the COVID-19 pandemic but describes a common experience. Signs include: lack of motivation, difficulty concentrating, feeling 'blah,' going through motions without engagement, and absence of forward momentum. Languishing differs from depression in that you can function and don't have severe sadness, but you're not flourishing either. It's a risk factor for depression and anxiety. Counter languishing by: setting small goals, finding flow activities, connecting deeply with others, practicing gratitude, serving others, and creating meaning. Naming languishing is the first step - it validates that something is wrong even if you can't identify what. You deserve more than mere existence.",
+    "follow_up": ["Do you feel like you're languishing?", "When did this start?", "What used to bring you joy?", "Are you ready to make changes?"]
+  },
+  {
+    "id": 2041,
+    "category": "mental_health",
+    "question": "What is emotional flooding",
+    "alternate_questions": ["Flooded emotions", "Overwhelmed feelings", "Emotional overwhelm", "Can't think when upset", "Flooding conflict"],
+    "keywords": ["emotional flooding", "overwhelm", "flooded", "conflict", "thinking", "shutdown", "emotions"],
+    "answer": "Emotional flooding occurs when intense emotions overwhelm your capacity to think clearly or respond rationally. Your nervous system perceives threat, activating fight/flight/freeze and shutting down the prefrontal cortex (rational thinking). Signs include: racing heart, inability to hear the other person, tunnel vision, raised voice or shutdown, and saying things you regret. Flooding commonly occurs during conflict but can happen with any intense emotion. When flooded, you cannot process information or communicate effectively. The solution: recognize flooding early, call a timeout (20 minutes minimum for physiological recovery), use self-soothing techniques, and return to the conversation when regulated. In relationships, agree on a 'pause' signal beforehand. Understanding your flooding triggers and early warning signs prevents destructive interactions. It's not about suppressing emotions but managing their intensity.",
+    "follow_up": ["Do you experience emotional flooding?", "What triggers it?", "Can you recognize early signs?", "Do you have a timeout strategy?"]
+  },
+  {
+    "id": 2042,
+    "category": "mental_health",
+    "question": "What is the spotlight effect",
+    "alternate_questions": ["Everyone watching me", "Spotlight effect psychology", "Self consciousness", "People noticing me", "Spotlight social anxiety"],
+    "keywords": ["spotlight effect", "self consciousness", "watching", "noticing", "social anxiety", "attention"],
+    "answer": "The spotlight effect is the tendency to overestimate how much others notice your appearance or behavior. You feel like a spotlight is shining on your flaws, mistakes, or awkward moments, when in reality most people are focused on themselves. Studies show people notice others far less than assumed. This effect fuels social anxiety, body image concerns, and self-consciousness. It's particularly strong during adolescence and may worsen during PMS when self-criticism increases. Counter the spotlight effect by: remembering others are self-focused, asking if you'd notice the same thing on someone else, challenging catastrophic thinking, and gradually exposing yourself to feared social situations. Most people are too busy worrying about their own spotlight to scrutinize yours. Your perceived flaws are usually invisible or quickly forgotten by others.",
+    "follow_up": ["Do you feel like everyone is watching?", "What are you self-conscious about?", "Would you notice this on others?", "Does this affect your behavior?"]
+  },
+  {
+    "id": 2043,
+    "category": "mental_health",
+    "question": "What is catastrophizing",
+    "alternate_questions": ["Worst case scenario", "Catastrophizing anxiety", "Always expect disaster", "Catastrophic thinking", "Catastrophizing CBT"],
+    "keywords": ["catastrophizing", "worst case", "disaster", "thinking error", "anxiety", "CBT", "cognitive distortion"],
+    "answer": "Catastrophizing is a cognitive distortion where you automatically assume the worst possible outcome will happen. Minor setbacks become disasters: a headache becomes a brain tumor, a disagreement becomes a breakup, a mistake becomes job loss. This thinking pattern increases anxiety and can become self-fulfilling. Catastrophizing often stems from anxiety, trauma, or learned behavior. Challenge it by: 1) Noticing when you catastrophize. 2) Asking 'What is the actual probability?' 3) Considering best-case and most-likely scenarios, not just worst-case. 4) Asking 'Will this matter in a year?' 5) Examining evidence for and against the catastrophic thought. 6) Practicing probability estimation. During PMS, catastrophizing may increase due to lower serotonin. CBT is highly effective for changing this pattern. Your thoughts are not facts - they are hypotheses to be tested.",
+    "follow_up": ["Do you tend to catastrophize?", "What situations trigger this?", "How does it affect your anxiety?", "Would you like CBT techniques?"]
+  },
+  {
+    "id": 2044,
+    "category": "mental_health",
+    "question": "What is all or nothing thinking",
+    "alternate_questions": ["Black and white thinking", "Perfectionism all or nothing", "Extreme thinking", "Dichotomous thinking", "All or nothing CBT"],
+    "keywords": ["all or nothing", "black white", "dichotomous", "extreme", "perfectionism", "thinking error", "CBT"],
+    "answer": "All-or-nothing thinking (black-and-white thinking) is a cognitive distortion where you see things in extremes with no middle ground. You're either perfect or a failure, completely in control or totally helpless, entirely right or entirely wrong. This thinking pattern contributes to perfectionism, depression, and anxiety. It ignores the complexity and nuance of reality. Examples: 'I ate one cookie, so my diet is ruined,' 'I made a mistake, so I'm terrible at my job.' Challenge it by: looking for the gray area, using words like 'sometimes,' 'partially,' and 'mostly,' rating situations on a scale of 1-10 instead of pass/fail, and acknowledging progress over perfection. During PMS, all-or-nothing thinking may intensify. Practice catching these thoughts and deliberately finding the middle ground. Life is lived in the gray - that's where growth happens.",
+    "follow_up": ["Do you think in extremes?", "Where does this show up?", "How does it affect your self-esteem?", "Would you like to practice gray-area thinking?"]
+  },
+  {
+    "id": 2045,
+    "category": "mental_health",
+    "question": "What is rumination",
+    "alternate_questions": ["Overthinking", "Can't stop thinking", "Rumination depression", "Obsessive thoughts", "Rumination anxiety"],
+    "keywords": ["rumination", "overthinking", "obsessive", "repetitive", "thoughts", "depression", "anxiety"],
+    "answer": "Rumination is repetitively focusing on negative thoughts, feelings, or problems without taking action to solve them. It's like a hamster wheel in your mind - exhausting but going nowhere. Rumination is a key feature of depression and anxiety, and women tend to ruminate more than men. It worsens mood, impairs problem-solving, disrupts sleep, and increases risk for mental health disorders. Rumination differs from healthy reflection in being passive, repetitive, and focused on causes rather than solutions. Break the cycle by: scheduling 'worry time,' distracting with absorbing activities, practicing mindfulness, writing thoughts down to externalize them, asking 'Is this thought helpful?' and taking small action steps. During PMS, rumination may increase. CBT and mindfulness-based cognitive therapy (MBCT) are effective treatments. You can train your mind to let go.",
+    "follow_up": ["Do you ruminate frequently?", "What do you ruminate about?", "How does it affect your sleep?", "Have you tried interrupting the pattern?"]
+  },
+  {
+    "id": 2046,
+    "category": "mental_health",
+    "question": "What is social anxiety",
+    "alternate_questions": ["Social phobia", "Fear of judgment", "Anxious social situations", "Social anxiety symptoms", "Shy vs social anxiety"],
+    "keywords": ["social anxiety", "social phobia", "judgment", "fear", "social situations", "avoidance"],
+    "answer": "Social anxiety disorder is intense fear of social situations where you might be judged, embarrassed, or scrutinized by others. It goes beyond normal shyness - it causes significant distress and avoidance that interferes with daily life. Symptoms include: fear of being humiliated, avoiding social situations, physical symptoms (blushing, sweating, trembling, nausea), overanalyzing social interactions afterward, and difficulty speaking or making eye contact. In women, social anxiety may be dismissed as shyness or attributed to hormones. It often develops in adolescence and can lead to isolation, depression, and missed opportunities. Treatment includes: CBT (especially exposure therapy), social skills training, medication (SSRIs), and group therapy. Many people with social anxiety appear fine externally while suffering internally. You are not alone, and effective treatment exists.",
+    "follow_up": ["What social situations trigger anxiety?", "Do you avoid social events?", "How long has this been happening?", "Have you sought treatment?"]
+  },
+  {
+    "id": 2047,
+    "category": "mental_health",
+    "question": "What is the sunk cost fallacy",
+    "alternate_questions": ["Sunk cost meaning", "Can't quit relationship", "Stay because invested", "Sunk cost fallacy decisions", "Investment trap"],
+    "keywords": ["sunk cost", "fallacy", "investment", "quit", "relationships", "decisions", "loss"],
+    "answer": "The sunk cost fallacy is the tendency to continue something because of previously invested resources (time, money, effort) rather than current value. Examples: staying in a dead relationship because you've been together for years, finishing a degree you hate because you've completed 2 years, or keeping clothes you never wear because they were expensive. The fallacy assumes that past investments justify future suffering. Rational decision-making considers only future costs and benefits. To overcome it: ask 'If I were starting fresh today, would I choose this?' Separate past investment from future potential. Recognize that 'wasting' more time doesn't recover sunk costs. This fallacy particularly affects decisions about relationships, careers, and health behaviors. During PMS, emotional reasoning may amplify sunk cost thinking. Make decisions based on present reality, not past investment.",
+    "follow_up": ["Where are you applying sunk cost thinking?", "What are you afraid to let go of?", "Would you choose this if starting fresh?", "What is truly best for your future?"]
+  },
+  {
+    "id": 2048,
+    "category": "mental_health",
+    "question": "What is confirmation bias",
+    "alternate_questions": ["See what I believe", "Confirmation bias psychology", "Filter information", "Bias thinking", "Confirmation bias mental health"],
+    "keywords": ["confirmation bias", "bias", "believe", "filter", "information", "thinking", "evidence"],
+    "answer": "Confirmation bias is the tendency to seek, interpret, and remember information that confirms your existing beliefs while ignoring contradictory evidence. If you believe you're unlovable, you'll notice rejection and dismiss affection. If you believe PMS makes you terrible, you'll remember every irritable moment and forget calm ones. This bias reinforces negative self-views and anxiety. It operates unconsciously - you don't realize you're doing it. Counter it by: deliberately seeking disconfirming evidence, asking 'What would prove me wrong?' considering alternative explanations, and keeping a balanced record (track both positive and negative evidence). In health anxiety, confirmation bias makes you interpret normal sensations as serious illness. In relationships, it makes you see only faults. Awareness is the first step to more objective thinking.",
+    "follow_up": ["What beliefs might you be confirming?", "Do you ignore evidence that contradicts your views?", "How does this affect your mental health?", "Would you like to practice balanced thinking?"]
+  },
+  {
+    "id": 2049,
+    "category": "mental_health",
+    "question": "What is the halo effect",
+    "alternate_questions": ["Halo effect psychology", "Attractive people seem better", "First impression bias", "Halo effect relationships", "Physical attractiveness bias"],
+    "keywords": ["halo effect", "attractiveness", "first impression", "bias", "perception", "judgment"],
+    "answer": "The halo effect is a cognitive bias where your overall impression of a person influences your specific judgments about them. If someone is attractive, you may assume they're also intelligent, kind, and competent - even without evidence. This bias affects hiring, dating, friendships, and self-perception. In reverse, the 'horns effect' means one negative trait colors all perceptions. The halo effect is why attractive people are perceived as more trustworthy and why first impressions are so powerful. It can lead to poor decisions: trusting someone because they're charming, dismissing red flags because someone is attractive, or judging yourself harshly based on one trait. Counter it by: separating specific traits, asking for evidence, being aware of attractiveness bias, and evaluating people on multiple dimensions. No one is all good or all bad.",
+    "follow_up": ["Have you experienced the halo effect?", "Do you judge yourself or others this way?", "How does it affect your relationships?", "Would you like to practice objective evaluation?"]
+  },
+  {
+    "id": 2050,
+    "category": "mental_health",
+    "question": "What is hedonic adaptation",
+    "alternate_questions": ["Happiness set point", "Get used to good things", "Hedonic treadmill", "Adaptation happiness", "Why happiness fades"],
+    "keywords": ["hedonic adaptation", "happiness", "set point", "treadmill", "adaptation", "fade", "satisfaction"],
+    "answer": "Hedonic adaptation is the tendency to return to a baseline level of happiness despite major positive or negative life changes. You get a new job, relationship, or possession and feel elated - then adapt and want the next thing. This is the 'hedonic treadmill' - constantly chasing happiness through external achievements but never arriving. It explains why lottery winners and accident victims often return to pre-event happiness levels within a year. Counter hedonic adaptation by: practicing gratitude for what you have, savoring positive experiences, varying your activities, focusing on experiences over possessions, and investing in relationships and growth rather than acquisitions. During PMS, when happiness feels elusive, remember that your baseline will return. Sustainable wellbeing comes from internal factors - meaning, connection, and purpose - not external circumstances.",
+    "follow_up": ["What are you chasing for happiness?", "Do you practice gratitude?", "What brings lasting satisfaction?", "Are you on the hedonic treadmill?"]
+  }
+]

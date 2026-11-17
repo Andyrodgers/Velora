@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <!-- MAIN CONTENT AREA -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- HEADER -->
+        <LinearLayout
+            android:id="@+id/layoutHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="?attr/appPrimaryColor"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="24dp"
+            android:elevation="8dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvAppName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Velora"
+                    android:textColor="#FFFFFF"
+                    android:textSize="14sp"
+                    android:alpha="0.7"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/ivUserHeader"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_alignParentEnd="true"
+                    android:src="@drawable/user_account_icon"
+                    android:scaleType="centerCrop"
+                    app:shapeAppearanceOverlay="@style/CircleImage"
+                    android:contentDescription="Account Icon" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tvHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Good morning, User"
+                android:textColor="#FFFFFF"
+                android:textSize="26sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/tvCurrentDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="Today, 12 Oct"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:alpha="0.9"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+
+        <!-- SCROLLABLE BODY -->
+        <ScrollView
+            android:id="@+id/mainScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_screen_body"
+            android:clipToPadding="false"
+            android:paddingTop="20dp"
+            android:paddingBottom="100dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <!-- 1st BOX: CYCLE CIRCLE VISUALIZATION -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="4dp"
+                    app:cardBackgroundColor="?attr/appCardBackgroundColor">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <TextView
+                            android:id="@+id/tvStatus"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Safe Day"
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            android:textColor="?attr/appPrimaryColor"
+                            android:gravity="center"
+                            android:layout_marginBottom="8dp"
+                            tools:ignore="HardcodedText" />
+
+                        <com.example.velora.CycleCircleView
+                            android:id="@+id/cycleCircleView"
+                            android:layout_width="match_parent"
+                            android:layout_height="320dp" />
+
+                        <TextView
+                            android:id="@+id/tvNextPeriodPrediction"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_marginTop="8dp"
+                            android:textSize="16sp"
+                            android:textColor="?attr/appTextColor"
+                            android:textStyle="italic"
+                            tools:text="Next period: 15 Oct"
+                            tools:ignore="HardcodedText" />
+
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- USER INPUTS SECTION -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="4dp"
+                    app:cardBackgroundColor="?attr/appCardBackgroundColor">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <TextView
+                            android:id="@+id/tvLastPeriodDate"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Not set"
+                            android:textSize="22sp"
+                            android:textStyle="bold"
+                            android:textColor="?attr/appPrimaryColor"
+                            android:gravity="center"
+                            android:layout_marginBottom="16dp"
+                            tools:ignore="HardcodedText" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <!-- Avatar Image on the right -->
+                            <com.google.android.material.imageview.ShapeableImageView
+                                android:id="@+id/ivAvatar"
+                                android:layout_width="180dp"
+                                android:layout_height="295dp"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginStart="16dp"
+                                android:src="@drawable/avatar"
+                                android:scaleType="fitCenter"
+                                android:adjustViewBounds="true"
+                                android:background="@android:color/transparent"
+                                app:shapeAppearanceOverlay="@style/CircleImage"
+                                android:contentDescription="Avatar" />
+
+                            <TextView
+                                android:id="@+id/tvLastPeriodLabel"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_toStartOf="@id/ivAvatar"
+                                android:layout_alignParentStart="true"
+                                android:text="Last Period Start"
+                                android:textSize="16sp"
+                                android:textColor="?attr/appTextColor"
+                                tools:ignore="HardcodedText" />
+
+                            <Button
+                                android:id="@+id/btnSetLastPeriod"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/tvLastPeriodLabel"
+                                android:layout_marginTop="8dp"
+                                android:text="Select Date"
+                                android:backgroundTint="?attr/appPrimaryColor"
+                                tools:ignore="HardcodedText" />
+
+                            <TextView
+                                android:id="@+id/tvCycleLengthLabel"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/btnSetLastPeriod"
+                                android:layout_marginTop="16dp"
+                                android:layout_toStartOf="@id/ivAvatar"
+                                android:layout_alignParentStart="true"
+                                android:text="Average Cycle Length"
+                                android:textSize="16sp"
+                                android:textColor="?attr/appTextColor"
+                                tools:ignore="HardcodedText" />
+
+                            <LinearLayout
+                                android:id="@+id/llCycleLengthContainer"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/tvCycleLengthLabel"
+                                android:layout_marginTop="4dp"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical">
+
+                                <EditText
+                                    android:id="@+id/etCycleLength"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@android:color/transparent"
+                                    android:inputType="number"
+                                    android:text="28"
+                                    android:textColor="?attr/appPrimaryColor"
+                                    android:textStyle="bold"
+                                    android:textSize="28sp"
+                                    android:minWidth="40dp"
+                                    android:padding="0dp"
+                                    android:autofillHints="none"
+                                    tools:ignore="HardcodedText,LabelFor" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="days"
+                                    android:textColor="?attr/appPrimaryColor"
+                                    android:textStyle="bold"
+                                    android:textSize="28sp"
+                                    android:layout_marginStart="4dp"
+                                    tools:ignore="HardcodedText" />
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/tvPeriodDurationLabel"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/llCycleLengthContainer"
+                                android:layout_marginTop="16dp"
+                                android:layout_toStartOf="@id/ivAvatar"
+                                android:layout_alignParentStart="true"
+                                android:text="Period Duration"
+                                android:textSize="16sp"
+                                android:textColor="?attr/appTextColor"
+                                tools:ignore="HardcodedText" />
+
+                            <LinearLayout
+                                android:id="@+id/llPeriodDurationContainer"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/tvPeriodDurationLabel"
+                                android:layout_marginTop="4dp"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical">
+
+                                <EditText
+                                    android:id="@+id/etPeriodDuration"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@android:color/transparent"
+                                    android:inputType="number"
+                                    android:text="5"
+                                    android:textColor="?attr/appPrimaryColor"
+                                    android:textStyle="bold"
+                                    android:textSize="28sp"
+                                    android:padding="0dp"
+                                    android:autofillHints="none"
+                                    tools:ignore="HardcodedText,LabelFor" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="(days)"
+                                    android:textColor="?attr/appPrimaryColor"
+                                    android:textStyle="bold"
+                                    android:textSize="28sp"
+                                    android:layout_marginStart="4dp"
+                                    tools:ignore="HardcodedText" />
+                            </LinearLayout>
+
+                        </RelativeLayout>
+
+                        <Button
+                            android:id="@+id/btnSaveSettings"
+                            android:layout_width="wrap_content"
+                            android:layout_height="48dp"
+                            android:layout_marginTop="16dp"
+                            android:layout_gravity="center_horizontal"
+                            android:text="SAVE CYCLE SETTINGS"
+                            android:backgroundTint="?attr/appPrimaryColor"
+                            android:textColor="#FFFFFF"
+                            tools:ignore="HardcodedText" />
+
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- DAILY LOG BUTTON -->
+                <Button
+                    android:id="@+id/btnLogToday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginBottom="16dp"
+                    android:layout_gravity="center_horizontal"
+                    android:text="+ LOG TODAY'S SYMPTOMS"
+                    android:backgroundTint="?attr/appSecondaryColor"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16sp"
+                    tools:ignore="HardcodedText" />
+
+                <!-- PRE-PERIOD DAYS INFO SECTION -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pre-period days info"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="?attr/appTextColor"
+                    android:layout_marginBottom="8dp"
+                    tools:ignore="HardcodedText" />
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="0dp">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ViewFlipper
+                            android:id="@+id/vfPrePeriodInfo"
+                            android:layout_width="match_parent"
+                            android:layout_height="320dp"
+                            android:inAnimation="@android:anim/slide_in_left"
+                            android:outAnimation="@android:anim/slide_out_right">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/pregnancy"
+                                android:scaleType="centerCrop"
+                                android:contentDescription="Pregnancy Info" />
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/thinking"
+                                android:scaleType="centerCrop"
+                                android:contentDescription="Thinking Info" />
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/signs"
+                                android:scaleType="centerCrop"
+                                android:contentDescription="Signs Info" />
+
+                        </ViewFlipper>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="#B3000000"
+                            android:padding="20dp"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Am I pregnant?"
+                                android:textColor="#FFFFFF"
+                                android:textSize="24sp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="16dp"
+                                tools:ignore="HardcodedText" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="12dp">
+                                <ImageView
+                                    android:layout_width="24dp"
+                                    android:layout_height="24dp"
+                                    android:src="@android:drawable/stat_notify_error"
+                                    app:tint="#FFFFFF" />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="8 early signs of pregnancy"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="16sp"
+                                    android:layout_marginStart="8dp"
+                                    tools:ignore="HardcodedText" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="12dp">
+                                <com.google.android.material.imageview.ShapeableImageView
+                                    android:layout_width="32dp"
+                                    android:layout_height="32dp"
+                                    android:src="@drawable/pregnancy_test_kit"
+                                    android:scaleType="centerCrop"
+                                    app:shapeAppearanceOverlay="@style/CircleImage" />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Taking a pregnancy test"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="16sp"
+                                    android:layout_marginStart="8dp"
+                                    tools:ignore="HardcodedText" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="20dp">
+                                <com.google.android.material.imageview.ShapeableImageView
+                                    android:layout_width="32dp"
+                                    android:layout_height="32dp"
+                                    android:src="@drawable/calender_icon"
+                                    android:scaleType="centerCrop"
+                                    app:shapeAppearanceOverlay="@style/CircleImage" />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Other reasons the period delayed"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="16sp"
+                                    android:layout_marginStart="8dp"
+                                    tools:ignore="HardcodedText" />
+                            </LinearLayout>
+
+                            <Button
+                                android:id="@+id/btnStopGuessing"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
+                                android:text="STOP GUESSING"
+                                android:backgroundTint="?attr/appPrimaryColor"
+                                android:textColor="#FFFFFF"
+                                tools:ignore="HardcodedText" />
+
+                        </LinearLayout>
+
+                    </FrameLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- BASED ON YOUR CURRENT CYCLE SECTION -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Based on your current cycle"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="12dp"
+                    android:textColor="?attr/appTextColor"
+                    tools:ignore="HardcodedText" />
+
+                <HorizontalScrollView
+                    android:id="@+id/hsvCycleTips"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none"
+                    android:layout_marginBottom="16dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/cvDischargeTips"
+                            android:layout_width="160dp" android:layout_height="120dp" android:layout_marginEnd="12dp"
+                            app:cardCornerRadius="10dp" app:cardElevation="4dp"
+                            android:clickable="true" android:focusable="true">
+                            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                                <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/discharge" android:scaleType="centerCrop" />
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="#B3000000" android:gravity="center" android:padding="12dp">
+                                    <TextView android:id="@+id/tvDischargeTips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="3 Discharge types to watch out for" android:textColor="#FFFFFF" android:textSize="14sp" android:textStyle="bold" android:gravity="center" tools:ignore="HardcodedText" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </com.google.android.material.card.MaterialCardView>
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/cvSexTips"
+                            android:layout_width="160dp" android:layout_height="120dp" android:layout_marginEnd="12dp"
+                            app:cardCornerRadius="10dp" app:cardElevation="4dp"
+                            android:clickable="true" android:focusable="true">
+                            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                                <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/hug" android:scaleType="centerCrop" />
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="#B3000000" android:gravity="center" android:padding="12dp">
+                                    <TextView android:id="@+id/tvSexTips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="7 Non-preventive sex ideas" android:textColor="#FFFFFF" android:textSize="14sp" android:textStyle="bold" android:gravity="center" tools:ignore="HardcodedText" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </com.google.android.material.card.MaterialCardView>
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/cvBloatingTips"
+                            android:layout_width="160dp" android:layout_height="120dp" android:layout_marginEnd="12dp"
+                            app:cardCornerRadius="10dp" app:cardElevation="4dp"
+                            android:clickable="true" android:focusable="true">
+                            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                                <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/bloating" android:scaleType="centerCrop" />
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="#B3000000" android:gravity="center" android:padding="12dp">
+                                    <TextView android:id="@+id/tvBloatingTips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4 Ways to prevent bloating" android:textColor="#FFFFFF" android:textSize="14sp" android:textStyle="bold" android:gravity="center" tools:ignore="HardcodedText" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </com.google.android.material.card.MaterialCardView>
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/cvBleedingTips"
+                            android:layout_width="160dp" android:layout_height="120dp" android:layout_marginEnd="12dp"
+                            app:cardCornerRadius="10dp" app:cardElevation="4dp"
+                            android:clickable="true" android:focusable="true">
+                            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                                <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/heavy_bleeding" android:scaleType="centerCrop" />
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="#B3000000" android:gravity="center" android:padding="12dp">
+                                    <TextView android:id="@+id/tvBleedingTips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Ways to prevent heavy bleeding" android:textColor="#FFFFFF" android:textSize="14sp" android:textStyle="bold" android:gravity="center" tools:ignore="HardcodedText" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </com.google.android.material.card.MaterialCardView>
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/cvMealTips"
+                            android:layout_width="160dp" android:layout_height="120dp" android:layout_marginEnd="12dp"
+                            app:cardCornerRadius="10dp" app:cardElevation="4dp"
+                            android:clickable="true" android:focusable="true">
+                            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                                <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/meals" android:scaleType="centerCrop" />
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="#B3000000" android:gravity="center" android:padding="12dp">
+                                    <TextView android:id="@+id/tvMealTips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Meals to take when on periods" android:textColor="#FFFFFF" android:textSize="14sp" android:textStyle="bold" android:gravity="center" tools:ignore="HardcodedText" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </com.google.android.material.card.MaterialCardView>
+
+                    </LinearLayout>
+                </HorizontalScrollView>
+
+                <!-- ACTION BUTTONS -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:layout_marginBottom="16dp">
+                    <Button android:id="@+id/btnSexDrive" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8dp" android:text="CHECK SEX DRIVE" android:backgroundTint="?attr/appSecondaryColor" android:textColor="#FFFFFF" tools:ignore="HardcodedText" />
+                    <Button android:id="@+id/btnPCOS" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="PCOS SELF-ASSESSMENT" android:backgroundTint="?attr/appPrimaryColor" android:textColor="#FFFFFF" tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+                <!-- CYCLE HISTORY SECTION -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent" android:layout_height="350dp" app:cardCornerRadius="15dp" app:cardElevation="4dp" app:cardBackgroundColor="?attr/appCardBackgroundColor" android:layout_marginBottom="16dp">
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+                        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="16dp">
+                            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Cycle history" android:textSize="18sp" android:textStyle="bold" android:textColor="?attr/appTextColor" tools:ignore="HardcodedText" />
+                            <TextView android:id="@+id/tvSeeAllHistory" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="See all >" android:layout_alignParentEnd="true" android:textColor="#888888" android:clickable="true" android:focusable="true" android:background="?android:attr/selectableItemBackground" tools:ignore="HardcodedText" />
+                        </RelativeLayout>
+                        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#EEEEEE" />
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/rvHistory"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:paddingBottom="8dp" />
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- CYCLE TRENDS SECTION -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent" android:layout_height="wrap_content" app:cardCornerRadius="15dp" app:cardElevation="4dp" app:cardBackgroundColor="?attr/appCardBackgroundColor" android:layout_marginBottom="16dp">
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+                        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="16dp">
+                            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Cycle trends" android:textSize="18sp" android:textStyle="bold" android:textColor="?attr/appTextColor" tools:ignore="HardcodedText" />
+                            <ImageView android:id="@+id/ivTrendInfo" android:layout_width="24dp" android:layout_height="24dp" android:src="@android:drawable/ic_dialog_info" android:layout_alignParentEnd="true" app:tint="#888888" android:contentDescription="Info" />
+                        </RelativeLayout>
+                        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#EEEEEE" />
+                        <HorizontalScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:scrollbars="horizontal">
+                            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical">
+                                <com.example.velora.TrendGraphView android:id="@+id/trendGraphView" android:layout_width="wrap_content" android:layout_height="220dp" android:layout_margin="16dp" />
+                            </LinearLayout>
+                        </HorizontalScrollView>
+                        <TextView
+                            android:id="@+id/tvTrendStatus"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingTop="8dp"
+                            android:text="Checking trends..."
+                            android:textColor="?attr/appPrimaryColor"
+                            android:textStyle="bold"
+                            android:textSize="16sp"
+                            tools:ignore="HardcodedText" />
+                        <TextView
+                            android:id="@+id/tvTrendDescription"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="16dp"
+                            android:text="This graph will help you keep track of your cycle regularity and health patterns."
+                            android:textColor="#555555"
+                            android:textSize="14sp"
+                            tools:ignore="HardcodedText" />
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- RESET BUTTON -->
+                <Button android:id="@+id/btnResetCycle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" android:text="RESET CYCLE DATA" android:backgroundTint="?attr/appPrimaryColor" android:textColor="#FFFFFF" tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+    <!-- FLOATING FOOTER -->
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/footerCard"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:cardCornerRadius="22dp"
+        app:cardElevation="12dp"
+        app:cardBackgroundColor="?attr/appCardBackgroundColor"
+        app:cardPreventCornerOverlap="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/btnFooterToday"
+                android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+                android:orientation="vertical" android:gravity="center" android:background="?android:attr/selectableItemBackground">
+                <ImageView android:id="@+id/ivFooterToday" android:layout_width="28dp" android:layout_height="28dp" android:src="@drawable/calender_icon" android:scaleType="fitCenter" android:contentDescription="Today" />
+                <TextView android:id="@+id/tvFooterToday" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Today" android:textSize="10sp" android:textColor="?attr/appTextColor" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnFooterInsights"
+                android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+                android:orientation="vertical" android:gravity="center" android:background="?android:attr/selectableItemBackground">
+                <ImageView android:id="@+id/ivFooterInsights" android:layout_width="28dp" android:layout_height="28dp" android:src="@drawable/insights_icon" android:scaleType="fitCenter" android:contentDescription="Insights" />
+                <TextView android:id="@+id/tvFooterInsights" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Insights" android:textSize="10sp" android:textColor="?attr/appTextColor" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnFooterNotes"
+                android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+                android:orientation="vertical" android:gravity="center" android:background="?android:attr/selectableItemBackground">
+                <ImageView android:id="@+id/ivFooterNotes" android:layout_width="28dp" android:layout_height="28dp" android:src="@android:drawable/ic_menu_edit" android:scaleType="fitCenter" android:contentDescription="Notes" />
+                <TextView android:id="@+id/tvFooterNotes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Notes" android:textSize="10sp" android:textColor="?attr/appTextColor" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnHealthAssistant"
+                android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+                android:orientation="vertical" android:gravity="center" android:background="?android:attr/selectableItemBackground">
+                <ImageView android:id="@+id/ivFooterChats" android:layout_width="28dp" android:layout_height="28dp" android:src="@drawable/luna" android:scaleType="fitCenter" android:contentDescription="Ask Vela" />
+                <TextView android:id="@+id/tvFooterChats" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Ask Vela" android:textSize="10sp" android:textColor="?attr/appTextColor" />
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/btnCommunityChat"
+                android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+                android:background="?android:attr/selectableItemBackground">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" android:gravity="center">
+                    <ImageView android:id="@+id/ivFooterSecret" android:layout_width="28dp" android:layout_height="28dp" android:src="@drawable/community" android:scaleType="fitCenter" android:contentDescription="Community" />
+                    <TextView android:id="@+id/tvFooterSecret" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Community" android:textSize="10sp" android:textColor="?attr/appTextColor" />
+                </LinearLayout>
+                <View
+                    android:id="@+id/dotCommunityNotification"
+                    android:layout_width="10dp" android:layout_height="10dp" android:layout_gravity="top|end"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginEnd="16dp"
+                    android:background="@drawable/circle_background"
+                    android:backgroundTint="?attr/appPrimaryColor"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/btnPartnerChat"
+                android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+                android:background="?android:attr/selectableItemBackground">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" android:gravity="center">
+                    <ImageView android:id="@+id/ivFooterPartner" android:layout_width="28dp" android:layout_height="28dp" android:src="@drawable/partner_icon" android:scaleType="fitCenter" android:contentDescription="Partner" />
+                    <TextView android:id="@+id/tvFooterPartner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Partner" android:textSize="10sp" android:textColor="?attr/appTextColor" />
+                </LinearLayout>
+                <View
+                    android:id="@+id/dotPartnerNotification"
+                    android:layout_width="10dp" android:layout_height="10dp" android:layout_gravity="top|end"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginEnd="16dp"
+                    android:background="@drawable/circle_background"
+                    android:backgroundTint="?attr/appPrimaryColor"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

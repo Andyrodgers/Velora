@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2901,
+    "category": "stretching",
+    "question": "Does stretching help with period cramps?",
+    "alternate_questions": ["Stretches for menstrual pain", "Can yoga help my period?", "Exercise for cramps"],
+    "keywords": ["stretching", "cramps", "period pain", "relief", "yoga"],
+    "answer": "Yes, gentle stretching and yoga can help relieve period cramps by relaxing the muscles in your abdomen and pelvis and increasing blood flow. It also helps reduce stress, which can make pain feel more intense.",
+    "follow_up": ["What are the best stretches for cramps?", "Can I exercise during my period?", "How long should I stretch?"]
+  },
+  {
+    "id": 2902,
+    "category": "stretching",
+    "question": "What are the best stretches for period cramps?",
+    "alternate_questions": ["Yoga poses for menstrual relief", "Child's pose for periods", "Stretches to do when my stomach hurts"],
+    "keywords": ["stretches", "cramps", "child's pose", "cat-cow", "cobra"],
+    "answer": "Effective stretches include Child's Pose (relaxes the lower back), Cat-Cow (massages the spine and abdomen), Cobra Pose (stretches the front of the body), and Reclined Bound Angle Pose (opens the hips).",
+    "follow_up": ["How to do Child's Pose?", "Can stretching help with back pain too?", "Are there stretches I should avoid?"]
+  },
+  {
+    "id": 2903,
+    "category": "stretching",
+    "question": "How to do Child's Pose for relief?",
+    "alternate_questions": ["Balasana instructions", "Relieving back pain with child's pose", "Simple stretches for periods"],
+    "keywords": ["child's pose", "balasana", "instructions", "back pain", "relaxation"],
+    "answer": "Kneel on the floor, touch your big toes together, and sit on your heels. Separate your knees about hip-width apart and lay your torso down between your thighs. Rest your forehead on the floor and reach your arms forward.",
+    "follow_up": ["How long should I stay in child's pose?", "What if my knees hurt?", "Can I use a pillow for support?"]
+  },
+  {
+    "id": 2904,
+    "category": "stretching",
+    "question": "Can stretching help with PMS mood swings?",
+    "alternate_questions": ["Stretching for stress relief", "Mental benefits of yoga", "Does exercise improve mood?"],
+    "keywords": ["pms", "mood swings", "stretching", "stress", "endorphins"],
+    "answer": "Yes! Stretching and gentle movement can release endorphins, which are natural mood lifters. It also encourages deep breathing, which helps calm the nervous system and reduce irritability or anxiety associated with PMS.",
+    "follow_up": ["How often should I stretch for mood?", "What are other ways to manage mood swings?", "Does deep breathing help?"]
+  },
+  {
+    "id": 2905,
+    "category": "stretching",
+    "question": "Are there stretches I should avoid during my period?",
+    "alternate_questions": ["Safe exercise during menstruation", "Inversions during period", "Is it okay to do any stretch?"],
+    "keywords": ["avoid", "stretches", "inversions", "period", "safety"],
+    "answer": "Generally, most stretches are safe. Some traditions suggest avoiding intense inversions (like headstands) during your period, but there is no medical reason to avoid them unless they feel uncomfortable for you. Listen to your body!",
+    "follow_up": ["What are inversions?", "How to know if a stretch is too much?", "Can I do heavy lifting while on my period?"]
+  }
+]

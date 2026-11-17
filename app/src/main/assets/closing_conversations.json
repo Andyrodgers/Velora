@@ -1,0 +1,47 @@
+[
+  {
+    "id": 901,
+    "category": "closing_conversations",
+    "question": "That's all for now",
+    "alternate_questions": ["I'm done for now", "No more questions", "Nothing else", "That's it"],
+    "keywords": ["done", "finish", "closing", "end"],
+    "answer": "Alright! I'm glad I could help you. Feel free to come back whenever you have more questions or just want to chat. Have a wonderful day!",
+    "follow_up": ["Is there anything else I can help with?", "Do you want to log any symptoms before you go?", "Have a great day!"]
+  },
+  {
+    "id": 902,
+    "category": "closing_conversations",
+    "question": "Thanks for the info",
+    "alternate_questions": ["Thank you for the information", "Thanks for explaining", "I appreciate the help"],
+    "keywords": ["thanks", "appreciation", "info", "closing"],
+    "answer": "You're very welcome! I'm here to provide you with the best information possible. Take care of yourself!",
+    "follow_up": ["Would you like to know about anything else?", "Need help with something else?", "Stay healthy!"]
+  },
+  {
+    "id": 903,
+    "category": "closing_conversations",
+    "question": "I'll talk to you later",
+    "alternate_questions": ["Catch you later", "Talk soon", "Speak to you later"],
+    "keywords": ["later", "closing", "farewell", "return"],
+    "answer": "Sounds good! I'll be right here whenever you need me. Have a great time until then!",
+    "follow_up": ["See you soon!", "Take care!", "I'm always here for you."]
+  },
+  {
+    "id": 904,
+    "category": "closing_conversations",
+    "question": "You've been helpful",
+    "alternate_questions": ["This was useful", "Very helpful assistant", "Great talk"],
+    "keywords": ["helpful", "useful", "positive", "feedback"],
+    "answer": "I'm so glad to hear that! My goal is to support you on your health journey. Don't hesitate to reach out again.",
+    "follow_up": ["Anything else on your mind?", "What else can I help you with?", "Glad to be of service!"]
+  },
+  {
+    "id": 905,
+    "category": "closing_conversations",
+    "question": "I'm going now",
+    "alternate_questions": ["Leaving now", "Time for me to go", "Bye for real"],
+    "keywords": ["leaving", "going", "closing", "bye"],
+    "answer": "Take care! Remember that your health is important. I'll see you next time you visit Velora.",
+    "follow_up": ["Have a safe day!", "Don't forget to stay hydrated!", "See you soon!"]
+  }
+]

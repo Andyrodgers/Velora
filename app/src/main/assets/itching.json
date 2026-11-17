@@ -1,0 +1,47 @@
+[
+  {
+    "id": 451,
+    "category": "itching",
+    "question": "Why am I itching down there?",
+    "alternate_questions": ["Vaginal itching causes", "Why does my vulva itch?", "Itching in the genital area"],
+    "keywords": ["itching", "vaginal", "vulva", "cause", "discomfort"],
+    "answer": "Vaginal itching can be caused by many things, including yeast infections, bacterial vaginosis (BV), irritation from soaps or detergents, or even hormonal changes that cause dryness. If it's persistent, you should see a doctor.",
+    "follow_up": ["Is there an unusual discharge?", "Have you changed your soap lately?", "When to see a doctor for itching?"]
+  },
+  {
+    "id": 452,
+    "category": "itching",
+    "question": "Can my period cause itching?",
+    "alternate_questions": ["Itching during menstruation", "Why do I itch when I have my period?", "Period-related vaginal itching"],
+    "keywords": ["itching", "period", "menstruation", "pads", "tampons"],
+    "answer": "Yes, it can. Some people experience itching during their period due to moisture buildup from pads, a reaction to the materials in menstrual products, or changes in vaginal pH during menstruation.",
+    "follow_up": ["Are you using scented pads?", "How often are you changing your pad?", "Does the itching stop after your period?"]
+  },
+  {
+    "id": 453,
+    "category": "itching",
+    "question": "How can I relieve vaginal itching at home?",
+    "alternate_questions": ["Home remedies for itching down there", "How to stop the itch naturally", "Soothe vaginal irritation"],
+    "keywords": ["relief", "itching", "home", "remedies", "soothe"],
+    "answer": "To relieve itching, try wearing loose cotton underwear, avoiding scented products, and keeping the area clean and dry. A cool compress may also provide temporary relief. Avoid douching, as it can make the problem worse.",
+    "follow_up": ["What kind of underwear are you wearing?", "Are you using any creams?", "Has the itching improved?"]
+  },
+  {
+    "id": 454,
+    "category": "itching",
+    "question": "Is itching a sign of an infection?",
+    "alternate_questions": ["Does itch mean I have a yeast infection?", "Itching and BV", "When is an itch an infection?"],
+    "keywords": ["itching", "infection", "yeast", "bv", "sign"],
+    "answer": "Itching is a very common sign of a yeast infection or bacterial vaginosis. It can also be a symptom of certain STIs. If you also notice unusual discharge or odor, it's likely an infection.",
+    "follow_up": ["What does the discharge look like?", "Is there a strong odor?", "Have you been tested for STIs?"]
+  },
+  {
+    "id": 455,
+    "category": "itching",
+    "question": "Can dry skin cause itching in the genital area?",
+    "alternate_questions": ["Skin dryness and itching", "Can I use moisturizer down there?", "Itching due to lack of moisture"],
+    "keywords": ["itching", "dry skin", "dryness", "moisture", "genital"],
+    "answer": "Yes, dry skin can cause itching, especially as you age or during certain times in your cycle when estrogen levels are lower. However, you should be careful about using regular moisturizers in that area; use products specifically designed for sensitive skin or consult a doctor.",
+    "follow_up": ["Where is your cycle currently?", "Is the skin visibly dry?", "Are you using any new products?"]
+  }
+]

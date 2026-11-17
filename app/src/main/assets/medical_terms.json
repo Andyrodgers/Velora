@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2601,
+    "category": "medical_terms",
+    "question": "What is Amenorrhea?",
+    "alternate_questions": ["Define amenorrhea", "Why did my period stop?", "Missing period medical term"],
+    "keywords": ["amenorrhea", "missing period", "no period", "medical term"],
+    "answer": "Amenorrhea is the medical term for the absence of menstruation. Primary amenorrhea is when a person hasn't started their period by age 15, while secondary amenorrhea is when periods stop for 3 or more months in someone who previously had them.",
+    "follow_up": ["What causes secondary amenorrhea?", "When should I see a doctor for a missed period?", "Can stress cause amenorrhea?"]
+  },
+  {
+    "id": 2602,
+    "category": "medical_terms",
+    "question": "What is Dysmenorrhea?",
+    "alternate_questions": ["Define dysmenorrhea", "Medical term for painful periods", "Severe menstrual cramps term"],
+    "keywords": ["dysmenorrhea", "painful periods", "cramps", "medical term"],
+    "answer": "Dysmenorrhea is the medical term for painful menstrual periods. Primary dysmenorrhea refers to common menstrual cramps, while secondary dysmenorrhea is pain caused by a disorder in the reproductive organs, like endometriosis or fibroids.",
+    "follow_up": ["How to treat dysmenorrhea?", "Difference between primary and secondary dysmenorrhea", "Can dysmenorrhea be cured?"]
+  },
+  {
+    "id": 2603,
+    "category": "medical_terms",
+    "question": "What is Menorrhagia?",
+    "alternate_questions": ["Define menorrhagia", "Medical term for heavy bleeding", "Abnormally heavy periods term"],
+    "keywords": ["menorrhagia", "heavy bleeding", "heavy periods", "medical term"],
+    "answer": "Menorrhagia is the medical term for menstrual periods with abnormally heavy or prolonged bleeding. This includes soaking through a pad or tampon every hour for several hours or periods lasting longer than 7 days.",
+    "follow_up": ["What causes menorrhagia?", "Can heavy periods cause anemia?", "When to see a doctor for heavy bleeding?"]
+  },
+  {
+    "id": 2604,
+    "category": "medical_terms",
+    "question": "What is Mittelschmerz?",
+    "alternate_questions": ["Define mittelschmerz", "Pain during ovulation term", "Mid-cycle pain name"],
+    "keywords": ["mittelschmerz", "ovulation pain", "mid-cycle", "medical term"],
+    "answer": "Mittelschmerz is one-sided, lower abdominal pain associated with ovulation. It occurs midway through the menstrual cycle — about 14 days before your next period.",
+    "follow_up": ["Is mittelschmerz normal?", "How long does ovulation pain last?", "How to track ovulation?"]
+  },
+  {
+    "id": 2605,
+    "category": "medical_terms",
+    "question": "What is a Speculum?",
+    "alternate_questions": ["What is that tool the gynecologist uses?", "Define speculum", "Pelvic exam tool"],
+    "keywords": ["speculum", "pelvic exam", "gynecologist", "tool", "medical"],
+    "answer": "A speculum is a medical tool used by healthcare providers during pelvic exams to gently open the walls of the vagina, allowing them to see the cervix clearly.",
+    "follow_up": ["Does a pelvic exam hurt?", "What happens during a Pap smear?", "How to relax during a gyno exam?"]
+  }
+]

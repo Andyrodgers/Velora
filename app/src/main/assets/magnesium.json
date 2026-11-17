@@ -1,0 +1,47 @@
+[
+  {
+    "id": 436,
+    "category": "magnesium",
+    "question": "How does magnesium help with periods?",
+    "alternate_questions": ["Benefits of magnesium for menstruation", "Magnesium for period cramps", "Should I take magnesium during my cycle?"],
+    "keywords": ["magnesium", "period", "cramps", "pms", "benefits"],
+    "answer": "Magnesium is a natural muscle relaxant that can help reduce the severity of period cramps by relaxing the smooth muscle of the uterus. It also helps regulate serotonin, which can improve mood and reduce PMS-related anxiety and insomnia.",
+    "follow_up": ["What are magnesium-rich foods?", "Does magnesium help with sleep?", "Can I take magnesium supplements for PMS?"]
+  },
+  {
+    "id": 437,
+    "category": "magnesium",
+    "question": "What are the best food sources of magnesium?",
+    "alternate_questions": ["Magnesium-rich foods for my period", "How to get magnesium naturally", "Foods high in magnesium"],
+    "keywords": ["magnesium", "foods", "sources", "nuts", "seeds", "spinach", "dark chocolate"],
+    "answer": "Excellent sources of magnesium include dark leafy greens (like spinach), nuts (especially almonds and cashews), seeds (pumpkin and chia seeds), legumes, whole grains, and dark chocolate.",
+    "follow_up": ["Is dark chocolate healthy for periods?", "How much magnesium do I need?", "Can nuts help with period pain?"]
+  },
+  {
+    "id": 438,
+    "category": "magnesium",
+    "question": "Can magnesium help with PMS mood swings?",
+    "alternate_questions": ["Magnesium for irritability", "Does magnesium improve mood before period?", "Vitamins for emotional PMS symptoms"],
+    "keywords": ["magnesium", "mood", "pms", "irritability", "serotonin"],
+    "answer": "Yes, magnesium plays a role in brain function and mood regulation. Studies suggest that magnesium supplementation, often combined with Vitamin B6, can help alleviate PMS symptoms like irritability, anxiety, and mood swings.",
+    "follow_up": ["How does Vitamin B6 help with magnesium?", "What other vitamins help with mood?", "Best time to take magnesium for PMS?"]
+  },
+  {
+    "id": 439,
+    "category": "magnesium",
+    "question": "Does magnesium help with period-related insomnia?",
+    "alternate_questions": ["Magnesium for better sleep during cycle", "Can magnesium help me sleep before my period?", "Using magnesium for rest"],
+    "keywords": ["magnesium", "sleep", "insomnia", "pms", "rest"],
+    "answer": "Magnesium can improve sleep quality by helping the body relax and reducing cortisol levels. Many people find that taking magnesium in the evening helps them fall asleep more easily, especially during the premenstrual phase when sleep is often disrupted.",
+    "follow_up": ["What are other sleep tips for periods?", "Should I take magnesium before bed?", "How much magnesium for sleep?"]
+  },
+  {
+    "id": 440,
+    "category": "magnesium",
+    "question": "What are the side effects of too much magnesium?",
+    "alternate_questions": ["Can I take too much magnesium?", "Signs of magnesium overdose", "Is magnesium safe for everyone?"],
+    "keywords": ["magnesium", "side effects", "overdose", "safety", "diarrhea"],
+    "answer": "While magnesium from food is safe, high doses from supplements can cause diarrhea, nausea, and abdominal cramping. It's always best to consult a healthcare provider before starting any new supplement.",
+    "follow_up": ["How much magnesium is in a supplement?", "Are there different types of magnesium?", "When to see a doctor about supplements?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 501,
+    "category": "migraine",
+    "question": "What is a menstrual migraine?",
+    "alternate_questions": ["Period migraines", "Hormonal headaches", "Migraines during menstruation"],
+    "keywords": ["migraine", "period", "headache", "hormonal", "estrogen"],
+    "answer": "Menstrual migraines are severe headaches that occur right before or during a period. They are often triggered by the natural drop in estrogen levels that happens at this time in the cycle.",
+    "follow_up": ["How to treat menstrual migraines?", "Symptoms of a menstrual migraine?", "Can birth control help with migraines?"]
+  },
+  {
+    "id": 502,
+    "category": "migraine",
+    "question": "What are the symptoms of a menstrual migraine?",
+    "alternate_questions": ["How do I know if it's a migraine or a regular headache?", "Signs of a hormonal migraine", "Migraine symptoms during period"],
+    "keywords": ["symptoms", "migraine", "pain", "nausea", "sensitivity"],
+    "answer": "Symptoms include intense throbbing pain (usually on one side of the head), nausea, vomiting, and sensitivity to light and sound. Unlike regular headaches, migraines can be debilitating.",
+    "follow_up": ["How long do migraines last?", "Does nausea always happen with migraines?", "What is an aura in a migraine?"]
+  },
+  {
+    "id": 503,
+    "category": "migraine",
+    "question": "How can I manage menstrual migraines?",
+    "alternate_questions": ["Treating period migraines", "Relief for hormonal headaches", "Migraine prevention during cycle"],
+    "keywords": ["manage", "relief", "treatment", "medication", "prevention"],
+    "answer": "Management includes over-the-counter pain relievers, prescription triptans, staying hydrated, resting in a dark room, and sometimes hormonal treatments. Tracking your triggers can also help with prevention.",
+    "follow_up": ["What are triptans?", "Does magnesium help with migraines?", "Should I see a doctor for migraines?"]
+  },
+  {
+    "id": 504,
+    "category": "migraine",
+    "question": "Does magnesium help with migraines?",
+    "alternate_questions": ["Magnesium for headaches", "Supplements for menstrual migraines", "Can magnesium prevent migraines?"],
+    "keywords": ["magnesium", "migraine", "prevention", "supplement", "headache"],
+    "answer": "Yes, some studies suggest that magnesium supplements can help reduce the frequency and severity of menstrual migraines, as magnesium levels often drop during the premenstrual phase.",
+    "follow_up": ["How much magnesium should I take?", "What are magnesium-rich foods?", "Are there other vitamins for migraines?"]
+  },
+  {
+    "id": 505,
+    "category": "migraine",
+    "question": "Can birth control help with menstrual migraines?",
+    "alternate_questions": ["The pill and migraines", "Hormonal treatment for headaches", "Using contraception for migraine relief"],
+    "keywords": ["birth control", "migraine", "hormones", "estrogen", "relief"],
+    "answer": "For some, certain types of birth control can help by stabilizing estrogen levels. However, for others (especially those with migraine with aura), certain hormonal contraceptives can be risky. It's important to discuss this with a doctor.",
+    "follow_up": ["What is migraine with aura?", "Risks of birth control with migraines?", "Non-hormonal migraine treatments?"]
+  }
+]

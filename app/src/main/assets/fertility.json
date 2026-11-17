@@ -1,0 +1,182 @@
+[
+  {
+    "id": 381,
+    "category": "fertility",
+    "question": "What is fertility",
+    "alternate_questions": ["Define fertility", "What does fertile mean", "Fertility explained", "Reproductive fertility", "Ability to conceive"],
+    "keywords": ["fertility", "conception", "reproductive", "definition", "pregnancy"],
+    "answer": "Fertility is the natural ability to conceive a child. For people with ovaries, fertility depends on regular ovulation, healthy eggs, open fallopian tubes, a receptive uterine lining, and balanced hormones. Fertility is highest in the 20s, starts declining in the 30s, and decreases more significantly after 35. Many factors affect fertility, including age, health conditions, lifestyle, and genetics. About 85% of couples conceive within one year of trying.",
+    "follow_up": ["Are you trying to conceive?", "How long have you been trying?", "Do you have concerns about your fertility?"]
+  },
+  {
+    "id": 382,
+    "category": "fertility",
+    "question": "How long does it take to get pregnant",
+    "alternate_questions": ["Time to conceive", "How many months to get pregnant", "Average conception time", "Pregnancy timeline", "How quickly can I conceive"],
+    "keywords": ["time to conceive", "months", "average", "pregnancy", "statistics"],
+    "answer": "For most couples, conception takes 6-12 months of regular, unprotected sex. About 30% conceive in the first month, 60% within 3 months, 80% within 6 months, and 85-90% within a year. If you're under 35 and have been trying for a year without success, see a fertility specialist. If you're 35 or older, seek help after 6 months. These timelines assume regular cycles and no known fertility issues.",
+    "follow_up": ["How long have you been trying?", "How old are you?", "Do you have regular cycles?", "Do you have any known health conditions?"]
+  },
+  {
+    "id": 383,
+    "category": "fertility",
+    "question": "What age is fertility highest",
+    "alternate_questions": ["Peak fertility age", "Best age to conceive", "Fertility by age", "When are women most fertile", "Age and fertility"],
+    "keywords": ["peak fertility", "age", "20s", "conception", "decline"],
+    "answer": "Fertility is highest in the early to mid-20s. At age 25, you have about a 25% chance of conceiving each cycle. Fertility begins to decline slowly in the late 20s, more noticeably after 30, and accelerates after 35. By age 40, the chance per cycle drops to about 5%. This decline is due to both decreasing egg quantity and quality. However, many people conceive healthy babies in their 30s and even early 40s.",
+    "follow_up": ["How old are you?", "Are you planning to conceive soon?", "Do you have concerns about age and fertility?"]
+  },
+  {
+    "id": 384,
+    "category": "fertility",
+    "question": "How does age affect fertility",
+    "alternate_questions": ["Fertility decline with age", "Why does fertility decrease", "Age impact on conception", "Older mother fertility", "Biological clock fertility"],
+    "keywords": ["age", "fertility decline", "egg quality", "egg quantity", "conception"],
+    "answer": "Age affects fertility primarily through egg quantity and quality. You're born with all the eggs you'll ever have (about 1-2 million), and this number declines throughout life. By puberty, you have about 300,000. After 35, the decline accelerates. Egg quality also decreases, meaning more eggs have chromosomal abnormalities, increasing miscarriage risk. The uterus and hormones also change with age. While fertility declines, assisted reproductive technologies like IVF can help many people conceive later in life.",
+    "follow_up": ["How old are you?", "Are you considering fertility preservation?", "Do you want to learn about IVF?"]
+  },
+  {
+    "id": 385,
+    "category": "fertility",
+    "question": "What factors affect fertility",
+    "alternate_questions": ["Fertility影响因素", "What impacts ability to conceive", "Causes of infertility", "Fertility risk factors", "Conception obstacles"],
+    "keywords": ["fertility factors", "infertility causes", "lifestyle", "health", "conception"],
+    "answer": "Factors affecting fertility include: Age (especially over 35), hormonal imbalances (PCOS, thyroid issues), structural problems (fibroids, endometriosis, blocked tubes), lifestyle (smoking, alcohol, drugs, obesity, underweight), stress, sexually transmitted infections, certain medications, cancer treatments, and genetics. Male factor infertility (sperm issues) accounts for about 40% of infertility cases. Often, multiple factors contribute. A fertility evaluation can identify specific issues.",
+    "follow_up": ["Do you have any known health conditions?", "What is your lifestyle like?", "Has your partner been evaluated?", "How long have you been trying?"]
+  },
+  {
+    "id": 386,
+    "category": "fertility",
+    "question": "Can I test my fertility at home",
+    "alternate_questions": ["Home fertility test", "Fertility testing kit", "At home ovarian reserve", "AMH test home", "DIY fertility check"],
+    "keywords": ["home fertility test", "ovarian reserve", "AMH", "FSH", "at home testing"],
+    "answer": "Yes, there are home fertility tests available. These typically measure FSH (follicle-stimulating hormone) in urine on day 3 of your cycle, which gives a rough idea of ovarian reserve. Some tests measure AMH (anti-Müllerian hormone), which reflects egg quantity. However, home tests have limitations. They don't assess egg quality, fallopian tube patency, uterine health, or male factor infertility. For a comprehensive fertility evaluation, see a reproductive endocrinologist.",
+    "follow_up": ["What specific concerns do you have?", "Have you tried any home tests?", "How long have you been trying to conceive?", "How old are you?"]
+  },
+  {
+    "id": 387,
+    "category": "fertility",
+    "question": "What is ovarian reserve",
+    "alternate_questions": ["Egg supply", "Ovarian reserve meaning", "How many eggs do I have left", "Egg quantity test", "Ovarian reserve testing"],
+    "keywords": ["ovarian reserve", "egg supply", "AMH", "FSH", "quantity"],
+    "answer": "Ovarian reserve refers to the number and quality of eggs remaining in your ovaries. It's tested through blood tests for AMH (anti-Müllerian hormone) and FSH (follicle-stimulating hormone), often combined with an antral follicle count via ultrasound. These tests estimate egg quantity but not egg quality. Low ovarian reserve doesn't mean you can't conceive, but it may indicate you'll need more time or assisted reproduction. High FSH or low AMH suggests diminished reserve.",
+    "follow_up": ["Have you had ovarian reserve testing?", "What were your results?", "Are you considering egg freezing?", "How old are you?"]
+  },
+  {
+    "id": 388,
+    "category": "fertility",
+    "question": "What is egg quality",
+    "alternate_questions": ["Quality of eggs", "Good eggs vs bad eggs", "Egg quality meaning", "Chromosomal egg quality", "Why does egg quality matter"],
+    "keywords": ["egg quality", "chromosomes", "genetic", "miscarriage", "age"],
+    "answer": "Egg quality refers to the genetic normalcy of an egg. A high-quality egg has the correct 23 chromosomes and can combine with sperm's 23 chromosomes to make a healthy embryo. Poor egg quality often means chromosomal abnormalities, which can prevent fertilization, cause early miscarriage, or lead to conditions like Down syndrome. Egg quality declines with age, especially after 35, which is why miscarriage rates increase and fertility decreases with maternal age.",
+    "follow_up": ["How old are you?", "Have you had miscarriages?", "Are you considering IVF with genetic testing?"]
+  },
+  {
+    "id": 389,
+    "category": "fertility",
+    "question": "Can lifestyle affect fertility",
+    "alternate_questions": ["Lifestyle and conception", "How habits affect fertility", "Fertility lifestyle factors", "Improving fertility naturally", "Healthy habits for conception"],
+    "keywords": ["lifestyle", "fertility", "habits", "natural improvement", "conception"],
+    "answer": "Yes, lifestyle significantly affects fertility. Positive factors include: maintaining a healthy weight, eating a balanced diet rich in antioxidants and omega-3s, moderate exercise, limiting caffeine and alcohol, not smoking, managing stress, getting adequate sleep, and taking prenatal vitamins with folic acid. Negative factors include: smoking (reduces fertility by 40%), excessive alcohol, recreational drugs, extreme exercise, obesity, underweight, and high stress. Both partners' lifestyles matter for conception.",
+    "follow_up": ["What is your current lifestyle like?", "Are you willing to make changes?", "Does your partner also need lifestyle changes?", "How long have you been trying?"]
+  },
+  {
+    "id": 390,
+    "category": "fertility",
+    "question": "Can smoking affect fertility",
+    "alternate_questions": ["Cigarettes and conception", "Smoking infertility", "Why does smoking reduce fertility", "Vaping fertility", "Tobacco and getting pregnant"],
+    "keywords": ["smoking", "fertility", "cigarettes", "nicotine", "conception"],
+    "answer": "Yes, smoking significantly reduces fertility. Smokers are about 40% less likely to conceive than non-smokers. Smoking damages eggs, accelerates ovarian aging, disrupts hormones, affects implantation, and increases miscarriage risk. It also affects male fertility by reducing sperm count and quality. Vaping may have similar effects due to nicotine and other chemicals. Quitting smoking improves fertility within months. If you're trying to conceive, quitting is one of the best things you can do.",
+    "follow_up": ["Do you smoke?", "How much do you smoke?", "Are you ready to quit?", "Have you tried quitting before?"]
+  },
+  {
+    "id": 391,
+    "category": "fertility",
+    "question": "Can alcohol affect fertility",
+    "alternate_questions": ["Drinking and conception", "Alcohol infertility", "How much alcohol affects fertility", "Wine and getting pregnant", "Beer fertility"],
+    "keywords": ["alcohol", "fertility", "conception", "moderation", "lifestyle"],
+    "answer": "Yes, heavy alcohol consumption can reduce fertility by disrupting hormones and affecting egg quality. Even moderate drinking (1-2 drinks daily) may slightly reduce fertility. Heavy drinking can cause irregular cycles and anovulation. The safest approach when trying to conceive is to avoid alcohol entirely, especially since you won't know you're pregnant in the first few weeks. If you choose to drink, limit to occasional light drinking and stop once you might be pregnant.",
+    "follow_up": ["How much do you drink?", "Are you actively trying to conceive?", "Are you willing to reduce or stop drinking?"]
+  },
+  {
+    "id": 392,
+    "category": "fertility",
+    "question": "Can caffeine affect fertility",
+    "alternate_questions": ["Coffee and conception", "Caffeine infertility", "How much caffeine is safe", "Tea fertility", "Energy drinks getting pregnant"],
+    "keywords": ["caffeine", "coffee", "fertility", "conception", "moderation"],
+    "answer": "High caffeine intake (more than 200-300mg daily, about 2-3 cups of coffee) may slightly reduce fertility and increase miscarriage risk. Moderate caffeine consumption (under 200mg daily) appears to have minimal impact. Caffeine is found in coffee, tea, soda, energy drinks, and chocolate. When trying to conceive, it's wise to limit caffeine to 200mg daily or less. Remember to count all sources, including medication and chocolate.",
+    "follow_up": ["How much caffeine do you consume daily?", "What are your main caffeine sources?", "Are you willing to reduce intake?"]
+  },
+  {
+    "id": 393,
+    "category": "fertility",
+    "question": "Can weight affect fertility",
+    "alternate_questions": ["BMI and conception", "Overweight fertility", "Underweight getting pregnant", "Weight loss fertility", "Obesity infertility"],
+    "keywords": ["weight", "BMI", "fertility", "obesity", "underweight"],
+    "answer": "Yes, both underweight (BMI under 18.5) and overweight/obese (BMI over 25) can affect fertility. Underweight may cause irregular cycles or anovulation due to insufficient estrogen. Overweight can cause insulin resistance, PCOS, and hormonal imbalances. Obesity is linked to lower IVF success rates and higher miscarriage rates. Losing even 5-10% of body weight if overweight, or gaining to a healthy weight if underweight, can significantly improve fertility. A healthy BMI is 18.5-24.9.",
+    "follow_up": ["What is your current BMI?", "Have you had weight-related cycle issues?", "Are you willing to work on weight management?"]
+  },
+  {
+    "id": 394,
+    "category": "fertility",
+    "question": "Can exercise affect fertility",
+    "alternate_questions": ["Working out conception", "Exercise infertility", "Too much exercise getting pregnant", "Fitness and fertility", "Yoga fertility"],
+    "keywords": ["exercise", "fertility", "moderate", "extreme", "conception"],
+    "answer": "Moderate exercise improves fertility by maintaining healthy weight, reducing stress, and balancing hormones. However, excessive high-intensity exercise (more than 5 hours weekly of vigorous activity) can disrupt cycles and cause anovulation, especially if combined with low body weight. The key is balance: aim for 30-60 minutes of moderate exercise most days. Activities like walking, swimming, yoga, and gentle strength training support fertility without overstressing your body.",
+    "follow_up": ["What is your current exercise routine?", "Is it moderate or very intense?", "Have you noticed exercise affecting your cycle?"]
+  },
+  {
+    "id": 395,
+    "category": "fertility",
+    "question": "Can stress affect fertility",
+    "alternate_questions": ["Stress and conception", "Anxiety infertility", "Why does stress reduce fertility", "Emotional stress getting pregnant", "Relaxation fertility"],
+    "keywords": ["stress", "fertility", "cortisol", "conception", "emotional"],
+    "answer": "Yes, chronic stress can affect fertility by disrupting the hypothalamic-pituitary-ovarian axis, potentially delaying ovulation or causing anovulation. Stress increases cortisol, which can interfere with reproductive hormones. While occasional stress is normal, chronic high stress may reduce fertility. However, the effect is usually modest and temporary. Stress management techniques like meditation, yoga, therapy, acupuncture, and adequate sleep support overall health and may improve fertility outcomes.",
+    "follow_up": ["Are you under significant stress?", "What stress management techniques have you tried?", "Is stress affecting your cycles?"]
+  },
+  {
+    "id": 396,
+    "category": "fertility",
+    "question": "What vitamins help fertility",
+    "alternate_questions": ["Fertility supplements", "Vitamins for conception", "Prenatal vitamins fertility", "Folic acid fertility", "CoQ10 fertility"],
+    "keywords": ["vitamins", "supplements", "fertility", "folic acid", "prenatal"],
+    "answer": "Key supplements for fertility include: Folic acid (400-800mcg daily) for neural tube defect prevention and egg health. CoQ10 (200-600mg) may improve egg quality, especially over 35. Vitamin D supports hormone balance. Omega-3 fatty acids reduce inflammation. Iron prevents anemia. B-complex vitamins support hormone production. Prenatal vitamins contain most of these. Always consult your healthcare provider before starting supplements, especially if taking medications or have health conditions.",
+    "follow_up": ["What supplements are you currently taking?", "Are you taking a prenatal vitamin?", "How old are you?", "Have you discussed supplements with your doctor?"]
+  },
+  {
+    "id": 397,
+    "category": "fertility",
+    "question": "What foods boost fertility",
+    "alternate_questions": ["Fertility diet", "Foods to conceive", "Nutrition for fertility", "Fertility superfoods", "Eating for conception"],
+    "keywords": ["foods", "diet", "fertility", "nutrition", "conception"],
+    "answer": "Fertility-boosting foods include: Leafy greens (folate, iron), fatty fish like salmon (omega-3s), berries (antioxidants), nuts and seeds (zinc, vitamin E), whole grains (B vitamins, fiber), legumes (plant protein, iron), avocados (healthy fats, folate), and colorful vegetables (antioxidants). The Mediterranean diet pattern is associated with better fertility outcomes. Avoid trans fats, excessive sugar, and highly processed foods. Both partners should eat a balanced, nutrient-rich diet.",
+    "follow_up": ["What does your current diet look like?", "Are you willing to make dietary changes?", "Does your partner also need dietary changes?"]
+  },
+  {
+    "id": 398,
+    "category": "fertility",
+    "question": "What is unexplained infertility",
+    "alternate_questions": ["No cause infertility", "Why can't I get pregnant", "Unexplained infertility meaning", "Idiopathic infertility", "No diagnosis infertility"],
+    "keywords": ["unexplained infertility", "no cause", "diagnosis", "frustration", "treatment"],
+    "answer": "Unexplained infertility is when standard fertility tests (ovulation, sperm analysis, fallopian tube patency, uterine evaluation) all come back normal, but conception still doesn't occur after 12 months of trying (6 months if over 35). It accounts for about 15-30% of infertility cases. While frustrating, many couples with unexplained infertility eventually conceive, sometimes with assisted reproductive technologies like IUI or IVF. Lifestyle optimization, timed intercourse, and fertility treatments are common approaches.",
+    "follow_up": ["Have you had fertility testing?", "What tests have been done?", "How long have you been trying?", "Are you considering fertility treatments?"]
+  },
+  {
+    "id": 399,
+    "category": "fertility",
+    "question": "What is secondary infertility",
+    "alternate_questions": ["Can't conceive second child", "Infertility after having baby", "Why can't I get pregnant again", "Secondary infertility causes", "Had child now infertile"],
+    "keywords": ["secondary infertility", "second child", "previous pregnancy", "causes", "frustration"],
+    "answer": "Secondary infertility is the inability to conceive or carry a pregnancy to term after previously giving birth. It affects about 11% of couples. Causes include age-related decline, new health conditions (thyroid issues, endometriosis), complications from previous pregnancy or delivery, weight changes, new partner with fertility issues, or lifestyle changes. The emotional impact can be significant, as others may not understand why you're struggling when you already have a child. Evaluation and treatment are similar to primary infertility.",
+    "follow_up": ["How long have you been trying for a second child?", "How old are you?", "Were there complications with your first pregnancy?", "Have you had any health changes?"]
+  },
+  {
+    "id": 400,
+    "category": "fertility",
+    "question": "When should I see a fertility specialist",
+    "alternate_questions": ["Fertility doctor when", "See reproductive endocrinologist", "Infertility evaluation timing", "When to get fertility help", "Fertility specialist referral"],
+    "keywords": ["fertility specialist", "reproductive endocrinologist", "timing", "evaluation", "when to seek help"],
+    "answer": "See a fertility specialist if: you're under 35 and have been trying for 12 months without success; you're 35-39 and have been trying for 6 months; you're 40 or older and want to conceive; you have irregular or absent periods; you have known fertility issues (PCOS, endometriosis, fibroids); you've had 2+ miscarriages; you have a history of pelvic infection or surgery; or your partner has known fertility issues. Early evaluation can save time and emotional distress.",
+    "follow_up": ["How old are you?", "How long have you been trying?", "Do you have any known health conditions?", "Has your partner been evaluated?"]
+  }
+]

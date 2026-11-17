@@ -1,0 +1,227 @@
+[
+  {
+    "id": 276,
+    "category": "spotting",
+    "question": "What is spotting",
+    "alternate_questions": ["Spotting meaning", "What counts as spotting", "Light bleeding between periods", "Spotting vs period", "Intermenstrual bleeding definition"],
+    "keywords": ["spotting", "light bleeding", "between periods", "intermenstrual", "definition"],
+    "answer": "Spotting is light bleeding that occurs between periods. It's usually much lighter than a regular period, often appearing as a few drops of blood, pink or brown discharge, or light staining that doesn't require a pad or tampon, just a panty liner. Spotting can be normal (like with ovulation or starting birth control) or indicate underlying issues. The color, timing, and accompanying symptoms help determine the cause.",
+    "follow_up": ["When does the spotting occur in your cycle?", "What color is the spotting?", "Do you have any other symptoms?"]
+  },
+  {
+    "id": 277,
+    "category": "spotting",
+    "question": "Why am I spotting between periods",
+    "alternate_questions": ["Spotting between cycles", "Why do I bleed between periods", "Intermenstrual spotting causes", "Unexpected light bleeding", "Bleeding not during period"],
+    "keywords": ["spotting", "between periods", "causes", "intermenstrual", "unexpected"],
+    "answer": "Spotting between periods can be caused by: ovulation (mid-cycle spotting), starting or missing hormonal birth control, implantation bleeding (early pregnancy), perimenopause, stress, thyroid issues, PCOS, uterine fibroids or polyps, cervical ectropion, infections (STIs, bacterial vaginosis), or cervical cancer (rare). Occasional spotting is often harmless, but persistent or heavy spotting should be evaluated by a healthcare provider.",
+    "follow_up": ["Where are you in your cycle?", "Are you on birth control?", "Could you be pregnant?", "Do you have pain or unusual discharge?"]
+  },
+  {
+    "id": 278,
+    "category": "spotting",
+    "question": "Is ovulation spotting normal",
+    "alternate_questions": ["Spotting during ovulation", "Mid-cycle bleeding normal", "Why do I spot when ovulating", "Ovulation light bleeding", "Fertile window spotting"],
+    "keywords": ["ovulation spotting", "mid-cycle", "normal", "fertile window", "egg release"],
+    "answer": "Yes, ovulation spotting is relatively common and usually harmless. It occurs when the egg is released from the ovary, sometimes causing a small amount of bleeding due to the rupture of the follicle. It typically happens around day 14 of a 28-day cycle, lasts 1-2 days, and is very light (pink or brown). Some people use it as a natural fertility sign. However, if spotting is heavy, painful, or occurs outside ovulation, see a doctor.",
+    "follow_up": ["Does the spotting occur mid-cycle?", "How heavy is it?", "Do you track ovulation?"]
+  },
+  {
+    "id": 279,
+    "category": "spotting",
+    "question": "Can implantation bleeding look like spotting",
+    "alternate_questions": ["Implantation spotting", "Early pregnancy spotting", "Implantation bleeding color", "Pregnancy spotting vs period", "Implantation bleeding how long"],
+    "keywords": ["implantation bleeding", "early pregnancy", "spotting", "conception", "pregnancy test"],
+    "answer": "Yes, implantation bleeding can look like light spotting. It occurs 6-12 days after conception when the fertilized egg attaches to the uterine lining. It's usually very light, pink or brown, and lasts 1-2 days, much shorter and lighter than a period. Not everyone experiences it. If you suspect implantation bleeding, wait 3-4 days after the spotting stops and take a pregnancy test for accurate results.",
+    "follow_up": ["When did the spotting occur relative to your expected period?", "Have you had unprotected sex?", "What color was the spotting?"]
+  },
+  {
+    "id": 280,
+    "category": "spotting",
+    "question": "Can birth control cause spotting",
+    "alternate_questions": ["Pill spotting", "IUD breakthrough bleeding", "Implant light bleeding", "Birth control and spotting between periods", "Hormonal contraception spotting"],
+    "keywords": ["birth control", "spotting", "breakthrough bleeding", "hormonal", "contraception"],
+    "answer": "Yes, spotting is very common when starting, stopping, or missing hormonal birth control. Your body needs 3-6 months to adjust to new hormone levels. Missing pills, taking them at different times, or switching methods can trigger breakthrough bleeding. Copper IUDs may cause spotting initially. If spotting persists beyond 6 months, is heavy, or accompanied by pain, consult your provider. They may adjust your prescription or check for other issues.",
+    "follow_up": ["What birth control are you using?", "How long have you been on it?", "Are you taking it consistently?", "Is the spotting improving?"]
+  },
+  {
+    "id": 281,
+    "category": "spotting",
+    "question": "Can stress cause spotting",
+    "alternate_questions": ["Stress and breakthrough bleeding", "Anxiety causing spotting", "Why does stress make me spot", "Emotional stress light bleeding", "Cortisol spotting"],
+    "keywords": ["stress", "spotting", "breakthrough bleeding", "cortisol", "hormonal disruption"],
+    "answer": "Yes, significant stress can cause spotting by disrupting the delicate hormonal balance that regulates your cycle. Elevated cortisol can suppress estrogen and progesterone, leading to breakthrough bleeding. This is your body's way of prioritizing survival over reproduction during perceived threats. Stress-related spotting is usually temporary and resolves when stress decreases. Practice stress management techniques and ensure adequate sleep and nutrition.",
+    "follow_up": ["Are you under significant stress?", "How long has the stress been ongoing?", "Have you tried stress reduction techniques?"]
+  },
+  {
+    "id": 282,
+    "category": "spotting",
+    "question": "Can perimenopause cause spotting",
+    "alternate_questions": ["Perimenopause breakthrough bleeding", "Menopause transition spotting", "Why do I spot in my 40s", "Aging and spotting between periods", "Perimenopause irregular bleeding"],
+    "keywords": ["perimenopause", "spotting", "menopause transition", "aging", "hormonal fluctuation"],
+    "answer": "Yes, perimenopause commonly causes spotting and irregular bleeding. As ovarian function declines, hormone levels fluctuate unpredictably, causing the uterine lining to shed irregularly. You might experience spotting between periods, heavier or lighter periods, or skipped cycles. While often normal, any bleeding changes after 45 should be evaluated to rule out endometrial hyperplasia, polyps, or other conditions. Regular checkups are important during this transition.",
+    "follow_up": ["How old are you?", "Are you having other perimenopause symptoms?", "How long has the spotting been occurring?"]
+  },
+  {
+    "id": 283,
+    "category": "spotting",
+    "question": "Can fibroids cause spotting",
+    "alternate_questions": ["Uterine fibroids spotting", "Myoma breakthrough bleeding", "Fibroids and light bleeding", "Why do fibroids cause spotting", "Fibroid symptoms spotting"],
+    "keywords": ["fibroids", "spotting", "uterine", "breakthrough bleeding", "tumors"],
+    "answer": "Yes, fibroids can cause spotting between periods, especially submucosal fibroids that bulge into the uterine cavity. They can also cause heavy periods, prolonged bleeding, pelvic pressure, and pain. Fibroids are benign muscle tumors that grow in or on the uterus. They're very common, affecting up to 80% of people with uteruses by age 50. If spotting is accompanied by other fibroid symptoms, see a gynecologist for ultrasound evaluation.",
+    "follow_up": ["Do you have heavy periods too?", "Do you have pelvic pain or pressure?", "Have you been evaluated for fibroids?"]
+  },
+  {
+    "id": 284,
+    "category": "spotting",
+    "question": "Can polyps cause spotting",
+    "alternate_questions": ["Uterine polyps spotting", "Endometrial polyp bleeding", "Cervical polyp spotting", "Polyp symptoms light bleeding", "Why do polyps cause spotting"],
+    "keywords": ["polyps", "spotting", "endometrial", "cervical", "growths"],
+    "answer": "Yes, uterine and cervical polyps commonly cause spotting, especially after sex or between periods. These small, usually benign growths of tissue are more common in people in their 40s-50s, those who are overweight, or those taking tamoxifen. Polyps may also cause heavy periods or bleeding after menopause. They're diagnosed with ultrasound or hysteroscopy and can often be easily removed in a simple office procedure.",
+    "follow_up": ["Do you spot after sex?", "How old are you?", "Have you had an ultrasound?", "Are you on tamoxifen?"]
+  },
+  {
+    "id": 285,
+    "category": "spotting",
+    "question": "Can infections cause spotting",
+    "alternate_questions": ["STI spotting", "Infection breakthrough bleeding", "Why does infection make me spot", "Bacterial vaginosis spotting", "Yeast infection light bleeding"],
+    "keywords": ["infection", "STI", "spotting", "breakthrough bleeding", "pathogen"],
+    "answer": "Yes, infections can cause spotting. Sexually transmitted infections like chlamydia and gonorrhea can cause cervical inflammation and bleeding, especially after sex. Bacterial vaginosis and yeast infections typically cause discharge and itching but can sometimes cause light bleeding. Pelvic inflammatory disease (PID) may cause spotting with pain and fever. If you have spotting with unusual discharge, odor, itching, or pain, get tested for infections promptly.",
+    "follow_up": ["Do you have unusual discharge or odor?", "Do you have pelvic pain?", "Have you had recent unprotected sex?", "Do you have fever?"]
+  },
+  {
+    "id": 286,
+    "category": "spotting",
+    "question": "Can cervical ectropion cause spotting",
+    "alternate_questions": ["Cervical erosion spotting", "Ectropion bleeding", "Why does my cervix bleed easily", "Cervical ectropion symptoms", "Cervical cells spotting"],
+    "keywords": ["cervical ectropion", "cervical erosion", "spotting", "cervix", "benign"],
+    "answer": "Yes, cervical ectropion (also called cervical erosion or eversion) commonly causes spotting, especially after sex, pelvic exams, or exercise. It occurs when glandular cells from inside the cervical canal grow on the outer surface of the cervix. These cells are more delicate and bleed easily. It's benign, very common (especially in younger people and those on the pill), and often requires no treatment. Your doctor can diagnose it during a routine exam.",
+    "follow_up": ["Do you spot after sex or exams?", "Are you on birth control pills?", "How old are you?", "Has a doctor mentioned this?"]
+  },
+  {
+    "id": 287,
+    "category": "spotting",
+    "question": "Can thyroid problems cause spotting",
+    "alternate_questions": ["Hypothyroidism spotting", "Hyperthyroidism breakthrough bleeding", "Thyroid disease light bleeding", "TSH and spotting", "Thyroid hormone irregular bleeding"],
+    "keywords": ["thyroid", "spotting", "hormonal imbalance", "endocrine", "breakthrough bleeding"],
+    "answer": "Yes, thyroid disorders can cause spotting and other menstrual irregularities. Thyroid hormones interact closely with reproductive hormones. Hypothyroidism may cause heavier or more frequent bleeding, while hyperthyroidism can cause lighter or irregular bleeding including spotting. Other thyroid symptoms include weight changes, temperature sensitivity, hair loss, and fatigue. A simple blood test can check your thyroid function, and treatment usually resolves cycle issues.",
+    "follow_up": ["Do you have other thyroid symptoms?", "Have you had thyroid tests?", "Are you on thyroid medication?"]
+  },
+  {
+    "id": 288,
+    "category": "spotting",
+    "question": "Can PCOS cause spotting",
+    "alternate_questions": ["Polycystic ovary spotting", "PCOS breakthrough bleeding", "Why does PCOS make me spot", "PCOS irregular bleeding", "Polycystic spotting between periods"],
+    "keywords": ["PCOS", "spotting", "polycystic", "hormonal imbalance", "irregular"],
+    "answer": "Yes, PCOS commonly causes spotting and irregular bleeding. In PCOS, hormonal imbalances (high androgens, insulin resistance) prevent regular ovulation. Without ovulation, progesterone doesn't rise properly, leading to an unstable uterine lining that sheds irregularly. This results in unpredictable spotting, light bleeding, or very heavy periods. If you have spotting with other PCOS symptoms (acne, excess hair, weight gain), see a healthcare provider for evaluation.",
+    "follow_up": ["Do you have other PCOS symptoms?", "How irregular are your cycles?", "Have you been diagnosed with PCOS?"]
+  },
+  {
+    "id": 289,
+    "category": "spotting",
+    "question": "Is spotting after sex normal",
+    "alternate_questions": ["Bleeding after intercourse", "Postcoital spotting", "Why do I bleed after sex", "Sex causing light bleeding", "Spotting following intimacy"],
+    "keywords": ["spotting after sex", "postcoital bleeding", "intercourse", "cervical", "normal"],
+    "answer": "Occasional light spotting after sex can be normal, especially if there's not enough lubrication, sex is vigorous, or you're near your period. However, frequent postcoital bleeding should be evaluated. Causes include cervical ectropion, infections (STIs, BV), cervical polyps, vaginal dryness (especially after menopause or while breastfeeding), and rarely, cervical cancer. If you're postmenopausal or have persistent postcoital bleeding, see a doctor promptly.",
+    "follow_up": ["How often does this happen?", "Is there enough lubrication?", "Do you have pain during sex?", "Are you postmenopausal?"]
+  },
+  {
+    "id": 290,
+    "category": "spotting",
+    "question": "Is spotting before my period normal",
+    "alternate_questions": ["Spotting premenstrual", "Light bleeding before period", "Why do I spot before menstruating", "Pre-period spotting", "Brown discharge before period"],
+    "keywords": ["spotting before period", "premenstrual", "brown discharge", "luteal phase", "normal"],
+    "answer": "Light spotting 1-2 days before your period is often normal and is usually old blood leaving the body as hormone levels drop. Brown or dark spotting indicates older blood. However, consistent spotting several days before your period could indicate low progesterone (luteal phase defect), endometriosis, fibroids, or other issues. If premenstrual spotting is new, heavy, or accompanied by pain, consult a healthcare provider.",
+    "follow_up": ["How many days before your period does the spotting start?", "What color is it?", "Do you have cramps or other symptoms?"]
+  },
+  {
+    "id": 291,
+    "category": "spotting",
+    "question": "Is spotting after my period normal",
+    "alternate_questions": ["Spotting postmenstrual", "Light bleeding after period ends", "Why do I spot after menstruating", "Post-period spotting", "Brown discharge after period"],
+    "keywords": ["spotting after period", "postmenstrual", "brown discharge", "old blood", "normal"],
+    "answer": "Spotting for 1-2 days after your period is often normal and is simply the last of the uterine lining shedding. Brown or dark discharge indicates older blood. If spotting continues for more than 2-3 days after your period, or is bright red, it could indicate hormonal imbalance, polyps, fibroids, or other issues. Track how long post-period spotting lasts and mention it to your healthcare provider if persistent.",
+    "follow_up": ["How long does the spotting last after your period?", "What color is it?", "Is this a new occurrence?"]
+  },
+  {
+    "id": 292,
+    "category": "spotting",
+    "question": "When should I worry about spotting",
+    "alternate_questions": ["Spotting warning signs", "When to see doctor spotting", "Abnormal spotting symptoms", "Serious spotting causes", "Spotting medical attention"],
+    "keywords": ["warning signs", "medical attention", "spotting", "concern", "abnormal"],
+    "answer": "See a doctor if you experience: spotting after menopause, heavy spotting (soaking a pad), spotting with severe pain, spotting with fever, spotting with unusual discharge or odor, persistent spotting for more than 3 months, spotting after sex if postmenopausal, or spotting with dizziness/fainting. While most spotting is benign, these signs could indicate infection, polyps, fibroids, or rarely, cancer. Early evaluation is always best.",
+    "follow_up": ["Are you experiencing any of these warning signs?", "How long has the spotting been happening?", "Are you postmenopausal?"]
+  },
+  {
+    "id": 293,
+    "category": "spotting",
+    "question": "Can exercise cause spotting",
+    "alternate_questions": ["Workout spotting", "Exercise breakthrough bleeding", "Why do I spot after working out", "Fitness and light bleeding", "Intense exercise spotting"],
+    "keywords": ["exercise", "spotting", "breakthrough bleeding", "fitness", "intense"],
+    "answer": "Yes, intense exercise can cause spotting, especially if you're training heavily or have low body fat. Exercise affects hormone levels, and extreme physical stress can disrupt your cycle. Spotting after exercise might also be related to cervical irritation if you're using tampons or menstrual cups. Moderate exercise is unlikely to cause spotting. If you spot regularly after workouts, especially with other symptoms, see a healthcare provider.",
+    "follow_up": ["How intense is your exercise routine?", "Do you spot only after specific activities?", "Are you eating enough for your activity level?"]
+  },
+  {
+    "id": 294,
+    "category": "spotting",
+    "question": "Can pregnancy cause spotting",
+    "alternate_questions": ["Spotting while pregnant", "First trimester bleeding", "Why do I spot during pregnancy", "Pregnancy light bleeding normal", "Spotting expecting baby"],
+    "keywords": ["pregnancy", "spotting", "first trimester", "implantation", "concern"],
+    "answer": "Yes, spotting is common in early pregnancy. About 20-30% of people experience some light bleeding in the first trimester. Causes include implantation bleeding, cervical changes, or minor irritation. However, spotting can also indicate miscarriage or ectopic pregnancy, especially if accompanied by cramping, pain, or heavy bleeding. Any spotting during pregnancy should be reported to your healthcare provider for evaluation and peace of mind.",
+    "follow_up": ["How far along are you?", "What color is the spotting?", "Do you have cramping or pain?", "Have you had an ultrasound?"]
+  },
+  {
+    "id": 295,
+    "category": "spotting",
+    "question": "Can a Pap smear cause spotting",
+    "alternate_questions": ["Spotting after Pap test", "Cervical screening bleeding", "Why do I bleed after Pap smear", "Pelvic exam spotting", "Doctor visit light bleeding"],
+    "keywords": ["Pap smear", "spotting", "cervical screening", "pelvic exam", "normal"],
+    "answer": "Yes, light spotting after a Pap smear or pelvic exam is very common and normal. The brush or spatula used to collect cervical cells can cause minor irritation of the delicate cervical tissue. This spotting is usually light pink or brown and lasts 1-2 days. If bleeding is heavy, lasts more than 2 days, or is accompanied by severe pain or fever, contact your healthcare provider as these are not typical after-effects.",
+    "follow_up": ["How long ago was your Pap smear?", "How heavy is the spotting?", "Do you have pain or fever?"]
+  },
+  {
+    "id": 296,
+    "category": "spotting",
+    "question": "Can an IUD cause spotting",
+    "alternate_questions": ["IUD breakthrough bleeding", "Mirena spotting", "Copper IUD light bleeding", "Why does my IUD make me spot", "IUD irregular bleeding"],
+    "keywords": ["IUD", "spotting", "breakthrough bleeding", "contraception", "adjustment"],
+    "answer": "Yes, spotting is very common with both hormonal and copper IUDs, especially in the first 3-6 months after insertion. Hormonal IUDs (Mirena, Kyleena) often cause frequent spotting initially, which usually decreases over time and may eventually stop periods altogether. Copper IUDs (Paragard) may cause heavier bleeding and more spotting. If spotting is severe, persistent beyond 6 months, or accompanied by pain, see your provider to ensure proper placement.",
+    "follow_up": ["What type of IUD do you have?", "How long have you had it?", "Is the spotting improving over time?", "Do you have pain?"]
+  },
+  {
+    "id": 297,
+    "category": "spotting",
+    "question": "Can emergency contraception cause spotting",
+    "alternate_questions": ["Plan B spotting", "Morning after pill bleeding", "Emergency contraception light bleeding", "Why do I spot after Plan B", "Post morning after pill spotting"],
+    "keywords": ["emergency contraception", "Plan B", "spotting", "morning after pill", "side effects"],
+    "answer": "Yes, emergency contraception commonly causes spotting or changes in your next period. The high dose of hormones can disrupt your cycle, causing spotting a few days after taking it, or making your next period earlier, later, lighter, or heavier. This is normal and temporary. If spotting persists for more than a week, or if your period is more than a week late after taking emergency contraception, take a pregnancy test as EC is not 100% effective.",
+    "follow_up": ["When did you take emergency contraception?", "How long has the spotting lasted?", "Is your period late?"]
+  },
+  {
+    "id": 298,
+    "category": "spotting",
+    "question": "Can endometriosis cause spotting",
+    "alternate_questions": ["Endo spotting", "Endometriosis breakthrough bleeding", "Why does endometriosis cause spotting", "Endometriosis light bleeding", "Endo irregular bleeding"],
+    "keywords": ["endometriosis", "spotting", "endo", "irregular bleeding", "tissue"],
+    "answer": "Yes, endometriosis can cause spotting between periods, before periods, and after sex. Endometrial tissue growing outside the uterus bleeds during your cycle but has nowhere to exit, causing inflammation and irregular bleeding. Endometriosis often causes severe cramps, pain during sex, and fertility issues along with spotting. If you have spotting with these symptoms, see a gynecologist. Diagnosis may require ultrasound or laparoscopy.",
+    "follow_up": ["Do you have severe period pain?", "Do you have pain during sex?", "Do you have fertility concerns?", "Have you been evaluated for endometriosis?"]
+  },
+  {
+    "id": 299,
+    "category": "spotting",
+    "question": "Can uterine cancer cause spotting",
+    "alternate_questions": ["Endometrial cancer spotting", "Uterine cancer bleeding", "Cancer spotting symptoms", "Why does cancer cause spotting", "Malignancy light bleeding"],
+    "keywords": ["cancer", "spotting", "endometrial", "malignancy", "warning sign"],
+    "answer": "Yes, endometrial (uterine) cancer can cause spotting, especially after menopause. Before menopause, it's less common but can cause irregular bleeding. Risk factors include age over 50, obesity, PCOS, diabetes, family history, and tamoxifen use. While most spotting is NOT cancer, postmenopausal bleeding always requires prompt evaluation. Before menopause, persistent unusual spotting with other risk factors should be checked. Early detection greatly improves outcomes.",
+    "follow_up": ["How old are you?", "Are you postmenopausal?", "Do you have risk factors?", "How long has the spotting been occurring?"]
+  },
+  {
+    "id": 300,
+    "category": "spotting",
+    "question": "How do I track spotting",
+    "alternate_questions": ["Spotting tracking methods", "Log breakthrough bleeding", "How to record spotting", "Tracking light bleeding", "Spotting diary"],
+    "keywords": ["tracking", "spotting", "log", "record", "monitor"],
+    "answer": "Track spotting by noting: date and time, color (pink, red, brown, black), amount (light, medium, heavy), what triggered it (sex, exercise, missed pill), associated symptoms (pain, cramping, discharge), and where you are in your cycle. Use a period tracking app or journal. This information helps identify patterns and is valuable for healthcare providers. Take photos if comfortable (for your own reference) to show color changes.",
+    "follow_up": ["Are you currently tracking your cycle?", "What app or method do you use?", "Have you noticed any patterns?"]
+  }
+]

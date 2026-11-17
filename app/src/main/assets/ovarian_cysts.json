@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2701,
+    "category": "ovarian_cysts",
+    "question": "What is an ovarian cyst?",
+    "alternate_questions": ["Define ovarian cyst", "What causes cysts on ovaries?", "Are ovarian cysts common?"],
+    "keywords": ["ovarian cyst", "ovaries", "fluid-filled", "sac", "common"],
+    "answer": "An ovarian cyst is a fluid-filled sac that develops on or inside an ovary. They are very common and often form during the normal menstrual cycle. Most cysts are harmless and go away on their own.",
+    "follow_up": ["What are the symptoms of an ovarian cyst?", "Do ovarian cysts cause pain?", "Can a cyst affect fertility?"]
+  },
+  {
+    "id": 2702,
+    "category": "ovarian_cysts",
+    "question": "What are the symptoms of an ovarian cyst?",
+    "alternate_questions": ["Signs of ovarian cysts", "How do I know if I have a cyst?", "Does a cyst hurt?"],
+    "keywords": ["symptoms", "ovarian cyst", "bloating", "pelvic pain", "fullness"],
+    "answer": "Many cysts have no symptoms. If they do, common signs include pelvic pain (dull or sharp), bloating, a feeling of fullness or heaviness in the abdomen, and pain during sex. If a cyst ruptures, it can cause sudden, severe pain.",
+    "follow_up": ["What happens if a cyst ruptures?", "Is bloating a sign of a cyst?", "When should I see a doctor for pelvic pain?"]
+  },
+  {
+    "id": 2703,
+    "category": "ovarian_cysts",
+    "question": "How are ovarian cysts treated?",
+    "alternate_questions": ["Ovarian cyst treatment", "Curing ovarian cysts", "Surgery for cysts"],
+    "keywords": ["treatment", "ovarian cyst", "watchful waiting", "birth control", "surgery"],
+    "answer": "Treatment depends on the size and type of the cyst. Options include 'watchful waiting' (monitoring to see if it goes away), hormonal birth control to prevent new cysts, or surgery if the cyst is large, persistent, or causing severe symptoms.",
+    "follow_up": ["Does birth control shrink cysts?", "When is surgery necessary for cysts?", "How does a doctor monitor a cyst?"]
+  },
+  {
+    "id": 2704,
+    "category": "ovarian_cysts",
+    "question": "What is a ruptured ovarian cyst?",
+    "alternate_questions": ["Cyst bursting symptoms", "Is a burst cyst dangerous?", "Sudden pain from cyst"],
+    "keywords": ["rupture", "burst", "ovarian cyst", "emergency", "pain"],
+    "answer": "A ruptured cyst is when the fluid-filled sac breaks open. It can cause sudden, sharp pelvic pain and sometimes internal bleeding. While some ruptures are minor, others can be a medical emergency and require immediate attention.",
+    "follow_up": ["What are the signs of a ruptured cyst emergency?", "How is a ruptured cyst treated?", "Does a ruptured cyst cause a period?"]
+  },
+  {
+    "id": 2705,
+    "category": "ovarian_cysts",
+    "question": "Can ovarian cysts affect fertility?",
+    "alternate_questions": ["Getting pregnant with cysts", "Cysts and infertility", "Will a cyst stop me from having babies?"],
+    "keywords": ["fertility", "pregnancy", "ovarian cyst", "infertility", "conception"],
+    "answer": "Most ovarian cysts do not affect your ability to get pregnant. However, some underlying conditions that cause cysts, like endometriosis or Polycystic Ovary Syndrome (PCOS), can impact fertility.",
+    "follow_up": ["What is PCOS?", "How does endometriosis affect fertility?", "Should I talk to a fertility specialist about my cysts?"]
+  }
+]

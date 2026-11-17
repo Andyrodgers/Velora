@@ -1,0 +1,47 @@
+[
+  {
+    "id": 121,
+    "category": "uti",
+    "question": "What is a UTI?",
+    "alternate_questions": ["What does UTI stand for?", "Tell me about urinary tract infections", "What is a urinary tract infection?"],
+    "keywords": ["uti", "urinary", "tract", "infection", "definition"],
+    "answer": "A UTI, or Urinary Tract Infection, is an infection in any part of your urinary system—your kidneys, ureters, bladder, and urethra. Most infections involve the lower urinary tract—the bladder and the urethra.",
+    "follow_up": ["What are the symptoms of a UTI?", "How are UTIs treated?", "Are UTIs common during periods?"]
+  },
+  {
+    "id": 122,
+    "category": "uti",
+    "question": "What are the symptoms of a UTI?",
+    "alternate_questions": ["How do I know if I have a UTI?", "UTI signs", "Does it burn when I pee?"],
+    "keywords": ["uti", "symptoms", "burning", "urination", "pain"],
+    "answer": "Common symptoms include a strong, persistent urge to urinate, a burning sensation when urinating, passing frequent, small amounts of urine, and urine that appears cloudy or has a strong smell.",
+    "follow_up": ["Can a UTI go away on its own?", "What causes a UTI?", "When should I see a doctor for a UTI?"]
+  },
+  {
+    "id": 123,
+    "category": "uti",
+    "question": "How can I prevent UTIs?",
+    "alternate_questions": ["Ways to avoid UTIs", "UTI prevention tips", "How to stop getting UTIs"],
+    "keywords": ["prevent", "uti", "prevention", "hygiene", "water"],
+    "answer": "To prevent UTIs, drink plenty of water, wipe from front to back after using the bathroom, empty your bladder soon after sex, and avoid potentially irritating feminine products like deodorant sprays or douches.",
+    "follow_up": ["Does cranberry juice help with UTIs?", "Why do I get frequent UTIs?", "Can tight clothes cause UTIs?"]
+  },
+  {
+    "id": 124,
+    "category": "uti",
+    "question": "Are UTIs more common during your period?",
+    "alternate_questions": ["Period and UTI link", "Why do I get UTIs on my period?", "Can menstruation cause UTIs?"],
+    "keywords": ["uti", "period", "menstruation", "link", "common"],
+    "answer": "Yes, some people find they are more prone to UTIs during their period. Changes in hormone levels and the use of certain menstrual products can sometimes increase the risk of bacteria entering the urethra.",
+    "follow_up": ["How to maintain hygiene during period?", "Can tampons cause UTIs?", "Should I change pads more often to prevent UTIs?"]
+  },
+  {
+    "id": 125,
+    "category": "uti",
+    "question": "Does cranberry juice cure a UTI?",
+    "alternate_questions": ["Can I drink cranberry juice for a UTI?", "Is cranberry juice effective for UTI treatment?", "Natural remedies for UTI"],
+    "keywords": ["cranberry", "juice", "uti", "cure", "remedy"],
+    "answer": "Cranberry juice is often used for UTI prevention, but it's not a proven cure for an active infection. If you have symptoms of a UTI, it's important to see a doctor as you may need antibiotics.",
+    "follow_up": ["What antibiotics treat UTIs?", "What are home remedies for UTI relief?", "How long does a UTI last?"]
+  }
+]

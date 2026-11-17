@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1301,
+    "category": "red_flag_symptoms",
+    "question": "What are red flag period symptoms?",
+    "alternate_questions": ["When should I worry about my period?", "Warning signs during period", "Emergency period symptoms"],
+    "keywords": ["red flag", "warning", "emergency", "severe", "symptoms"],
+    "answer": "Red flag symptoms include extremely heavy bleeding (soaking a pad or tampon every hour), severe pelvic pain that doesn't improve with medication, fainting or dizziness, fever with pelvic pain, or periods that suddenly become very irregular or stop for several months.",
+    "follow_up": ["What is considered heavy bleeding?", "What causes severe pelvic pain?", "When should I go to the ER for period pain?"]
+  },
+  {
+    "id": 1302,
+    "category": "red_flag_symptoms",
+    "question": "Is severe pain a red flag?",
+    "alternate_questions": ["How much period pain is too much?", "When is pain not normal?", "Signs of dangerous pelvic pain"],
+    "keywords": ["severe pain", "red flag", "intense", "pelvic pain", "emergency"],
+    "answer": "While some discomfort is common, pain that prevents you from doing daily activities or doesn't respond to over-the-counter pain relief is a red flag. Sudden, sharp, or one-sided pelvic pain can also be a sign of an emergency like a ruptured cyst or ectopic pregnancy.",
+    "follow_up": ["What is an ectopic pregnancy?", "Can a cyst cause sharp pain?", "What are alternatives to OTC pain relief?"]
+  },
+  {
+    "id": 1303,
+    "category": "red_flag_symptoms",
+    "question": "Is soaking through a pad an hour a red flag?",
+    "alternate_questions": ["How much bleeding is too much?", "Signs of hemorrhage during period", "Excessive bleeding red flags"],
+    "keywords": ["heavy bleeding", "soaking", "pad", "tampon", "hemorrhage"],
+    "answer": "Yes, soaking through one or more pads or tampons every hour for several consecutive hours is considered excessive bleeding and is a medical red flag. You should contact a healthcare provider immediately.",
+    "follow_up": ["What causes very heavy periods?", "Can heavy bleeding cause anemia?", "What are the treatments for heavy flow?"]
+  },
+  {
+    "id": 1304,
+    "category": "red_flag_symptoms",
+    "question": "Are large blood clots a red flag?",
+    "alternate_questions": ["How big is a too big blood clot?", "Passing large clots during period", "Are blood clots dangerous?"],
+    "keywords": ["blood clots", "large clots", "size", "red flag", "heavy flow"],
+    "answer": "Passing blood clots that are larger than a quarter (about 1 inch or 2.5 cm) is often considered a red flag, especially if accompanied by heavy bleeding. It's best to discuss this with your doctor.",
+    "follow_up": ["Why do I have blood clots?", "Does everyone have clots?", "How to track clot size?"]
+  },
+  {
+    "id": 1305,
+    "category": "red_flag_symptoms",
+    "question": "What should I do if I have red flag symptoms?",
+    "alternate_questions": ["Who to call for emergency symptoms?", "Where to go for severe period issues", "Immediate actions for red flags"],
+    "keywords": ["action", "doctor", "emergency", "ER", "red flag"],
+    "answer": "If you experience red flag symptoms, you should contact your OB-GYN or primary care doctor immediately. If symptoms are severe, such as fainting, extreme pain, or uncontrollable bleeding, go to the nearest emergency room.",
+    "follow_up": ["How to prepare for a doctor visit?", "What information will the ER need?", "Can I wait until morning?"]
+  }
+]

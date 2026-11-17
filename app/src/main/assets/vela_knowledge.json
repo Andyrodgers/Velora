@@ -1,0 +1,144 @@
+[
+  {
+    "keywords": ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening", "sup", "yo", "anyone there", "vela", "start", "wake up"],
+    "responses": [
+      "Hello! I'm Vela, your Velora companion. How are you feeling today?",
+      "Hi there! I'm here to help you track your cycle and stay healthy. How can I support you today?",
+      "Hey! Great to see you. How has your day been so far?",
+      "Greetings! I'm ready to help with any questions about your cycle or the app.",
+      "Hi! I'm Vela. It's a pleasure to chat with you. What's on your mind?",
+      "Hello! I'm your dedicated health assistant. Ready to log some data or just chat?"
+    ]
+  },
+  {
+    "keywords": ["who are you", "what is your name", "tell me about yourself", "your name", "what do you do", "introduce", "identity"],
+    "responses": [
+      "I am Vela, your compassionate AI companion for the Velora app.",
+      "I'm Vela! My mission is to help you understand your body and stay empowered throughout your cycle.",
+      "You can call me Vela. I'm part of the Velora team, dedicated to your menstrual health and wellbeing.",
+      "I'm your virtual cycle tracker assistant. I help you make sense of your symptoms and data.",
+      "I am Vela, an AI designed specifically to support users of the Velora app with their health journey."
+    ]
+  },
+  {
+    "keywords": ["missed period", "late period", "not coming", "delayed", "pregnancy", "pregnant", "period missing", "when will it come", "overdue"],
+    "responses": [
+      "A late or missed period can be caused by many things: stress, travel, illness, or pregnancy. If you're sexually active, you might want to take a test.",
+      "If your period is more than a week late, it's worth considering a pregnancy test or consulting a doctor if you're concerned about hormonal imbalances.",
+      "Periods can be irregular due to changes in diet, exercise, or significant stress. Have you had any big changes lately?",
+      "Missing a period occasionally can be normal, but if it happens often, it's a good idea to chat with a healthcare provider about it.",
+      "Stress is a huge factor in delayed cycles. Try to relax and keep logging your symptoms so we can see the pattern.",
+      "If you suspect pregnancy, the most reliable next step is a home test or a blood test at a clinic."
+    ]
+  },
+  {
+    "keywords": ["heavy bleeding", "too much blood", "period flow", "menorrhagia", "clots", "soaking", "bleeding a lot", "flooding", "hemorrhage"],
+    "responses": [
+      "If you're experiencing unusually heavy bleeding (soaking through a pad or tampon every hour), please consult a doctor immediately.",
+      "Flow can vary, but staying hydrated and getting enough iron is important if your flow is heavy. Keep an eye on any large blood clots.",
+      "You can log your flow intensity in the daily logs to track patterns over several months. This data is great to show a doctor.",
+      "Heavy bleeding can sometimes cause fatigue due to low iron. Make sure you're eating iron-rich foods like leafy greens.",
+      "Menorrhagia is the medical term for heavy periods. If you feel dizzy or very weak while bleeding, please seek medical advice.",
+      "Are you seeing clots larger than a quarter? If so, that's definitely something to mention to your gynecologist."
+    ]
+  },
+  {
+    "keywords": ["tired", "fatigue", "exhausted", "no energy", "sleepy", "lethargic", "weak", "worn out", "drained"],
+    "responses": [
+      "Feeling tired is very common during the luteal phase and menstruation. Your body is using a lot of energy! Make sure to rest.",
+      "Try to prioritize sleep and stay hydrated. Low iron during your period can also contribute to feeling exhausted.",
+      "It's okay to slow down. Listen to your body and give yourself permission to take a nap if you need one.",
+      "Hormonal shifts can definitely impact your energy levels. Magnesium-rich foods or supplements might help, but check with a pro first.",
+      "Are you getting enough rest? The app's log feature can help you see if your fatigue follows a specific pattern in your cycle.",
+      "Lower energy is a signal to nourish yourself. Consider iron-rich snacks like nuts or spinach."
+    ]
+  },
+  {
+    "keywords": ["mood", "sad", "angry", "irritable", "crying", "anxious", "emotional", "mood swings", "pms", "happy", "energetic", "depressed", "nervous"],
+    "responses": [
+      "Mood changes are a normal part of hormonal shifts. Be kind to yourself today.",
+      "If you're feeling irritable or sad, it might be PMS. Tracking these feelings in the 'Log Today' section can help you predict them next month.",
+      "It's completely normal to feel more emotional during certain times of your month. Remember, this phase will pass.",
+      "Hormones can be a roller coaster! Deep breathing, meditation, or just talking to a friend can sometimes help with mood swings.",
+      "Log your mood today so you can see the patterns in the Insights section. It helps to know when to expect these feelings.",
+      "You are not alone in feeling this way. Many users report similar mood shifts just before their period starts."
+    ]
+  },
+  {
+    "keywords": ["eat", "food", "diet", "meal", "nutrition", "cravings", "chocolate", "salty", "iron", "vitamins", "what to eat", "hungry", "snack"],
+    "responses": [
+      "For cramps, try magnesium-rich foods like dark chocolate, nuts, and leafy greens.",
+      "Staying hydrated is key! Drink plenty of water and herbal teas. Avoid too much caffeine or salt if you're feeling bloated.",
+      "If you have a heavy flow, focus on iron-rich foods like spinach, beans, and lean meats to keep your energy up.",
+      "Cravings for sweets or salt are very common during PMS. It's okay to indulge a little, but try to balance it with nutritious meals.",
+      "Warm, comforting meals like soups or stews can be especially soothing during the first few days of your period.",
+      "Ginger and turmeric are great anti-inflammatory foods that might help reduce period pain."
+    ]
+  },
+  {
+    "keywords": ["discharge", "fluid", "mucus", "spotting", "white", "clear", "yellow", "odor", "smell", "itching", "wet", "stain", "brown"],
+    "responses": [
+      "Cervical mucus changes throughout your cycle. Clear and stretchy discharge usually means you're approaching ovulation.",
+      "White, creamy discharge is common after ovulation. However, if it's thick like cottage cheese and itchy, it could be a yeast infection.",
+      "A slight odor is normal, but a strong, 'fishy' smell or yellow/green discharge should be checked by a doctor.",
+      "Spotting between periods can happen for many reasons. Log it in your notes so you can track how often it occurs.",
+      "Healthy discharge is usually clear or white and doesn't have a strong, unpleasant smell or cause irritation.",
+      "Brown discharge is often just 'old blood' from the end of a period, but if it's persistent, mention it to a doctor."
+    ]
+  },
+  {
+    "keywords": ["day", "month", "date", "calendar", "time", "today", "tomorrow", "yesterday", "schedule"],
+    "responses": [
+      "The app always shows your status for 'Today' on the main dashboard circle.",
+      "You can see a summary of past months in the 'Cycle history' section on the home page.",
+      "Want to see the bigger picture? Click 'See all' on the cycle history box to view your calendar over time.",
+      "I use your logged dates to build a calendar tailored to your body's specific rhythm.",
+      "Check the top of the app for today's phase and the middle for the predicted start date of your next cycle.",
+      "Every day you log makes my predictions more accurate for the following months!"
+    ]
+  },
+  {
+    "keywords": ["cramps", "pain", "dysmenorrhea", "hurts", "aching", "back pain", "stomach ache", "headache", "migraine"],
+    "responses": [
+      "Period cramps can be very uncomfortable. Try a warm heating pad, light exercise, or staying extra hydrated.",
+      "To help with cramps, many users find herbal teas (like ginger or peppermint) and rest beneficial.",
+      "Cramps are a common part of the cycle, but if they stop you from doing daily activities, it's a good idea to talk to a doctor.",
+      "A warm bath or a hot water bottle on your lower abdomen can help relax the muscles and ease the pain.",
+      "Gentle movements like yoga or a short walk can sometimes help reduce the intensity of menstrual cramps.",
+      "If you get headaches or migraines during your cycle, keep track of them to see if they are related to your hormonal phases."
+    ]
+  },
+  {
+    "keywords": ["thanks", "thank you", "ty", "awesome", "helpful", "good bot", "great", "appreciate", "helped"],
+    "responses": [
+      "You're very welcome! I'm always here to help.",
+      "Happy to support you! Is there anything else you'd like to know?",
+      "Anytime! Stay healthy and empowered.",
+      "It's my pleasure. I'm glad I could help you today.",
+      "You're welcome! I'm here whenever you have more questions.",
+      "I'm glad I could provide some useful information for you!"
+    ]
+  },
+  {
+    "keywords": ["bye", "goodbye", "see you", "gn", "goodnight", "done", "quit", "exit", "leaving"],
+    "responses": [
+      "Goodbye! Take care of yourself and see you soon.",
+      "Bye! I'll be here whenever you need more cycle support.",
+      "Goodnight! Rest well, your body deserves it.",
+      "See you next time! Don't forget to log your symptoms tomorrow.",
+      "Take care! It was great chatting with you today.",
+      "Have a wonderful rest of your day! Stay empowered."
+    ]
+  },
+  {
+    "keywords": ["default_fallback"],
+    "responses": [
+      "I'm not sure I understand. Could you tell me more? Are you asking about cycle tracking, symptoms, or app settings?",
+      "That's a good question! I'm still learning, but you can find a lot of info in the 'Insights' or 'Notes' sections.",
+      "Could you rephrase that for me? I want to make sure I give you the best advice possible.",
+      "I'm here to help with your menstrual health. Could you try asking about period dates, cramps, or moods?",
+      "I didn't quite catch that. Try using keywords like 'log period', 'cramps', or 'next period'.",
+      "Vela is still learning! Try asking about your next period date, how to log symptoms, or what to eat during your cycle."
+    ]
+  }
+]

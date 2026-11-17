@@ -1,0 +1,47 @@
+[
+  {
+    "id": 551,
+    "category": "menopause",
+    "question": "What is menopause?",
+    "alternate_questions": ["Define menopause", "When does menopause happen?", "Signs of ending menstruation"],
+    "keywords": ["menopause", "definition", "estrogen", "aging", "period stop"],
+    "answer": "Menopause is the time that marks the end of your menstrual cycles. It's diagnosed after you've gone 12 months without a menstrual period. It typically happens in your 40s or 50s.",
+    "follow_up": ["What are common menopause symptoms?", "What is perimenopause?", "How to manage hot flashes?"]
+  },
+  {
+    "id": 552,
+    "category": "menopause",
+    "question": "What are common symptoms of menopause?",
+    "alternate_questions": ["Menopause signs", "How do I know I'm in menopause?", "Symptoms of aging reproductive system"],
+    "keywords": ["menopause", "symptoms", "hot flashes", "night sweats", "mood changes"],
+    "answer": "Common symptoms include hot flashes, night sweats, sleep problems, mood changes, vaginal dryness, and thinning hair. Every person's experience is unique.",
+    "follow_up": ["Why do hot flashes happen?", "Can menopause cause anxiety?", "How does menopause affect bone health?"]
+  },
+  {
+    "id": 553,
+    "category": "menopause",
+    "question": "What is hot flashes?",
+    "alternate_questions": ["Why do I feel sudden heat?", "Menopause hot flashes explained", "Managing sudden warmth in menopause"],
+    "keywords": ["hot flashes", "menopause", "heat", "symptom", "hormones"],
+    "answer": "Hot flashes are sudden feelings of warmth, which are usually most intense over the face, neck, and chest. They are a common symptom of the hormonal changes during menopause.",
+    "follow_up": ["How to stop hot flashes?", "Do hot flashes happen at night?", "Are hot flashes dangerous?"]
+  },
+  {
+    "id": 554,
+    "category": "menopause",
+    "question": "How can I manage menopause symptoms?",
+    "alternate_questions": ["Menopause relief", "Treatment for menopause", "Natural ways to handle menopause"],
+    "keywords": ["manage", "menopause", "relief", "hormone therapy", "lifestyle"],
+    "answer": "Management can include lifestyle changes (like dressing in layers and avoiding spicy foods), hormone replacement therapy (HRT), or other medications prescribed by a doctor. Staying active and eating a balanced diet also helps.",
+    "follow_up": ["What is HRT?", "Are there natural supplements for menopause?", "Does exercise help with menopause?"]
+  },
+  {
+    "id": 555,
+    "category": "menopause",
+    "question": "How does menopause affect bone health?",
+    "alternate_questions": ["Osteoporosis and menopause", "Why do bones weaken after menopause?", "Bone density during aging"],
+    "keywords": ["menopause", "bones", "osteoporosis", "calcium", "estrogen"],
+    "answer": "The drop in estrogen during menopause can lead to a decrease in bone density, increasing the risk of osteoporosis. It's important to get enough calcium and Vitamin D and engage in weight-bearing exercise.",
+    "follow_up": ["What are weight-bearing exercises?", "How much calcium do I need after 50?", "Should I get a bone density test?"]
+  }
+]

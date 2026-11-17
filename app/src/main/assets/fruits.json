@@ -1,0 +1,47 @@
+[
+  {
+    "id": 361,
+    "category": "fruits",
+    "question": "What fruits are good for my period?",
+    "alternate_questions": ["Best fruits for menstruation", "Healthy fruits during cycle", "Fruits for period cramps"],
+    "keywords": ["fruits", "period", "healthy", "bananas", "berries", "watermelon"],
+    "answer": "Fruits like bananas (rich in potassium for bloating), berries (high in antioxidants and fiber), and watermelon (great for hydration) are excellent during your period. Oranges and kiwis are also good as they provide vitamin C, which helps with iron absorption.",
+    "follow_up": ["Why is potassium good for bloating?", "How does vitamin C help with iron?", "Can fruits help with sugar cravings?"]
+  },
+  {
+    "id": 362,
+    "category": "fruits",
+    "question": "Can fruits help with sugar cravings during PMS?",
+    "alternate_questions": ["Eating fruit instead of candy during my period", "Natural sugar sources for pms", "How to manage period sweet tooth with fruit"],
+    "keywords": ["fruits", "cravings", "sugar", "pms", "natural"],
+    "answer": "Yes! Fruits provide natural sugars along with fiber, which helps prevent the blood sugar spikes and crashes associated with processed sweets. If you're craving sugar, try a bowl of berries or an apple with almond butter.",
+    "follow_up": ["What are low-sugar fruits?", "Does fiber help with cravings?", "Are dried fruits okay for PMS?"]
+  },
+  {
+    "id": 363,
+    "category": "fruits",
+    "question": "Does watermelon help with period bloating?",
+    "alternate_questions": ["Hydrating fruits for periods", "Is watermelon good for water retention?", "Benefits of watermelon during menstruation"],
+    "keywords": ["watermelon", "bloating", "hydration", "period", "retention"],
+    "answer": "Watermelon is highly hydrating and has a mild diuretic effect, which can help your body flush out excess fluids and reduce the feeling of being bloated during your period.",
+    "follow_up": ["What other fruits are hydrating?", "Does hydration reduce bloating?", "Can I eat too much watermelon?"]
+  },
+  {
+    "id": 364,
+    "category": "fruits",
+    "question": "Why are bananas good for period cramps?",
+    "alternate_questions": ["Potassium for menstrual pain", "Bananas and muscle cramps", "Benefits of bananas during my cycle"],
+    "keywords": ["bananas", "cramps", "potassium", "period", "muscle"],
+    "answer": "Bananas are rich in potassium and vitamin B6. Potassium helps prevent muscle cramping and reduces water retention, while B6 can help with mood swings and bloating.",
+    "follow_up": ["What other foods have potassium?", "How does vitamin B6 help PMS?", "Are bananas good for energy?"]
+  },
+  {
+    "id": 365,
+    "category": "fruits",
+    "question": "Should I avoid any fruits during my period?",
+    "alternate_questions": ["Are there bad fruits for menstruation?", "Fruits that cause bloating", "Can fruit make period symptoms worse?"],
+    "keywords": ["fruits", "avoid", "period", "bloating", "acidic"],
+    "answer": "Most fruits are very beneficial. However, some people may find that highly acidic fruits (like lemons or grapes in large amounts) can worsen heartburn or digestive sensitivity if they are already feeling unwell.",
+    "follow_up": ["What if I have a sensitive stomach during my period?", "Can fruit cause diarrhea?", "What are best fruits for digestion?"]
+  }
+]

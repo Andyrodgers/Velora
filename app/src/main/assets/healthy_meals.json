@@ -1,0 +1,47 @@
+[
+  {
+    "id": 391,
+    "category": "healthy_meals",
+    "question": "What defines a healthy meal for someone on their period?",
+    "alternate_questions": ["Nutrition goals for period meals", "What to look for in a healthy cycle meal", "Balanced eating for menstruation"],
+    "keywords": ["healthy meals", "period", "balanced", "nutrition", "iron", "magnesium"],
+    "answer": "A healthy period meal is balanced with iron (to replace blood loss), healthy fats (to reduce inflammation), complex carbs (for energy), and fiber (to help with digestion and hormone balance).",
+    "follow_up": ["What are good sources of healthy fats?", "Why is iron important?", "Can you give me a meal example?"]
+  },
+  {
+    "id": 392,
+    "category": "healthy_meals",
+    "question": "Can you give me an example of a healthy period dinner?",
+    "alternate_questions": ["Healthy dinner idea for my cycle", "What should I cook tonight on my period?", "Balanced dinner recipe"],
+    "keywords": ["healthy dinner", "recipe", "period", "salmon", "sweet potato", "spinach"],
+    "answer": "Baked salmon with a side of roasted sweet potatoes and sautéed spinach is a perfect period dinner. It provides omega-3s, magnesium, iron, and complex carbohydrates.",
+    "follow_up": ["How to cook salmon easily?", "Why are sweet potatoes good for periods?", "What are other anti-inflammatory foods?"]
+  },
+  {
+    "id": 393,
+    "category": "healthy_meals",
+    "question": "Is it important to eat iron-rich meals?",
+    "alternate_questions": ["Do I need iron in every meal during my period?", "Iron-focused meal ideas", "Importance of iron for women"],
+    "keywords": ["iron-rich", "meals", "importance", "period", "blood loss"],
+    "answer": "Yes, especially during your period, as you lose iron through blood loss. Including iron-rich foods like lentils, steak, or spinach in your meals helps maintain energy and prevent anemia.",
+    "follow_up": ["What are signs of low iron?", "Which foods are highest in iron?", "Does vitamin C help iron absorption?"]
+  },
+  {
+    "id": 394,
+    "category": "healthy_meals",
+    "question": "How do I make my meals more anti-inflammatory?",
+    "alternate_questions": ["Reducing inflammation through food", "Anti-inflammatory diet for period pain", "Spices for reducing cramps"],
+    "keywords": ["anti-inflammatory", "meals", "cramps", "inflammation", "ginger", "turmeric"],
+    "answer": "Add anti-inflammatory ingredients like ginger, turmeric, fatty fish, and olive oil to your meals. These can help reduce the production of prostaglandins, which are responsible for period cramps.",
+    "follow_up": ["How to use turmeric in cooking?", "What other foods reduce inflammation?", "Does sugar cause inflammation?"]
+  },
+  {
+    "id": 395,
+    "category": "healthy_meals",
+    "question": "What's a healthy, quick lunch option?",
+    "alternate_questions": ["Fast healthy lunch for busy days on my period", "Easy nutrient-dense lunch", "Quick period-friendly meal"],
+    "keywords": ["quick lunch", "healthy", "period", "quinoa", "beans"],
+    "answer": "A quinoa bowl with canned black beans, avocado, and salsa is quick, healthy, and provides protein, fiber, and healthy fats without much cooking time.",
+    "follow_up": ["Is quinoa better than rice?", "What are benefits of avocado for periods?", "Can I meal prep quinoa bowls?"]
+  }
+]

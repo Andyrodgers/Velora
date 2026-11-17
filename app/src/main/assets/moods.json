@@ -1,0 +1,47 @@
+[
+  {
+    "id": 211,
+    "category": "moods",
+    "question": "Why do I feel so emotional before my period?",
+    "alternate_questions": ["Mood swings before period", "Why am I crying for no reason?", "Emotional PMS symptoms"],
+    "keywords": ["mood", "emotional", "crying", "pms", "hormones"],
+    "answer": "Feeling emotional before your period is very common and is often due to the drop in estrogen and progesterone levels in the week before your period starts. These hormonal changes can affect brain chemicals like serotonin, which regulates mood.",
+    "follow_up": ["How to manage mood swings?", "What is serotonin?", "Can PMS cause anxiety?"]
+  },
+  {
+    "id": 212,
+    "category": "moods",
+    "question": "How can I manage PMS mood swings?",
+    "alternate_questions": ["Ways to stabilize my mood", "Coping with irritability", "Mood relief before period"],
+    "keywords": ["manage", "mood swings", "irritability", "pms", "relief"],
+    "answer": "Managing mood swings can include regular aerobic exercise, getting plenty of sleep, reducing caffeine and alcohol, and practicing stress-relief techniques like mindfulness or deep breathing. In some cases, supplements like Vitamin B6 or calcium may help.",
+    "follow_up": ["Does exercise help mood?", "Vitamins for mood regulation?", "How much sleep do I need?"]
+  },
+  {
+    "id": 213,
+    "category": "moods",
+    "question": "Can my cycle cause anxiety?",
+    "alternate_questions": ["Anxiety before period", "Why do I feel anxious during PMS?", "Cycle-related anxiety"],
+    "keywords": ["anxiety", "period", "pms", "worry", "cycle"],
+    "answer": "Yes, many people experience increased anxiety during the luteal phase (the time between ovulation and your period). Fluctuating hormone levels can trigger feelings of nervousness, tension, or worry.",
+    "follow_up": ["How to deal with premenstrual anxiety?", "What is the luteal phase?", "When is anxiety a sign of PMDD?"]
+  },
+  {
+    "id": 214,
+    "category": "moods",
+    "question": "Why do I get angry before my period?",
+    "alternate_questions": ["Period rage", "Irritability before menstruation", "Why am I so snappy?"],
+    "keywords": ["anger", "irritability", "pms", "rage", "snappy"],
+    "answer": "Irritability and anger are common PMS symptoms. Changes in hormone levels and their effect on neurotransmitters like serotonin can make you feel more impatient or easily frustrated than usual.",
+    "follow_up": ["Coping strategies for irritability", "Does diet affect anger levels?", "Is extreme anger a sign of PMDD?"]
+  },
+  {
+    "id": 215,
+    "category": "moods",
+    "question": "How does the menstrual cycle affect mental health?",
+    "alternate_questions": ["Mental health and periods", "Impact of hormones on my mind", "Cycle-related mental wellbeing"],
+    "keywords": ["mental health", "period", "hormones", "wellbeing", "impact"],
+    "answer": "The menstrual cycle involves significant hormonal shifts that can impact mental health. While many experience mild mood changes (PMS), some may experience severe symptoms (PMDD) or exacerbation of existing mental health conditions during certain phases of their cycle.",
+    "follow_up": ["What is PMDD?", "How to track mental health symptoms?", "When to see a therapist for cycle-related issues?"]
+  }
+]

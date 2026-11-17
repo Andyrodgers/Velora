@@ -1,0 +1,47 @@
+[
+  {
+    "id": 271,
+    "category": "bloating",
+    "question": "Why do I get bloated before my period?",
+    "alternate_questions": ["What causes period bloating?", "PMS bloating explained", "Why does my stomach swell before menstruation?"],
+    "keywords": ["bloating", "pms", "period", "cause", "swelling", "water retention"],
+    "answer": "Bloating before your period is caused by changes in progesterone and estrogen levels, which cause the body to retain more water and salt. This can lead to a feeling of fullness or swelling in the abdomen.",
+    "follow_up": ["How to reduce period bloating?", "Does salt intake affect bloating?", "Can exercise help with bloating?"]
+  },
+  {
+    "id": 272,
+    "category": "bloating",
+    "question": "How can I reduce period bloating?",
+    "alternate_questions": ["Ways to stop bloating during PMS", "Relief for period-related swelling", "Diet for reducing bloating"],
+    "keywords": ["reduce", "bloating", "relief", "diet", "pms"],
+    "answer": "To reduce bloating, try limiting salt and caffeine, drinking plenty of water, eating potassium-rich foods (like bananas), and engaging in light exercise. Some find that avoiding gassy foods like beans or broccoli also helps.",
+    "follow_up": ["What are potassium-rich foods?", "Why does water help with bloating?", "Are there over-the-counter remedies for bloating?"]
+  },
+  {
+    "id": 273,
+    "category": "bloating",
+    "question": "Why does my period make me feel heavy?",
+    "alternate_questions": ["Feeling weighed down during menstruation", "Period weight gain and bloating", "Is it normal to feel heavy before my period?"],
+    "keywords": ["heavy", "bloating", "weight gain", "period", "pms"],
+    "answer": "The 'heavy' feeling is often due to water retention and bloating caused by hormonal shifts. It's also normal to experience a temporary weight gain of a few pounds due to these fluids, which usually goes away once your period starts.",
+    "follow_up": ["Does period weight gain go away?", "How to manage water retention?", "Is my bloating actually weight gain?"]
+  },
+  {
+    "id": 274,
+    "category": "bloating",
+    "question": "Can exercise help with bloating?",
+    "alternate_questions": ["Working out to reduce swelling", "Does moving help with PMS bloating?", "Best exercises for a bloated stomach"],
+    "keywords": ["exercise", "bloating", "help", "movement", "pms"],
+    "answer": "Yes! Light exercise like walking or yoga can help stimulate your digestive system and reduce water retention, which can alleviate the feeling of being bloated.",
+    "follow_up": ["What yoga poses help with bloating?", "How long should I walk to help with bloating?", "Can intense exercise make bloating worse?"]
+  },
+  {
+    "id": 275,
+    "category": "bloating",
+    "question": "Does drinking water help with bloating?",
+    "alternate_questions": ["Should I drink more water if I'm bloated?", "Water intake and water retention", "Will staying hydrated reduce bloating?"],
+    "keywords": ["water", "bloating", "hydration", "retention", "help"],
+    "answer": "It might seem counterintuitive, but drinking more water can actually help your body flush out excess salt and reduce water retention, thereby helping to ease bloating.",
+    "follow_up": ["How much water should I drink for bloating?", "What are signs of water retention?", "Does lemon water help with bloating?"]
+  }
+]

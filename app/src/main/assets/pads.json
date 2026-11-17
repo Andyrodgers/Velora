@@ -1,0 +1,47 @@
+[
+  {
+    "id": 171,
+    "category": "pads",
+    "question": "How often should I change my pad?",
+    "alternate_questions": ["When to change sanitary napkin?", "Changing frequency for pads", "How long can I wear a pad?"],
+    "keywords": ["pads", "change", "frequency", "hygiene", "sanitary napkin"],
+    "answer": "You should change your pad every 4 to 8 hours, or more frequently if your flow is heavy. Regular changes help prevent odors and bacterial growth.",
+    "follow_up": ["What happens if I don't change my pad?", "Can I wear a pad overnight?", "How to choose the right pad absorbency?"]
+  },
+  {
+    "id": 172,
+    "category": "pads",
+    "question": "Can I wear a pad overnight?",
+    "alternate_questions": ["Overnight pad usage", "Sleeping with a pad", "Are there special pads for night?"],
+    "keywords": ["overnight", "pads", "sleeping", "night", "absorbency"],
+    "answer": "Yes, you can wear a pad overnight. There are specific 'overnight' pads that are longer and more absorbent to provide better protection while you sleep.",
+    "follow_up": ["How are overnight pads different?", "Do pads leak at night?", "Are tampons better for sleeping?"]
+  },
+  {
+    "id": 173,
+    "category": "pads",
+    "question": "How do I choose the right pad?",
+    "alternate_questions": ["Which pad is best for me?", "Different types of pads", "Choosing pad absorbency"],
+    "keywords": ["choose", "type", "absorbency", "flow", "size"],
+    "answer": "Choosing a pad depends on your flow (light, medium, heavy) and the time of day. You might need 'super' or 'heavy' pads at the start of your period and 'regular' or 'liners' toward the end.",
+    "follow_up": ["What are panty liners used for?", "What are wings on pads?", "Are scented pads safe?"]
+  },
+  {
+    "id": 174,
+    "category": "pads",
+    "question": "Are scented pads safe?",
+    "alternate_questions": ["Should I use perfumed pads?", "Can scented pads cause irritation?", "Fragrance in sanitary products"],
+    "keywords": ["scented", "fragrance", "safe", "irritation", "pads"],
+    "answer": "Scented pads can cause irritation or allergic reactions for some people because of the chemicals used for fragrance. It's generally recommended to use unscented products to maintain vaginal health.",
+    "follow_up": ["What are signs of irritation from pads?", "Are organic pads better?", "How to treat a pad rash?"]
+  },
+  {
+    "id": 175,
+    "category": "pads",
+    "question": "How do I dispose of a pad properly?",
+    "alternate_questions": ["Where to throw away used pads?", "Can I flush pads down the toilet?", "Proper pad disposal"],
+    "keywords": ["dispose", "throw away", "trash", "flush", "hygiene"],
+    "answer": "Roll up the used pad, wrap it in the wrapper of the new pad or in toilet paper, and throw it in the trash. Never flush pads down the toilet, as they will clog the plumbing.",
+    "follow_up": ["What is a sanitary bin?", "How to reduce waste from pads?", "Are there reusable pads?"]
+  }
+]

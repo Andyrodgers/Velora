@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2201,
+    "category": "motivation",
+    "question": "I need some motivation",
+    "alternate_questions": ["Give me a pep talk", "I'm feeling unmotivated", "Help me get started"],
+    "keywords": ["motivation", "pep talk", "unmotivated", "started", "encourage"],
+    "answer": "You've got this! Remember why you started. Every small step you take is progress toward your goals. Don't worry about being perfect; just focus on being consistent.",
+    "follow_up": ["What's one small thing you can do right now?", "What's your biggest goal for today?", "Need a motivational quote?"]
+  },
+  {
+    "id": 2202,
+    "category": "motivation",
+    "question": "How to stay motivated with health goals?",
+    "alternate_questions": ["Staying on track with health", "Consistency in wellness", "Keep going with my routine"],
+    "keywords": ["stay motivated", "health goals", "consistency", "routine", "wellness"],
+    "answer": "Consistency is key! Break your big goals into tiny, manageable habits. Celebrate your small wins, and don't be too hard on yourself if you have an off day. Just start again tomorrow.",
+    "follow_up": ["What health goal are you working on?", "How do you celebrate your wins?", "Need help planning your routine?"]
+  },
+  {
+    "id": 2203,
+    "category": "motivation",
+    "question": "I feel lazy today",
+    "alternate_questions": ["I don't want to do anything", "No energy for my goals", "Feeling sluggish"],
+    "keywords": ["lazy", "no energy", "sluggish", "rest", "motivation"],
+    "answer": "It's okay to have low-energy days! Sometimes your body needs rest more than it needs a workout or a productive day. Listen to your body and give yourself permission to recharge.",
+    "follow_up": ["Are you getting enough sleep?", "How's your cycle phase affecting your energy?", "Can I suggest a gentle activity?"]
+  },
+  {
+    "id": 2204,
+    "category": "motivation",
+    "question": "Give me a motivational quote",
+    "alternate_questions": ["Inspirational words", "Something to inspire me", "Motivational saying"],
+    "keywords": ["quote", "motivation", "inspiration", "inspire", "words"],
+    "answer": "Here's one: 'Success is the sum of small efforts, repeated day in and day out.' Keep making those small efforts; they really do add up!",
+    "follow_up": ["Do you want another one?", "How does that quote make you feel?", "What's your favorite quote?"]
+  },
+  {
+    "id": 2205,
+    "category": "motivation",
+    "question": "How to beat procrastination?",
+    "alternate_questions": ["Stop putting things off", "Getting things done", "Focus help"],
+    "keywords": ["procrastination", "focus", "productivity", "action", "tasks"],
+    "answer": "Try the '5-minute rule': tell yourself you'll only work on a task for 5 minutes. Often, the hardest part is starting, and once you do, you'll find the momentum to keep going.",
+    "follow_up": ["What's the first thing on your to-do list?", "Can I help you break down a task?", "Ready to try the 5-minute rule?"]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 4001,
+    "category": "anxiety",
+    "question": "What is anxiety",
+    "alternate_questions": ["Define anxiety", "Anxiety meaning", "What causes anxiety", "Anxiety explained", "Understanding anxiety"],
+    "keywords": ["anxiety", "definition", "causes", "explained", "understanding", "worry", "fear"],
+    "answer": "Anxiety is a natural stress response involving worry, nervousness, or fear about future uncertainties. Mild anxiety can be helpful - it motivates preparation and alerts you to danger. However, when anxiety becomes excessive, persistent, and interferes with daily life, it may indicate an anxiety disorder. Physical symptoms include racing heart, sweating, trembling, fatigue, muscle tension, and sleep problems. Emotional symptoms include excessive worry, irritability, difficulty concentrating, and feeling on edge. In women, anxiety often intersects with hormonal fluctuations during the menstrual cycle, pregnancy, postpartum, and menopause. Anxiety disorders are highly treatable with therapy, medication, and lifestyle changes. You are not weak for experiencing anxiety - your nervous system is trying to protect you, even when the threat is not proportional to the response.",
+    "follow_up": ["What are you anxious about?", "How long have you felt this way?", "Is anxiety affecting daily life?", "Have you sought help before?"]
+  },
+  {
+    "id": 4002,
+    "category": "anxiety",
+    "question": "What are types of anxiety disorders",
+    "alternate_questions": ["Anxiety disorder types", "GAD panic social anxiety", "Different anxieties", "Anxiety conditions", "Anxiety classifications"],
+    "keywords": ["types", "disorders", "GAD", "panic", "social", "phobia", "classifications"],
+    "answer": "Main anxiety disorders include: Generalized Anxiety Disorder (GAD) - excessive worry about multiple areas for 6+ months. Panic Disorder - recurrent panic attacks and fear of future attacks. Social Anxiety Disorder - intense fear of social judgment and avoidance. Specific Phobias - irrational fear of objects or situations (heights, spiders, flying). Agoraphobia - fear of situations where escape might be difficult. Separation Anxiety - excessive fear of separation from attachment figures. Selective Mutism - inability to speak in specific social situations. Substance/Medication-Induced Anxiety - caused by drugs or withdrawal. Anxiety Due to Medical Condition - caused by physical illness. Each has distinct features but shares excessive fear and avoidance. Accurate diagnosis guides treatment. Many people have more than one type. All are treatable.",
+    "follow_up": ["Which type resonates with you?", "What situations trigger anxiety?", "How long have symptoms lasted?", "Have you been diagnosed?"]
+  },
+  {
+    "id": 4003,
+    "category": "anxiety",
+    "question": "What is generalized anxiety disorder",
+    "alternate_questions": ["GAD symptoms", "Chronic worry", "Always anxious", "Generalized anxiety explained", "Excessive worry disorder"],
+    "keywords": ["GAD", "generalized", "chronic", "worry", "excessive", "daily", "persistent"],
+    "answer": "Generalized Anxiety Disorder (GAD) involves excessive, uncontrollable worry about everyday things for at least 6 months. Worries may include health, finances, work, relationships, or minor matters. Unlike situational anxiety, GAD worry is persistent and disproportionate. Symptoms include: restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance, and feeling on edge. In women, GAD often co-occurs with depression and may worsen during hormonal shifts. GAD affects approximately 6% of adults, with women diagnosed twice as often as men. Treatment includes CBT, mindfulness-based therapies, SSRIs/SNRIs, and lifestyle changes. GAD is not just being a worrier - it's a medical condition that significantly impairs functioning. With treatment, most people experience substantial improvement.",
+    "follow_up": ["What do you worry about most?", "How long has this worry persisted?", "Does worry interfere with sleep?", "Have you tried treatment?"]
+  },
+  {
+    "id": 4004,
+    "category": "anxiety",
+    "question": "What is a panic attack",
+    "alternate_questions": ["Panic attack symptoms", "Anxiety attack", "Sudden fear episode", "Panic episode", "What happens panic attack"],
+    "keywords": ["panic attack", "symptoms", "sudden", "fear", "episode", "physical", "intense"],
+    "answer": "A panic attack is a sudden surge of intense fear peaking within minutes. Symptoms include: pounding heart, sweating, trembling, shortness of breath, choking sensation, chest pain, nausea, dizziness, chills or heat, numbness, derealization, fear of losing control, and fear of dying. Attacks often seem to come out of nowhere but may be triggered by stress, caffeine, or specific situations. They are terrifying but not dangerous or life-threatening. Many people mistake panic attacks for heart attacks. If unsure, seek emergency care. During an attack: remind yourself it will pass, breathe slowly (in 4, hold 4, out 6), ground yourself with sensory awareness, and accept rather than fight the sensations. Fighting panic intensifies it; acceptance reduces it. Panic attacks usually peak within 10 minutes and subside within 30 minutes.",
+    "follow_up": ["Have you had a panic attack?", "What were your symptoms?", "How long did it last?", "Do you fear having another?"]
+  },
+  {
+    "id": 4005,
+    "category": "anxiety",
+    "question": "What is social anxiety",
+    "alternate_questions": ["Social phobia", "Fear of people", "Anxious social situations", "Social anxiety symptoms", "Shy vs social anxiety"],
+    "keywords": ["social anxiety", "phobia", "fear", "people", "judgment", "embarrassment", "avoidance"],
+    "answer": "Social Anxiety Disorder is intense fear of social situations where you might be judged, embarrassed, or scrutinized. It goes beyond shyness - it causes significant distress and avoidance. Feared situations include: public speaking, meeting new people, eating in public, attending parties, dating, and using public restrooms. Physical symptoms include blushing, sweating, trembling, nausea, and mind going blank. You may overanalyze social interactions afterward. Social anxiety often develops in adolescence and affects 7-13% of people. In women, it may be dismissed as shyness or attributed to hormones. Treatment includes CBT with exposure therapy, social skills training, SSRIs, and group therapy. Many with social anxiety appear fine externally while suffering internally. You are not alone, and effective treatment exists.",
+    "follow_up": ["What social situations trigger anxiety?", "Do you avoid social events?", "How does this affect your life?", "Have you sought treatment?"]
+  },
+  {
+    "id": 4006,
+    "category": "anxiety",
+    "question": "How to calm anxiety quickly",
+    "alternate_questions": ["Stop anxiety fast", "Calm down anxiety", "Anxiety relief now", "Reduce anxiety immediately", "Quick anxiety help"],
+    "keywords": ["calm", "quick", "fast", "relief", "immediately", "reduce", "techniques"],
+    "answer": "For immediate anxiety relief: 1) Diaphragmatic breathing - breathe into belly, extend exhale longer than inhale. 2) 5-4-3-2-1 grounding - name 5 things seen, 4 touched, 3 heard, 2 smelled, 1 tasted. 3) Cold water - splash face or hold ice cube to activate dive reflex. 4) Progressive muscle relaxation - tense and release muscle groups. 5) Label emotions - naming anxiety reduces amygdala activity. 6) Self-soothing touch - hand on heart, gentle self-hug. 7) Move your body - shake out tension, brisk walk. 8) Hum or sing - stimulates vagus nerve. 9) Reassuring self-talk - 'This is anxiety, not danger. It will pass.' 10) Avoid caffeine and sugar. These techniques activate the parasympathetic nervous system, countering fight-or-flight. Practice regularly so they're available during acute anxiety.",
+    "follow_up": ["What is your anxiety level right now?", "Do you have 5 minutes?", "Which technique appeals to you?", "What usually triggers your anxiety?"]
+  },
+  {
+    "id": 4007,
+    "category": "anxiety",
+    "question": "What is exposure therapy",
+    "alternate_questions": ["Exposure therapy anxiety", "Face fears therapy", "Gradual exposure", "ERP therapy", "Exposure response prevention"],
+    "keywords": ["exposure", "therapy", "face fears", "gradual", "ERP", "response prevention", "CBT"],
+    "answer": "Exposure therapy is a CBT technique where you gradually face feared situations in a controlled way to reduce anxiety. It works through habituation - your brain learns that feared outcomes don't occur, and anxiety naturally decreases with repeated exposure. Types include: in vivo exposure (real-life situations), imaginal exposure (visualizing fears), interoceptive exposure (inducing physical sensations), and virtual reality exposure. For OCD, Exposure and Response Prevention (ERP) involves facing obsessions without performing compulsions. Exposure is structured and gradual - you start with mildly anxiety-provoking situations and progress. It is highly effective for phobias, social anxiety, panic disorder, PTSD, and OCD. A trained therapist guides the process. While challenging, exposure therapy provides lasting relief by rewiring the brain's threat response.",
+    "follow_up": ["What fears would you want to face?", "Does the idea scare you?", "Have you tried exposure before?", "Are you working with a therapist?"]
+  },
+  {
+    "id": 4008,
+    "category": "anxiety",
+    "question": "Can anxiety cause physical symptoms",
+    "alternate_questions": ["Anxiety physical health", "Anxiety body symptoms", "Physical anxiety", "Anxiety chest pain", "Anxiety nausea"],
+    "keywords": ["physical", "symptoms", "body", "health", "chest pain", "nausea", "physical manifestations"],
+    "answer": "Yes, anxiety causes numerous physical symptoms through the stress response. Common manifestations include: chest pain or tightness, rapid heartbeat, shortness of breath, dizziness, headaches, muscle tension, trembling, sweating, hot flashes, nausea, diarrhea, frequent urination, fatigue, insomnia, and tingling sensations. Anxiety can also cause: hair loss, skin rashes, jaw pain from grinding, and exacerbation of existing conditions like IBS or asthma. These symptoms are real - anxiety is not 'just in your head.' The brain and body are deeply connected. However, new physical symptoms should be medically evaluated to rule out other causes. Once physical causes are excluded, treating anxiety often resolves physical symptoms. Many people are surprised how much better they feel physically after addressing anxiety.",
+    "follow_up": ["What physical symptoms do you have?", "Have you seen a doctor?", "Do symptoms correlate with anxiety?", "Which symptom worries you most?"]
+  },
+  {
+    "id": 4009,
+    "category": "anxiety",
+    "question": "What is health anxiety",
+    "alternate_questions": ["Hypochondria", "Illness anxiety", "Always think sick", "Health anxiety disorder", "Worry about health"],
+    "keywords": ["health anxiety", "hypochondria", "illness", "worry", "sick", "symptoms", "medical"],
+    "answer": "Health anxiety (Illness Anxiety Disorder) is excessive worry about having a serious illness despite medical reassurance. You may misinterpret normal sensations as disease symptoms, constantly check your body, seek repeated tests, or avoid doctors entirely. The anxiety itself causes physical symptoms that confirm fears. Health anxiety often worsens during stress and hormonal changes. It differs from legitimate health concerns in being excessive, persistent, and resistant to reassurance. Management includes CBT to challenge catastrophic thoughts, limiting body checking and symptom Googling, mindfulness to tolerate uncertainty, and treating underlying anxiety. If you have health anxiety, your fears feel completely real - but they are treatable. Seek mental health support rather than more medical tests. You can learn to tolerate uncertainty about health.",
+    "follow_up": ["What health fears do you have?", "Have doctors reassured you?", "How much time spent checking symptoms?", "Does anxiety run in your family?"]
+  },
+  {
+    "id": 4010,
+    "category": "anxiety",
+    "question": "How does caffeine affect anxiety",
+    "alternate_questions": ["Coffee anxiety", "Caffeine panic attacks", "Energy drinks anxiety", "Caffeine worsen anxiety", "Quit caffeine anxiety"],
+    "keywords": ["caffeine", "coffee", "energy drinks", "worsen", "panic", "stimulant", "anxiety"],
+    "answer": "Caffeine is a stimulant that can significantly worsen anxiety. It blocks adenosine (a calming neurotransmitter) and increases adrenaline, mimicking anxiety symptoms: racing heart, jitters, restlessness, and insomnia. For people with anxiety disorders, caffeine can trigger panic attacks. Even moderate amounts (1-2 cups coffee) may affect sensitive individuals. Other sources include tea, soda, energy drinks, chocolate, and some medications. If you have anxiety, consider: reducing caffeine gradually to avoid withdrawal, switching to decaf or herbal tea, avoiding caffeine after noon, and monitoring your response. Some find eliminating caffeine completely dramatically reduces anxiety. Withdrawal symptoms (headache, fatigue, irritability) last 2-9 days. Keep a symptom diary to track caffeine-anxiety connections. Your nervous system may be happier without caffeine.",
+    "follow_up": ["How much caffeine do you consume?", "Do you notice anxiety after coffee?", "Have you tried reducing?", "What are your main caffeine sources?"]
+  },
+  {
+    "id": 4011,
+    "category": "anxiety",
+    "question": "What is test anxiety",
+    "alternate_questions": ["Exam anxiety", "Performance anxiety test", "Blank during test", "Test panic", "Academic anxiety"],
+    "keywords": ["test", "exam", "performance", "blank", "panic", "academic", "school", "evaluation"],
+    "answer": "Test anxiety is performance anxiety specific to exams and evaluations. It involves excessive worry, physical symptoms, and impaired performance despite adequate preparation. Before tests: racing thoughts, nausea, insomnia, irritability. During tests: mind going blank, difficulty concentrating, physical distress, panic. After tests: rumination, guilt, catastrophizing. Test anxiety is not about intelligence or preparation - it's about the pressure of evaluation. Management: thorough preparation reduces uncertainty, practice tests under timed conditions, positive visualization, breathing techniques during exams, challenge catastrophic thoughts ('If I fail, I'll survive'), focus on effort not outcome, and seek accommodations if needed. CBT is highly effective. Remember: one test does not define your worth or future. Your value is not determined by a grade.",
+    "follow_up": ["What tests trigger anxiety?", "Does preparation help or not?", "Have you sought accommodations?", "What is your worst fear about tests?"]
+  },
+  {
+    "id": 4012,
+    "category": "anxiety",
+    "question": "What is separation anxiety",
+    "alternate_questions": ["Fear of separation", "Separation anxiety adult", "Can't be alone", "Separation distress", "Attachment anxiety"],
+    "keywords": ["separation", "fear", "alone", "distress", "attachment", "adult", "child"],
+    "answer": "Separation Anxiety Disorder involves excessive fear of separation from attachment figures or home. While common in children, it also affects adults. Symptoms include: distress when anticipating or experiencing separation, worry about harm to loved ones, worry about events causing separation, reluctance to be alone, nightmares about separation, and physical symptoms when separated. Adult separation anxiety may manifest as: difficulty with partner's travel, excessive contact, controlling behaviors, or inability to live alone. It often co-occurs with other anxiety disorders and depression. Causes include attachment disruptions, trauma, and genetic factors. Treatment includes CBT, exposure to separation situations, attachment-based therapy, and sometimes medication. Healthy attachment allows connection without panic at separation. You can feel secure even when apart from loved ones.",
+    "follow_up": ["Who are you afraid to separate from?", "How does separation feel physically?", "Does this affect relationships?", "Have you explored attachment history?"]
+  },
+  {
+    "id": 4013,
+    "category": "anxiety",
+    "question": "How to help someone with anxiety",
+    "alternate_questions": ["Support anxious friend", "Help partner anxiety", "What to say anxious person", "Support anxiety", "Anxiety support tips"],
+    "keywords": ["help", "support", "friend", "partner", "anxious", "person", "tips", "what to say"],
+    "answer": "Supporting someone with anxiety requires empathy without enabling: 1) Validate their feelings - 'I can see this is really hard for you' rather than 'just relax.' 2) Don't minimize - anxiety feels real and terrifying to them. 3) Ask what they need - don't assume. 4) Be present - sometimes just sitting with them helps. 5) Don't force exposure - pushing too fast backfires. 6) Encourage professional help - you cannot be their therapist. 7) Take care of yourself - supporting someone with anxiety is draining. 8) Learn about their specific anxiety - knowledge helps understanding. 9) Don't accommodate excessively - helping them avoid everything reinforces anxiety. 10) Celebrate small victories - progress is often incremental. Your support matters, but you are not responsible for fixing their anxiety. Encourage treatment while being a steady presence.",
+    "follow_up": ["Who are you supporting?", "What type of anxiety do they have?", "Are you feeling overwhelmed as a supporter?", "Have you set boundaries?"]
+  },
+  {
+    "id": 4014,
+    "category": "anxiety",
+    "question": "What is anticipatory anxiety",
+    "alternate_questions": ["Worry about future", "Anxiety upcoming events", "Dread future", "Anticipatory worry", "Future anxiety"],
+    "keywords": ["anticipatory", "future", "upcoming", "dread", "worry", "events", "before"],
+    "answer": "Anticipatory anxiety is worry about future events before they occur. You might spend days or weeks dreading a presentation, social event, medical procedure, or confrontation. The anxiety response activates as if the threat is immediate, causing suffering in advance. Often, the actual event is less distressing than the anticipation. This pattern wastes present moments on future worries and reinforces avoidance. Management: distinguish preparation from worry - plan, then let go. Practice worst-case scenario planning - if X happens, what would you do? Often reveals coping capacity. Use mindfulness to return to present. Challenge probability estimates. Schedule specific worry time. Acceptance - some uncertainty is unavoidable. The future is not here yet. Don't suffer twice - once in imagination and once in reality.",
+    "follow_up": ["What are you anticipating?", "How far ahead do you worry?", "Has reality ever matched your worry?", "What helps you stay present?"]
+  },
+  {
+    "id": 4015,
+    "category": "anxiety",
+    "question": "Can hormones cause anxiety",
+    "alternate_questions": ["Hormonal anxiety", "PMS anxiety", "Menopause anxiety", "Thyroid anxiety", "Birth control anxiety"],
+    "keywords": ["hormones", "hormonal", "PMS", "menopause", "thyroid", "birth control", "cycle"],
+    "answer": "Yes, hormones significantly affect anxiety. Estrogen and progesterone influence neurotransmitters including serotonin and GABA. Times of hormonal fluctuation often increase anxiety: premenstrual phase (PMS/PMDD), pregnancy, postpartum, perimenopause, and menopause. Thyroid disorders (hyperthyroidism) cause anxiety-like symptoms. Some hormonal contraceptives worsen anxiety in sensitive individuals, while others improve it. Cortisol (stress hormone) interacts with reproductive hormones, creating anxiety-stress-hormone cycles. If your anxiety correlates with cycle phases, hormonal factors may be involved. Tracking anxiety alongside your cycle provides valuable data. Treatment may include hormonal interventions (birth control, HRT), SSRIs, or addressing underlying thyroid issues. Don't dismiss cycle-related anxiety as 'just hormones' - it is real and treatable.",
+    "follow_up": ["Does anxiety follow your cycle?", "Are you pregnant or menopausal?", "Are you on hormonal contraception?", "Have you had thyroid checked?"]
+  },
+  {
+    "id": 4016,
+    "category": "anxiety",
+    "question": "What is an anxiety journal",
+    "alternate_questions": ["Track anxiety", "Anxiety diary", "Worry journal", "Journal anxiety", "Anxiety log"],
+    "keywords": ["journal", "diary", "track", "log", "worry", "anxiety", "patterns", "monitoring"],
+    "answer": "An anxiety journal helps you track, understand, and manage anxiety. What to record: date/time, trigger or situation, anxiety level (0-10), physical symptoms, thoughts, emotions, behaviors, and coping strategies used. Benefits include: identifying patterns and triggers, recognizing cognitive distortions, tracking progress, providing data for therapy, and externalizing worries. Format options: structured daily entries, worry time logs, gratitude integration, or trigger-symptom-response columns. Digital apps or paper notebooks both work. Review weekly to spot trends: Does anxiety spike before your period? After caffeine? In specific situations? This data empowers targeted interventions. Journaling itself reduces anxiety by processing emotions and creating distance from thoughts. Start simple - even brief notes help.",
+    "follow_up": ["Do you currently journal?", "What format appeals to you?", "What patterns would you like to identify?", "Would you like a template?"]
+  },
+  {
+    "id": 4017,
+    "category": "anxiety",
+    "question": "What is the vagus nerve",
+    "alternate_questions": ["Vagus nerve anxiety", "Vagal tone stress", "Stimulate vagus nerve", "Vagus nerve calming", "Polyvagal theory"],
+    "keywords": ["vagus nerve", "vagal", "tone", "stimulate", "calming", "parasympathetic", "polyvagal"],
+    "answer": "The vagus nerve is the longest cranial nerve, running from brain to gut, and is central to the parasympathetic 'rest and digest' system. It counteracts the stress response. Vagal tone refers to vagus nerve activity - higher tone means better stress regulation. You can stimulate the vagus nerve through: deep slow breathing (especially long exhales), cold water on face, humming or singing, gargling, yoga, meditation, probiotics, and social connection. The polyvagal theory (Stephen Porges) describes how the vagus nerve relates to social engagement, mobilization (fight/flight), and immobilization (freeze) states. Understanding vagal function helps explain why breathing and social connection calm anxiety. Vagus nerve stimulation is also an FDA-approved treatment for depression and epilepsy. Your body has built-in calming mechanisms - learn to use them.",
+    "follow_up": ["Have you tried vagus nerve techniques?", "Which appeal to you?", "Do you notice calming effects?", "Would you like specific exercises?"]
+  },
+  {
+    "id": 4018,
+    "category": "anxiety",
+    "question": "What is cognitive restructuring",
+    "alternate_questions": ["Challenge anxious thoughts", "CBT thoughts", "Restructure thinking", "Change anxious thinking", "Thought challenging"],
+    "keywords": ["cognitive", "restructuring", "thoughts", "challenge", "CBT", "thinking", "anxious"],
+    "answer": "Cognitive restructuring is a CBT technique for identifying and changing anxiety-producing thought patterns. Process: 1) Identify automatic thoughts - what went through your mind? 2) Examine evidence - what supports and contradicts this thought? 3) Identify cognitive distortions - all-or-nothing, catastrophizing, mind reading? 4) Generate alternative thoughts - what else could be true? 5) Rate belief in new thought. Example: 'I'll fail the presentation' becomes 'I've prepared, I've presented before, nervousness is normal, even imperfect presentations are survivable.' This isn't positive thinking - it's realistic thinking based on evidence. With practice, cognitive restructuring becomes automatic. It reduces anxiety by correcting the exaggerated threat assessments that fuel worry. Work with a CBT therapist to learn this skill properly.",
+    "follow_up": ["What anxious thoughts do you have?", "Are they based on evidence?", "Have you tried challenging them?", "Would you like to practice together?"]
+  },
+  {
+    "id": 4019,
+    "category": "anxiety",
+    "question": "Can exercise reduce anxiety",
+    "alternate_questions": ["Workout anxiety relief", "Fitness mental health", "Exercise GAD", "Running anxiety", "Yoga anxiety"],
+    "keywords": ["exercise", "workout", "fitness", "reduce", "relief", "mental health", "physical activity"],
+    "answer": "Yes, exercise is highly effective for reducing anxiety. It works through multiple mechanisms: releases endorphins and endocannabinoids, reduces muscle tension, improves sleep, increases body temperature (calming effect), distracts from worry, builds self-efficacy, and provides social connection. Research shows regular exercise is as effective as medication for mild to moderate anxiety. Best types: aerobic exercise (running, swimming, cycling), yoga (combines movement with breathwork and mindfulness), and strength training. Even 10-minute walks help. For panic disorder, be cautious with high-intensity exercise as it mimics panic symptoms - start moderate. Consistency matters more than intensity. Aim for 150 minutes moderate exercise weekly. During acute anxiety, a brisk walk can interrupt worry cycles. Move your body to calm your mind.",
+    "follow_up": ["Do you currently exercise?", "What activities do you enjoy?", "How does exercise affect your anxiety?", "Can you commit to regular movement?"]
+  },
+  {
+    "id": 4020,
+    "category": "anxiety",
+    "question": "What is acceptance and commitment therapy",
+    "alternate_questions": ["ACT therapy", "Acceptance anxiety", "ACT explained", "Commitment therapy", "ACT vs CBT"],
+    "keywords": ["ACT", "acceptance", "commitment", "therapy", "anxiety", "values", "mindfulness"],
+    "answer": "Acceptance and Commitment Therapy (ACT) is a mindfulness-based approach that helps you accept difficult thoughts and feelings while committing to valued actions. Unlike CBT which challenges thoughts, ACT changes your relationship to them. Core processes: acceptance (allowing discomfort rather than fighting it), cognitive defusion (observing thoughts without being controlled by them), being present, self-as-context (observing self beyond thoughts), values clarification (what matters to you), and committed action (behaving according to values despite discomfort). For anxiety, ACT teaches that trying to eliminate anxiety often increases it. Instead, make room for anxious feelings while doing what matters. Example: feeling anxious about public speaking but giving the talk anyway because your value is sharing knowledge. ACT is effective for anxiety, depression, chronic pain, and trauma.",
+    "follow_up": ["What values would you act on despite anxiety?", "Do you fight or accept anxious feelings?", "Have you tried ACT?", "Would you like to explore values?"]
+  },
+  {
+    "id": 4021,
+    "category": "anxiety",
+    "question": "What is the worry tree",
+    "alternate_questions": ["Worry decision tree", "Manage worry", "Worry technique", "Worry CBT tool", "Problem solving worry"],
+    "keywords": ["worry tree", "decision", "manage", "technique", "tool", "problem solving", "CBT"],
+    "answer": "The worry tree is a CBT decision tool for managing worry. It helps distinguish solvable from unsolvable worries and take appropriate action. Steps: 1) What am I worrying about? 2) Is this a hypothetical worry (about future uncertainty) or a practical worry (about current problem)? If practical: can I do something about it? If yes: make action plan and schedule worry time. If no: let it go using acceptance techniques. If hypothetical: can I do anything to prepare? If yes: brief preparation, then let go. If no: practice acceptance, mindfulness, or distraction. The worry tree prevents rumination by forcing a decision point: act or release. Many worries are hypothetical and cannot be solved by thinking. The tree trains you to recognize this and shift to acceptance. Keep a visual diagram handy for difficult moments.",
+    "follow_up": ["What are you currently worrying about?", "Is it practical or hypothetical?", "Can you take action?", "Would you like to use the worry tree?"]
+  },
+  {
+    "id": 4022,
+    "category": "anxiety",
+    "question": "Can anxiety cause memory problems",
+    "alternate_questions": ["Anxiety forgetful", "Stress memory", "Anxiety brain fog", "Can't concentrate anxiety", "Anxiety cognitive effects"],
+    "keywords": ["anxiety", "memory", "forgetful", "brain fog", "concentration", "cognitive", "effects"],
+    "answer": "Yes, anxiety significantly affects memory and cognition. Chronic anxiety and high cortisol impair the hippocampus (memory center) and prefrontal cortex (executive function). Effects include: difficulty concentrating, forgetfulness, brain fog, trouble learning new information, and impaired working memory. During acute anxiety, the brain prioritizes threat detection over other functions - you may remember the threat vividly but forget what you came into the room for. Sleep disruption from anxiety further impairs memory consolidation. In women, hormonal fluctuations may compound anxiety-related cognitive effects. These memory issues are usually reversible with anxiety treatment. Strategies: reduce anxiety through therapy/medication, improve sleep, practice mindfulness, break tasks into smaller steps, use external memory aids, and be patient with yourself. Your brain is not broken - it's prioritizing survival.",
+    "follow_up": ["What memory issues do you notice?", "Do they correlate with anxiety levels?", "How is your sleep?", "Have you discussed this with a provider?"]
+  },
+  {
+    "id": 4023,
+    "category": "anxiety",
+    "question": "What is phone anxiety",
+    "alternate_questions": ["Call anxiety", "Fear phone calls", "Telephone anxiety", "Hate talking phone", "Phone call dread"],
+    "keywords": ["phone", "call", "anxiety", "fear", "telephone", "talking", "dread", "communication"],
+    "answer": "Phone anxiety is fear or avoidance of making or receiving phone calls. It's common in the texting era and often relates to social anxiety. Fears include: not knowing what to say, sounding stupid, being interrupted, not recognizing the caller, or having to respond without visual cues. Phone anxiety can interfere with work, healthcare, and relationships. Management: prepare scripts for common calls, practice with low-stakes calls first, use text/email when appropriate, reward yourself after difficult calls, and gradually increase phone exposure. CBT and exposure therapy are effective. Remember: most people dislike unexpected calls too. The person on the other end is often relieved you're calling. Start with voicemail or short calls. Your discomfort will decrease with practice. Phone skills are learnable.",
+    "follow_up": ["What about phone calls scares you?", "Do you avoid important calls?", "Have you tried gradual exposure?", "Would you like script examples?"]
+  },
+  {
+    "id": 4024,
+    "category": "anxiety",
+    "question": "What is driving anxiety",
+    "alternate_questions": ["Fear of driving", "Driving phobia", "Anxious driving", "Vehophobia", "Can't drive anxiety"],
+    "keywords": ["driving", "fear", "phobia", "anxious", "vehophobia", "car", "accident", "avoidance"],
+    "answer": "Driving anxiety ranges from mild nervousness to phobia (vehophobia). It may follow an accident, develop gradually, or have no clear cause. Symptoms include: racing heart, sweating, trembling, shortness of breath, panic attacks, avoidance of driving or specific situations (highways, bridges, night driving), and excessive caution. This anxiety can severely restrict independence and daily life. Treatment includes: gradual exposure (start with passenger, then quiet streets, then highways), CBT to challenge catastrophic thoughts, relaxation techniques, driving lessons to build confidence, and in some cases, medication. If caused by a past accident, trauma therapy may help. Some find defensive driving courses reduce anxiety by increasing skill. Start where you are comfortable and progress slowly. Many people overcome driving anxiety and regain freedom.",
+    "follow_up": ["What driving situations trigger anxiety?", "Did you have a past accident?", "How much does this restrict you?", "Have you considered exposure therapy?"]
+  },
+  {
+    "id": 4025,
+    "category": "anxiety",
+    "question": "What is sleep anxiety",
+    "alternate_questions": ["Fear of sleep", "Can't sleep anxiety", "Sleep dread", "Anxious bedtime", "Insomnia anxiety"],
+    "keywords": ["sleep", "fear", "dread", "bedtime", "insomnia", "can't sleep", "anxious"],
+    "answer": "Sleep anxiety is worry about sleep that prevents sleep - a frustrating cycle. You worry about not sleeping, which increases arousal, which prevents sleep, which increases worry. Types include: fear of not sleeping, fear of nightmares, fear of sleepwalking, or general anxiety that peaks at night when distractions cease. Bed becomes associated with worry rather than rest. Management: CBT-I (cognitive behavioral therapy for insomnia) is gold standard. Techniques include: stimulus control (bed only for sleep), sleep restriction (temporarily limiting time in bed), worry time before bed, relaxation training, and challenging sleep-related catastrophic thoughts. Sleep hygiene helps: consistent schedule, cool dark room, no screens, limited caffeine. Paradoxical intention - trying to stay awake - sometimes reduces performance anxiety about sleep. Don't fight sleep anxiety; accept wakefulness without struggle.",
+    "follow_up": ["What specifically worries you about sleep?", "How long has this lasted?", "What is your bedtime routine?", "Have you tried CBT-I?"]
+  },
+  {
+    "id": 4026,
+    "category": "anxiety",
+    "question": "Can anxiety cause chest pain",
+    "alternate_questions": ["Chest pain anxiety", "Anxiety heart pain", "Panic chest tightness", "Anxiety vs heart attack", "Stress chest pain"],
+    "keywords": ["chest pain", "heart", "tightness", "panic", "heart attack", "physical", "symptom"],
+    "answer": "Yes, anxiety commonly causes chest pain that can mimic heart problems. During anxiety or panic, chest muscles tense, breathing becomes rapid and shallow, and the heart races - all causing chest discomfort. Anxiety chest pain is usually: sharp or stabbing, localized to a small area, lasts seconds to minutes, and improves with relaxation. Heart attack pain is usually: crushing/pressure-like, spreads to arm/jaw/back, accompanied by sweating and nausea, and not relieved by rest. However, never self-diagnose chest pain - if unsure, seek emergency care. If medical causes are ruled out, anxiety treatment reduces chest pain. Breathing techniques help: slow diaphragmatic breathing reduces chest muscle tension. Remember: anxiety chest pain is real and scary, but not dangerous. Understanding this reduces fear of the symptom itself.",
+    "follow_up": ["Describe your chest pain?", "Has it been medically evaluated?", "Does it correlate with anxiety?", "Are you afraid it's your heart?"]
+  },
+  {
+    "id": 4027,
+    "category": "anxiety",
+    "question": "What is high functioning anxiety",
+    "alternate_questions": ["Anxious but successful", "Hidden anxiety", "High performer anxiety", "Functional anxiety", "Anxiety appears fine"],
+    "keywords": ["high functioning", "hidden", "successful", "performer", "functional", "appears fine"],
+    "answer": "High functioning anxiety isn't a clinical diagnosis but describes people who appear successful and composed while internally struggling with significant anxiety. Outward signs: achievement-oriented, punctual, organized, proactive, detail-oriented, helpful. Internal experience: constant worry, fear of failure, overthinking, inability to relax, perfectionism, people-pleasing, insomnia, and physical tension. This anxiety drives productivity but at great cost. High functioning anxiety often goes untreated because others don't see the struggle and the person doesn't feel 'sick enough' for help. However, it leads to burnout, health problems, and diminished quality of life. Treatment is important: therapy to address perfectionism and people-pleasing, medication if needed, and learning that worth isn't tied to productivity. You don't have to suffer silently to be successful.",
+    "follow_up": ["Do you appear fine while struggling inside?", "Is productivity tied to your self-worth?", "Have you sought help despite functioning?", "What would happen if you stopped achieving?"]
+  },
+  {
+    "id": 4028,
+    "category": "anxiety",
+    "question": "What is the 333 rule for anxiety",
+    "alternate_questions": ["333 anxiety technique", "Grounding 333", "Anxiety grounding rule", "333 method calm", "Rule of 3 anxiety"],
+    "keywords": ["333 rule", "grounding", "technique", "method", "calm", "present", "sensory"],
+    "answer": "The 333 rule is a simple grounding technique for acute anxiety. Name: 3 things you can see, 3 things you can hear, and 3 things you can touch or move (wiggle toes, clench fists, touch fabric). This engages your senses and brings attention to the present moment, interrupting anxiety spirals. Variations include naming 3 things of a specific color, 3 body sensations, or 3 things you're grateful for. The 333 rule is portable, discreet, and effective anywhere. It works by activating the prefrontal cortex (rational thinking) and reducing amygdala (fear center) activity. Practice when calm so it's available during anxiety. Combine with slow breathing for enhanced effect. This technique is especially helpful for panic attacks and sudden anxiety spikes. Simple, quick, and powerful.",
+    "follow_up": ["Have you tried the 333 rule?", "Does grounding help your anxiety?", "What techniques do you use?", "Would you like to practice now?"]
+  },
+  {
+    "id": 4029,
+    "category": "anxiety",
+    "question": "Can anxiety cause nausea",
+    "alternate_questions": ["Anxiety stomach", "Nervous stomach", "Anxiety vomiting", "Stress nausea", "Gut anxiety connection"],
+    "keywords": ["nausea", "stomach", "gut", "vomiting", "stress", "nervous", "physical", "digestive"],
+    "answer": "Yes, anxiety commonly causes nausea and digestive symptoms through the gut-brain axis. The gut contains millions of neurons and produces neurotransmitters like serotonin. Stress hormones (cortisol, adrenaline) directly affect gut motility and sensitivity. Anxiety can cause: nausea, vomiting, diarrhea, constipation, stomach pain, bloating, and loss of appetite. The phrase 'butterflies in stomach' describes this connection. For some, digestive symptoms are the primary manifestation of anxiety. Management: treat underlying anxiety, practice deep breathing before meals, eat small bland foods when nauseated, stay hydrated, consider ginger or peppermint, and maintain regular meal times. If digestive symptoms persist, rule out medical causes like GERD, IBS, or ulcers. The gut-brain connection is bidirectional - improving gut health may also reduce anxiety.",
+    "follow_up": ["Do you get nauseous when anxious?", "How does it affect eating?", "Have you seen a gastroenterologist?", "Does treating anxiety help digestion?"]
+  },
+  {
+    "id": 4030,
+    "category": "anxiety",
+    "question": "What is an anxiety relapse",
+    "alternate_questions": ["Anxiety returned", "Relapse after recovery", "Anxiety coming back", "Setback anxiety", "Anxiety recurrence"],
+    "keywords": ["relapse", "returned", "recovery", "coming back", "setback", "recurrence", "management"],
+    "answer": "Anxiety relapse is the return of significant symptoms after a period of improvement. Relapses are common and don't mean failure - anxiety often follows a wave pattern rather than linear recovery. Triggers include: major life changes, stopping treatment too soon, increased stress, hormonal shifts, or seasonal changes. Difference between lapse (brief, manageable symptom increase) and relapse (return to previous severity). If you relapse: don't panic - you've recovered before and can again. Review what helped previously. Re-engage with treatment (therapy, medication, lifestyle). Identify triggers and address them. Be compassionate with yourself - recovery isn't perfect. Use relapse as information about what needs attention. Many people find subsequent recoveries faster because they have skills and experience. You are not back at square one.",
+    "follow_up": ["Have you recovered from anxiety before?", "What triggered this relapse?", "What helped previously?", "Are you still using coping skills?"]
+  }
+]

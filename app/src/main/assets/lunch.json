@@ -1,0 +1,47 @@
+[
+  {
+    "id": 341,
+    "category": "lunch",
+    "question": "What's a healthy lunch for my period?",
+    "alternate_questions": ["Lunch ideas for menstruation", "Best lunch for period cramps", "Healthy midday meal during cycle"],
+    "keywords": ["lunch", "period", "healthy", "salmon", "salad", "quinoa"],
+    "answer": "A healthy period lunch could be a salmon and spinach salad with quinoa and a lemon-tahini dressing. Salmon provides omega-3s to fight inflammation, spinach offers iron, and quinoa gives you complex carbs for steady energy.",
+    "follow_up": ["Why are omega-3s good for cramps?", "What are other iron-rich lunch options?", "How does lunch affect afternoon energy?"]
+  },
+  {
+    "id": 342,
+    "category": "lunch",
+    "question": "Can lunch help reduce afternoon fatigue during my cycle?",
+    "alternate_questions": ["Midday meal for energy", "Lunch to fight period tiredness", "What to eat at lunch to stay awake?"],
+    "keywords": ["lunch", "fatigue", "energy", "afternoon", "tired"],
+    "answer": "Yes! A lunch balanced with protein, healthy fats, and complex carbohydrates (like a turkey and avocado wrap on whole-grain bread) helps prevent the blood sugar crash that often leads to afternoon fatigue, especially during your period.",
+    "follow_up": ["What are complex carbohydrates?", "How much protein should I have at lunch?", "Does hydration at lunch matter?"]
+  },
+  {
+    "id": 343,
+    "category": "lunch",
+    "question": "Are there lunch foods that help with bloating?",
+    "alternate_questions": ["Best lunch for a bloated stomach", "What should I eat at lunch to reduce water retention?", "Light lunch ideas for PMS"],
+    "keywords": ["lunch", "bloating", "pms", "water retention", "light"],
+    "answer": "To reduce bloating, choose lunches that are low in sodium and high in potassium, like a lentil soup or a salad with cucumbers and tomatoes. Avoid highly processed meats or salty dressings that can increase water retention.",
+    "follow_up": ["Why does salt cause bloating?", "Is soup a good lunch for periods?", "What are other potassium-rich foods?"]
+  },
+  {
+    "id": 344,
+    "category": "lunch",
+    "question": "What are vegetarian lunch options for my period?",
+    "alternate_questions": ["Meat-free period lunch", "Vegetarian iron sources for lunch", "Plant-based midday meals"],
+    "keywords": ["vegetarian", "lunch", "period", "iron", "plant-based", "lentils", "tofu"],
+    "answer": "Great vegetarian options include lentil stew, a chickpea salad sandwich, or a tofu and vegetable stir-fry with brown rice. Pairing these with vitamin C (like a squeeze of lemon or bell peppers) helps your body absorb the plant-based iron.",
+    "follow_up": ["How does vitamin C help iron absorption?", "What are best plant-based iron sources?", "Can I get enough protein from a vegetarian lunch?"]
+  },
+  {
+    "id": 345,
+    "category": "lunch",
+    "question": "Should I avoid heavy lunches during PMS?",
+    "alternate_questions": ["Light vs heavy lunch for periods", "Does a big lunch make PMS worse?", "Best meal size for lunch during my cycle"],
+    "keywords": ["lunch", "pms", "heavy", "light", "digestion"],
+    "answer": "Many people find that eating smaller, more frequent meals, including a lighter lunch, can help manage PMS symptoms like bloating and lethargy. A heavy, greasy lunch might make you feel more sluggish and uncomfortable.",
+    "follow_up": ["How many meals should I eat a day?", "Does digestion slow down during PMS?", "What's a good light lunch example?"]
+  }
+]

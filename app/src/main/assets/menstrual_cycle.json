@@ -1,0 +1,182 @@
+[
+  {
+    "id": 181,
+    "category": "menstrual_cycle",
+    "question": "What is the menstrual cycle",
+    "alternate_questions": ["Explain menstrual cycle", "How does the menstrual cycle work", "What happens during the menstrual cycle", "Menstrual cycle phases", "Understanding my cycle"],
+    "keywords": ["menstrual cycle", "phases", "hormones", "biology", "understanding"],
+    "answer": "The menstrual cycle is the monthly process your body goes through to prepare for pregnancy. It typically lasts 21 to 35 days and involves four main phases: menstruation (shedding the uterine lining), the follicular phase (egg development), ovulation (egg release), and the luteal phase (preparing for possible pregnancy). Hormones like estrogen, progesterone, FSH, and LH regulate this process.",
+    "follow_up": ["How long is your typical cycle?", "Do you track your cycle?", "Would you like to learn about each phase?"]
+  },
+  {
+    "id": 182,
+    "category": "menstrual_cycle",
+    "question": "What are the phases of the menstrual cycle",
+    "alternate_questions": ["Cycle phases explained", "Four phases of menstruation", "What happens in each cycle phase", "Menstrual phase follicular ovulation luteal"],
+    "keywords": ["phases", "follicular", "ovulation", "luteal", "menstruation"],
+    "answer": "The menstrual cycle has four phases: 1) Menstruation (Days 1-5): The uterine lining sheds as period blood. 2) Follicular Phase (Days 1-13): Estrogen rises, follicles develop in ovaries, uterine lining rebuilds. 3) Ovulation (Day 14): A mature egg is released from the ovary. 4) Luteal Phase (Days 15-28): Progesterone rises to prepare the uterus for pregnancy. If no pregnancy occurs, hormone levels drop and the cycle restarts.",
+    "follow_up": ["Which phase are you most curious about?", "Do you notice changes in different phases?", "Would you like to know how to track phases?"]
+  },
+  {
+    "id": 183,
+    "category": "menstrual_cycle",
+    "question": "How long is a normal menstrual cycle",
+    "alternate_questions": ["Normal cycle length", "How many days between periods", "Average menstrual cycle", "Typical cycle duration", "Cycle length normal range"],
+    "keywords": ["cycle length", "normal", "days", "average", "range"],
+    "answer": "A normal menstrual cycle typically ranges from 21 to 35 days, with 28 days being the average. However, cycles can vary from person to person and even from month to month. A cycle is counted from the first day of one period to the day before the next period starts. If your cycle is consistently shorter than 21 days or longer than 35 days, consult a healthcare provider.",
+    "follow_up": ["How long is your typical cycle?", "Has your cycle length changed recently?", "Do you track your cycle regularly?"]
+  },
+  {
+    "id": 184,
+    "category": "menstrual_cycle",
+    "question": "What is the follicular phase",
+    "alternate_questions": ["Follicular phase explained", "What happens in follicular phase", "Follicular stage", "First half of cycle", "Pre-ovulation phase"],
+    "keywords": ["follicular", "phase", "estrogen", "follicle", "egg development"],
+    "answer": "The follicular phase starts on Day 1 of your period and lasts until ovulation. During this phase, the pituitary gland releases FSH (follicle-stimulating hormone), which stimulates several follicles in the ovaries to mature. One follicle becomes dominant and will eventually release an egg. Estrogen levels rise, causing the uterine lining to thicken. Many people feel more energetic and positive during this phase.",
+    "follow_up": ["Do you notice mood changes during this phase?", "How do you feel in the first half of your cycle?", "Are you tracking your follicular phase?"]
+  },
+  {
+    "id": 185,
+    "category": "menstrual_cycle",
+    "question": "What is the luteal phase",
+    "alternate_questions": ["Luteal phase explained", "What happens in luteal phase", "Second half of cycle", "Post-ovulation phase", "Premenstrual phase"],
+    "keywords": ["luteal", "phase", "progesterone", "premenstrual", "corpus luteum"],
+    "answer": "The luteal phase occurs after ovulation and lasts until your next period begins. The empty follicle (now called the corpus luteum) produces progesterone, which prepares the uterine lining for a possible pregnancy. If pregnancy doesn't occur, the corpus luteum breaks down, progesterone drops, and your period starts. This phase is when PMS symptoms typically occur due to hormonal fluctuations.",
+    "follow_up": ["Do you experience PMS during this phase?", "How long is your luteal phase?", "Do you notice specific luteal phase symptoms?"]
+  },
+  {
+    "id": 186,
+    "category": "menstrual_cycle",
+    "question": "What is ovulation",
+    "alternate_questions": ["Explain ovulation", "What happens when you ovulate", "Egg release process", "Ovulation meaning", "When does ovulation occur"],
+    "keywords": ["ovulation", "egg", "release", "fertility", "LH surge"],
+    "answer": "Ovulation is when a mature egg is released from one of your ovaries, typically around day 14 of a 28-day cycle. It's triggered by a surge in luteinizing hormone (LH). The egg travels down the fallopian tube where it can be fertilized by sperm for 12-24 hours. Ovulation is your most fertile time. Signs include mild pelvic pain, increased cervical mucus, and a slight rise in basal body temperature.",
+    "follow_up": ["Do you track ovulation?", "Are you trying to conceive or avoid pregnancy?", "Do you notice ovulation signs?"]
+  },
+  {
+    "id": 187,
+    "category": "menstrual_cycle",
+    "question": "How do I know when I'm ovulating",
+    "alternate_questions": ["Ovulation signs", "How to tell if ovulating", "Ovulation symptoms", "Fertile window signs", "Am I ovulating now"],
+    "keywords": ["ovulation signs", "symptoms", "cervical mucus", "basal temperature", "fertility"],
+    "answer": "Common signs of ovulation include: 1) Cervical mucus becomes clear, stretchy, and egg-white consistency. 2) Mild pelvic or ovary pain (mittelschmerz). 3) Slight increase in basal body temperature (0.5-1°F). 4) Increased libido. 5) Breast tenderness. 6) Bloating. You can also use ovulation predictor kits (OPKs) that detect the LH surge 24-36 hours before ovulation.",
+    "follow_up": ["Have you noticed any of these signs?", "Are you using ovulation tests?", "Why do you want to know if you're ovulating?"]
+  },
+  {
+    "id": 188,
+    "category": "menstrual_cycle",
+    "question": "What hormones control the menstrual cycle",
+    "alternate_questions": ["Menstrual cycle hormones", "Hormones involved in menstruation", "Estrogen progesterone FSH LH", "Hormonal regulation cycle"],
+    "keywords": ["hormones", "estrogen", "progesterone", "FSH", "LH"],
+    "answer": "Four main hormones regulate your cycle: 1) FSH (Follicle-Stimulating Hormone): Stimulates egg development. 2) LH (Luteinizing Hormone): Triggers ovulation. 3) Estrogen: Thickens the uterine lining, peaks before ovulation. 4) Progesterone: Prepares the uterus for pregnancy, dominates the luteal phase. These hormones work in a delicate balance, and disruptions can cause irregular cycles.",
+    "follow_up": ["Would you like to learn more about a specific hormone?", "Do you think you have a hormonal imbalance?", "Have you had hormone levels tested?"]
+  },
+  {
+    "id": 189,
+    "category": "menstrual_cycle",
+    "question": "Why is my cycle irregular",
+    "alternate_questions": ["Irregular periods", "Why does my cycle change length", "Inconsistent cycle", "Cycle variation", "Why is my period unpredictable"],
+    "keywords": ["irregular", "cycle", "variation", "unpredictable", "hormonal"],
+    "answer": "Irregular cycles can be caused by stress, weight changes, excessive exercise, polycystic ovary syndrome (PCOS), thyroid disorders, perimenopause, breastfeeding, certain medications, or underlying health conditions. In teenagers and people approaching menopause, some irregularity is normal. If your cycle varies by more than 9 days from month to month, or you skip periods for 3+ months, consult a healthcare provider.",
+    "follow_up": ["How much does your cycle vary?", "How long has this been happening?", "Have you had any lifestyle changes?"]
+  },
+  {
+    "id": 190,
+    "category": "menstrual_cycle",
+    "question": "What is an anovulatory cycle",
+    "alternate_questions": ["Cycle without ovulation", "Why didn't I ovulate", "Anovulation explained", "Missing ovulation", "Can you have a period without ovulating"],
+    "keywords": ["anovulatory", "no ovulation", "cycle", "infertility", "hormonal"],
+    "answer": "An anovulatory cycle is when your body doesn't release an egg. You can still have a period (called an anovulatory bleed), but it's often lighter or irregular. Causes include stress, extreme exercise, PCOS, thyroid issues, obesity, underweight, and perimenopause. Occasional anovulatory cycles are normal, but frequent ones can affect fertility and should be evaluated by a healthcare provider.",
+    "follow_up": ["Are you trying to conceive?", "Do you track ovulation?", "How often does this happen?"]
+  },
+  {
+    "id": 191,
+    "category": "menstrual_cycle",
+    "question": "Can I have a period without ovulating",
+    "alternate_questions": ["Period without egg release", "Bleeding without ovulation", "Anovulatory bleeding", "Why do I bleed if I didn't ovulate"],
+    "keywords": ["period without ovulation", "anovulatory", "bleeding", "hormonal"],
+    "answer": "Yes, you can have bleeding that looks like a period even if you didn't ovulate. This is called anovulatory bleeding or a withdrawal bleed. It happens when the uterine lining builds up under estrogen but then sheds because progesterone never rose to stabilize it. This bleeding may be irregular, lighter, or heavier than a typical period. Frequent anovulatory cycles should be discussed with a healthcare provider.",
+    "follow_up": ["Do you track ovulation?", "Is your bleeding different from usual?", "How often does this occur?"]
+  },
+  {
+    "id": 192,
+    "category": "menstrual_cycle",
+    "question": "What is a chemical pregnancy",
+    "alternate_questions": ["Early miscarriage", "Chemical pregnancy explained", "Very early pregnancy loss", "Positive test then period", "Biochemical pregnancy"],
+    "keywords": ["chemical pregnancy", "early loss", "miscarriage", "hCG", "pregnancy test"],
+    "answer": "A chemical pregnancy is a very early pregnancy loss that occurs shortly after implantation. You might get a positive pregnancy test because hCG was produced, but then get your period as the pregnancy fails to develop. It's called 'chemical' because it's only detected by hormone levels, often before an ultrasound could see anything. It's common and usually doesn't affect future fertility, though it can be emotionally difficult.",
+    "follow_up": ["Did you get a positive test?", "How are you feeling emotionally?", "Have you spoken to a healthcare provider?"]
+  },
+  {
+    "id": 193,
+    "category": "menstrual_cycle",
+    "question": "Why do I have two periods in one month",
+    "alternate_questions": ["Two periods a month", "Bleeding twice in one month", "Double period", "Frequent menstruation", "Periods too close together"],
+    "keywords": ["two periods", "frequent", "polymenorrhea", "bleeding", "irregular"],
+    "answer": "Having two periods in one month can happen if you have a shorter cycle (21 days or less), or it could indicate hormonal imbalances, stress, thyroid issues, fibroids, polyps, perimenopause, or other conditions. If this happens occasionally, it might be normal variation. However, if it's frequent or accompanied by heavy bleeding, severe pain, or other symptoms, consult a healthcare provider.",
+    "follow_up": ["How many days apart were the periods?", "Was the second one lighter or heavier?", "Have you had any other symptoms?"]
+  },
+  {
+    "id": 194,
+    "category": "menstrual_cycle",
+    "question": "Why haven't I gotten my period in 3 months",
+    "alternate_questions": ["No period for 3 months", "3 months without menstruating", "Missed periods for months", "Secondary amenorrhea", "Why am I not getting periods"],
+    "keywords": ["no period", "months", "amenorrhea", "missed", "absent"],
+    "answer": "Not having a period for 3 months (secondary amenorrhea) can be caused by pregnancy, breastfeeding, extreme stress, significant weight loss, excessive exercise, PCOS, thyroid disorders, premature ovarian failure, or certain medications. If you're not pregnant and haven't had a period for 3 months, it's important to see a healthcare provider for evaluation. They may do blood tests and imaging to determine the cause.",
+    "follow_up": ["Have you taken a pregnancy test?", "Have you had significant weight or stress changes?", "Are you on any medications?"]
+  },
+  {
+    "id": 195,
+    "category": "menstrual_cycle",
+    "question": "What does it mean if my cycle is 21 days",
+    "alternate_questions": ["Short menstrual cycle", "21 day cycle normal", "Why is my cycle so short", "Frequent periods short cycle"],
+    "keywords": ["short cycle", "21 days", "frequent", "polymenorrhea", "early"],
+    "answer": "A 21-day cycle is on the shorter end of normal but can still be healthy for some people. However, if your cycle has recently shortened from a longer length, or if you have other symptoms like heavy bleeding, severe pain, or difficulty conceiving, it could indicate hormonal imbalances, thyroid issues, perimenopause, or other conditions. Tracking your cycle and discussing changes with a healthcare provider is recommended.",
+    "follow_up": ["Has your cycle always been 21 days?", "Do you have heavy bleeding or pain?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 196,
+    "category": "menstrual_cycle",
+    "question": "What does it mean if my cycle is 35 days",
+    "alternate_questions": ["Long menstrual cycle", "35 day cycle normal", "Why is my cycle so long", "Infrequent periods long cycle"],
+    "keywords": ["long cycle", "35 days", "oligomenorrhea", "infrequent", "late"],
+    "answer": "A 35-day cycle is on the longer end of normal but can be perfectly healthy, especially if it's consistent for you. Some people naturally have longer cycles. However, if your cycle has recently lengthened, or you have symptoms like acne, excess hair growth, or difficulty conceiving, it could indicate PCOS, thyroid issues, or other hormonal conditions. Consistent tracking helps identify your personal normal.",
+    "follow_up": ["Has your cycle always been 35 days?", "Do you have other symptoms?", "Are your cycles regular or do they vary?"]
+  },
+  {
+    "id": 197,
+    "category": "menstrual_cycle",
+    "question": "Can my cycle change as I get older",
+    "alternate_questions": ["Cycle changes with age", "Does menstruation change over time", "Aging and periods", "Why is my cycle different now", "Period changes in 20s 30s 40s"],
+    "keywords": ["age", "cycle changes", "maturation", "perimenopause", "evolution"],
+    "answer": "Yes, your cycle can change significantly throughout your life. In your teens, cycles may be irregular as hormones settle. In your 20s and 30s, cycles often become more regular. In your late 30s and 40s, you may notice changes as you approach perimenopause, including shorter or longer cycles, heavier or lighter flow, and more PMS symptoms. These changes are usually gradual.",
+    "follow_up": ["How old are you?", "What changes have you noticed?", "Are the changes gradual or sudden?"]
+  },
+  {
+    "id": 198,
+    "category": "menstrual_cycle",
+    "question": "What is breakthrough bleeding",
+    "alternate_questions": ["Breakthrough bleeding explained", "Why am I bleeding between periods", "Spotting between cycles", "Intermenstrual bleeding", "Unexpected bleeding"],
+    "keywords": ["breakthrough bleeding", "spotting", "between periods", "hormonal", "birth control"],
+    "answer": "Breakthrough bleeding is unexpected bleeding between periods. It's common when starting hormonal birth control, with missed pills, during perimenopause, or with hormonal imbalances. It can also occur with fibroids, polyps, infections, or thyroid issues. While often harmless, persistent breakthrough bleeding should be evaluated by a healthcare provider, especially if accompanied by pain, odor, or after sexual activity.",
+    "follow_up": ["Are you on birth control?", "How heavy is the bleeding?", "Is it accompanied by pain or odor?"]
+  },
+  {
+    "id": 199,
+    "category": "menstrual_cycle",
+    "question": "Why is my cycle getting shorter",
+    "alternate_questions": ["Shorter cycles lately", "Cycle length decreasing", "Why are my periods closer together", "Aging and shorter cycles"],
+    "keywords": ["shorter cycle", "decreasing", "frequent", "perimenopause", "changes"],
+    "answer": "Cycles getting shorter can be a normal part of aging, particularly in your late 30s and 40s as you approach perimenopause. However, it can also indicate thyroid issues, fibroids, polyps, stress, or other hormonal changes. If your cycle has shortened by more than 3-4 days consistently, or you have other symptoms, consult a healthcare provider to rule out underlying conditions.",
+    "follow_up": ["How much shorter have they become?", "How old are you?", "Do you have other symptoms like heavy bleeding?"]
+  },
+  {
+    "id": 200,
+    "category": "menstrual_cycle",
+    "question": "Why is my cycle getting longer",
+    "alternate_questions": ["Longer cycles lately", "Cycle length increasing", "Why are my periods further apart", "Periods becoming less frequent"],
+    "keywords": ["longer cycle", "increasing", "infrequent", "oligomenorrhea", "changes"],
+    "answer": "Cycles getting longer can occur due to stress, weight changes, excessive exercise, PCOS, thyroid disorders, elevated prolactin, or perimenopause. In perimenopause, it's common for cycles to lengthen before they eventually stop. If your cycle has lengthened by more than 7-9 days consistently, or you skip periods, see a healthcare provider for evaluation, especially if you're under 45.",
+    "follow_up": ["How much longer have they become?", "Are you under significant stress?", "Have you had weight or exercise changes?"]
+  }
+]

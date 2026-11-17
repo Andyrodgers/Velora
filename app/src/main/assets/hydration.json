@@ -1,0 +1,47 @@
+[
+  {
+    "id": 111,
+    "category": "hydration",
+    "question": "How much water should I drink?",
+    "alternate_questions": ["What is the recommended daily water intake?", "How many glasses of water a day?", "How much hydration do I need?"],
+    "keywords": ["water", "hydration", "amount", "intake", "daily"],
+    "answer": "While the '8 glasses a day' rule is common, individual needs vary based on activity level, climate, and body weight. A good general goal is about 2.7 liters for women daily, which includes water from food and all beverages.",
+    "follow_up": ["How do I know if I'm dehydrated?", "Does hydration help with period cramps?", "Are there foods that help with hydration?"]
+  },
+  {
+    "id": 112,
+    "category": "hydration",
+    "question": "Does hydration affect my period?",
+    "alternate_questions": ["Can drinking water help with period symptoms?", "Hydration and menstruation", "Will water help with my cycle?"],
+    "keywords": ["period", "menstruation", "water", "hydration", "cycle"],
+    "answer": "Yes! Staying well-hydrated can help reduce bloating and may alleviate menstrual headaches and cramps. It also helps with energy levels which often dip during your period.",
+    "follow_up": ["How does water reduce bloating?", "Can dehydration make cramps worse?", "What should I drink during my period?"]
+  },
+  {
+    "id": 113,
+    "category": "hydration",
+    "question": "What are signs of dehydration?",
+    "alternate_questions": ["How do I know if I'm dehydrated?", "Symptoms of dehydration", "Am I drinking enough water?"],
+    "keywords": ["dehydration", "signs", "symptoms", "thirst", "dark urine"],
+    "answer": "Common signs include dark-colored urine, thirst, dry mouth, fatigue, dizziness, and headaches. If you feel thirsty, you're likely already slightly dehydrated.",
+    "follow_up": ["What color should my urine be?", "Can dehydration cause brain fog?", "How to rehydrate quickly?"]
+  },
+  {
+    "id": 114,
+    "category": "hydration",
+    "question": "Can I drink too much water?",
+    "alternate_questions": ["Is overhydration dangerous?", "What is water intoxication?", "Can you drink more water than you need?"],
+    "keywords": ["overhydration", "water intoxication", "too much water", "danger"],
+    "answer": "Yes, while rare, drinking excessive amounts of water in a very short time can lead to water intoxication (hyponatremia), which dilutes the sodium in your blood. It's best to sip water consistently throughout the day.",
+    "follow_up": ["What are the symptoms of water intoxication?", "How much water is too much?", "What is hyponatremia?"]
+  },
+  {
+    "id": 115,
+    "category": "hydration",
+    "question": "Does coffee count towards hydration?",
+    "alternate_questions": ["Do caffeinated drinks dehydrate you?", "Can I count tea as water intake?", "Is coffee hydrating?"],
+    "keywords": ["coffee", "tea", "caffeine", "hydration", "diuretic"],
+    "answer": "While caffeine has a mild diuretic effect, caffeinated drinks like coffee and tea still contribute to your overall daily fluid intake. However, plain water is usually the best source for staying hydrated.",
+    "follow_up": ["Is tea better than coffee for hydration?", "Should I limit caffeine during my period?", "What are the best hydrating beverages?"]
+  }
+]

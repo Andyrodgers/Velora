@@ -1,0 +1,452 @@
+[
+  {
+    "id": 131,
+    "category": "periods",
+    "question": "Why is my period late",
+    "alternate_questions": ["My period is late", "Why haven't I started my period", "Delayed menstruation", "My period didn't come", "Missed period", "Late menstrual cycle", "Period not starting", "I skipped my period", "Why am I not bleeding", "Overdue period"],
+    "keywords": ["late period", "missed period", "delay", "menstruation", "overdue", "skipped"],
+    "answer": "A late period can happen for many reasons including stress, pregnancy, illness, significant weight changes, intense exercise, hormonal changes, or medical conditions such as PCOS. If pregnancy is possible, consider taking a pregnancy test. If your periods are repeatedly irregular or you have severe symptoms, consult a qualified healthcare professional.",
+    "follow_up": ["How many days late is your period?", "Have you had unprotected sex recently?", "Is this your first delayed period?", "Have you been under stress lately?"]
+  },
+  {
+    "id": 132,
+    "category": "periods",
+    "question": "What is a normal period",
+    "alternate_questions": ["What should a normal period be like", "How is a period supposed to be", "Normal period characteristics", "What counts as normal menstruation", "Typical period"],
+    "keywords": ["normal period", "menstruation", "typical", "healthy", "regular"],
+    "answer": "A normal period typically lasts 3 to 7 days and occurs every 21 to 35 days. Normal flow can range from light to moderately heavy, with blood loss of about 30 to 80 milliliters total. Color can vary from bright red to dark brown. Some mild cramping is common, but severe pain is not normal. Everyone's body is different, so what's normal for you may differ slightly from others.",
+    "follow_up": ["How long do your periods usually last?", "How heavy is your flow?", "Do you experience significant pain?"]
+  },
+  {
+    "id": 133,
+    "category": "periods",
+    "question": "Why do I get periods",
+    "alternate_questions": ["What causes periods", "Why do we menstruate", "Purpose of periods", "Why does menstruation happen", "Biological reason for periods"],
+    "keywords": ["why periods", "menstruation cause", "biology", "reproductive", "uterus"],
+    "answer": "Periods happen as part of your menstrual cycle. Each month, your body prepares for pregnancy by building up the uterine lining. If pregnancy doesn't occur, your body sheds this lining through your vagina as menstrual blood. This process is driven by hormonal changes involving estrogen and progesterone. It's a natural and healthy part of reproductive biology.",
+    "follow_up": ["Do you understand your cycle phases?", "Would you like to learn more about hormones?", "How do you feel about your periods?"]
+  },
+  {
+    "id": 134,
+    "category": "periods",
+    "question": "How long should my period last",
+    "alternate_questions": ["Period duration", "How many days is a normal period", "Period length", "My period lasts too long", "My period is too short"],
+    "keywords": ["period length", "duration", "days", "how long", "menstruation"],
+    "answer": "Most periods last between 3 to 7 days. However, anywhere from 2 to 8 days can still be normal depending on the person. If your period consistently lasts longer than 8 days or shorter than 2 days, or if there's a sudden change in your usual pattern, it's worth discussing with a healthcare provider. Tracking your cycle can help you understand what's normal for you.",
+    "follow_up": ["How long do your periods typically last?", "Has the duration changed recently?", "Do you have very heavy flow?"]
+  },
+  {
+    "id": 135,
+    "category": "periods",
+    "question": "How much blood do I lose during my period",
+    "alternate_questions": ["Period blood amount", "How much do I bleed", "Is my flow too heavy", "Normal blood loss", "Menstrual blood volume"],
+    "keywords": ["blood loss", "flow", "heavy", "volume", "menstruation"],
+    "answer": "On average, people lose about 30 to 80 milliliters of blood during their entire period, which is roughly 2 to 5 tablespoons. However, it can be hard to judge visually. If you're soaking through a pad or tampon every hour for several consecutive hours, or passing clots larger than a quarter, that may indicate heavy bleeding and you should consult a healthcare provider.",
+    "follow_up": ["How often do you change your pad or tampon?", "Do you pass large clots?", "Do you feel weak or dizzy during your period?"]
+  },
+  {
+    "id": 136,
+    "category": "periods",
+    "question": "Why is my period early",
+    "alternate_questions": ["Early period", "Period came early", "Why did I start early", "Menstruation started early", "Cycle shorter than usual"],
+    "keywords": ["early period", "short cycle", "early menstruation", "premature"],
+    "answer": "An early period can be caused by stress, hormonal fluctuations, changes in weight, intense exercise, travel, illness, or changes in birth control. Sometimes it's just a normal variation. If your cycle is consistently shorter than 21 days or you experience other symptoms like very heavy bleeding or severe pain, consult a healthcare provider.",
+    "follow_up": ["How many days early was it?", "Have you been under stress?", "Have you started any new medications?"]
+  },
+  {
+    "id": 137,
+    "category": "periods",
+    "question": "Can I get pregnant during my period",
+    "alternate_questions": ["Pregnancy during period", "Period sex pregnancy risk", "Can you conceive while menstruating", "Is it safe to have sex on my period", "Period pregnancy"],
+    "keywords": ["pregnancy", "period sex", "conception", "menstruation", "fertility"],
+    "answer": "While the chances are lower, it is possible to get pregnant during your period, especially if you have a shorter cycle. Sperm can live inside the body for up to 5 days, and if you ovulate early, pregnancy could occur. If you're not trying to conceive, use protection during period sex. If pregnancy is possible and your period is unusual, consider taking a test.",
+    "follow_up": ["How long is your typical cycle?", "Did you have unprotected sex?", "Are you trying to conceive or avoid pregnancy?"]
+  },
+  {
+    "id": 138,
+    "category": "periods",
+    "question": "Why does my period smell",
+    "alternate_questions": ["Period odor", "Menstrual smell", "Why does period blood smell", "Is it normal for periods to smell", "Period blood odor"],
+    "keywords": ["odor", "smell", "period", "menstruation", "normal"],
+    "answer": "A mild odor during your period is completely normal and is caused by bacteria mixing with menstrual blood. However, a strong fishy or foul odor, especially when accompanied by unusual discharge, itching, or irritation, could indicate an infection like bacterial vaginosis and should be checked by a healthcare provider. Good hygiene practices help manage normal odor.",
+    "follow_up": ["What does the odor smell like?", "Do you have any itching or unusual discharge?", "How often do you change your sanitary products?"]
+  },
+  {
+    "id": 139,
+    "category": "periods",
+    "question": "Can I exercise during my period",
+    "alternate_questions": ["Working out on period", "Exercise during menstruation", "Should I exercise while bleeding", "Period workout", "Gym during period"],
+    "keywords": ["exercise", "workout", "period", "fitness", "activity"],
+    "answer": "Yes, you can absolutely exercise during your period! In fact, light to moderate exercise can help reduce cramps, improve mood, and boost energy. Walking, yoga, swimming, and gentle stretching are great options. Listen to your body, though, if you feel exhausted, it's okay to rest. Avoid extremely intense workouts if they worsen your symptoms.",
+    "follow_up": ["What type of exercise do you enjoy?", "Do you usually exercise during your period?", "Do you experience cramps during workouts?"]
+  },
+  {
+    "id": 140,
+    "category": "periods",
+    "question": "Can I swim during my period",
+    "alternate_questions": ["Swimming on period", "Pool during menstruation", "Beach while bleeding", "Can I go swimming with my period", "Tampon for swimming"],
+    "keywords": ["swimming", "period", "water", "tampon", "menstrual cup"],
+    "answer": "Yes, you can swim during your period! Using a tampon or menstrual cup will prevent leakage while swimming. The water pressure may actually slow your flow temporarily. Swimming is a great low-impact exercise that can help with cramps. Just remember to change your tampon after swimming and never leave a tampon in for more than 8 hours.",
+    "follow_up": ["Do you use tampons or menstrual cups?", "Are you comfortable swimming during your period?", "How long do you plan to swim?"]
+  },
+  {
+    "id": 141,
+    "category": "periods",
+    "question": "Why do I get diarrhea during my period",
+    "alternate_questions": ["Period poop", "Menstrual diarrhea", "Why does my stomach act up during my period", "Bowel changes during period", "Period and digestion"],
+    "keywords": ["diarrhea", "digestion", "period", "bowel", "prostaglandins"],
+    "answer": "Many people experience digestive changes during their period due to prostaglandins, hormone-like substances that cause uterine contractions. These prostaglandins can also affect your intestines, leading to diarrhea, bloating, or more frequent bowel movements. Eating fiber-rich foods, staying hydrated, and avoiding very greasy or spicy foods can help manage this.",
+    "follow_up": ["Do you experience this every period?", "Have you tried dietary changes?", "Is it severe enough to affect your daily life?"]
+  },
+  {
+    "id": 142,
+    "category": "periods",
+    "question": "Why am I constipated before my period",
+    "alternate_questions": ["Period constipation", "Can't poop before period", "Bowel issues before menstruation", "Digestive problems premenstrual"],
+    "keywords": ["constipation", "premenstrual", "digestion", "progesterone", "bowel"],
+    "answer": "Constipation before your period is common due to increased progesterone levels, which can slow down digestion. This typically happens in the luteal phase. Drinking plenty of water, eating fiber-rich foods like fruits and vegetables, and gentle exercise can help. If constipation is severe or persistent, talk to a healthcare provider.",
+    "follow_up": ["How often does this happen?", "Do you drink enough water?", "Have you tried increasing fiber intake?"]
+  },
+  {
+    "id": 143,
+    "category": "periods",
+    "question": "Why do I feel bloated during my period",
+    "alternate_questions": ["Period bloating", "Menstrual bloating", "Why am I swollen during my period", "Belly bloating menstruation", "Water retention period"],
+    "keywords": ["bloating", "water retention", "period", "swelling", "discomfort"],
+    "answer": "Bloating during your period is very common and is caused by hormonal fluctuations that lead to water retention and gas. Progesterone and estrogen changes affect how your body handles fluids. Reducing salt intake, staying hydrated (which seems counterintuitive but helps), eating potassium-rich foods, and gentle exercise can reduce bloating.",
+    "follow_up": ["How severe is your bloating?", "Does it affect your daily activities?", "Have you tried dietary changes?"]
+  },
+  {
+    "id": 144,
+    "category": "periods",
+    "question": "Can I have sex during my period",
+    "alternate_questions": ["Period sex", "Sex while menstruating", "Is period sex safe", "Should I avoid sex during my period", "Intimacy during menstruation"],
+    "keywords": ["sex", "period", "intimacy", "menstruation", "intercourse"],
+    "answer": "Yes, period sex is safe and normal if both partners are comfortable with it. Some people find that orgasms actually help relieve menstrual cramps. However, there is still a risk of pregnancy and STIs, so protection is important. Use a towel to protect bedding and communicate openly with your partner about comfort levels.",
+    "follow_up": ["Are you and your partner comfortable with this?", "Are you using protection?", "Do you find it helps with cramps?"]
+  },
+  {
+    "id": 145,
+    "category": "periods",
+    "question": "Why do I crave junk food during my period",
+    "alternate_questions": ["Period cravings", "Why am I hungry before my period", "Food cravings menstruation", "Why do I want chocolate during my period", "Emotional eating period"],
+    "keywords": ["cravings", "food", "period", "hunger", "emotional eating"],
+    "answer": "Food cravings before and during your period are very common due to hormonal fluctuations, particularly changes in serotonin levels. Your body may crave carbohydrates and sugars to boost mood and energy. While it's okay to indulge moderately, try to balance treats with nutrient-rich foods. Magnesium-rich foods like dark chocolate can actually help with cramps!",
+    "follow_up": ["What foods do you crave?", "Do you notice cravings at specific cycle times?", "How do you manage cravings?"]
+  },
+  {
+    "id": 146,
+    "category": "periods",
+    "question": "Why do I get headaches during my period",
+    "alternate_questions": ["Period headaches", "Menstrual migraine", "Why does my head hurt during my period", "Hormonal headaches", "Period related head pain"],
+    "keywords": ["headache", "migraine", "period", "hormonal", "pain"],
+    "answer": "Headaches during your period are often caused by hormonal fluctuations, particularly the drop in estrogen that occurs right before menstruation. This can trigger menstrual migraines in some people. Dehydration, stress, and lack of sleep can also contribute. Staying hydrated, managing stress, and over-the-counter pain relievers can help. If headaches are severe or frequent, consult a healthcare provider.",
+    "follow_up": ["How severe are your headaches?", "Do they occur every period?", "Have you tried any remedies?"]
+  },
+  {
+    "id": 147,
+    "category": "periods",
+    "question": "Why am I so tired during my period",
+    "alternate_questions": ["Period fatigue", "Why do I feel exhausted menstruating", "Tired during menstruation", "Low energy period", "Period exhaustion"],
+    "keywords": ["fatigue", "tired", "period", "energy", "exhaustion"],
+    "answer": "Feeling tired during your period is very common. Your body is doing significant work shedding the uterine lining, and hormonal changes can affect energy levels. Iron loss through bleeding can also contribute to fatigue. Make sure you're getting enough iron-rich foods, staying hydrated, and allowing yourself to rest. If fatigue is extreme or persistent, check with a healthcare provider for anemia.",
+    "follow_up": ["How tired do you feel?", "Are you getting enough sleep?", "Do you eat iron-rich foods?"]
+  },
+  {
+    "id": 148,
+    "category": "periods",
+    "question": "Why do I get acne before my period",
+    "alternate_questions": ["Period acne", "Premenstrual breakouts", "Why do I break out before my period", "Hormonal acne", "Pimples before menstruation"],
+    "keywords": ["acne", "breakouts", "period", "hormonal", "skin"],
+    "answer": "Hormonal acne before your period is very common. Androgens (male hormones that everyone has) increase before menstruation, stimulating oil production in the skin. This can clog pores and cause breakouts, typically around the chin and jawline. Maintaining a consistent skincare routine, avoiding touching your face, and some people find that reducing dairy or sugar helps.",
+    "follow_up": ["Where do you typically break out?", "Have you noticed dietary triggers?", "What skincare routine do you use?"]
+  },
+  {
+    "id": 149,
+    "category": "periods",
+    "question": "Why do my breasts hurt before my period",
+    "alternate_questions": ["Breast tenderness period", "Sore breasts before menstruation", "Why are my boobs painful", "Premenstrual breast pain", "Breast swelling period"],
+    "keywords": ["breast pain", "tenderness", "period", "hormonal", "swelling"],
+    "answer": "Breast tenderness before your period is very common and is caused by hormonal changes, particularly rising progesterone levels. This causes fluid retention and swelling in breast tissue. Wearing a supportive bra, reducing caffeine and salt intake, and taking evening primrose oil or vitamin E may help. If pain is severe, one-sided, or accompanied by lumps, see a healthcare provider.",
+    "follow_up": ["How severe is the pain?", "Is it both breasts or one?", "Do you notice any lumps?"]
+  },
+  {
+    "id": 150,
+    "category": "periods",
+    "question": "Why do I feel nauseous during my period",
+    "alternate_questions": ["Period nausea", "Why do I feel sick during my period", "Menstrual nausea", "Throwing up during period", "Queasy during menstruation"],
+    "keywords": ["nausea", "sick", "period", "vomiting", "hormonal"],
+    "answer": "Nausea during your period can be caused by prostaglandins, which trigger uterine contractions but can also affect your stomach. Hormonal fluctuations, pain from cramps, and in some cases, endometriosis can also cause nausea. Eating small, bland meals, staying hydrated, ginger tea, and over-the-counter anti-nausea medications can help. If nausea is severe or persistent, consult a healthcare provider.",
+    "follow_up": ["How severe is the nausea?", "Do you actually vomit?", "Does anything help relieve it?"]
+  },
+  {
+    "id": 151,
+    "category": "periods",
+    "question": "Why is my period blood black",
+    "alternate_questions": ["Black period blood", "Very dark blood", "Why is my blood so dark", "Black discharge during period"],
+    "keywords": ["black blood", "dark blood", "period", "old blood", "color"],
+    "answer": "Very dark or black-looking period blood is usually just old blood that has taken longer to exit the body and has oxidized. This is common at the beginning or end of your period when flow is lighter. However, if you notice black discharge accompanied by a foul odor, severe pain, or fever, it could indicate an infection and you should see a healthcare provider.",
+    "follow_up": ["When during your period does this occur?", "Is there any unusual odor?", "Do you have other symptoms?"]
+  },
+  {
+    "id": 152,
+    "category": "periods",
+    "question": "Why is my period blood orange",
+    "alternate_questions": ["Orange period blood", "Why does my blood look orange", "Orange discharge during period", "Rust colored period"],
+    "keywords": ["orange blood", "rust", "period", "color", "infection"],
+    "answer": "Orange or rust-colored period blood can be normal, especially when mixed with cervical fluid. However, if the orange color is accompanied by a bad smell, itching, or unusual discharge, it could indicate an infection like bacterial vaginosis or trichomoniasis. If you're concerned about the color or have other symptoms, it's best to consult a healthcare provider.",
+    "follow_up": ["Is there any odor?", "Do you have itching or irritation?", "Has the color changed recently?"]
+  },
+  {
+    "id": 153,
+    "category": "periods",
+    "question": "Why is my period blood pink",
+    "alternate_questions": ["Pink period blood", "Light pink bleeding", "Why is my blood pink", "Pink spotting"],
+    "keywords": ["pink blood", "light", "period", "spotting", "hormonal"],
+    "answer": "Pink period blood usually indicates light bleeding mixed with cervical fluid. This can happen at the beginning or end of your period, or with spotting. It can also occur with low estrogen levels, after ovulation, or with implantation bleeding if pregnant. If pink spotting is unusual for you or occurs between periods, consult a healthcare provider.",
+    "follow_up": ["When does the pink blood appear?", "Is this unusual for you?", "Could you be pregnant?"]
+  },
+  {
+    "id": 154,
+    "category": "periods",
+    "question": "Why is my period blood gray",
+    "alternate_questions": ["Gray period blood", "Why does my blood look gray", "Gray discharge during period", "Ash colored period"],
+    "keywords": ["gray blood", "infection", "period", "bacterial vaginosis", "color"],
+    "answer": "Gray period blood or discharge is not normal and usually indicates an infection, most commonly bacterial vaginosis. It may be accompanied by a fishy odor, itching, or burning. This requires treatment with antibiotics, so please consult a healthcare provider as soon as possible. Do not ignore gray-colored discharge.",
+    "follow_up": ["Is there a strong odor?", "Do you have itching or burning?", "When did you notice this change?"]
+  },
+  {
+    "id": 155,
+    "category": "periods",
+    "question": "Why do I get fever during my period",
+    "alternate_questions": ["Period fever", "Temperature during menstruation", "Why am I hot during my period", "Feverish feeling period", "Chills during period"],
+    "keywords": ["fever", "temperature", "period", "infection", "symptoms"],
+    "answer": "A slight increase in body temperature during your period can be normal due to hormonal changes. However, a true fever (over 100.4°F or 38°C) during your period could indicate an infection like Toxic Shock Syndrome (if using tampons), pelvic inflammatory disease, or another condition. If you have a fever with severe pain, rash, or vomiting, seek medical attention immediately.",
+    "follow_up": ["How high is your temperature?", "Do you use tampons?", "Do you have severe pain or rash?"]
+  },
+  {
+    "id": 156,
+    "category": "periods",
+    "question": "Why does my back hurt during my period",
+    "alternate_questions": ["Period back pain", "Lower back pain menstruation", "Why does my back ache during my period", "Back cramps period"],
+    "keywords": ["back pain", "period", "cramps", "lower back", "referred pain"],
+    "answer": "Back pain during your period is very common and is caused by prostaglandins that trigger uterine contractions. These contractions can radiate pain to your lower back. The uterus and back share nerve pathways, so your brain may interpret uterine pain as back pain. Heat packs, gentle stretching, massage, and over-the-counter pain relievers can help.",
+    "follow_up": ["Where exactly does it hurt?", "How severe is the pain?", "Does heat or massage help?"]
+  },
+  {
+    "id": 157,
+    "category": "periods",
+    "question": "Why do I get dizzy during my period",
+    "alternate_questions": ["Period dizziness", "Lightheaded during menstruation", "Why do I feel faint during my period", "Dizzy spells period"],
+    "keywords": ["dizziness", "lightheaded", "period", "anemia", "blood loss"],
+    "answer": "Dizziness during your period can be caused by blood loss leading to temporary anemia, dehydration, low blood sugar, or hormonal changes. If you're bleeding heavily, your body may not have enough time to replenish red blood cells. Make sure you're eating iron-rich foods, staying hydrated, and eating regular meals. If dizziness is severe or frequent, consult a healthcare provider.",
+    "follow_up": ["How heavy is your bleeding?", "Are you eating enough iron?", "Does eating or drinking help?"]
+  },
+  {
+    "id": 158,
+    "category": "periods",
+    "question": "Why do I feel cold during my period",
+    "alternate_questions": ["Period chills", "Why am I freezing during my period", "Cold during menstruation", "Temperature sensitivity period"],
+    "keywords": ["cold", "chills", "period", "temperature", "hormonal"],
+    "answer": "Feeling cold during your period can be due to hormonal fluctuations affecting your body's temperature regulation. Prostaglandins can also cause chills. Additionally, if you're anemic from heavy bleeding, you might feel colder than usual. Dressing in layers, warm drinks, and ensuring you're getting enough iron can help.",
+    "follow_up": ["Do you have heavy bleeding?", "Are you anemic?", "Does warming up help?"]
+  },
+  {
+    "id": 159,
+    "category": "periods",
+    "question": "Why do I sweat more during my period",
+    "alternate_questions": ["Period sweating", "Night sweats period", "Why am I hot and sweaty during menstruation", "Hormonal sweating"],
+    "keywords": ["sweating", "night sweats", "period", "hormonal", "temperature"],
+    "answer": "Hormonal fluctuations during your period can affect your body's thermostat, causing hot flashes or night sweats in some people. This is more common in the days leading up to your period and during the first few days. Wearing breathable fabrics, keeping your room cool, and staying hydrated can help. If sweating is excessive or bothersome, mention it to your healthcare provider.",
+    "follow_up": ["Is it night sweats or daytime sweating?", "How severe is it?", "Does it affect your sleep?"]
+  },
+  {
+    "id": 160,
+    "category": "periods",
+    "question": "Can stress stop my period",
+    "alternate_questions": ["Stress and period", "Can anxiety delay my period", "Why did stress make me miss my period", "Emotional stress menstruation"],
+    "keywords": ["stress", "missed period", "delay", "anxiety", "cortisol"],
+    "answer": "Yes, significant stress can delay or even stop your period temporarily. Stress increases cortisol, which can disrupt the hormonal signals that regulate your menstrual cycle. This is usually temporary, and your period should return when stress levels decrease. However, if your period doesn't return within a few months or you have other symptoms, consult a healthcare provider.",
+    "follow_up": ["How stressed have you been?", "When was your last period?", "Are you experiencing other stress symptoms?"]
+  },
+  {
+    "id": 161,
+    "category": "periods",
+    "question": "Can I lose weight during my period",
+    "alternate_questions": ["Period weight loss", "Why do I weigh less during my period", "Weight fluctuation period", "Losing weight menstruation"],
+    "keywords": ["weight loss", "period", "fluctuation", "water weight", "scale"],
+    "answer": "You may notice weight fluctuations during your period due to water retention and bloating, but actual fat loss during menstruation is minimal. Some people lose a few pounds of water weight once their period starts. Focus on overall healthy habits rather than period-specific weight changes. Extreme dieting or overexercising to lose weight can actually disrupt your cycle.",
+    "follow_up": ["Are you trying to lose weight?", "Do you notice scale changes during your cycle?", "Are you eating enough?"]
+  },
+  {
+    "id": 162,
+    "category": "periods",
+    "question": "Why do I gain weight before my period",
+    "alternate_questions": ["Period weight gain", "Why am I heavier before my period", "Premenstrual weight gain", "Bloating weight period"],
+    "keywords": ["weight gain", "bloating", "premenstrual", "water retention", "period"],
+    "answer": "Weight gain before your period is usually due to water retention and bloating, not actual fat gain. Hormonal changes cause your body to hold onto water, and you may also experience increased appetite and cravings. This weight typically goes away once your period starts. Reducing salt intake, staying hydrated, and eating potassium-rich foods can help minimize bloating.",
+    "follow_up": ["How much weight do you gain?", "Is it mostly bloating?", "Does it go away after your period?"]
+  },
+  {
+    "id": 163,
+    "category": "periods",
+    "question": "Can I get a tattoo during my period",
+    "alternate_questions": ["Tattoo while menstruating", "Is it safe to get tattooed on my period", "Period and tattoos", "Tattoo appointment period"],
+    "keywords": ["tattoo", "period", "pain", "bleeding", "safety"],
+    "answer": "You can get a tattoo during your period, but it might be more uncomfortable. Some people report increased pain sensitivity during menstruation, and you might bleed slightly more due to blood thinning effects. However, it's generally safe if you feel up to it. Make sure you're well-hydrated and have eaten beforehand. Inform your tattoo artist if you're concerned.",
+    "follow_up": ["How is your pain tolerance usually?", "Are you feeling well enough?", "Have you discussed this with the artist?"]
+  },
+  {
+    "id": 164,
+    "category": "periods",
+    "question": "Can I get waxed during my period",
+    "alternate_questions": ["Waxing on period", "Brazilian wax during menstruation", "Is it okay to wax while bleeding", "Period and hair removal"],
+    "keywords": ["waxing", "period", "hair removal", "pain", "hygiene"],
+    "answer": "You can get waxed during your period, but you may experience increased sensitivity and pain due to hormonal changes. Some waxing salons prefer you not to come in during heavy flow days for hygiene reasons. If you do go, use a tampon or menstrual cup, not a pad, and inform your esthetician. Taking an over-the-counter pain reliever 30 minutes before can help.",
+    "follow_up": ["What type of waxing are you getting?", "How heavy is your flow?", "Have you waxed during your period before?"]
+  },
+  {
+    "id": 165,
+    "category": "periods",
+    "question": "Can I donate blood during my period",
+    "alternate_questions": ["Blood donation period", "Can I give blood while menstruating", "Donating blood on my period", "Period and blood donation"],
+    "keywords": ["blood donation", "period", "anemia", "iron", "safety"],
+    "answer": "You can donate blood during your period if you feel well and your flow is not excessively heavy. However, since you're already losing blood, donation centers may recommend waiting if you have heavy periods or a history of anemia. Make sure you're well-hydrated, have eaten iron-rich foods, and feel strong enough. Always inform the staff that you're on your period.",
+    "follow_up": ["How heavy is your flow?", "Are you prone to anemia?", "Do you feel well enough to donate?"]
+  },
+  {
+    "id": 166,
+    "category": "periods",
+    "question": "Can I get a massage during my period",
+    "alternate_questions": ["Massage while menstruating", "Is massage okay during period", "Period massage benefits", "Spa during period"],
+    "keywords": ["massage", "period", "relaxation", "cramps", "therapy"],
+    "answer": "Yes, massage during your period can actually be very beneficial! Gentle abdominal massage can help relieve cramps, and full-body massage can reduce stress and tension. Some massage therapists specialize in menstrual massage. However, very deep tissue massage might increase bleeding for some people. Communicate with your therapist about your comfort level.",
+    "follow_up": ["What type of massage are you considering?", "Do you have severe cramps?", "Are you comfortable telling the therapist?"]
+  },
+  {
+    "id": 167,
+    "category": "periods",
+    "question": "Can I use a sauna during my period",
+    "alternate_questions": ["Sauna while menstruating", "Hot tub during period", "Steam room period", "Heat therapy menstruation"],
+    "keywords": ["sauna", "heat", "period", "relaxation", "safety"],
+    "answer": "Using a sauna during your period is generally safe and can help with cramps and relaxation. However, the heat may increase bleeding for some people, and you should stay well-hydrated since you're already losing fluids. If you feel dizzy, nauseous, or uncomfortable, leave immediately. Avoid saunas if you have very heavy bleeding or feel weak.",
+    "follow_up": ["How heavy is your flow?", "Do you tolerate heat well?", "How long do you plan to stay?"]
+  },
+  {
+    "id": 168,
+    "category": "periods",
+    "question": "Can I go to the dentist during my period",
+    "alternate_questions": ["Dental work during period", "Dentist appointment menstruation", "Is it safe to get dental work on my period", "Period and dental procedures"],
+    "keywords": ["dentist", "dental", "period", "appointment", "safety"],
+    "answer": "Yes, it's safe to go to the dentist during your period. However, some research suggests that hormonal fluctuations might increase gum sensitivity and bleeding during dental procedures. Inform your dentist that you're on your period, especially if you're having invasive work done. There's no medical reason to cancel a dental appointment because of your period.",
+    "follow_up": ["What dental work do you need?", "Do your gums bleed easily?", "Are you comfortable telling your dentist?"]
+  },
+  {
+    "id": 169,
+    "category": "periods",
+    "question": "Can I get a piercing during my period",
+    "alternate_questions": ["Piercing while menstruating", "Is it okay to get pierced on my period", "Body piercing period", "Nose piercing during menstruation"],
+    "keywords": ["piercing", "period", "pain", "bleeding", "safety"],
+    "answer": "You can get a piercing during your period, but you might experience increased pain sensitivity and slightly more bleeding due to hormonal changes. There's no medical contraindication, but if you're already feeling unwell or have low energy, you might want to wait. Make sure you're hydrated and have eaten before your appointment.",
+    "follow_up": ["What piercing are you getting?", "How is your pain tolerance?", "Are you feeling well enough?"]
+  },
+  {
+    "id": 170,
+    "category": "periods",
+    "question": "Can I get a Pap smear during my period",
+    "alternate_questions": ["Pap test during period", "Cervical screening menstruation", "Can I have a pelvic exam on my period", "Period and gynecological exam"],
+    "keywords": ["pap smear", "cervical screening", "period", "exam", "gynecologist"],
+    "answer": "It's generally best to schedule a Pap smear when you're not on your period, as menstrual blood can interfere with the accuracy of the test results. However, if your flow is very light, some healthcare providers may still perform the test. If you have an appointment scheduled and your period starts, call your provider to ask if you should reschedule.",
+    "follow_up": ["How heavy is your flow?", "When is your appointment?", "Have you called your provider?"]
+  },
+  {
+    "id": 171,
+    "category": "periods",
+    "question": "Can I get a mammogram during my period",
+    "alternate_questions": ["Breast exam during period", "Mammogram menstruation", "Is it okay to get breast screening on my period", "Period and breast exam"],
+    "keywords": ["mammogram", "breast exam", "period", "screening", "tenderness"],
+    "answer": "You can get a mammogram during your period, but it may be more uncomfortable due to breast tenderness. If possible, schedule it for the week after your period when breasts are less tender. However, don't delay an important screening if you're on your period. The test will still be accurate regardless of where you are in your cycle.",
+    "follow_up": ["How tender are your breasts?", "Is this a routine or urgent screening?", "Can you reschedule if needed?"]
+  },
+  {
+    "id": 172,
+    "category": "periods",
+    "question": "Can I use essential oils during my period",
+    "alternate_questions": ["Aromatherapy for periods", "Essential oils for cramps", "Lavender for menstruation", "Clary sage period"],
+    "keywords": ["essential oils", "aromatherapy", "period", "cramps", "natural"],
+    "answer": "Yes, certain essential oils can help with period symptoms! Lavender and clary sage are popular for relaxation and cramp relief. Peppermint can help with headaches, and eucalyptus may reduce inflammation. Always dilute essential oils with a carrier oil before applying to skin, and do a patch test first. Some oils should not be used during pregnancy, so check if that's a possibility.",
+    "follow_up": ["Which essential oils interest you?", "Have you used them before?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 173,
+    "category": "periods",
+    "question": "Can I drink alcohol during my period",
+    "alternate_questions": ["Alcohol and period", "Drinking while menstruating", "Wine during period", "Is alcohol safe during menstruation"],
+    "keywords": ["alcohol", "drinking", "period", "dehydration", "cramps"],
+    "answer": "You can drink alcohol during your period, but it may worsen some symptoms. Alcohol can dehydrate you, potentially worsening headaches and bloating. It can also affect your mood and sleep quality. If you choose to drink, do so in moderation and make sure to drink plenty of water. Some people find that alcohol increases their flow or cramps.",
+    "follow_up": ["How much do you typically drink?", "Do you notice alcohol worsening symptoms?", "Are you taking any pain medications?"]
+  },
+  {
+    "id": 174,
+    "category": "periods",
+    "question": "Can I smoke during my period",
+    "alternate_questions": ["Smoking and period", "Cigarettes during menstruation", "Is smoking bad during my period", "Vaping during period"],
+    "keywords": ["smoking", "cigarettes", "period", "nicotine", "health"],
+    "answer": "Smoking is harmful to your health at all times, but it can be particularly problematic during your period. Nicotine can constrict blood vessels, potentially worsening cramps. Smoking is also associated with more severe PMS symptoms, irregular periods, and earlier menopause. If you're considering quitting, your period might actually be a good time to start, as you'll be taking positive steps for your health.",
+    "follow_up": ["Do you smoke regularly?", "Have you considered quitting?", "Do you notice smoking affects your period?"]
+  },
+  {
+    "id": 175,
+    "category": "periods",
+    "question": "Can I take a bath during my period",
+    "alternate_questions": ["Bathing while menstruating", "Bath on my period", "Is it safe to take a bath during period", "Hot bath menstruation"],
+    "keywords": ["bath", "period", "hygiene", "relaxation", "water"],
+    "answer": "Yes, taking a bath during your period is safe and can be very soothing for cramps! A warm bath helps relax muscles and improve circulation. There's no risk of infection from bathwater entering your vagina during menstruation. Just make sure the tub is clean, and you might want to change your tampon or empty your menstrual cup before and after. Avoid very hot baths if you feel dizzy.",
+    "follow_up": ["Do baths help your cramps?", "How warm do you like the water?", "Do you prefer baths or showers during your period?"]
+  },
+  {
+    "id": 176,
+    "category": "periods",
+    "question": "Can I use a hot tub during my period",
+    "alternate_questions": ["Hot tub while menstruating", "Jacuzzi during period", "Spa pool period", "Is it okay to use hot tub on my period"],
+    "keywords": ["hot tub", "jacuzzi", "period", "public", "hygiene"],
+    "answer": "Using a hot tub during your period is generally safe if you're using a tampon or menstrual cup. However, many public facilities discourage it for hygiene reasons. The heat can increase bleeding for some people, and there's a small risk of infection in public hot tubs. If you do use a hot tub, use internal protection, limit your time, and make sure the water is properly chlorinated.",
+    "follow_up": ["Is it a public or private hot tub?", "Are you using internal protection?", "How long do you plan to stay?"]
+  },
+  {
+    "id": 177,
+    "category": "periods",
+    "question": "Can I go hiking during my period",
+    "alternate_questions": ["Hiking while menstruating", "Outdoor activities period", "Camping on my period", "Period and exercise outdoors"],
+    "keywords": ["hiking", "outdoors", "period", "exercise", "camping"],
+    "answer": "Absolutely! You can hike, camp, and enjoy outdoor activities during your period. Just plan ahead, pack enough sanitary supplies, and bring plastic bags for disposal if there are no trash facilities. A menstrual cup is great for outdoor activities since it holds more and doesn't require frequent changes. Stay hydrated and listen to your body if you need to rest.",
+    "follow_up": ["How long is your hike?", "What sanitary products will you bring?", "Are there bathroom facilities?"]
+  },
+  {
+    "id": 178,
+    "category": "periods",
+    "question": "Can I fly during my period",
+    "alternate_questions": ["Air travel during period", "Flying while menstruating", "Plane ride on my period", "Travel and menstruation"],
+    "keywords": ["flying", "travel", "period", "airplane", "cabin pressure"],
+    "answer": "Yes, you can fly during your period! Cabin pressure changes don't significantly affect menstruation. However, long flights can increase the risk of blood clots for everyone, so make sure to walk around periodically and stay hydrated. Bring enough sanitary supplies in your carry-on, as you may not be able to access checked luggage during the flight.",
+    "follow_up": ["How long is your flight?", "Do you have enough supplies in your carry-on?", "Do you have a history of blood clots?"]
+  },
+  {
+    "id": 179,
+    "category": "periods",
+    "question": "Can I get a vaccine during my period",
+    "alternate_questions": ["Vaccination during period", "Flu shot while menstruating", "COVID vaccine period", "Immunization and menstruation"],
+    "keywords": ["vaccine", "immunization", "period", "safety", "health"],
+    "answer": "Yes, it is safe to get vaccinated during your period. There's no medical reason to delay vaccination because of menstruation. Some people report temporary changes in their cycle after certain vaccines, but this is usually short-lived and not harmful. If you have concerns about a specific vaccine, discuss them with your healthcare provider.",
+    "follow_up": ["Which vaccine are you getting?", "Have you noticed cycle changes after vaccines before?", "Do you have any vaccine concerns?"]
+  },
+  {
+    "id": 180,
+    "category": "periods",
+    "question": "Can I have surgery during my period",
+    "alternate_questions": ["Surgery while menstruating", "Operation during period", "Is it safe to have surgery on my period", "Medical procedure menstruation"],
+    "keywords": ["surgery", "operation", "period", "medical", "anesthesia"],
+    "answer": "Having surgery during your period is generally safe, but you should inform your surgeon and anesthesiologist. Menstruation doesn't typically complicate most surgeries, but hormonal changes might affect bleeding time or recovery for some procedures. Your medical team will advise if rescheduling is necessary. Always disclose your full medical history, including where you are in your cycle.",
+    "follow_up": ["What type of surgery are you having?", "Have you informed your surgeon?", "Is it elective or urgent?"]
+  }
+]

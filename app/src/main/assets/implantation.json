@@ -1,0 +1,137 @@
+[
+  {
+    "id": 441,
+    "category": "implantation",
+    "question": "What is implantation",
+    "alternate_questions": ["Implantation meaning", "What happens during implantation", "Embryo implantation process", "Fertilized egg attaching", "Implantation explained"],
+    "keywords": ["implantation", "embryo", "uterine lining", "attachment", "early pregnancy"],
+    "answer": "Implantation is when a fertilized egg (blastocyst) attaches to and burrows into the uterine lining (endometrium), typically 6-12 days after conception (about day 20-24 of a 28-day cycle). The embryo releases enzymes that allow it to penetrate the lining, then connects to the mother's blood supply. This triggers hCG production, which maintains progesterone and supports the pregnancy. Successful implantation is essential for pregnancy to continue. About 30-40% of fertilized eggs fail to implant successfully.",
+    "follow_up": ["Are you trying to conceive?", "How many days past ovulation are you?", "Do you think you might be experiencing implantation?", "Have you had implantation bleeding?"]
+  },
+  {
+    "id": 442,
+    "category": "implantation",
+    "question": "When does implantation occur",
+    "alternate_questions": ["Implantation timing", "How many days after ovulation implantation", "When does embryo attach", "Implantation day", "Implantation window"],
+    "keywords": ["implantation timing", "6-12 days", "after ovulation", "after conception", "window"],
+    "answer": "Implantation typically occurs 6-12 days after ovulation and fertilization, most commonly around day 9. In a 28-day cycle, this would be approximately days 20-24. The fertilized egg travels through the fallopian tube for 3-4 days, then spends 2-3 days as a free-floating blastocyst in the uterus before attaching to the lining. If implantation occurs later than 12 days, the pregnancy is more likely to end in miscarriage due to inadequate hormonal support.",
+    "follow_up": ["How many days past ovulation are you?", "Are you tracking your cycle?", "Do you think implantation has occurred?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 443,
+    "category": "implantation",
+    "question": "What are implantation symptoms",
+    "alternate_questions": ["Signs of implantation", "How do I know if implantation occurred", "Implantation cramping", "Implantation spotting symptoms", "Early implantation signs"],
+    "keywords": ["implantation symptoms", "cramping", "spotting", "signs", "early pregnancy"],
+    "answer": "Possible implantation symptoms include: light spotting or bleeding (pink, brown, or light red), mild cramping or twinging in the lower abdomen, bloating, breast tenderness, mood swings, and slight temperature dip followed by rise on basal body temperature chart. However, many people experience no symptoms at all, and these signs can also indicate PMS or other conditions. The only way to confirm implantation and pregnancy is a positive test a few days later.",
+    "follow_up": ["Are you experiencing any of these symptoms?", "How many days past ovulation are you?", "Have you had spotting or cramping?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 444,
+    "category": "implantation",
+    "question": "What does implantation bleeding look like",
+    "alternate_questions": ["Implantation bleeding appearance", "Implantation spotting color", "How heavy is implantation bleeding", "Implantation blood vs period", "Implantation discharge"],
+    "keywords": ["implantation bleeding", "appearance", "light", "pink", "brown", "spotting"],
+    "answer": "Implantation bleeding is typically very light, appearing as a few drops of pink, brown, or light red blood. It's much lighter and shorter than a period, usually lasting 1-2 days at most. It may be just a spot or two when wiping, or a very light flow requiring only a panty liner. Unlike a period, it doesn't increase in flow or contain clots. Not everyone experiences implantation bleeding. If bleeding is heavy or lasts more than 2 days, it's likely your period or another issue.",
+    "follow_up": ["What color is the bleeding?", "How heavy is it?", "How long has it lasted?", "When did it start relative to your expected period?"]
+  },
+  {
+    "id": 445,
+    "category": "implantation",
+    "question": "How long does implantation bleeding last",
+    "alternate_questions": ["Implantation bleeding duration", "How many days implantation spotting", "Implantation bleed length", "Short implantation bleeding", "Implantation spotting timeframe"],
+    "keywords": ["implantation bleeding", "duration", "1-2 days", "short", "spotting"],
+    "answer": "Implantation bleeding typically lasts 1-2 days, though some people experience only a few hours of spotting. It's very brief compared to a period, which lasts 3-7 days. If bleeding lasts more than 2 days or increases in flow, it's probably not implantation bleeding. The brevity is one key way to distinguish it from a period. If you're unsure whether bleeding is implantation or your period, wait 3-4 days after the bleeding stops and take a pregnancy test.",
+    "follow_up": ["How long has your bleeding lasted?", "Is it increasing or decreasing?", "When did it start?", "Have you taken a pregnancy test?"]
+  },
+  {
+    "id": 446,
+    "category": "implantation",
+    "question": "Can implantation bleeding be heavy",
+    "alternate_questions": ["Heavy implantation bleeding", "Implantation bleeding like period", "Can implantation be heavy flow", "Lots of blood implantation", "Implantation vs period flow"],
+    "keywords": ["implantation bleeding", "heavy", "period-like", "unusual", "concern"],
+    "answer": "True implantation bleeding is never heavy. If you're experiencing heavy bleeding (soaking through a pad, passing clots, or bleeding lasting more than 2 days), it's not implantation bleeding. It could be: your period starting early, a chemical pregnancy (very early miscarriage), ectopic pregnancy, or another issue. Heavy bleeding with severe pain requires immediate medical attention. If you suspect pregnancy but have heavy bleeding, take a pregnancy test and contact your healthcare provider.",
+    "follow_up": ["How heavy is the bleeding?", "Are you passing clots?", "Do you have severe pain?", "Have you taken a pregnancy test?"]
+  },
+  {
+    "id": 447,
+    "category": "implantation",
+    "question": "Can I have implantation bleeding and still be pregnant",
+    "alternate_questions": ["Implantation bleeding pregnant", "Spotting early pregnancy normal", "Can you bleed and be pregnant", "Implantation bleeding healthy pregnancy", "Pregnancy with spotting"],
+    "keywords": ["implantation bleeding", "pregnant", "normal", "healthy pregnancy", "spotting"],
+    "answer": "Yes, implantation bleeding is a normal part of early pregnancy for many people. About 20-30% of pregnant people experience some light bleeding in the first trimester, and much of this is implantation bleeding. Having implantation bleeding doesn't indicate any problem with the pregnancy. However, any bleeding during pregnancy should be mentioned to your healthcare provider, especially if it's heavy, accompanied by pain, or occurs after the first trimester.",
+    "follow_up": ["Are you currently pregnant?", "How far along are you?", "What color and amount is the bleeding?", "Have you contacted your healthcare provider?"]
+  },
+  {
+    "id": 448,
+    "category": "implantation",
+    "question": "Can I feel implantation",
+    "alternate_questions": ["Feeling implantation", "Implantation sensations", "Can you feel embryo attach", "Implantation cramp feeling", "Twinges implantation"],
+    "keywords": ["feel implantation", "sensations", "cramping", "twinges", "attachment"],
+    "answer": "Some people report feeling mild sensations during implantation, often described as light twinges, pinching, or mild cramping on one side of the lower abdomen. However, most people don't feel anything at all. These sensations, if they occur, are very subtle and brief. Cramping that is severe, one-sided, or accompanied by heavy bleeding is not normal implantation and requires medical evaluation. Don't rely on sensations to confirm or deny implantation.",
+    "follow_up": ["Are you feeling any sensations?", "How would you describe them?", "Are they mild or severe?", "How many days past ovulation are you?"]
+  },
+  {
+    "id": 449,
+    "category": "implantation",
+    "question": "Does implantation bleeding mean twins",
+    "alternate_questions": ["Implantation bleeding twins", "Heavy implantation twins", "Does spotting mean multiples", "Twin implantation signs", "Multiple pregnancy implantation"],
+    "keywords": ["implantation bleeding", "twins", "multiples", "myth", "no correlation"],
+    "answer": "No, implantation bleeding does not indicate twins or multiples. The amount or presence of implantation bleeding has no correlation with the number of embryos. Some people with twins have implantation bleeding, some don't, just like singleton pregnancies. The only way to determine if you're carrying multiples is through ultrasound. Don't read too much into implantation bleeding patterns, they vary widely among all pregnancies regardless of the number of babies.",
+    "follow_up": ["Are you hoping for twins?", "Do twins run in your family?", "Have you had fertility treatments?", "Are you trying to conceive?"]
+  },
+  {
+    "id": 450,
+    "category": "implantation",
+    "question": "Can implantation fail",
+    "alternate_questions": ["Failed implantation", "Why didn't implantation work", "Embryo didn't implant", "Implantation failure causes", "Why do fertilized eggs fail to implant"],
+    "keywords": ["implantation failure", "failed", "causes", "embryo", "recurrent"],
+    "answer": "Yes, implantation fails in about 30-40% of fertilized eggs, often before a person even knows they're pregnant. Causes of implantation failure include: chromosomal abnormalities in the embryo, poor egg or sperm quality, uterine lining issues (too thin, poor blood flow, inflammation), hormonal imbalances (low progesterone), immune system issues, endometrial polyps or fibroids, and embryo quality issues. Recurrent implantation failure (3+ failed IVF cycles with good embryos) requires specialized fertility evaluation.",
+    "follow_up": ["Have you experienced failed implantation?", "Are you going through IVF?", "How many cycles have you tried?", "Have you had implantation failure evaluated?"]
+  },
+  {
+    "id": 451,
+    "category": "implantation",
+    "question": "What is implantation dip",
+    "alternate_questions": ["BBT dip implantation", "Temperature drop implantation", "Implantation dip BBT chart", "Basal temperature dip", "Temperature fall before rise"],
+    "keywords": ["implantation dip", "BBT", "temperature", "chart", "one-day drop"],
+    "answer": "An implantation dip is a one-day drop in basal body temperature (BBT) that occurs around 7-10 days past ovulation, followed by a return to higher temperatures. It's thought to occur due to a brief estrogen surge during implantation. While some people notice this pattern on their BBT charts, it's not a reliable indicator of pregnancy. Many pregnant people don't have an implantation dip, and many non-pregnant cycles show similar temperature fluctuations. Don't rely on this as a pregnancy sign.",
+    "follow_up": ["Are you tracking BBT?", "Have you noticed a temperature dip?", "How many days past ovulation are you?", "Have you taken a pregnancy test?"]
+  },
+  {
+    "id": 452,
+    "category": "implantation",
+    "question": "Can stress affect implantation",
+    "alternate_questions": ["Stress and implantation", "Anxiety embryo attachment", "Why does stress prevent implantation", "Emotional stress early pregnancy", "Cortisol implantation"],
+    "keywords": ["stress", "implantation", "cortisol", "uterine environment", "early pregnancy"],
+    "answer": "Chronic stress may potentially affect implantation by altering hormone levels and uterine blood flow, but the evidence is not conclusive. Moderate, everyday stress is unlikely to prevent implantation. Your body is designed to support pregnancy even during stressful times. However, extreme chronic stress may disrupt the delicate hormonal balance needed for implantation. Focus on overall wellness, relaxation, and self-care during the two-week wait, but don't blame yourself if implantation doesn't occur, many factors are involved.",
+    "follow_up": ["Are you under significant stress?", "How are you managing the two-week wait?", "Are you trying to conceive?", "Have you tried relaxation techniques?"]
+  },
+  {
+    "id": 453,
+    "category": "implantation",
+    "question": "What is a luteal phase defect and implantation",
+    "alternate_questions": ["Short luteal phase implantation", "Luteal phase defect pregnancy", "Progesterone implantation", "LPD and early loss", "Luteal phase insufficient implantation"],
+    "keywords": ["luteal phase defect", "implantation", "progesterone", "short luteal", "early loss"],
+    "answer": "A luteal phase defect (LPD) occurs when the luteal phase is shorter than 10 days or progesterone levels are insufficient to support the uterine lining. This can prevent successful implantation or cause very early miscarriage because the lining breaks down before the embryo can properly attach or because progesterone can't sustain the pregnancy. LPD is diagnosed through hormone testing and endometrial biopsy. Treatment typically involves progesterone supplementation after ovulation.",
+    "follow_up": ["How long is your luteal phase?", "Have you had progesterone tested?", "Have you experienced early losses?", "Are you working with a fertility specialist?"]
+  },
+  {
+    "id": 454,
+    "category": "implantation",
+    "question": "Can I improve my chances of implantation",
+    "alternate_questions": ["Help implantation", "Improve implantation chances", "What helps embryo attach", "Natural implantation support", "Implantation tips"],
+    "keywords": ["improve implantation", "support", "natural", "tips", "lifestyle"],
+    "answer": "While you can't force implantation, you can support a healthy uterine environment: Maintain a healthy weight. Eat a nutrient-rich diet with adequate protein, healthy fats, and antioxidants. Take prenatal vitamins with folic acid. Manage stress through relaxation techniques. Get moderate exercise. Avoid smoking, alcohol, and excessive caffeine. Ensure adequate progesterone (some doctors recommend supplementation after ovulation). Some people use acupuncture or fertility massage, though evidence is mixed. Most importantly, be patient, implantation is largely beyond your control.",
+    "follow_up": ["Are you trying to conceive?", "What lifestyle factors are you optimizing?", "Are you working with a fertility specialist?", "How long have you been trying?"]
+  },
+  {
+    "id": 455,
+    "category": "implantation",
+    "question": "What is recurrent implantation failure",
+    "alternate_questions": ["RIF fertility", "Multiple failed implantations", "Why do embryos keep failing to implant", "Recurrent implantation failure IVF", "Repeated implantation failure causes"],
+    "keywords": ["recurrent implantation failure", "RIF", "IVF", "multiple failures", "evaluation"],
+    "answer": "Recurrent implantation failure (RIF) is typically defined as failure to achieve pregnancy after 3 IVF cycles with good-quality embryos, or failure after multiple natural conception attempts with confirmed ovulation and open tubes. Causes include: embryo chromosomal abnormalities, poor endometrial receptivity, thin uterine lining, endometrial polyps or fibroids, chronic endometritis (inflammation), immune system issues, blood clotting disorders, and hormonal imbalances. Evaluation includes hysteroscopy, endometrial biopsy, immune testing, and embryo genetic testing (PGT-A).",
+    "follow_up": ["Have you experienced RIF?", "How many IVF cycles have you had?", "What testing have you done?", "Are you working with a reproductive immunologist?"]
+  }
+]

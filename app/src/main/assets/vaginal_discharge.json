@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2301,
+    "category": "vaginal_discharge",
+    "question": "What is normal vaginal discharge?",
+    "alternate_questions": ["Is my discharge healthy?", "Normal discharge color", "What should discharge look like?"],
+    "keywords": ["discharge", "normal", "healthy", "clear", "white"],
+    "answer": "Normal vaginal discharge is usually clear or white. It may be thick, thin, or stretchy, and it shouldn't have a strong or unpleasant odor. The amount and consistency often change during your cycle.",
+    "follow_up": ["How does discharge change during ovulation?", "When is discharge not normal?", "What is egg white cervical mucus?"]
+  },
+  {
+    "id": 2302,
+    "category": "vaginal_discharge",
+    "question": "What does discharge look like during ovulation?",
+    "alternate_questions": ["Egg white discharge", "Stretchy discharge", "Fertile mucus"],
+    "keywords": ["ovulation", "stretchy", "egg white", "fertile", "mucus"],
+    "answer": "During ovulation, discharge often becomes clear, slippery, and stretchy, similar to raw egg whites. This is often called 'fertile mucus' because it helps sperm travel to the egg.",
+    "follow_up": ["How many days does ovulation discharge last?", "Can I track ovulation with discharge?", "What if I don't see egg white discharge?"]
+  },
+  {
+    "id": 2303,
+    "category": "vaginal_discharge",
+    "question": "What is yellow or green discharge?",
+    "alternate_questions": ["Unusual discharge color", "Signs of infection in discharge", "Is green discharge bad?"],
+    "keywords": ["yellow", "green", "discharge", "infection", "sti"],
+    "answer": "Yellow or green discharge, especially if it's thick, chunky, or has a foul odor, can be a sign of an infection such as Trichomoniasis or another STI. You should see a doctor for testing and treatment.",
+    "follow_up": ["What are the symptoms of Trichomoniasis?", "What is a foul odor?", "When to see a doctor for discharge?"]
+  },
+  {
+    "id": 2304,
+    "category": "vaginal_discharge",
+    "question": "What is brown or pink discharge?",
+    "alternate_questions": ["Spotting or discharge", "Discharge after period", "Brown discharge causes"],
+    "keywords": ["brown", "pink", "discharge", "spotting", "old blood"],
+    "answer": "Brown discharge is often just 'old blood' exiting the uterus, common right after your period. Pink discharge can happen during ovulation or as early spotting before your period starts.",
+    "follow_up": ["What is implantation bleeding?", "Why is my period blood brown?", "Is spotting between periods normal?"]
+  },
+  {
+    "id": 2305,
+    "category": "vaginal_discharge",
+    "question": "What is thick white chunky discharge?",
+    "alternate_questions": ["Cottage cheese discharge", "Yeast infection discharge", "Itchy white discharge"],
+    "keywords": ["thick white", "chunky", "cottage cheese", "yeast infection", "itchy"],
+    "answer": "Thick, white, chunky discharge that looks like cottage cheese is a classic sign of a yeast infection. It's often accompanied by intense itching and redness of the vulva.",
+    "follow_up": ["How to treat a yeast infection?", "Can I use OTC cream for yeast infection?", "What causes yeast infections?"]
+  }
+]

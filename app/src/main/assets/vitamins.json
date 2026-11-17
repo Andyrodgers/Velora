@@ -1,0 +1,47 @@
+[
+  {
+    "id": 521,
+    "category": "vitamins",
+    "question": "Which vitamins help with period symptoms?",
+    "alternate_questions": ["Best vitamins for menstruation", "Supplements for cycle health", "Vitamins for PMS"],
+    "keywords": ["vitamins", "period", "pms", "b6", "vitamin d", "vitamin e"],
+    "answer": "Vitamins B6, D, and E are often recommended. B6 can help with mood swings and bloating, Vitamin D is crucial for overall hormonal health and calcium absorption, and Vitamin E may help reduce breast tenderness and cramp severity.",
+    "follow_up": ["How much Vitamin B6 should I take?", "Does Vitamin D help with cramps?", "What are food sources of Vitamin E?"]
+  },
+  {
+    "id": 522,
+    "category": "vitamins",
+    "question": "How does Vitamin B6 help with PMS?",
+    "alternate_questions": ["B6 for premenstrual syndrome", "Vitamin B6 and mood", "Benefits of B6 during cycle"],
+    "keywords": ["vitamin b6", "pms", "mood", "serotonin", "bloating"],
+    "answer": "Vitamin B6 plays a key role in producing neurotransmitters like serotonin and dopamine, which regulate mood. Supplementing with B6 may help reduce irritability, depression, and bloating associated with PMS.",
+    "follow_up": ["What foods are high in B6?", "Can I take B6 every day?", "What is the recommended dose of B6 for PMS?"]
+  },
+  {
+    "id": 523,
+    "category": "vitamins",
+    "question": "Why is Vitamin D important for my cycle?",
+    "alternate_questions": ["Vitamin D and hormones", "Sunlight vitamin and periods", "Does Vitamin D affect menstruation?"],
+    "keywords": ["vitamin d", "hormones", "cycle", "calcium", "pms"],
+    "answer": "Vitamin D acts more like a hormone in the body and is essential for reproductive health. Low levels are linked to irregular periods and worsened PMS. It also helps your body absorb calcium, which is vital for reducing mood swings.",
+    "follow_up": ["How do I know if I'm Vitamin D deficient?", "Best ways to get Vitamin D?", "Should I take a Vitamin D supplement?"]
+  },
+  {
+    "id": 524,
+    "category": "vitamins",
+    "question": "Can Vitamin E help with breast tenderness?",
+    "alternate_questions": ["Vitamin E for sore boobs", "Reducing breast pain with vitamins", "Benefits of Vitamin E for periods"],
+    "keywords": ["vitamin e", "breast tenderness", "pain", "period", "antioxidant"],
+    "answer": "Yes, Vitamin E is an antioxidant that may help reduce the production of prostaglandins, which can alleviate breast pain and tenderness (mastalgia) that many people experience before their period.",
+    "follow_up": ["Which foods have Vitamin E?", "How much Vitamin E is safe?", "Are there other remedies for breast pain?"]
+  },
+  {
+    "id": 525,
+    "category": "vitamins",
+    "question": "Should I take a multivitamin for my cycle?",
+    "alternate_questions": ["Is a daily vitamin good for period health?", "Multivitamins and menstruation", "Supplements for general hormone health"],
+    "keywords": ["multivitamin", "daily vitamin", "cycle", "health", "supplement"],
+    "answer": "A high-quality multivitamin can provide a baseline of essential nutrients like iron, B vitamins, and magnesium. However, it's usually better to focus on specific nutrients you might be lacking through your diet. Consult a doctor for personalized advice.",
+    "follow_up": ["What should I look for in a multivitamin?", "Can multivitamins upset my stomach?", "Are prenatal vitamins better for periods?"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2401,
+    "category": "perimenopause",
+    "question": "What is perimenopause?",
+    "alternate_questions": ["Define perimenopause", "When does perimenopause start?", "Signs of perimenopause"],
+    "keywords": ["perimenopause", "transition", "menopause", "hormones", "estrogen"],
+    "answer": "Perimenopause, or the menopause transition, is the time leading up to menopause when your ovaries gradually begin to make less estrogen. It can start in your 40s or even late 30s.",
+    "follow_up": ["How long does perimenopause last?", "What are the symptoms of perimenopause?", "Can I get pregnant during perimenopause?"]
+  },
+  {
+    "id": 2402,
+    "category": "perimenopause",
+    "question": "What are the symptoms of perimenopause?",
+    "alternate_questions": ["Perimenopause signs", "How do I know I'm in perimenopause?", "Changes during perimenopause"],
+    "keywords": ["symptoms", "perimenopause", "irregular periods", "hot flashes", "mood swings"],
+    "answer": "Common symptoms include irregular periods (longer, shorter, or skipped), hot flashes, sleep problems, mood swings, and vaginal dryness. These are caused by fluctuating hormone levels.",
+    "follow_up": ["Why are my periods irregular?", "How to manage perimenopause hot flashes?", "Does perimenopause cause anxiety?"]
+  },
+  {
+    "id": 2403,
+    "category": "perimenopause",
+    "question": "Can I get pregnant during perimenopause?",
+    "alternate_questions": ["Fertility during perimenopause", "Perimenopause and pregnancy", "Do I still need birth control in perimenopause?"],
+    "keywords": ["pregnancy", "pregnant", "fertility", "perimenopause", "birth control"],
+    "answer": "Yes, you can still get pregnant during perimenopause as long as you are still having periods, even if they are irregular. If you don't want to conceive, you should continue using birth control until you have reached menopause.",
+    "follow_up": ["When is menopause officially diagnosed?", "What birth control is best for perimenopause?", "What are the risks of pregnancy in perimenopause?"]
+  },
+  {
+    "id": 2404,
+    "category": "perimenopause",
+    "question": "How long does perimenopause last?",
+    "alternate_questions": ["Duration of perimenopause", "How many years is perimenopause?", "When will perimenopause end?"],
+    "keywords": ["duration", "years", "length", "perimenopause", "transition"],
+    "answer": "The average length of perimenopause is about 4 years, but for some people, it can last only a few months or continue for up to 10 years. It ends when you have gone 12 months without a period.",
+    "follow_up": ["What comes after perimenopause?", "Why does it last so long for some?", "Can anything shorten perimenopause?"]
+  },
+  {
+    "id": 2405,
+    "category": "perimenopause",
+    "question": "How to manage perimenopause symptoms?",
+    "alternate_questions": ["Perimenopause relief", "Treating perimenopause", "Lifestyle changes for perimenopause"],
+    "keywords": ["manage", "relief", "treatment", "lifestyle", "hormones"],
+    "answer": "Management includes regular exercise, healthy diet, adequate sleep, and stress reduction. In some cases, low-dose birth control pills or hormone therapy may be recommended by a doctor to help balance hormones.",
+    "follow_up": ["Does exercise help perimenopause?", "What foods are good for hormone balance?", "When should I see a doctor about symptoms?"]
+  }
+]

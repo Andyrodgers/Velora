@@ -1,0 +1,47 @@
+[
+  {
+    "id": 201,
+    "category": "pmdd",
+    "question": "What is PMDD?",
+    "alternate_questions": ["What does PMDD stand for?", "Is PMDD different from PMS?", "Premenstrual Dysphoric Disorder"],
+    "keywords": ["pmdd", "premenstrual", "dysphoric", "disorder", "definition"],
+    "answer": "PMDD (Premenstrual Dysphoric Disorder) is a severe form of premenstrual syndrome (PMS). It causes extreme emotional and physical symptoms that can significantly impact daily life and relationships.",
+    "follow_up": ["What are the symptoms of PMDD?", "How is PMDD diagnosed?", "How is PMDD treated?"]
+  },
+  {
+    "id": 202,
+    "category": "pmdd",
+    "question": "What are the symptoms of PMDD?",
+    "alternate_questions": ["Signs of PMDD", "How do I know if I have PMDD?", "Severe PMS symptoms"],
+    "keywords": ["pmdd", "symptoms", "depression", "anxiety", "irritability", "mood"],
+    "answer": "Symptoms include severe depression, anxiety, extreme irritability or anger, panic attacks, thoughts of suicide, and physical symptoms like severe bloating and breast tenderness. These symptoms usually occur in the week before menstruation.",
+    "follow_up": ["Why does PMDD happen?", "Can PMDD affect my work?", "What should I do if I feel suicidal before my period?"]
+  },
+  {
+    "id": 203,
+    "category": "pmdd",
+    "question": "How is PMDD treated?",
+    "alternate_questions": ["Managing PMDD", "Treatment options for PMDD", "Relief from PMDD symptoms"],
+    "keywords": ["pmdd", "treatment", "therapy", "antidepressants", "medication"],
+    "answer": "Treatment may include antidepressants (SSRIs), birth control pills to regulate hormones, lifestyle changes (diet, exercise, stress reduction), and therapy such as Cognitive Behavioral Therapy (CBT).",
+    "follow_up": ["Do SSRIs work for PMDD?", "Can birth control help PMDD?", "What is CBT?"]
+  },
+  {
+    "id": 204,
+    "category": "pmdd",
+    "question": "How is PMDD diagnosed?",
+    "alternate_questions": ["Diagnosing PMDD", "What tests are for PMDD?", "Seeing a doctor for PMDD"],
+    "keywords": ["pmdd", "diagnosis", "doctor", "tracking", "symptoms"],
+    "answer": "Diagnosis usually involves tracking symptoms for at least two menstrual cycles to show a clear pattern of severe symptoms in the luteal phase (before period) that improve once the period starts.",
+    "follow_up": ["How to track symptoms for PMDD?", "What doctor treats PMDD?", "What if my doctor doesn't take me seriously?"]
+  },
+  {
+    "id": 205,
+    "category": "pmdd",
+    "question": "What's the difference between PMS and PMDD?",
+    "alternate_questions": ["PMS vs PMDD", "Is it just bad PMS or PMDD?", "Comparing PMS and PMDD"],
+    "keywords": ["pms", "pmdd", "difference", "comparison", "severity"],
+    "answer": "While both occur before your period, PMDD is much more severe. PMS might cause mild irritability or bloating, but PMDD causes disabling emotional symptoms that interfere with work, school, and relationships.",
+    "follow_up": ["Can PMS turn into PMDD?", "Are there natural remedies for PMDD?", "How common is PMDD?"]
+  }
+]

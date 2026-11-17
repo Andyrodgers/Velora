@@ -1,0 +1,182 @@
+[
+  {
+    "id": 241,
+    "category": "heavy_periods",
+    "question": "What is considered a heavy period",
+    "alternate_questions": ["How heavy is too heavy", "Heavy period definition", "Menorrhagia meaning", "Excessive menstrual bleeding", "When is period bleeding abnormal"],
+    "keywords": ["heavy period", "menorrhagia", "excessive bleeding", "abnormal", "definition"],
+    "answer": "A heavy period (menorrhagia) is defined as bleeding that lasts more than 7 days, or soaking through one or more pads or tampons every hour for several consecutive hours, or passing blood clots larger than a quarter. Losing more than 80ml of blood per cycle is considered heavy. If your period interferes with daily activities, causes anemia, or requires double protection, it's likely too heavy and should be evaluated.",
+    "follow_up": ["How often do you change your protection?", "Do you pass large clots?", "Does your period interfere with daily life?"]
+  },
+  {
+    "id": 242,
+    "category": "heavy_periods",
+    "question": "Why is my period so heavy",
+    "alternate_questions": ["Causes of heavy bleeding", "Why do I bleed so much", "Excessive period blood", "Heavy flow reasons", "Why is my menstruation heavy"],
+    "keywords": ["heavy", "causes", "menorrhagia", "reasons", "excessive"],
+    "answer": "Heavy periods can be caused by: hormonal imbalances (especially progesterone deficiency), uterine fibroids, polyps, adenomyosis, endometriosis, bleeding disorders (like von Willebrand disease), thyroid problems, PCOS, copper IUDs, certain medications, or perimenopause. Sometimes no cause is found. If your heavy bleeding is new or worsening, see a healthcare provider for evaluation, which may include blood tests, ultrasound, or biopsy.",
+    "follow_up": ["How long have your periods been heavy?", "Do you have pain with heavy bleeding?", "Have you been evaluated before?"]
+  },
+  {
+    "id": 243,
+    "category": "heavy_periods",
+    "question": "Can fibroids cause heavy periods",
+    "alternate_questions": ["Uterine fibroids bleeding", "Myoma and heavy menstruation", "Fibroids and period flow", "Why do fibroids cause heavy bleeding", "Fibroid symptoms periods"],
+    "keywords": ["fibroids", "myomas", "heavy bleeding", "uterine", "tumors"],
+    "answer": "Yes, uterine fibroids are a very common cause of heavy periods. These benign muscle tumors in the uterus can increase the surface area of the uterine lining, distort blood vessels, and interfere with the uterus's ability to contract and stop bleeding. Submucosal fibroids (those bulging into the uterine cavity) are most likely to cause heavy bleeding. Fibroids may also cause pressure, frequent urination, and pelvic pain.",
+    "follow_up": ["Do you have other fibroid symptoms?", "Have you been diagnosed with fibroids?", "How large are your fibroids?"]
+  },
+  {
+    "id": 244,
+    "category": "heavy_periods",
+    "question": "Can polyps cause heavy periods",
+    "alternate_questions": ["Uterine polyps bleeding", "Endometrial polyps heavy flow", "Cervical polyps and periods", "Polyp symptoms menstruation", "Why do polyps cause bleeding"],
+    "keywords": ["polyps", "endometrial", "cervical", "heavy bleeding", "growths"],
+    "answer": "Yes, uterine polyps can cause heavy or irregular bleeding. These small, usually benign growths of endometrial tissue can develop in the uterus or cervix. They may cause heavy periods, bleeding between periods, or bleeding after sex. Polyps are more common in people in their 40s-50s and those who are overweight. They're usually diagnosed with ultrasound or hysteroscopy and can often be removed easily.",
+    "follow_up": ["Do you bleed between periods?", "Have you had an ultrasound?", "Are you in your 40s or 50s?"]
+  },
+  {
+    "id": 245,
+    "category": "heavy_periods",
+    "question": "Can adenomyosis cause heavy periods",
+    "alternate_questions": ["Adenomyosis heavy bleeding", "Why does adenomyosis cause heavy flow", "Adenomyosis and menstruation", "Heavy periods with adenomyosis", "Adenomyosis symptoms"],
+    "keywords": ["adenomyosis", "heavy bleeding", "painful", "uterine", "endometrial tissue"],
+    "answer": "Yes, adenomyosis commonly causes heavy, painful periods. In this condition, endometrial tissue grows into the muscular wall of the uterus, making the uterus enlarged, boggy, and prone to heavy bleeding. The displaced tissue bleeds during menstruation but has nowhere to exit, causing inflammation, pain, and heavy flow. Adenomyosis often coexists with endometriosis and is more common in people who have had children.",
+    "follow_up": ["Do you have severe cramps with heavy bleeding?", "Have you been diagnosed with adenomyosis?", "Have you had children?"]
+  },
+  {
+    "id": 246,
+    "category": "heavy_periods",
+    "question": "Can a copper IUD cause heavy periods",
+    "alternate_questions": ["Copper IUD heavy bleeding", "Paragard and heavy periods", "IUD making periods worse", "Why is my period heavier with copper IUD", "Copper IUD side effects bleeding"],
+    "keywords": ["copper IUD", "Paragard", "heavy bleeding", "side effects", "contraception"],
+    "answer": "Yes, copper IUDs commonly cause heavier, longer, and more painful periods, especially in the first 6-12 months after insertion. The copper creates a local inflammatory response in the uterus that increases prostaglandins, leading to more bleeding and cramping. For most people, this improves over time. If heavy bleeding is severe or doesn't improve after a year, talk to your provider about options. Hormonal IUDs often reduce bleeding instead.",
+    "follow_up": ["How long have you had the copper IUD?", "Has the bleeding improved at all?", "Are you considering switching methods?"]
+  },
+  {
+    "id": 247,
+    "category": "heavy_periods",
+    "question": "Can bleeding disorders cause heavy periods",
+    "alternate_questions": ["Von Willebrand disease periods", "Clotting disorder heavy bleeding", "Inherited bleeding disorder menstruation", "Why do I bleed so much clotting", "Hemophilia and periods"],
+    "keywords": ["bleeding disorder", "von Willebrand", "clotting", "heavy periods", "inherited"],
+    "answer": "Yes, bleeding disorders like von Willebrand disease can cause heavy periods. This is actually one of the most common symptoms in people with bleeding disorders. If you've had heavy periods since your very first period, bruise easily, have prolonged bleeding from cuts, or have family members with bleeding issues, ask your doctor about testing. A hematologist can do simple blood tests to check clotting function.",
+    "follow_up": ["Have you always had heavy periods?", "Do you bruise or bleed easily?", "Is there family history of bleeding disorders?"]
+  },
+  {
+    "id": 248,
+    "category": "heavy_periods",
+    "question": "How do I manage heavy periods",
+    "alternate_questions": ["Coping with heavy bleeding", "Heavy period management tips", "How to deal with menorrhagia", "Managing excessive flow", "Heavy period survival guide"],
+    "keywords": ["management", "coping", "heavy periods", "tips", "survival"],
+    "answer": "To manage heavy periods: Use high-absorbency products or double up (pad + tampon/cup). Change protection every 2-4 hours. Take iron supplements to prevent anemia. Use a heating pad for cramps. Stay hydrated. Track your flow. Try over-the-counter NSAIDs like ibuprofen, which can reduce bleeding. Wear dark clothing and keep spare supplies. For long-term management, talk to your doctor about hormonal treatments, tranexamic acid, or procedures.",
+    "follow_up": ["What have you tried so far?", "Are you anemic?", "How much does heavy bleeding affect your life?"]
+  },
+  {
+    "id": 249,
+    "category": "heavy_periods",
+    "question": "What medications help heavy periods",
+    "alternate_questions": ["Drugs for menorrhagia", "Medication to reduce bleeding", "Treatment for heavy periods", "Prescription for heavy flow", "Medical treatment menorrhagia"],
+    "keywords": ["medication", "treatment", "menorrhagia", "prescription", "medical"],
+    "answer": "Medical treatments for heavy periods include: 1) Hormonal birth control (pill, patch, ring) to regulate cycles. 2) Hormonal IUD (Mirena, Kyleena) which often reduces bleeding by 90%. 3) Tranexamic acid (Lysteda) taken during periods to reduce bleeding. 4) NSAIDs like ibuprofen. 5) Progesterone-only treatments. 6) Gonadotropin-releasing hormone agonists for short-term use. 7) Iron supplements for anemia. Discuss options with your healthcare provider.",
+    "follow_up": ["Have you tried any treatments?", "Are you interested in hormonal options?", "Do you have anemia?"]
+  },
+  {
+    "id": 250,
+    "category": "heavy_periods",
+    "question": "Can heavy periods cause anemia",
+    "alternate_questions": ["Period anemia", "Iron deficiency from heavy bleeding", "Anemia from menstruation", "Heavy periods and low iron", "Can I become anemic from my period"],
+    "keywords": ["anemia", "iron deficiency", "heavy periods", "fatigue", "pale"],
+    "answer": "Yes, heavy periods are a leading cause of iron-deficiency anemia in people who menstruate. Losing too much blood depletes iron stores faster than they can be replaced. Symptoms include fatigue, weakness, pale skin, shortness of breath, dizziness, and cravings for ice or non-food items (pica). A blood test can check your hemoglobin and ferritin levels. Treatment includes iron supplements and managing the heavy bleeding itself.",
+    "follow_up": ["Do you feel unusually tired?", "Have you had blood work for anemia?", "Do you crave ice or unusual things?"]
+  },
+  {
+    "id": 251,
+    "category": "heavy_periods",
+    "question": "What foods help with heavy periods",
+    "alternate_questions": ["Diet for heavy bleeding", "Foods to reduce flow", "Nutrition for menorrhagia", "What to eat during heavy period", "Iron rich foods periods"],
+    "keywords": ["foods", "nutrition", "iron", "heavy periods", "diet"],
+    "answer": "For heavy periods, focus on iron-rich foods: red meat, dark leafy greens, lentils, beans, fortified cereals, and pumpkin seeds. Vitamin C helps iron absorption, so pair iron sources with citrus fruits, bell peppers, or tomatoes. Avoid excessive caffeine and dairy around iron-rich meals as they inhibit absorption. Anti-inflammatory foods like turmeric, ginger, and omega-3s may help. Stay hydrated and eat regular meals to maintain energy.",
+    "follow_up": ["Are you eating enough iron?", "Do you take vitamin C with iron meals?", "Are you avoiding caffeine with iron?"]
+  },
+  {
+    "id": 252,
+    "category": "heavy_periods",
+    "question": "When should I see a doctor for heavy periods",
+    "alternate_questions": ["Doctor for heavy bleeding", "When is heavy period an emergency", "Medical attention menorrhagia", "See gynecologist heavy flow", "Heavy period warning signs"],
+    "keywords": ["doctor", "medical attention", "emergency", "warning signs", "heavy periods"],
+    "answer": "See a doctor if you: soak through a pad/tampon in an hour for 2+ hours, pass clots larger than a quarter, bleed for more than 7 days, have severe pain, feel faint or dizzy, show signs of anemia (extreme fatigue, shortness of breath), or if heavy bleeding is new or worsening. Seek emergency care for soaking through protection hourly with signs of shock (rapid heartbeat, confusion, extreme weakness).",
+    "follow_up": ["Are you experiencing any of these symptoms?", "How long has the heavy bleeding been going on?", "Do you feel faint or weak?"]
+  },
+  {
+    "id": 253,
+    "category": "heavy_periods",
+    "question": "Can endometriosis cause heavy periods",
+    "alternate_questions": ["Endometriosis heavy bleeding", "Endo and heavy flow", "Why does endometriosis cause heavy periods", "Endometriosis menstruation symptoms"],
+    "keywords": ["endometriosis", "heavy bleeding", "pain", "endo", "tissue"],
+    "answer": "Yes, endometriosis can cause heavy periods, though it's more commonly associated with painful periods. Endometrial tissue growing outside the uterus responds to hormones and bleeds during menstruation, causing inflammation, pain, and sometimes heavier flow. Endometriosis may also cause bleeding between periods, pain during sex, and fertility issues. If you have heavy, painful periods with these additional symptoms, see a gynecologist.",
+    "follow_up": ["Do you have severe pain with periods?", "Do you bleed between periods?", "Do you have pain during sex?"]
+  },
+  {
+    "id": 254,
+    "category": "heavy_periods",
+    "question": "Can hormonal imbalance cause heavy periods",
+    "alternate_questions": ["Progesterone deficiency heavy bleeding", "Estrogen dominance periods", "Hormonal imbalance menorrhagia", "Why do hormones cause heavy flow", "Endocrine issues heavy periods"],
+    "keywords": ["hormonal imbalance", "progesterone", "estrogen", "endocrine", "heavy bleeding"],
+    "answer": "Yes, hormonal imbalances are a very common cause of heavy periods. Specifically, insufficient progesterone relative to estrogen (sometimes called estrogen dominance) can cause the uterine lining to build up excessively and then shed heavily. This often occurs with anovulatory cycles, PCOS, perimenopause, and thyroid disorders. Hormonal treatments like birth control or progesterone therapy can help regulate this balance.",
+    "follow_up": ["Do you have other hormonal symptoms?", "Have you had hormone testing?", "Are you in perimenopause?"]
+  },
+  {
+    "id": 255,
+    "category": "heavy_periods",
+    "question": "What is tranexamic acid for periods",
+    "alternate_questions": ["Lysteda for heavy bleeding", "Tranexamic acid menorrhagia", "How does tranexamic acid work", "TXA for periods", "Non hormonal heavy period treatment"],
+    "keywords": ["tranexamic acid", "Lysteda", "non-hormonal", "clotting", "prescription"],
+    "answer": "Tranexamic acid (brand name Lysteda) is a prescription medication that reduces heavy menstrual bleeding by helping blood clot. You take it only during your period, usually for up to 5 days. It can reduce bleeding by 30-50% without hormonal side effects. It's not suitable for people with a history of blood clots. Side effects are usually mild (headache, nausea). It's a good option for those who want to avoid hormones.",
+    "follow_up": ["Have you tried hormonal treatments?", "Do you have history of blood clots?", "Are you interested in non-hormonal options?"]
+  },
+  {
+    "id": 256,
+    "category": "heavy_periods",
+    "question": "Can I use a menstrual cup with heavy periods",
+    "alternate_questions": ["Menstrual cup heavy flow", "Best cup for heavy periods", "Can cups handle heavy bleeding", "High capacity menstrual cup", "Cup vs tampon heavy flow"],
+    "keywords": ["menstrual cup", "heavy flow", "capacity", "alternative", "management"],
+    "answer": "Yes, menstrual cups are excellent for heavy periods! High-capacity cups (30-40ml) can hold more than a super tampon and can be worn for up to 12 hours. Cups measure your flow, which helps track heavy bleeding. They're also cost-effective and eco-friendly. For very heavy days, you might need to empty more frequently. Some people use a backup pad for extra security. Make sure to choose a cup with adequate capacity and firmness.",
+    "follow_up": ["Have you tried menstrual cups?", "How heavy is your heaviest day?", "Are you comfortable with insertion?"]
+  },
+  {
+    "id": 257,
+    "category": "heavy_periods",
+    "question": "Can exercise help heavy periods",
+    "alternate_questions": ["Workout for heavy bleeding", "Exercise reducing flow", "Fitness and menorrhagia", "Yoga for heavy periods", "Does movement help heavy bleeding"],
+    "keywords": ["exercise", "heavy periods", "reduction", "fitness", "movement"],
+    "answer": "Moderate exercise may help regulate hormones and reduce heavy bleeding over time, but intense exercise during heavy flow days can sometimes worsen symptoms. Gentle activities like walking, yoga, and swimming are beneficial. Some studies suggest regular exercise improves insulin sensitivity and hormonal balance, which can help with cycle-related issues. However, exercise alone is unlikely to resolve significantly heavy periods caused by fibroids or other structural issues.",
+    "follow_up": ["Do you exercise regularly?", "What type of exercise do you enjoy?", "Have you noticed exercise affecting your flow?"]
+  },
+  {
+    "id": 258,
+    "category": "heavy_periods",
+    "question": "Can stress cause heavy periods",
+    "alternate_questions": ["Stress and heavy bleeding", "Anxiety causing more blood", "Emotional stress menorrhagia", "Why does stress make periods heavier", "Cortisol and heavy periods"],
+    "keywords": ["stress", "heavy periods", "cortisol", "emotional", "hormonal disruption"],
+    "answer": "While stress more commonly delays or lightens periods, chronic stress can sometimes contribute to heavy or irregular bleeding by disrupting hormonal balance. Stress affects the hypothalamus-pituitary-ovary axis, potentially causing anovulatory cycles that lead to heavy breakthrough bleeding. Managing stress through meditation, therapy, exercise, and adequate sleep supports overall hormonal health and may help regulate flow.",
+    "follow_up": ["Are you under significant stress?", "How do you manage stress?", "Have you noticed stress affecting your cycle?"]
+  },
+  {
+    "id": 259,
+    "category": "heavy_periods",
+    "question": "What surgical options exist for heavy periods",
+    "alternate_questions": ["Surgery for menorrhagia", "Endometrial ablation heavy bleeding", "Hysterectomy for heavy periods", "Surgical treatment heavy flow", "Procedures for menorrhagia"],
+    "keywords": ["surgery", "endometrial ablation", "hysterectomy", "procedures", "treatment"],
+    "answer": "Surgical options for heavy periods include: 1) Endometrial ablation: destroys the uterine lining, reduces bleeding significantly, but not for those wanting future pregnancy. 2) Myomectomy: removes fibroids while preserving the uterus. 3) Uterine artery embolization: blocks blood flow to fibroids. 4) Hysterectomy: removal of the uterus, definitive but major surgery. These are considered after less invasive treatments fail. Discuss risks, benefits, and fertility desires with your surgeon.",
+    "follow_up": ["Do you want to preserve fertility?", "Have you tried medical treatments?", "What is your diagnosis?"]
+  },
+  {
+    "id": 260,
+    "category": "heavy_periods",
+    "question": "Can birth control pills help heavy periods",
+    "alternate_questions": ["Pill for heavy bleeding", "Hormonal contraception menorrhagia", "Birth control reducing flow", "Combined pill heavy periods", "Regulating heavy periods with hormones"],
+    "keywords": ["birth control pills", "hormonal", "contraception", "heavy periods", "regulation"],
+    "answer": "Yes, combined birth control pills are very effective for heavy periods. They regulate hormones, reduce the uterine lining buildup, and can decrease bleeding by up to 60%. Many people find their periods become lighter, shorter, and more predictable. The pill can also help with cramps and PMS. If you're not trying to conceive, this is often a first-line treatment. Your doctor can help find the right formulation for you.",
+    "follow_up": ["Have you tried birth control before?", "Are you interested in hormonal options?", "Do you have contraindications to estrogen?"]
+  }
+]

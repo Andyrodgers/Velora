@@ -1,0 +1,272 @@
+[
+  {
+    "id": 7001,
+    "category": "sexual_health",
+    "question": "What is sexual health",
+    "alternate_questions": ["Define sexual health", "Sexual wellness", "What does sexual health mean", "Healthy sexuality", "Sexual health basics"],
+    "keywords": ["sexual health", "wellness", "definition", "healthy", "sexuality", "basics", "understanding"],
+    "answer": "Sexual health is a state of physical, emotional, mental, and social wellbeing in relation to sexuality. It is not merely the absence of disease or dysfunction but requires a positive and respectful approach to sexuality and sexual relationships. Sexual health includes: ability to enjoy and control sexual behavior, freedom from fear, shame, and guilt, absence of sexual disorders, safe from STIs and unwanted pregnancy, and having satisfying sexual relationships. The WHO defines sexual health as fundamental to overall health and quality of life. For women, sexual health intersects with menstrual health, reproductive health, and mental health. It is a lifelong aspect of wellbeing from adolescence through menopause and beyond. Everyone has the right to information and care that supports their sexual health.",
+    "follow_up": ["How would you define your sexual health?", "Are there aspects you'd like to improve?", "Do you have access to sexual healthcare?", "What concerns do you have?"]
+  },
+  {
+    "id": 7002,
+    "category": "sexual_health",
+    "question": "What is consent",
+    "alternate_questions": ["Sexual consent", "What does consent mean", "Consent explained", "Enthusiastic consent", "Consent in relationships"],
+    "keywords": ["consent", "sexual", "agreement", "enthusiastic", "relationships", "communication", "boundaries"],
+    "answer": "Consent is a voluntary, enthusiastic, informed, and reversible agreement to engage in sexual activity. Key principles: Freely given - without coercion, pressure, or manipulation. Reversible - anyone can change their mind at any time. Informed - all parties understand what they're consenting to. Enthusiastic - a clear yes, not just absence of no. Specific - consent to one act doesn't mean consent to others. Consent cannot be given by someone who is intoxicated, unconscious, underage, or under authority pressure. Ongoing consent requires checking in, especially with new partners or activities. Silence, passivity, or previous consent do not equal current consent. Consent is sexy because it creates safety and trust. If you're unsure whether you have consent, ask. If you're unsure whether you gave consent, your feelings are valid. Consent violations range from unclear communication to assault.",
+    "follow_up": ["Do you feel comfortable giving and receiving consent?", "Have you experienced pressure?", "Do you know how to communicate boundaries?", "Would you like to discuss a specific situation?"]
+  },
+  {
+    "id": 7003,
+    "category": "sexual_health",
+    "question": "What are STIs",
+    "alternate_questions": ["Sexually transmitted infections", "STD explained", "STI types", "Sexual diseases", "STI prevention"],
+    "keywords": ["STI", "STD", "sexually transmitted", "infections", "diseases", "types", "prevention"],
+    "answer": "Sexually transmitted infections (STIs) are infections passed through sexual contact including vaginal, anal, and oral sex. Common STIs include: chlamydia, gonorrhea, syphilis, HPV (human papillomavirus), herpes (HSV), HIV, hepatitis B, and trichomoniasis. Many STIs have no symptoms, especially in women, which is why regular testing is crucial. When symptoms occur, they may include: unusual discharge, burning during urination, sores or bumps, itching, pain during sex, and pelvic pain. Untreated STIs can cause serious complications: infertility, pelvic inflammatory disease, cervical cancer (HPV), and increased HIV risk. Prevention includes: condoms and dental dams, regular testing, limiting partners, mutual monogamy, and vaccines (HPV, hepatitis B). Most STIs are treatable; all are manageable. There is no shame in having an STI - seeking treatment is responsible and healthy.",
+    "follow_up": ["When were you last tested?", "Do you have symptoms?", "Do you use protection?", "Would you like testing information?"]
+  },
+  {
+    "id": 7004,
+    "category": "sexual_health",
+    "question": "How often should I get tested for STIs",
+    "alternate_questions": ["STI testing frequency", "When to get STD test", "Regular STI screening", "How often sexually active test", "STI test schedule"],
+    "keywords": ["testing", "frequency", "STI", "screening", "regular", "sexually active", "schedule"],
+    "answer": "STI testing frequency depends on your sexual activity and risk factors. General guidelines: annually if sexually active with one partner, every 3-6 months if you have multiple partners or new partners, before starting a new sexual relationship, if you have symptoms, if a partner tests positive, and during pregnancy. Specific tests: chlamydia and gonorrhea (urine or swab), syphilis (blood test), HIV (blood or oral swab), hepatitis B and C (blood), herpes (blood test or swab of sore), HPV (Pap smear for cervical screening). Many clinics offer free or low-cost testing. You can test at: Planned Parenthood, health departments, university health centers, community clinics, or at home with mail-in kits. Testing is confidential and often free. Regular testing is part of responsible sexual health - it protects you and your partners.",
+    "follow_up": ["When were you last tested?", "How many partners do you have?", "Do you have symptoms?", "Do you need testing resources?"]
+  },
+  {
+    "id": 7005,
+    "category": "sexual_health",
+    "question": "What is HPV",
+    "alternate_questions": ["Human papillomavirus", "HPV explained", "HPV vaccine", "Cervical cancer HPV", "HPV symptoms women"],
+    "keywords": ["HPV", "human papillomavirus", "vaccine", "cervical cancer", "symptoms", "women", "virus"],
+    "answer": "HPV (human papillomavirus) is the most common STI, with most sexually active people contracting it at some point. There are over 100 types; some cause genital warts, others can lead to cervical, anal, throat, and other cancers. Most HPV infections clear on their own within 2 years without symptoms. Persistent high-risk HPV infections can cause cell changes leading to cancer. Prevention: HPV vaccine (Gardasil 9) protects against 9 types including those causing most cancers and warts. Recommended for all genders ages 9-45. Cervical cancer screening (Pap smear and HPV testing) detects precancerous changes. Use condoms though they don't fully prevent HPV (skin-to-skin contact). If diagnosed with HPV: most cases resolve without treatment, but follow screening guidelines. If you have high-risk HPV, your provider may recommend more frequent monitoring. HPV is extremely common - having it doesn't reflect on your character.",
+    "follow_up": ["Have you had the HPV vaccine?", "When was your last Pap smear?", "Do you have genital warts?", "Are you due for screening?"]
+  },
+  {
+    "id": 7006,
+    "category": "sexual_health",
+    "question": "What is herpes",
+    "alternate_questions": ["HSV explained", "Genital herpes", "Cold sore herpes", "Herpes symptoms", "Herpes treatment"],
+    "keywords": ["herpes", "HSV", "genital", "cold sore", "symptoms", "treatment", "virus"],
+    "answer": "Herpes simplex virus (HSV) has two types: HSV-1 usually causes oral cold sores but can cause genital infections, and HSV-2 usually causes genital herpes. It's transmitted through skin-to-skin contact, including kissing and sexual activity. Many people have herpes without knowing - symptoms may be mild or absent. When present: painful blisters or sores, itching, burning, flu-like symptoms during first outbreak. Outbreaks may recur, triggered by stress, illness, or hormonal changes. There is no cure, but antiviral medications (acyclovir, valacyclovir) reduce outbreaks and transmission risk. Daily suppressive therapy lowers transmission to partners. Herpes is extremely common (1 in 6 people have genital herpes; most adults have HSV-1). The stigma often causes more distress than the virus itself. Disclosure to partners is important but doesn't make you unlovable or untouchable. Many people with herpes have healthy sexual relationships and families.",
+    "follow_up": ["Do you have herpes or are you concerned?", "Have you been tested?", "Do you have symptoms?", "Would you like management information?"]
+  },
+  {
+    "id": 7007,
+    "category": "sexual_health",
+    "question": "What is chlamydia",
+    "alternate_questions": ["Chlamydia symptoms", "Chlamydia treatment", "Chlamydia women", "Silent infection", "Chlamydia complications"],
+    "keywords": ["chlamydia", "symptoms", "treatment", "women", "silent", "infection", "complications"],
+    "answer": "Chlamydia is a common bacterial STI caused by Chlamydia trachomatis. It's often called a 'silent' infection because most women have no symptoms. When symptoms occur: abnormal vaginal discharge, burning during urination, pain during sex, bleeding between periods, and pelvic pain. Untreated chlamydia can cause serious complications: pelvic inflammatory disease (PID), infertility, ectopic pregnancy, and chronic pelvic pain. It can also be passed to babies during childbirth, causing eye infections and pneumonia. Chlamydia is easily diagnosed with a urine test or vaginal swab and cured with antibiotics (azithromycin or doxycycline). Sexual partners must be treated too to prevent reinfection. Abstain from sex for 7 days after treatment. Retesting is recommended 3 months later. Regular screening is crucial since it's often asymptomatic. Chlamydia is common and treatable - no shame in seeking care.",
+    "follow_up": ["Have you been tested for chlamydia?", "Do you have symptoms?", "Have you had unprotected sex?", "Do you need testing?"]
+  },
+  {
+    "id": 7008,
+    "category": "sexual_health",
+    "question": "What is gonorrhea",
+    "alternate_questions": ["Gonorrhea symptoms", "Gonorrhea treatment", "The clap", "Gonorrhea women", "Gonorrhea complications"],
+    "keywords": ["gonorrhea", "symptoms", "treatment", "clap", "women", "complications", "bacterial"],
+    "answer": "Gonorrhea is a bacterial STI caused by Neisseria gonorrhoeae. Like chlamydia, it's often asymptomatic in women. When symptoms occur: increased vaginal discharge, painful urination, bleeding between periods, pelvic pain, and pain during sex. Untreated gonorrhea causes: pelvic inflammatory disease, infertility, ectopic pregnancy, and can spread to blood and joints. It can also infect the throat and rectum. Gonorrhea is diagnosed through urine test or swab. Treatment is antibiotics, though drug-resistant strains are increasing. Sexual partners must be treated. Abstain from sex for 7 days after treatment. Retest in 3 months. If you have gonorrhea, you should also be tested for chlamydia, syphilis, and HIV. Gonorrhea is reportable to health departments for partner notification. Early detection and treatment prevent complications. Testing is simple and treatment is effective.",
+    "follow_up": ["Have you been tested for gonorrhea?", "Do you have symptoms?", "Have you had unprotected sex?", "Do you need treatment information?"]
+  },
+  {
+    "id": 7009,
+    "category": "sexual_health",
+    "question": "What is syphilis",
+    "alternate_questions": ["Syphilis symptoms", "Syphilis stages", "Syphilis treatment", "Syphilis rash", "Congenital syphilis"],
+    "keywords": ["syphilis", "symptoms", "stages", "treatment", "rash", "congenital", "bacterial"],
+    "answer": "Syphilis is a bacterial STI caused by Treponema pallidum that progresses in stages if untreated. Primary stage: painless sore (chancre) at infection site. Secondary stage: rash (often on palms/soles), fever, swollen lymph nodes, sore throat. Latent stage: no symptoms but infection remains. Tertiary stage: severe damage to brain, nerves, eyes, heart, blood vessels, liver, bones, and joints. Syphilis is diagnosed by blood test and cured with penicillin. Early treatment prevents progression. All pregnant women should be tested - syphilis can cause miscarriage, stillbirth, or severe infant abnormalities. Syphilis rates have increased in recent years. If you notice a painless sore or unusual rash, get tested immediately. Syphilis is easy to cure in early stages but devastating if untreated. Regular testing protects you and future partners.",
+    "follow_up": ["Have you noticed any sores or rash?", "Have you been tested for syphilis?", "Are you pregnant?", "Do you need testing information?"]
+  },
+  {
+    "id": 7010,
+    "category": "sexual_health",
+    "question": "What is HIV",
+    "alternate_questions": ["HIV explained", "AIDS difference", "HIV transmission", "HIV testing", "HIV prevention"],
+    "keywords": ["HIV", "AIDS", "transmission", "testing", "prevention", "virus", "immune"],
+    "answer": "HIV (human immunodeficiency virus) attacks the immune system, specifically CD4 cells. Without treatment, it progresses to AIDS (acquired immunodeficiency syndrome). HIV is transmitted through: unprotected sex, sharing needles, mother-to-child during pregnancy/birth/breastfeeding, and blood transfusions (rare in screened blood). It is NOT transmitted through casual contact, hugging, sharing food, or insect bites. Symptoms of acute infection: fever, rash, sore throat, swollen lymph nodes (2-4 weeks after exposure). Many have no symptoms for years. Testing is available through blood tests, oral swabs, and rapid tests. Prevention: condoms, PrEP (pre-exposure prophylaxis), PEP (post-exposure prophylaxis within 72 hours), and never sharing needles. Treatment with antiretroviral therapy (ART) allows people with HIV to live long, healthy lives and prevents transmission (U=U: undetectable = untransmittable). HIV is manageable with modern medicine.",
+    "follow_up": ["Have you been tested for HIV?", "Are you at risk?", "Do you know about PrEP?", "When was your last test?"]
+  },
+  {
+    "id": 7011,
+    "category": "sexual_health",
+    "question": "What is PrEP",
+    "alternate_questions": ["Pre exposure prophylaxis", "PrEP HIV prevention", "Truvada Descovy", "HIV prevention pill", "PrEP for women"],
+    "keywords": ["PrEP", "pre exposure", "prophylaxis", "HIV", "prevention", "Truvada", "Descovy"],
+    "answer": "PrEP (pre-exposure prophylaxis) is medication taken to prevent HIV infection. Truvada and Descovy are daily pills; Apretude is an injection every 2 months. When taken as prescribed, PrEP reduces HIV risk from sex by about 99%. PrEP is for anyone at substantial risk: having a partner with HIV, multiple partners, partners of unknown status, or recent STI diagnosis. It's safe for women and doesn't affect fertility or hormonal contraception. Side effects are usually mild (nausea, headache) and resolve quickly. You need HIV testing before starting and every 3 months while on PrEP, plus kidney function monitoring. PrEP is covered by most insurance and available through many providers. It does not protect against other STIs - use condoms too. PrEP empowers you to take control of your sexual health. If you're at risk, consider PrEP as part of your prevention strategy.",
+    "follow_up": ["Are you at risk for HIV?", "Have you considered PrEP?", "Do you have insurance coverage?", "Would you like provider information?"]
+  },
+  {
+    "id": 7012,
+    "category": "sexual_health",
+    "question": "What is PEP",
+    "alternate_questions": ["Post exposure prophylaxis", "PEP HIV", "After exposure HIV", "PEP 72 hours", "HIV emergency prevention"],
+    "keywords": ["PEP", "post exposure", "prophylaxis", "HIV", "72 hours", "emergency", "prevention"],
+    "answer": "PEP (post-exposure prophylaxis) is emergency medication to prevent HIV after potential exposure. It must be started within 72 hours (sooner is better) and taken for 28 days. PEP is for: unprotected sex with someone HIV-positive or of unknown status, condom breakage, sexual assault, or needlestick injuries. Go to an emergency room, urgent care, or infectious disease clinic immediately. PEP is not 100% effective but significantly reduces risk when taken correctly. Side effects include nausea, fatigue, and headache. You need HIV testing at baseline, during, and after completion. If the source is known, their HIV status should be checked. PEP is different from PrEP - PEP is for emergencies, PrEP is ongoing prevention. If you think you've been exposed, don't wait. Every hour matters. PEP is available at most emergency departments.",
+    "follow_up": ["Have you had a potential exposure?", "When did it occur?", "Have you sought PEP?", "Are you within 72 hours?"]
+  },
+  {
+    "id": 7013,
+    "category": "sexual_health",
+    "question": "How to use condoms correctly",
+    "alternate_questions": ["Condom use tips", "Put on condom", "Condom effectiveness", "Female condom", "Condom mistakes"],
+    "keywords": ["condoms", "use", "correctly", "effectiveness", "female condom", "tips", "protection"],
+    "answer": "Correct condom use maximizes protection against pregnancy and STIs: 1) Check expiration date and package integrity. 2) Open carefully - don't use teeth or nails. 3) Pinch the tip to leave space for semen. 4) Roll down to base of erect penis before any genital contact. 5) Use water or silicone-based lube - oil-based products weaken latex. 6) Hold base when withdrawing to prevent slipping. 7) Dispose in trash, not toilet. 8) Use a new condom for each act of sex. Common mistakes: putting on too late, not leaving tip space, using oil-based lube, reuse, and incorrect removal. Female/internal condoms line the vagina or anus and offer protection too. Condoms are 85% effective with typical use, 98% with perfect use. They are the only contraceptive that also protects against STIs. Free condoms are available at health departments, Planned Parenthood, and many colleges.",
+    "follow_up": ["Do you use condoms consistently?", "Have you had condom failures?", "Do you need free condoms?", "Would you like female condom information?"]
+  },
+  {
+    "id": 7014,
+    "category": "sexual_health",
+    "question": "What is a dental dam",
+    "alternate_questions": ["Oral sex protection", "Dental dam STI", "Latex barrier oral", "Dental dam use", "Oral sex safety"],
+    "keywords": ["dental dam", "oral sex", "protection", "STI", "latex", "barrier", "safety", "use"],
+    "answer": "A dental dam is a thin latex or polyurethane barrier used during oral sex on a vulva or anus to prevent STI transmission. STIs including herpes, gonorrhea, chlamydia, syphilis, and HPV can spread through oral sex. To use: hold the dam over the vulva or anus during oral contact; don't stretch it too thin; use a new dam for each act; add lube between dam and skin for sensation. You can make a dental dam by cutting a condom or glove. Dental dams are less commonly used than condoms but equally important for safer oral sex. Many people don't know about them or feel awkward using them. Normalizing barrier methods for all types of sex protects everyone's health. If you receive oral sex, you have the right to request protection. Your health matters more than momentary convenience.",
+    "follow_up": ["Do you use protection for oral sex?", "Have you heard of dental dams?", "Would you try using one?", "Do you need information on making one?"]
+  },
+  {
+    "id": 7015,
+    "category": "sexual_health",
+    "question": "What is vaginal health",
+    "alternate_questions": ["Healthy vagina", "Vaginal care", "Vagina pH", "Vaginal hygiene", "Keep vagina healthy"],
+    "keywords": ["vaginal", "health", "hygiene", "pH", "care", "healthy", "vagina"],
+    "answer": "Vaginal health involves maintaining the natural balance of bacteria and pH (typically 3.8-4.5, moderately acidic). The vagina is self-cleaning - douching, scented products, and harsh soaps disrupt healthy bacteria and increase infection risk. Healthy practices: wash external vulva with mild unscented soap and water, wipe front to back, wear breathable cotton underwear, change out of wet clothes promptly, and avoid tight clothing. Signs of imbalance: unusual discharge, odor, itching, burning, or pain. Common issues: yeast infections (itchy, thick white discharge), bacterial vaginosis (fishy odor, gray discharge), and trichomoniasis (frothy yellow-green discharge). These are treatable but require proper diagnosis. Probiotics may help maintain balance. If you have persistent symptoms, see a provider. Your vagina doesn't need special products - it needs respect for its natural ecosystem.",
+    "follow_up": ["Do you have vaginal symptoms?", "What products do you use?", "Have you had infections before?", "Do you need care information?"]
+  },
+  {
+    "id": 7016,
+    "category": "sexual_health",
+    "question": "What is bacterial vaginosis",
+    "alternate_questions": ["BV explained", "Bacterial vaginosis symptoms", "BV treatment", "Fishy odor vagina", "Vaginal bacteria imbalance"],
+    "keywords": ["bacterial vaginosis", "BV", "symptoms", "treatment", "odor", "bacteria", "imbalance"],
+    "answer": "Bacterial vaginosis (BV) is the most common vaginal condition in women ages 15-44. It occurs when normal vaginal bacteria are replaced by an overgrowth of other bacteria. Symptoms include: thin gray or white discharge, fishy odor (especially after sex), vaginal itching, and burning during urination. Some women have no symptoms. BV is not an STI but is associated with new or multiple sexual partners. Douching and new sexual partners increase risk. Untreated BV increases susceptibility to STIs and may cause complications in pregnancy. Diagnosis is by exam and lab tests. Treatment is antibiotics (metronidazole or clindamycin) orally or vaginally. Probiotics may help prevent recurrence. Avoid douching and use condoms to reduce risk. BV often recurs - if you have frequent episodes, discuss long-term management with your provider. BV is common and treatable.",
+    "follow_up": ["Do you have BV symptoms?", "Have you been diagnosed?", "Do you douche?", "Have you had recurrent BV?"]
+  },
+  {
+    "id": 7017,
+    "category": "sexual_health",
+    "question": "What is a yeast infection",
+    "alternate_questions": ["Vaginal yeast infection", "Candida symptoms", "Yeast infection treatment", "Itchy vagina", "Thrush vaginal"],
+    "keywords": ["yeast infection", "candida", "symptoms", "treatment", "itchy", "vaginal", "thrush"],
+    "answer": "Vaginal yeast infections (vulvovaginal candidiasis) are caused by Candida fungus overgrowth. Symptoms include: intense itching, thick white cottage cheese-like discharge, burning during sex or urination, redness, and swelling. Yeast infections are common and not STIs, though sex can trigger them. Risk factors: antibiotics, pregnancy, diabetes, weakened immunity, hormonal contraceptives, and tight synthetic clothing. Over-the-counter treatments (clotrimazole, miconazole) are effective for uncomplicated infections. Prescription oral fluconazole is an alternative. See a provider if: first infection (to confirm diagnosis), symptoms don't improve with OTC treatment, infections recur frequently (4+ per year), or you're pregnant. Recurrent infections may need longer treatment or maintenance therapy. Preventive measures: avoid douching, wear cotton underwear, change out of wet clothes, and manage blood sugar if diabetic.",
+    "follow_up": ["Do you have yeast infection symptoms?", "Is this your first infection?", "Have you tried OTC treatment?", "Do infections recur frequently?"]
+  },
+  {
+    "id": 7018,
+    "category": "sexual_health",
+    "question": "What is pelvic inflammatory disease",
+    "alternate_questions": ["PID explained", "Pelvic inflammatory disease symptoms", "PID treatment", "PID infertility", "PID causes"],
+    "keywords": ["PID", "pelvic inflammatory", "disease", "symptoms", "treatment", "infertility", "causes"],
+    "answer": "Pelvic inflammatory disease (PID) is an infection of the female reproductive organs, usually caused by untreated STIs (especially chlamydia and gonorrhea) spreading from the vagina to uterus, fallopian tubes, or ovaries. Symptoms include: lower abdominal pain, fever, unusual discharge, painful sex, painful urination, and irregular bleeding. Some women have mild or no symptoms. PID is serious: it can cause scar tissue, ectopic pregnancy, infertility, and chronic pelvic pain. Treatment requires antibiotics, and sexual partners must be treated. Hospitalization may be needed for severe cases. Prevention: regular STI testing, prompt treatment of STIs, and consistent condom use. If you have lower abdominal pain with fever or discharge, seek care immediately. Early treatment prevents complications. PID is a medical emergency that requires prompt attention.",
+    "follow_up": ["Do you have PID symptoms?", "Have you had untreated STIs?", "Are you experiencing severe pain?", "Have you sought emergency care?"]
+  },
+  {
+    "id": 7019,
+    "category": "sexual_health",
+    "question": "What is a Pap smear",
+    "alternate_questions": ["Pap test", "Cervical cancer screening", "Pap smear procedure", "When to get Pap", "Pap smear results"],
+    "keywords": ["Pap smear", "Pap test", "cervical cancer", "screening", "procedure", "results", "cervix"],
+    "answer": "A Pap smear (Pap test) screens for cervical cancer by collecting cells from the cervix to detect precancerous changes, usually caused by HPV. During the exam, you lie on a table with feet in stirrups. A speculum is inserted to open the vagina, and a small brush collects cells from the cervix. The procedure takes minutes and may cause mild discomfort. Guidelines: start at age 21, every 3 years until 29. Ages 30-65: Pap every 3 years or Pap plus HPV test every 5 years. More frequent testing if you have HIV, weakened immunity, or history of precancer. Abnormal results don't mean cancer - they indicate cell changes needing monitoring or treatment. Follow-up may include colposcopy (cervical exam with magnification). Pap smears have dramatically reduced cervical cancer deaths. Regular screening saves lives.",
+    "follow_up": ["When was your last Pap smear?", "Are you due for screening?", "Have you had abnormal results?", "Do you need screening information?"]
+  },
+  {
+    "id": 7020,
+    "category": "sexual_health",
+    "question": "What is vulvar health",
+    "alternate_questions": ["Vulva care", "Vulvar symptoms", "Vulvar pain", "Lichen sclerosus", "Vulvar dermatitis"],
+    "keywords": ["vulvar", "vulva", "care", "pain", "symptoms", "lichen sclerosus", "dermatitis"],
+    "answer": "Vulvar health concerns the external female genitalia (labia, clitoris, vaginal opening). Common conditions: vulvodynia (chronic vulvar pain without identifiable cause), lichen sclerosus (itchy white patches, risk of skin changes), lichen planus (painful erosions), contact dermatitis (reaction to products), and Bartholin cysts (fluid-filled sacs near vaginal opening). Care tips: use mild unscented products, avoid tight clothing, choose cotton underwear, and avoid irritants (scented pads, bubble bath). See a provider for: persistent itching, pain, skin changes, lumps, or sores. Vulvar conditions are often underdiagnosed because women feel embarrassed or are told 'it's normal.' Specialized care from a gynecologist or vulvar specialist may be needed. Your vulvar health matters - don't suffer in silence with persistent symptoms.",
+    "follow_up": ["Do you have vulvar symptoms?", "How long have they persisted?", "Have you seen a specialist?", "What products do you use?"]
+  },
+  {
+    "id": 7021,
+    "category": "sexual_health",
+    "question": "What is sexual dysfunction",
+    "alternate_questions": ["Female sexual dysfunction", "Sex problems women", "Sexual disorder", "Sexual difficulties", "FSD explained"],
+    "keywords": ["sexual dysfunction", "female", "problems", "disorder", "difficulties", "FSD", "explained"],
+    "answer": "Female sexual dysfunction (FSD) encompasses persistent, recurrent problems with sexual response, desire, orgasm, or pain that cause distress. Categories include: low desire (hypoactive sexual desire disorder), arousal difficulties, orgasmic disorder, and sexual pain disorders (dyspareunia, vaginismus). FSD is common (affects 40% of women) but often underreported due to shame or belief that it's 'just how women are.' Causes are multifactorial: hormonal changes, medical conditions, medications (especially SSRIs and birth control), psychological factors, relationship issues, and past trauma. Treatment depends on cause: hormone therapy, medication adjustment, pelvic floor therapy, lubricants, therapy (individual or couples), and sex therapy. FSD is not 'all in your head' - it's a real medical condition with biological bases. You deserve evaluation and treatment if sexual problems cause you distress.",
+    "follow_up": ["What sexual difficulties do you experience?", "Are they causing distress?", "Have you discussed with a provider?", "Would you like treatment information?"]
+  },
+  {
+    "id": 7022,
+    "category": "sexual_health",
+    "question": "What is dyspareunia",
+    "alternate_questions": ["Painful sex", "Pain during intercourse", "Dyspareunia causes", "Sex hurts", "Painful penetration"],
+    "keywords": ["dyspareunia", "painful sex", "intercourse", "causes", "hurts", "penetration", "pain"],
+    "answer": "Dyspareunia is persistent pain during sexual intercourse. It affects up to 20% of women and has many causes: insufficient lubrication, vaginal dryness (menopause, breastfeeding), infections (yeast, BV, STIs), skin conditions (lichen sclerosus, eczema), endometriosis, pelvic inflammatory disease, uterine fibroids, ovarian cysts, pelvic floor dysfunction, vaginismus (involuntary muscle spasm), and psychological factors (anxiety, trauma, relationship issues). Pain may occur at entry, with deep thrusting, or both. Treatment depends on cause: lubricants, hormone therapy, treating infections, pelvic floor physical therapy, dilators, therapy, and addressing relationship issues. Pain during sex is never normal - don't accept 'just relax' or 'use more lube' without proper evaluation. See a gynecologist for persistent pain. You deserve pain-free, pleasurable sex. There are effective treatments for most causes of dyspareunia.",
+    "follow_up": ["Where is the pain located?", "When does it occur?", "How long has this been happening?", "Have you seen a gynecologist?"]
+  },
+  {
+    "id": 7023,
+    "category": "sexual_health",
+    "question": "What is vaginismus",
+    "alternate_questions": ["Can't have sex", "Vaginal muscle spasm", "Penetration impossible", "Vaginismus treatment", "Primary vaginismus"],
+    "keywords": ["vaginismus", "muscle spasm", "penetration", "impossible", "treatment", "primary", "vaginal"],
+    "answer": "Vaginismus is the involuntary contraction of vaginal muscles making penetration difficult or impossible. It may be lifelong (primary, never achieved penetration) or acquired (secondary, developed after period of normal function). Causes include: fear of pain, past trauma, anxiety, strict upbringing about sex, relationship problems, and sometimes no clear cause. It's not 'just in your head' - the muscle spasms are real and automatic. Treatment includes: pelvic floor physical therapy, vaginal dilators (graduated tubes to stretch muscles), biofeedback, therapy to address anxiety or trauma, and patience. Some women use botox injections for severe cases. Treatment is effective but takes time - months rather than weeks. Partners should be supportive and not pressure for penetration. Non-penetrative intimacy is valid and satisfying. Vaginismus is treatable, and many women achieve comfortable penetration with proper care.",
+    "follow_up": ["Have you been diagnosed with vaginismus?", "Is penetration impossible or just painful?", "Are you in treatment?", "Do you have a supportive partner?"]
+  },
+  {
+    "id": 7024,
+    "category": "sexual_health",
+    "question": "What is anal sex safety",
+    "alternate_questions": ["Safe anal sex", "Anal sex risks", "Anal STI transmission", "Anal sex preparation", "Anal sex health"],
+    "keywords": ["anal sex", "safety", "risks", "STI", "transmission", "preparation", "health"],
+    "answer": "Anal sex requires specific safety considerations. The anus lacks natural lubrication and has delicate tissue prone to tearing, increasing STI transmission risk (HIV, gonorrhea, chlamydia, syphilis, herpes, HPV). Safety practices: use generous amounts of water or silicone-based lube (never oil-based with latex condoms), use condoms consistently, start slowly with gradual penetration, communicate throughout, never move from anal to vaginal sex without changing condom or washing (prevents bacterial transfer), and stop if there's pain or bleeding. Preparation may include: bowel movement beforehand, anal douching (optional, not required), and relaxation techniques. The anus contains bacteria that shouldn't enter the vagina or mouth. Anal sex is common and can be safe with proper precautions. If you experience persistent pain, bleeding, or symptoms, see a provider. Your comfort and safety matter.",
+    "follow_up": ["Are you considering or practicing anal sex?", "Do you use protection?", "Have you experienced pain or bleeding?", "Do you need safety guidance?"]
+  },
+  {
+    "id": 7025,
+    "category": "sexual_health",
+    "question": "What is oral sex safety",
+    "alternate_questions": ["Safe oral sex", "Oral STI risk", "Cunnilingus safety", "Blowjob STI", "Oral sex health risks"],
+    "keywords": ["oral sex", "safety", "STI", "risk", "cunnilingus", "blowjob", "health"],
+    "answer": "Oral sex carries STI risk though lower than vaginal or anal sex. STIs transmissible through oral sex include: gonorrhea, chlamydia, syphilis, herpes, HPV, and HIV (lower risk). Protection methods: condoms for fellatio, dental dams for cunnilingus or anilingus. Avoid oral sex if you have cold sores (can transmit HSV-1 to genitals) or if your partner has visible sores or symptoms. Don't brush teeth immediately before oral sex (can cause microcuts). Rinse mouth afterward. If you receive oral sex, you can request protection. Many people don't use barriers for oral sex, but risk exists. Regular STI testing should include throat swabs if you have oral sex. Open communication about STI status and testing history is part of responsible sexual health. Pleasure and safety can coexist.",
+    "follow_up": ["Do you use protection for oral sex?", "Are you aware of oral STI risks?", "Have you been tested for oral STIs?", "Would you like barrier information?"]
+  },
+  {
+    "id": 7026,
+    "category": "sexual_health",
+    "question": "What is sexual consent in relationships",
+    "alternate_questions": ["Marriage consent", "Long term relationship consent", "Partner consent", "Ongoing consent", "Relationship sexual boundaries"],
+    "keywords": ["consent", "relationships", "marriage", "ongoing", "boundaries", "partner", "communication"],
+    "answer": "Consent is required in all sexual encounters, including long-term relationships and marriages. Being in a relationship does not grant automatic access to your body. Ongoing consent means checking in, respecting 'no,' and understanding that consent can be withdrawn at any time. Signs of non-consensual dynamics: feeling obligated to have sex, sex as transaction or duty, pressure when you say no, guilt trips, or sex happening while you're asleep or intoxicated. Healthy relationship sex involves mutual desire, communication about preferences and boundaries, and the freedom to decline without consequences. If you're experiencing pressure or coercion in a relationship, this is not okay. Resources include: domestic violence hotlines, therapy, and support groups. You always have the right to bodily autonomy, regardless of relationship status or duration.",
+    "follow_up": ["Do you feel free to say no?", "Is sex ever pressured or obligatory?", "Have you discussed boundaries?", "Do you need support resources?"]
+  },
+  {
+    "id": 7027,
+    "category": "sexual_health",
+    "question": "What is reproductive coercion",
+    "alternate_questions": ["Birth control sabotage", "Forced pregnancy", "Reproductive abuse", "Partner controls contraception", "Pregnancy coercion"],
+    "keywords": ["reproductive coercion", "sabotage", "forced", "abuse", "contraception", "pregnancy", "control"],
+    "answer": "Reproductive coercion is behavior intended to control reproduction and pregnancy against a partner's will. Forms include: birth control sabotage (hiding pills, poking holes in condoms), controlling access to contraception or abortion, forcing pregnancy or abortion, and removing condoms during sex without consent ('stealthing'). This is a form of intimate partner violence affecting all genders but disproportionately women. Signs: your partner controls all contraception decisions, you find tampered birth control, you're pressured to get pregnant or avoid pregnancy, or your partner refuses to use agreed-upon protection. If you experience reproductive coercion: seek help from domestic violence resources, consider long-acting reversible contraception (IUD or implant) that partners cannot sabotage, and document incidents. You have the right to control your own reproduction. This is abuse, not love.",
+    "follow_up": ["Are you experiencing reproductive coercion?", "Does your partner control contraception?", "Do you need safety planning?", "Would you like resource information?"]
+  },
+  {
+    "id": 7028,
+    "category": "sexual_health",
+    "question": "What is sexual aftercare",
+    "alternate_questions": ["After sex care", "Post sex intimacy", "Aftercare BDSM", "Cuddle after sex", "Sexual aftercare importance"],
+    "keywords": ["aftercare", "post sex", "intimacy", "cuddle", "care", "importance", "connection"],
+    "answer": "Sexual aftercare is the attention and care given after sexual activity to ensure physical and emotional wellbeing. It's essential in all sexual encounters but especially important after intense, new, or BDSM activities. Aftercare includes: physical care (water, blanket, cleaning up, checking for injuries), emotional care (cuddling, affirmations, discussing the experience), and practical care (bathroom, contraception check). Aftercare prevents 'sub drop' (emotional crash after intense play) and maintains connection. It communicates that your partner matters beyond the sexual act. Lack of aftercare can leave someone feeling used or abandoned. Discuss aftercare needs with partners beforehand. Needs vary: some want immediate cuddling, others need space. Respect individual preferences. Good aftercare transforms sex from purely physical to emotionally connecting. It's not optional - it's part of ethical sexual practice.",
+    "follow_up": ["Do you practice aftercare?", "What do you need after sex?", "Has lack of aftercare affected you?", "Have you discussed this with partners?"]
+  },
+  {
+    "id": 7029,
+    "category": "sexual_health",
+    "question": "What is sex positive",
+    "alternate_questions": ["Sex positive meaning", "Sex positivity", "Positive sexuality", "Sex shame free", "Sex positive movement"],
+    "keywords": ["sex positive", "positivity", "shame free", "movement", "meaning", "healthy", "attitude"],
+    "answer": "Sex positivity is the belief that all consensual sexual activities are fundamentally healthy and pleasurable. It emphasizes: consent, bodily autonomy, destigmatization of sexual choices, comprehensive sex education, and respect for diverse sexual orientations and practices. Sex positive does not mean everyone must be sexual - it means all choices (including celibacy and asexuality) are valid if consensual. It opposes sex shaming, slut-shaming, and stigma around sexual health. Sex positivity includes: discussing sex openly, accessing sexual healthcare without judgment, respecting others' boundaries and choices, and understanding that sexuality is diverse. It's about freedom from shame, not pressure to be sexual. Being sex positive means supporting your own choices and others' right to different choices. It's a framework for healthy, respectful sexuality.",
+    "follow_up": ["How do you feel about sex positivity?", "Were you raised with sex shame?", "Do you feel free in your sexual choices?", "Would you like to explore this concept?"]
+  },
+  {
+    "id": 7030,
+    "category": "sexual_health",
+    "question": "How to talk to doctor about sexual health",
+    "alternate_questions": ["Discuss sex with provider", "Sexual health appointment", "Ask doctor sex questions", "Sexual concerns doctor", "Talk gynecologist sex"],
+    "keywords": ["doctor", "provider", "talk", "discuss", "sexual health", "appointment", "questions", "concerns"],
+    "answer": "Talking to your doctor about sexual health is important but can feel awkward. Tips: remember they've heard everything before - no question is too embarrassing. Be direct: 'I want to discuss my sexual health.' Write questions beforehand. Bring a list of symptoms, medications, and concerns. If your provider dismisses your concerns, find another. Specific questions to ask: 'Should I be tested for STIs?' 'Is my birth control right for me?' 'I'm experiencing pain during sex - what could cause this?' 'My libido has changed - is this normal?' 'Are my medications affecting my sexual function?' You deserve comprehensive sexual healthcare. If you don't feel comfortable with your current provider, seek a gynecologist, sexual health clinic, or provider who specializes in sexual medicine. Your sexual health is part of your overall health and deserves attention.",
+    "follow_up": ["What sexual health concerns do you have?", "Do you feel comfortable with your provider?", "What questions would you ask?", "Would you like help finding a provider?"]
+  }
+]
